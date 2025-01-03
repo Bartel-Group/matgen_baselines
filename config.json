@@ -1,0 +1,73 @@
+{
+    "mp_api_key": "YOUR_MP_API_KEY_HERE",
+    "tasks": [
+        {
+            "method": "random_enum",
+            "num_strucs": 500,
+            "filepath": "Randomly-Enumerated"
+        },
+        {
+            "method": "random_enum",
+            "num_strucs": 500,
+            "ml_filter": {
+                "type": "stability",
+                "threshold": 0.0
+            },
+            "filepath": "Random-Enum-ML-Filtered/Stable"
+        },
+        {
+            "method": "random_enum",
+            "num_strucs": 500,
+            "ml_filter": {
+                "type": "band_gap",
+                "target": 3,
+                "threshold": 0.5
+            },
+            "filepath": "Random-Enum-ML-Filtered/Bandgap"
+        },
+        {
+            "method": "random_enum",
+            "num_strucs": 500,
+            "ml_filter": {
+                "type": "bulk_modulus",
+                "target": 400,
+                "threshold": 200
+            },
+            "filepath": "Random-Enum-ML-Filtered/Bulk-Modulus"
+        },
+        {
+            "method": "ion_exchange",
+            "num_strucs": 500,
+            "filter_type": "stability",
+            "threshold": 0.0,
+            "filepath": "Ion-Exchanged/Stable"
+        },
+        {
+            "method": "ion_exchange",
+            "num_strucs": 500,
+            "filter_type": "stability",
+            "threshold": 0.0,
+            "ml_filter": {
+                "type": "stability",
+                "threshold": 0.0
+            },
+            "filepath": "Ion-Exchange-ML-Filtered/Stable"
+        },
+        {
+            "method": "ion_exchange",
+            "num_strucs": 500,
+            "filter_type": "band_gap",
+            "target": 3,
+            "threshold": 0.5,
+            "filepath": "Ion-Exchanged/Bandgap"
+        },
+        {
+            "method": "ion_exchange",
+            "num_strucs": 500,
+            "filter_type": "bulk_modulus",
+            "target": 400,
+            "threshold": 200,
+            "filepath": "Ion-Exchanged/Bulk-Modulus"
+        }
+    ]
+}
