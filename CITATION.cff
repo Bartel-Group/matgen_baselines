@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please consider citing the below paper."
-title: "Baselines for Generative Discovery of Inorganic Crystals"
+title: "Establishing Baselines for Generative Discovery of Inorganic Crystals"
 authors:
   - family-names: "Szymanski"
     given-names: "Nathan J."
