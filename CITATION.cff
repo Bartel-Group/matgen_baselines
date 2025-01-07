@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please consider citing the below paper."
+title: "Baselines for Generative Discovery of Inorganic Crystals"
+authors:
+  - family-names: "Szymanski"
+    given-names: "Nathan J."
+  - family-names: "Bartel"
+    given-names: "Christopher J."
+version: 1.0.0
+date-released: 2025-01-07
+arxiv: https://arxiv.org/abs/2501.02144
+doi: 10.48550/arXiv.2501.02144
+repository-code: https://github.com/Bartel-Group/matgen_baselines
+license: MIT
+keywords:
+  - materials-discovery
+  - generative-ai
+  - inorganic-crystals
+  - machine-learning
