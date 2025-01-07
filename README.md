@@ -198,3 +198,17 @@ python generate.py
 ```
 
 Generated structures will be saved as CIF files in the specified output directories.
+
+## How to Cite
+
+If you use this code, please consider citing the below paper (available on [arXiv](https://arxiv.org/abs/2501.02144)):
+
+```bibtex
+@article{szymanski_2025_matgen_baselines,
+    title={Establishing baselines for generative discovery of inorganic crystals},
+    DOI={10.48550/arXiv.2501.02144},
+    journal={arXiv},
+    author={Szymanski, Nathan J. and Bartel, Christopher J.},
+    year={2025}
+}
+```
