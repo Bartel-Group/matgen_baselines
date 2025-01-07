@@ -226,14 +226,15 @@ You may also consider citing the below papers that this package relies on:
     DOI={10.1016/j.commatsci.2012.10.028}
 }
 
-@article{ong_2013_pymatgen,
-    title={Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis},
-    author={Ong, Shyue Ping and Richards, William Davidson and Jain, Anubhav and Hautier, Geoffroy and Kocher, Michael and Cholia, Shreyas and Gunter, Dan and Chevrier, Vincent L. and Persson, Kristin A. and Ceder, Gerbrand},
-    journal={Computational Materials Science},
-    volume={68},
-    pages={314--319},
-    year={2013},
-    DOI={10.1016/j.commatsci.2012.10.028}
+@article{hautier_2011_substitutions,
+    title={Data Mined Ionic Substitutions for the Discovery of New Compounds},
+    author={Hautier, Geoffroy and Fischer, Chris and Ehrlacher, Virginie and Jain, Anubhav and Ceder, Gerbrand},
+    journal={Inorganic Chemistry},
+    volume={50},
+    number={2},
+    pages={656--663},
+    year={2011},
+    DOI={10.1021/ic102031h}
 }
 
 @article{deng_2023_chgnet,
