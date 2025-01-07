@@ -212,3 +212,47 @@ If you use this code, please consider citing the below paper (available on [arXi
     year={2025}
 }
 ```
+
+You may also consider citing the below papers that this package relies on:
+
+```bibtex
+@article{ong_2013_pymatgen,
+    title={Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis},
+    author={Ong, Shyue Ping and Richards, William Davidson and Jain, Anubhav and Hautier, Geoffroy and Kocher, Michael and Cholia, Shreyas and Gunter, Dan and Chevrier, Vincent L. and Persson, Kristin A. and Ceder, Gerbrand},
+    journal={Computational Materials Science},
+    volume={68},
+    pages={314--319},
+    year={2013},
+    DOI={10.1016/j.commatsci.2012.10.028}
+}
+
+@article{ong_2013_pymatgen,
+    title={Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis},
+    author={Ong, Shyue Ping and Richards, William Davidson and Jain, Anubhav and Hautier, Geoffroy and Kocher, Michael and Cholia, Shreyas and Gunter, Dan and Chevrier, Vincent L. and Persson, Kristin A. and Ceder, Gerbrand},
+    journal={Computational Materials Science},
+    volume={68},
+    pages={314--319},
+    year={2013},
+    DOI={10.1016/j.commatsci.2012.10.028}
+}
+
+@article{deng_2023_chgnet,
+    title={CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling},
+    author={Deng, B. and Zhong, P. and Jun, K. and others},
+    journal={Nature Machine Intelligence},
+    volume={5},
+    pages={1031--1041},
+    year={2023},
+    DOI={10.1038/s42256-023-00716-3}
+}
+
+@article{xie_2018_cgcnn,
+    title={Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties},
+    author={Xie, Tian and Grossman, Jeffrey C.},
+    journal={Physical Review Letters},
+    volume={120},
+    number={145301},
+    year={2018},
+    DOI={10.1103/PhysRevLett.120.145301}
+}
+```
