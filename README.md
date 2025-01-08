@@ -226,6 +226,16 @@ You may also consider citing the below papers that this package relies on:
     DOI={10.1016/j.commatsci.2012.10.028}
 }
 
+@article{jain_2013_materials,
+    title={Commentary: The Materials Project: A materials genome approach to accelerating materials innovation},
+    author={Jain, Anubhav and Ong, Shyue Ping and Hautier, Geoffroy and Chen, Wei and Richards, William Davidson and Dacek, Stephen and Cholia, Shreyas and Gunter, Dan and Skinner, David and Ceder, Gerbrand and Persson, Kristin A.},
+    journal={APL Materials},
+    volume={1},
+    pages={011002},
+    year={2013},
+    DOI={10.1063/1.4812323}
+}
+
 @article{hautier_2011_substitutions,
     title={Data Mined Ionic Substitutions for the Discovery of New Compounds},
     author={Hautier, Geoffroy and Fischer, Chris and Ehrlacher, Virginie and Jain, Anubhav and Ceder, Gerbrand},
