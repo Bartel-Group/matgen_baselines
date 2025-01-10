@@ -205,7 +205,7 @@ The package includes a standalone script `calc_decomp.py` for calculating decomp
 
 > **⚠️ IMPORTANT: Input energies must be:**
 > - In units of eV/atom
-> - From GGA/GGA+U calculations (or MLPs trained on GGA/GGA+U calculations) with Materials Project corrections already applied
+> - From GGA/GGA+U calculations (or MLPs trained on GGA/GGA+U calculations) with Materials Project corrections already applied. Energies obtained from CHGNet are directly compatible.
 
 ### Usage
 
