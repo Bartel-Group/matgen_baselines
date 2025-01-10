@@ -199,6 +199,47 @@ python generate.py
 
 Generated structures will be saved as CIF files in the specified output directories.
 
+## Calculating Decomposition Energies
+
+The package includes a standalone script `calc_decomp.py` for calculating decomposition energies of materials using the Materials Project database as a reference. This script processes a CSV file containing material compositions and their computed energies, calculating the energy above hull or decomposition energy for each entry.
+
+> **⚠️ IMPORTANT: Input energies must be:**
+> - In units of eV/atom
+> - From GGA/GGA+U calculations (or MLPs trained on GGA/GGA+U calculations) with Materials Project corrections already applied
+
+### Usage
+
+1. Prepare your input CSV file with the following format:
+   ```csv
+   composition,energy_per_atom
+   Fe3Al,-7.4878
+   AlFe2,-7.0365
+   ```
+
+2. Run the script:
+   ```bash
+   python calc_decomp.py input_file.csv
+   ```
+
+3. The script will:
+   - Process each composition
+   - Calculate decomposition energies using Materials Project data
+   - Add results to a new 'decomp_energy' column
+   - Save the updated data back to your input file
+
+### Output Format
+
+The script will update your input file with a new column:
+```csv
+composition,energy_per_atom,decomp_energy
+Fe3Al,-7.4878,0.0
+AlFe2,-7.0365,0.1
+```
+
+- Positive decomposition energies indicate the material is unstable
+- Zero or negative values indicate the material is stable
+- Values are in eV/atom
+
 ## How to Cite
 
 If you use this code, please consider citing the below paper (available on [arXiv](https://arxiv.org/abs/2501.02144)):
