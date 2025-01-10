@@ -209,19 +209,24 @@ The package includes a standalone script `calc_decomp.py` for calculating decomp
 
 ### Usage
 
-1. Prepare your input CSV file with the following format:
+1. Add your Materials Project API key to the script:
+   - Open `calc_decomp.py`
+   - Find the line `mpr = MPRester("YOUR_API_KEY")`
+   - Replace `"YOUR_API_KEY"` with your actual API key from [Materials Project](https://materialsproject.org/api)
+
+2. Prepare your input CSV file with the following format:
    ```csv
    composition,energy_per_atom
    Fe3Al,-7.4878
    AlFe2,-7.0365
    ```
 
-2. Run the script:
+3. Run the script:
    ```bash
    python calc_decomp.py input_file.csv
    ```
 
-3. The script will:
+4. The script will:
    - Process each composition
    - Calculate decomposition energies using Materials Project data
    - Add results to a new 'decomp_energy' column
