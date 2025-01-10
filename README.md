@@ -282,6 +282,16 @@ You may also consider citing the below papers that this package relies on:
     DOI={10.1063/1.4812323}
 }
 
+@article{eckert_2024_aflow_library,
+    title={The AFLOW library of crystallographic prototypes: Part 4},
+    author={Eckert, Hagen and Divilov, Simon and Mehl, Michael J. and Hicks, David and Zettel, Adam C. and Esters, Marco and Campilongo, Xiomara and Curtarolo, Stefano},
+    journal={Computational Materials Science},
+    volume={240},
+    pages={112988},
+    year={2024},
+    DOI={10.1016/j.commatsci.2024.112988}
+}
+
 @article{hautier_2011_substitutions,
     title={Data Mined Ionic Substitutions for the Discovery of New Compounds},
     author={Hautier, Geoffroy and Fischer, Chris and Ehrlacher, Virginie and Jain, Anubhav and Ceder, Gerbrand},
