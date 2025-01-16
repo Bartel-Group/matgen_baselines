@@ -5,14 +5,19 @@ from mp_api.client import MPRester
 import pandas as pd
 import sys
 
-def calculate_decomp_energies(input_file):
+def calculate_decomp_energies(input_file, api_key=None):
     """
     Calculate decomposition energies for compositions in the input_file.
     
     Args:
         input_file (str): Path to CSV file with columns: composition, energy_per_atom
                          Optional column: decomp_energy
+        api_key (str): Materials Project API key. Must be provided.
     """
+    if api_key is None:
+        print("Error: Materials Project API key must be provided")
+        sys.exit(1)
+
     # Read input file
     df = pd.read_csv(input_file)
     required_cols = ['composition', 'energy_per_atom']
@@ -26,14 +31,17 @@ def calculate_decomp_energies(input_file):
         return
     
     # Initialize MPRester
-    mpr = MPRester("YOUR_API_KEY")  # Replace with your Materials Project API key
+    try:
+        mpr = MPRester(api_key)
+    except Exception as e:
+        print(f"Error initializing MPRester: Invalid API key or connection error")
+        sys.exit(1)
     
     # Initialize list to store decomposition energies
     decomp_energies = []
     
     # Process each composition
     for idx, row in df.iterrows():
-        # Skip if decomp_energy already exists for this entry
         if 'decomp_energy' in df.columns and pd.notna(row.get('decomp_energy')):
             decomp_energies.append(row['decomp_energy'])
             continue
@@ -42,19 +50,13 @@ def calculate_decomp_energies(input_file):
             composition = Composition(row['composition'])
             energy = float(row['energy_per_atom']) * composition.num_atoms
             
-            # Create entry for the target composition
             target_entry = ComputedEntry(composition, energy)
-            
-            # Get competing phases from Materials Project
             elements = [str(el) for el in composition.elements]
             mp_entries = mpr.get_entries_in_chemsys(elements)
             
-            # Create phase diagram and calculate decomposition energy
             phase_diagram = PhaseDiagram(mp_entries + [target_entry])
             decomp_energy = phase_diagram.get_decomp_and_e_above_hull(target_entry)[1]
             
-            # If decomp_energy is 0, it means the compound is stable
-            # Get the equilibrium reaction energy instead
             if decomp_energy == 0:
                 decomp_energy = phase_diagram.get_equilibrium_reaction_energy(target_entry)
                 
@@ -65,10 +67,7 @@ def calculate_decomp_energies(input_file):
             print(f"Error processing {row['composition']}: {e}")
             decomp_energies.append(None)
     
-    # Update dataframe with decomposition energies
     df['decomp_energy'] = decomp_energies
-    
-    # Save updated data
     df.to_csv(input_file, index=False)
     print(f"\nResults saved to {input_file}")
 
