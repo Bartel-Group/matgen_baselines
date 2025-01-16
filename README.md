@@ -211,8 +211,7 @@ The package includes a standalone script `calc_decomp.py` for calculating decomp
 
 1. Add your Materials Project API key to the script:
    - Open `calc_decomp.py`
-   - Find the line `mpr = MPRester("YOUR_API_KEY")`
-   - Replace `"YOUR_API_KEY"` with your actual API key from [Materials Project](https://materialsproject.org/api)
+   - In the `calculate_decomp_energies()` function, set the API key associated with your [Materials Project](https://materialsproject.org/api) account
 
 2. Prepare your input CSV file with the following format:
    ```csv
