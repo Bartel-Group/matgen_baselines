@@ -5,6 +5,14 @@ from mp_api.client import MPRester
 import pandas as pd
 import sys
 
+"""
+IMPORTANT: Input energies must be:
+ - In units of eV/atom
+ - From GGA/GGA+U calculations (or MLPs trained on GGA/GGA+U calculations)
+   with Materials Project corrections already applied.
+   Energies obtained from CHGNet are directly compatible.
+"""
+
 def calculate_decomp_energies(input_file, api_key=None):
     """
     Calculate decomposition energies for compositions in the input_file.
