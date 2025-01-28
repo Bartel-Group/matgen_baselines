@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2NaInF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43074179
+_cell_length_b   4.41598082
+_cell_length_c   6.99503946
+_cell_angle_alpha   54.82485962
+_cell_angle_beta   63.21135330
+_cell_angle_gamma   61.70924759
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaInF6
+_chemical_formula_sum   'Cs2 Na1 In1 F6'
+_cell_volume   138.55252157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs1  1  0.71205151  0.77070928  0.73452812  1.0
+  Cs  Cs2  1  0.19739160  0.25973055  0.21904546  1.0
+  Na  Na1  1  0.52570337  0.58400983  0.59347129  1.0
+  In  In1  1  0.00000000  0.00000000  0.00000000  1.0
+  F  F1  1  0.52843356  0.20607156  0.18587491  1.0
+  F  F2  1  0.28564632  0.15835577  0.85229588  1.0
+  F  F3  1  0.14560264  0.74663234  0.76957029  1.0
+  F  F4  1  0.24702990  0.86588228  0.23205844  1.0
+  F  F5  1  0.64105690  0.24771762  0.71989781  1.0
+  F  F6  1  0.67982334  0.78962189  0.48975864  1.0

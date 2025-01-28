@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrMoCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01431470
+_cell_length_b   7.40267731
+_cell_length_c   7.04222761
+_cell_angle_alpha   90.00051743
+_cell_angle_beta   89.99905571
+_cell_angle_gamma   72.72221135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMoCl4
+_chemical_formula_sum   'Sr2 Mo2 Cl8'
+_cell_volume   349.16532208
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000002  0.25000010  0.75062705  1.0
+  Sr  Sr1  1  0.49999998  0.74999988  0.24937292  1.0
+  Mo  Mo2  1  0.99999900  0.25000049  0.21881887  1.0
+  Mo  Mo3  1  0.00000101  0.74999950  0.78117941  1.0
+  Cl  Cl4  1  0.75204149  0.40735546  0.46146855  1.0
+  Cl  Cl5  1  0.24796197  0.09264200  0.46147122  1.0
+  Cl  Cl6  1  0.24795576  0.59264479  0.53853237  1.0
+  Cl  Cl7  1  0.75204077  0.90735777  0.53852968  1.0
+  Cl  Cl8  1  0.76204526  0.93654472  0.02278864  1.0
+  Cl  Cl9  1  0.23795673  0.56345362  0.02279033  1.0
+  Cl  Cl10  1  0.23795340  0.06345367  0.97721132  1.0
+  Cl  Cl11  1  0.76204461  0.43654799  0.97720964  1.0

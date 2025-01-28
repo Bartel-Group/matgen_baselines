@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tc2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88451433
+_cell_length_b   6.24562931
+_cell_length_c   3.33279943
+_cell_angle_alpha   102.34917450
+_cell_angle_beta   113.11131287
+_cell_angle_gamma   116.17769623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc2Pt
+_chemical_formula_sum   'Tc6 Pt3'
+_cell_volume   58.94874816
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc1  1  0.24543047  0.35451633  0.30640540  1.0
+  Tc  Tc2  1  0.53132433  0.86087406  0.22578105  1.0
+  Tc  Tc3  1  0.47818190  0.88826245  0.23324105  1.0
+  Tc  Tc4  1  0.82577085  0.46759206  0.87097651  1.0
+  Tc  Tc5  1  0.32846409  0.13795623  0.83192670  1.0
+  Tc  Tc6  1  0.82132280  0.12795833  0.41616517  1.0
+  Pt  Pt1  1  0.49955872  0.50782168  0.90173918  1.0
+  Pt  Pt2  1  0.31830209  0.26009697  0.13688910  1.0
+  Pt  Pt3  1  0.00000000  0.00000000  0.00000000  1.0

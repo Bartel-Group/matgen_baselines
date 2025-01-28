@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaGeI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.86339772
+_cell_length_b   7.67136570
+_cell_length_c   8.14597215
+_cell_angle_alpha   95.43068728
+_cell_angle_beta   90.00000081
+_cell_angle_gamma   90.00000007
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGeI4
+_chemical_formula_sum   'Ba2 Ge2 I8'
+_cell_volume   551.39406898
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.82244177  0.99999995  0.75000003  1.0
+  Ba  Ba1  1  0.17755825  0.00000006  0.24999997  1.0
+  Ge  Ge2  1  0.36618292  0.50000004  0.74999989  1.0
+  Ge  Ge3  1  0.63381706  0.49999997  0.25000012  1.0
+  I  I4  1  0.11666877  0.25795714  0.61180531  1.0
+  I  I5  1  0.88333122  0.25795715  0.11180531  1.0
+  I  I6  1  0.59468863  0.27904648  0.54140148  1.0
+  I  I7  1  0.40531137  0.27904655  0.04140150  1.0
+  I  I8  1  0.59468863  0.72095346  0.95859849  1.0
+  I  I9  1  0.40531136  0.72095352  0.45859852  1.0
+  I  I10  1  0.11666879  0.74204283  0.88819469  1.0
+  I  I11  1  0.88333125  0.74204287  0.38819468  1.0

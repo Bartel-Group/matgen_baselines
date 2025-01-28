@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Mn4NiAg2OF11
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.50269111
+_cell_length_b   6.54551148
+_cell_length_c   7.76822226
+_cell_angle_alpha   77.62829227
+_cell_angle_beta   89.12454457
+_cell_angle_gamma   87.17471739
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4NiAg2OF11
+_chemical_formula_sum   'Mn4 Ni1 Ag2 O1 F11'
+_cell_volume   272.96252656
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.10413683  0.93625393  0.63436577  1
+  Mn  Mn1  1  0.11515103  0.09106787  0.03732635  1
+  Mn  Mn2  1  0.12942268  0.60824992  0.01514103  1
+  Mn  Mn3  1  0.60149443  0.75324086  0.34809808  1
+  Ni  Ni4  1  0.09201041  0.43995331  0.65328626  1
+  Ag  Ag5  1  0.59182535  0.98655169  0.84166239  1
+  Ag  Ag6  1  0.61172945  0.27313811  0.33511875  1
+  O  O7  1  0.24751826  0.86294699  0.89167424  1
+  F  F8  1  0.26791796  0.21997765  0.54804164  1
+  F  F9  1  0.29677205  0.36899001  0.87983492  1
+  F  F10  1  0.29980131  0.68953602  0.54443159  1
+  F  F11  1  0.38055249  0.58444148  0.19425206  1
+  F  F12  1  0.38283262  0.01712974  0.22934634  1
+  F  F13  1  0.79595933  0.94591564  0.48493334  1
+  F  F14  1  0.83417266  0.50708975  0.47037456  1
+  F  F15  1  0.87870059  0.82486040  0.13221447  1
+  F  F16  1  0.90569950  0.18226409  0.78490818  1
+  F  F17  1  0.91992105  0.63811197  0.79906936  1
+  F  F18  1  0.96827875  0.35392540  0.13245795  1

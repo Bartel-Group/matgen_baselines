@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaLi2CaMg2SCl7
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   23.80293321
+_cell_length_b   5.32869042
+_cell_length_c   5.13085192
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.48363766
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   NaLi2CaMg2SCl7
+_chemical_formula_sum   'Na2 Li4 Ca2 Mg4 S2 Cl14'
+_cell_volume   637.76160521
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  2  0.03501974  0.00000000  0.58440303  1
+  Li  Li1  2  0.16548056  0.50000000  0.70636995  1
+  Li  Li2  2  0.25544766  0.00000000  0.78623460  1
+  Ca  Ca3  2  0.38470016  0.50000000  0.94583903  1
+  Mg  Mg4  2  0.02885318  0.50000000  0.07867468  1
+  Mg  Mg5  2  0.16750041  0.00000000  0.20679822  1
+  S  S6  2  0.15356613  0.00000000  0.69408752  1
+  Cl  Cl7  2  0.02945559  0.00000000  0.07925289  1
+  Cl  Cl8  2  0.03413788  0.50000000  0.58347946  1
+  Cl  Cl9  2  0.13625914  0.50000000  0.17834119  1
+  Cl  Cl10  2  0.26857102  0.00000000  0.30108079  1
+  Cl  Cl11  2  0.27252350  0.50000000  0.80839397  1
+  Cl  Cl12  2  0.41460538  0.50000000  0.47295500  1
+  Cl  Cl13  2  0.42462189  0.00000000  0.98115686  1

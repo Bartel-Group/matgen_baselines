@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_IrSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27368546
+_cell_length_b   6.16929770
+_cell_length_c   6.54421902
+_cell_angle_alpha   97.69833374
+_cell_angle_beta   94.44304657
+_cell_angle_gamma   101.03999329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   IrSe3
+_chemical_formula_sum   'Ir3 Se9'
+_cell_volume   205.92482579
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir1  1  0.26824436  0.00000000  0.48688027  1.0
+  Ir  Ir2  1  0.00000000  0.66428417  0.32797059  1.0
+  Ir  Ir3  1  0.38641036  0.36151999  0.00000000  1.0
+  Se  Se1  1  0.18260723  0.21531668  0.79740775  1.0
+  Se  Se2  1  0.10776672  0.76307786  0.56044883  1.0
+  Se  Se3  1  0.88833278  0.56683666  0.13497767  1.0
+  Se  Se4  1  0.38361692  0.21171027  0.45552152  1.0
+  Se  Se5  1  0.57293552  0.55850452  0.36650550  1.0
+  Se  Se6  1  0.15947363  0.70838547  0.96523523  1.0
+  Se  Se7  1  0.85135216  0.00000000  0.77692038  1.0
+  Se  Se8  1  0.72700620  0.90163481  0.26581424  1.0
+  Se  Se9  1  0.00000000  0.00000000  0.00000000  1.0

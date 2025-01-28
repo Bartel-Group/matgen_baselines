@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CaMgTl2CuSnO6
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   11.16788954
+_cell_length_b   4.19380812
+_cell_length_c   9.43724610
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   118.18520235
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   CaMgTl2CuSnO6
+_chemical_formula_sum   'Ca2 Mg2 Tl4 Cu2 Sn2 O12'
+_cell_volume   389.59245795
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  2  0.10651382  0.00000000  0.09679383  1
+  Mg  Mg1  2  0.39909791  0.00000000  0.07855095  1
+  Tl  Tl2  2  0.31308127  0.00000000  0.66941361  1
+  Tl  Tl3  2  0.34298172  0.50000000  0.41129959  1
+  Cu  Cu4  2  0.02772646  0.50000000  0.41865391  1
+  Sn  Sn5  2  0.17914405  0.50000000  0.86124363  1
+  O  O6  2  0.04428236  0.50000000  0.94546652  1
+  O  O7  2  0.09612892  0.50000000  0.26350470  1
+  O  O8  2  0.16002410  0.50000000  0.63769451  1
+  O  O9  2  0.20013041  0.00000000  0.89092881  1
+  O  O10  2  0.34281644  0.00000000  0.25532413  1
+  O  O11  2  0.37868446  0.50000000  0.02503906  1

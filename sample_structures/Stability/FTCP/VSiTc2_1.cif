@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_VSiTc2
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   2.03851461
+_cell_length_b   2.64604260
+_cell_length_c   3.22588909
+_cell_angle_alpha   65.84065284
+_cell_angle_beta   76.76121433
+_cell_angle_gamma   76.77175049
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VSiTc2
+_chemical_formula_sum   'V1 Si1 Tc2'
+_cell_volume   15.27456957
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.94476378  0.30835557  0.23409736  1
+  Tc  Tc1  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si2  1  0.08023825  0.76696032  0.56013611  1
+  Tc  Tc3  1  0.65575278  0.44164860  0.40382242  1

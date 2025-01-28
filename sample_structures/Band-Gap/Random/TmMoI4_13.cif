@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmMoI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16148499
+_cell_length_b   7.46825942
+_cell_length_c   8.88763095
+_cell_angle_alpha   89.99966249
+_cell_angle_beta   89.99890633
+_cell_angle_gamma   96.81703036
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmMoI4
+_chemical_formula_sum   'Tm2 Mo2 I8'
+_cell_volume   471.98396535
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.50000096  0.25000067  0.63477791  1.0
+  Tm  Tm1  1  0.49999907  0.74999944  0.36522215  1.0
+  Mo  Mo2  1  0.99999878  0.25000091  0.15526694  1.0
+  Mo  Mo3  1  0.00000125  0.74999896  0.84473283  1.0
+  I  I4  1  0.73931014  0.44260613  0.38730533  1.0
+  I  I5  1  0.26068763  0.05739243  0.38730353  1.0
+  I  I6  1  0.26068981  0.55739393  0.61269473  1.0
+  I  I7  1  0.73931244  0.94260754  0.61269662  1.0
+  I  I8  1  0.75663442  0.91786212  0.12437837  1.0
+  I  I9  1  0.24336351  0.58213687  0.12437837  1.0
+  I  I10  1  0.24336565  0.08213795  0.87562159  1.0
+  I  I11  1  0.75663635  0.41786305  0.87562164  1.0

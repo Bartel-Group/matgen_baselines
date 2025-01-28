@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiMgFeSiN3O
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   4.70451011
+_cell_length_b   2.98074511
+_cell_length_c   6.46714926
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.15698842
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   LiMgFeSiN3O
+_chemical_formula_sum   'Li1 Mg1 Fe1 Si1 N3 O1'
+_cell_volume   90.68814125
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.64519098  0.00000000  0.16836530  1
+  Mg  Mg1  1  0.11815384  0.50000000  0.41502305  1
+  Fe  Fe2  1  0.63664960  0.00000000  0.68208679  1
+  Si  Si3  1  0.14145400  0.50000000  0.91955159  1
+  N  N4  1  0.33520158  0.50000000  0.14474823  1
+  N  N5  1  0.36656131  0.50000000  0.69487288  1
+  N  N6  1  0.93256389  0.00000000  0.90145394  1
+  O  O7  1  0.84653952  0.00000000  0.43556877  1

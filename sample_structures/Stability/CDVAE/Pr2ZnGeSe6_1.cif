@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr2ZnGeSe6
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.56775826
+_cell_length_b   4.62004665
+_cell_length_c   12.48024284
+_cell_angle_alpha   89.29953958
+_cell_angle_beta   89.79711335
+_cell_angle_gamma   82.61633383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2ZnGeSe6
+_chemical_formula_sum   'Pr2 Zn1 Ge1 Se6'
+_cell_volume   261.16979141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.44796603  0.20663631  0.02866871  1
+  Pr  Pr1  1  0.94603263  0.69636589  0.34223281  1
+  Zn  Zn2  1  0.90560946  0.83139803  0.77330150  1
+  Ge  Ge3  1  0.39750472  0.37238382  0.60036917  1
+  Se  Se4  1  0.37932324  0.09177784  0.76833257  1
+  Se  Se5  1  0.40652388  0.14551159  0.42467102  1
+  Se  Se6  1  0.44740482  0.70403370  0.18857711  1
+  Se  Se7  1  0.88265688  0.60525429  0.59353427  1
+  Se  Se8  1  0.90721746  0.66178315  0.95485788  1
+  Se  Se9  1  0.94843371  0.20272236  0.18858140  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_YSiNi3Ir2O10F
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.52914685
+_cell_length_b   3.81979125
+_cell_length_c   8.51040763
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.03727352
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   YSiNi3Ir2O10F
+_chemical_formula_sum   'Y1 Si1 Ni3 Ir2 O10 F1'
+_cell_volume   205.91121755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.47687073  0.00000000  0.35527055  1
+  Si  Si1  1  0.31068792  0.50000000  0.57207861  1
+  Ni  Ni2  1  0.26267324  0.00000000  0.80355742  1
+  Ni  Ni3  1  0.53006510  0.50000000  0.00181535  1
+  Ni  Ni4  1  0.85555605  0.50000000  0.69293885  1
+  Ir  Ir5  1  0.90419058  0.00000000  0.00462262  1
+  Ir  Ir6  1  0.93527684  0.50000000  0.29672214  1
+  O  O7  1  0.02559374  0.50000000  0.53499428  1
+  O  O8  1  0.25064669  0.50000000  0.35146469  1
+  O  O9  1  0.31510101  0.00000000  0.57191247  1
+  O  O10  1  0.32494434  0.50000000  0.78211662  1
+  O  O11  1  0.57105206  0.50000000  0.55379154  1
+  O  O12  1  0.58863733  0.00000000  0.96492165  1
+  O  O13  1  0.60952261  0.50000000  0.23883279  1
+  O  O14  1  0.90562680  0.50000000  0.04638120  1
+  O  O15  1  0.92355116  0.00000000  0.24871777  1
+  O  O16  1  0.93161892  0.00000000  0.77194444  1
+  F  F17  1  0.23673941  0.00000000  0.06328746  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_KScO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43812981
+_cell_length_b   6.43812931
+_cell_length_c   6.43812990
+_cell_angle_alpha   29.22769389
+_cell_angle_beta   29.22769343
+_cell_angle_gamma   29.22769959
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KScO2
+_chemical_formula_sum   'K1 Sc1 O2'
+_cell_volume   56.29313333
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.99999900  0.00000248  0.99999860  1.0
+  Sc  Sc1  1  0.49999996  0.49999890  0.50000007  1.0
+  O  O2  1  0.22592947  0.22592840  0.22592961  1.0
+  O  O3  1  0.77407157  0.77407022  0.77407173  1.0

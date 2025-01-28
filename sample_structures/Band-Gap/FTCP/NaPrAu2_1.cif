@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaPrAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47869921
+_cell_length_b   4.57184505
+_cell_length_c   5.86398268
+_cell_angle_alpha   50.79675293
+_cell_angle_beta   61.36743927
+_cell_angle_gamma   59.55498505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPrAu2
+_chemical_formula_sum   'Na1 Pr1 Au2'
+_cell_volume   77.91197140
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.40061870  0.34363827  0.33500844  1.0
+  Pr  Pr1  1  0.71596968  0.77727544  0.68793339  1.0
+  Au  Au1  1  0.53529412  0.62954354  0.48387435  1.0
+  Au  Au2  1  0.00000000  0.00000000  0.00000000  1.0

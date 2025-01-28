@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_ThAlFe2GeRu
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   5.04376255
+_cell_length_b   4.21559865
+_cell_length_c   5.06309138
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   116.82636530
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   ThAlFe2GeRu
+_chemical_formula_sum   'Th1 Al1 Fe2 Ge1 Ru1'
+_cell_volume   96.06797378
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.21078669  0.50000000  0.36242735  1
+  Al  Al1  1  0.71013757  0.00000000  0.36429623  1
+  Fe  Fe2  1  0.71357901  0.00000000  0.85669375  1
+  Fe  Fe3  1  0.84605020  0.50000000  0.68727336  1
+  Ge  Ge4  1  0.20195715  0.00000000  0.85647575  1
+  Ru  Ru5  1  0.57161816  0.50000000  0.03201846  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CeCl
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   6.35463502
+_cell_length_b   3.68704519
+_cell_length_c   5.15879664
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.82067847
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   CeCl
+_chemical_formula_sum   'Ce2 Cl2'
+_cell_volume   113.70920180
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  2  0.01604889  0.00000000  0.08524159  1
+  Cl  Cl1  2  0.23251039  0.00000000  0.66475841  1

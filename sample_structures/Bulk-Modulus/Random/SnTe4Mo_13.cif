@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SnTe4Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93097998
+_cell_length_b   7.31268475
+_cell_length_c   9.09298544
+_cell_angle_alpha   89.99998087
+_cell_angle_beta   90.00002712
+_cell_angle_gamma   90.42245256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnTe4Mo
+_chemical_formula_sum   'Sn2 Te8 Mo2'
+_cell_volume   394.36466932
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.50000013  0.25000020  0.67691060  1.0
+  Sn  Sn1  1  0.49999987  0.74999981  0.32308856  1.0
+  Te  Te2  1  0.71933276  0.36450304  0.34931597  1.0
+  Te  Te3  1  0.28066725  0.13549640  0.34931627  1.0
+  Te  Te4  1  0.28067031  0.63549534  0.65068180  1.0
+  Te  Te5  1  0.71932968  0.86450521  0.65068152  1.0
+  Te  Te6  1  0.76051425  0.93601753  0.08097292  1.0
+  Te  Te7  1  0.23948580  0.56398211  0.08097268  1.0
+  Te  Te8  1  0.23948714  0.06398550  0.91903003  1.0
+  Te  Te9  1  0.76051283  0.43601485  0.91903027  1.0
+  Mo  Mo10  1  0.00000021  0.24999994  0.14099876  1.0
+  Mo  Mo11  1  0.99999978  0.75000006  0.85900062  1.0

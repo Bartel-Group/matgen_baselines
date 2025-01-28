@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_AlFe2Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.98854089
+_cell_length_b   3.01567459
+_cell_length_c   2.41794467
+_cell_angle_alpha   64.86003113
+_cell_angle_beta   77.00842285
+_cell_angle_gamma   56.39915085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlFe2Si
+_chemical_formula_sum   'Al1 Fe2 Si1'
+_cell_volume   10.93210867
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al1  1  0.46057677  0.59602439  0.39852056  1.0
+  Fe  Fe1  1  0.13959053  0.25262427  0.24318147  1.0
+  Fe  Fe2  1  0.69712222  0.64302158  0.93295121  1.0
+  Si  Si1  1  0.00000000  0.00000000  0.00000000  1.0

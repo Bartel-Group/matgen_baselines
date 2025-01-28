@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tc3N2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.43031180
+_cell_length_b   1.43901873
+_cell_length_c   5.83948469
+_cell_angle_alpha   97.97467804
+_cell_angle_beta   84.77139282
+_cell_angle_gamma   130.04704285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc3N2
+_chemical_formula_sum   'Tc3 N2'
+_cell_volume   9.11180878
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc1  1  0.62841225  0.33155048  0.36146161  1.0
+  Tc  Tc2  1  0.40302709  0.86186069  0.85992861  1.0
+  Tc  Tc3  1  0.23300657  0.69377905  0.17104244  1.0
+  N  N1  1  0.64250875  0.58063650  0.00000000  1.0
+  N  N2  1  0.00000000  0.00000000  0.00000000  1.0

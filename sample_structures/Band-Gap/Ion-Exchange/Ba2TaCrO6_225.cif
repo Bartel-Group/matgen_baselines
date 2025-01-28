@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2TaCrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77074927
+_cell_length_b   5.77074677
+_cell_length_c   5.77075004
+_cell_angle_alpha   59.99997187
+_cell_angle_beta   59.99998698
+_cell_angle_gamma   60.00000987
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2TaCrO6
+_chemical_formula_sum   'Ba2 Ta1 Cr1 O6'
+_cell_volume   135.88808713
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.24999997  0.24999994  0.25000004  1.0
+  Ba  Ba1  1  0.75000002  0.75000004  0.75000000  1.0
+  Ta  Ta2  1  0.00000000  0.99999999  0.99999999  1.0
+  Cr  Cr3  1  0.49999999  0.50000001  0.50000001  1.0
+  O  O4  1  0.75290282  0.24709704  0.24709715  1.0
+  O  O5  1  0.24709718  0.75290297  0.75290284  1.0
+  O  O6  1  0.24709726  0.75290301  0.24709692  1.0
+  O  O7  1  0.75290274  0.24709697  0.75290307  1.0
+  O  O8  1  0.24709704  0.24709758  0.75290271  1.0
+  O  O9  1  0.75290298  0.75290246  0.24709726  1.0

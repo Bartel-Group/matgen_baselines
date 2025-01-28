@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmTiH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17021962
+_cell_length_b   4.80715887
+_cell_length_c   4.81480371
+_cell_angle_alpha   90.00000003
+_cell_angle_beta   90.00000006
+_cell_angle_gamma   89.85402758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmTiH4
+_chemical_formula_sum   'Sm2 Ti2 H8'
+_cell_volume   119.66706614
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.50000000  0.24999999  0.74959219  1.0
+  Sm  Sm1  1  0.50000000  0.75000001  0.25040773  1.0
+  Ti  Ti2  1  0.00000001  0.74999998  0.75080302  1.0
+  Ti  Ti3  1  0.00000000  0.25000002  0.24919815  1.0
+  H  H4  1  0.79992950  0.00092722  0.49896849  1.0
+  H  H5  1  0.20007052  0.49907277  0.49896849  1.0
+  H  H6  1  0.20007066  0.99907412  0.50103007  1.0
+  H  H7  1  0.79992931  0.50092589  0.50103009  1.0
+  H  H8  1  0.19994916  0.49975874  0.00099158  1.0
+  H  H9  1  0.80005087  0.00024124  0.00099158  1.0
+  H  H10  1  0.80005108  0.50024028  0.99900931  1.0
+  H  H11  1  0.19994890  0.99975974  0.99900931  1.0

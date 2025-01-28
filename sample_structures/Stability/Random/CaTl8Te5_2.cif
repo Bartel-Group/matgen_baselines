@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CaTl8Te5
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   23.30751198
+_cell_length_b   4.96902962
+_cell_length_c   9.86199958
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.46772525
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   CaTl8Te5
+_chemical_formula_sum   'Ca2 Tl16 Te10'
+_cell_volume   1062.93490716
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  2  0.00000000  0.00000000  0.50000000  1
+  Tl  Tl1  4  0.04591516  0.50000000  0.73014530  1
+  Tl  Tl2  4  0.05743300  0.00000000  0.22821160  1
+  Tl  Tl3  4  0.16980434  0.50000000  0.49138080  1
+  Tl  Tl4  4  0.20970720  0.50000000  0.07242781  1
+  Te  Te5  4  0.12978705  0.00000000  0.74250619  1
+  Te  Te6  4  0.19429382  0.00000000  0.27408759  1
+  Te  Te7  2  0.00000000  0.50000000  0.00000000  1

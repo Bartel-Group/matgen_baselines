@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KGeBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.72378170
+_cell_length_b   8.64551643
+_cell_length_c   7.25463596
+_cell_angle_alpha   101.84430162
+_cell_angle_beta   118.51300807
+_cell_angle_gamma   59.71075349
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KGeBr3
+_chemical_formula_sum   'K2 Ge2 Br6'
+_cell_volume   414.70340281
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.77347387  0.23506214  0.18308239  1.0
+  K  K1  1  0.00770788  0.65622817  0.94302034  1.0
+  Ge  Ge2  1  0.17383650  0.00186237  0.84211482  1.0
+  Ge  Ge3  1  0.44976520  0.84616425  0.47783284  1.0
+  Br  Br4  1  0.56089627  0.90350489  0.91345091  1.0
+  Br  Br5  1  0.42471985  0.63134799  0.12376514  1.0
+  Br  Br6  1  0.13537431  0.84650926  0.44088461  1.0
+  Br  Br7  1  0.98727644  0.32716966  0.67563896  1.0
+  Br  Br8  1  0.81291518  0.04808278  0.74240239  1.0
+  Br  Br9  1  0.24508212  0.15045476  0.27883430  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cr2BiO6
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   5.79972023
+_cell_length_b   5.76259631
+_cell_length_c   7.24420929
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.15706677
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   Cr2BiO6
+_chemical_formula_sum   'Cr4 Bi2 O12'
+_cell_volume   241.94039209
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  2  0.36835003  0.00000000  0.80251707  1
+  Cr  Cr1  2  0.45454694  0.00000000  0.32272475  1
+  Bi  Bi2  2  0.40344788  0.50000000  0.10707230  1
+  O  O3  4  0.19935198  0.22356509  0.81580985  1
+  O  O4  4  0.21209748  0.24977723  0.28277022  1
+  O  O5  2  0.47289784  0.00000000  0.58962554  1
+  O  O6  2  0.49507317  0.00000000  0.03441444  1

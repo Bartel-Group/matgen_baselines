@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrDyMgAl2CuAg3Pb
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.22543479
+_cell_length_b   6.45612471
+_cell_length_c   6.69558861
+_cell_angle_alpha   116.05071654
+_cell_angle_beta   91.27223349
+_cell_angle_gamma   109.41748941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrDyMgAl2CuAg3Pb
+_chemical_formula_sum   'Sr1 Dy1 Mg1 Al2 Cu1 Ag3 Pb1'
+_cell_volume   223.48055540
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.59868639  0.01138279  0.32969865  1
+  Dy  Dy1  1  0.20127634  0.41726028  0.31000291  1
+  Mg  Mg2  1  0.35777645  0.97069469  0.83416994  1
+  Al  Al3  1  0.02737179  0.41174057  0.78790874  1
+  Al  Al4  1  0.07841674  0.96160474  0.49735924  1
+  Cu  Cu5  1  0.89928667  0.61031463  0.59170788  1
+  Ag  Ag6  1  0.03754294  0.84669119  0.08209439  1
+  Ag  Ag7  1  0.72100330  0.44742149  0.15951441  1
+  Ag  Ag8  1  0.82744613  0.02854145  0.84635237  1
+  Pb  Pb9  1  0.51202565  0.50227922  0.79475500  1

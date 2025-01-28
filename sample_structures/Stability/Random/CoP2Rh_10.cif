@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CoP2Rh
+_symmetry_space_group_name_H-M   P2/m
+_cell_length_a   5.51259179
+_cell_length_b   3.42522743
+_cell_length_c   9.04590578
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.45154763
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   10
+_chemical_formula_structural   CoP2Rh
+_chemical_formula_sum   'Co3 P6 Rh3'
+_cell_volume   170.64738503
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  2  0.30958590  0.00000000  0.25435899  1
+  Co  Co1  1  0.50000000  0.00000000  0.50000000  1
+  P  P2  2  0.25131388  0.50000000  0.10192189  1
+  P  P3  2  0.26763240  0.50000000  0.41065782  1
+  P  P4  2  0.28853739  0.00000000  0.73591734  1
+  Rh  Rh5  1  0.00000000  0.00000000  0.00000000  1
+  Rh  Rh6  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh7  1  0.50000000  0.00000000  0.00000000  1

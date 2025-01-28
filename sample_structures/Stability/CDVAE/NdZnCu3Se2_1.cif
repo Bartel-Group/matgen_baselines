@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NdZnCu3Se2
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   7.68824832
+_cell_length_b   3.98627910
+_cell_length_c   9.19936461
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.57605594
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   NdZnCu3Se2
+_chemical_formula_sum   'Nd2 Zn2 Cu6 Se4'
+_cell_volume   271.58336517
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  2  0.27089595  0.50000000  0.50887745  1
+  Zn  Zn1  2  0.44861737  0.00000000  0.02284930  1
+  Cu  Cu2  2  0.10493949  0.00000000  0.97988216  1
+  Cu  Cu3  2  0.24968358  0.50000000  0.87241463  1
+  Cu  Cu4  2  0.30011127  0.50000000  0.14143914  1
+  Se  Se5  2  0.15327358  0.00000000  0.69998897  1
+  Se  Se6  2  0.38778642  0.00000000  0.31732977  1

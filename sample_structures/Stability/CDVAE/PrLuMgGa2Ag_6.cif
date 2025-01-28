@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_PrLuMgGa2Ag
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   4.02661652
+_cell_length_b   4.43493901
+_cell_length_c   7.65175884
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   PrLuMgGa2Ag
+_chemical_formula_sum   'Pr1 Lu1 Mg1 Ga2 Ag1'
+_cell_volume   136.64356924
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.50000000  0.18931299  1
+  Lu  Lu1  1  0.50000000  0.00000000  0.50805005  1
+  Mg  Mg2  1  0.50000000  0.50000000  0.84207600  1
+  Ga  Ga3  1  0.00000000  0.50000000  0.58664575  1
+  Ga  Ga4  1  0.50000000  0.00000000  0.08483636  1
+  Ag  Ag5  1  0.00000000  0.00000000  0.82972104  1

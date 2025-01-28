@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ThMgUNbInSnN3
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   10.03758492
+_cell_length_b   4.46776468
+_cell_length_c   7.86319529
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.64201798
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   ThMgUNbInSnN3
+_chemical_formula_sum   'Th2 Mg2 U2 Nb2 In2 Sn2 N6'
+_cell_volume   351.47275733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  2  0.12601583  0.50000000  0.50944787  1
+  Mg  Mg1  2  0.45341945  0.50000000  0.25511296  1
+  U  U2  2  0.09216649  0.50000000  0.03842340  1
+  Nb  Nb3  2  0.25318392  0.00000000  0.24184074  1
+  In  In4  2  0.25613283  0.00000000  0.85398315  1
+  Sn  Sn5  2  0.42932231  0.50000000  0.77269906  1
+  N  N6  2  0.13374785  0.00000000  0.43049679  1
+  N  N7  2  0.24637073  0.50000000  0.25264234  1
+  N  N8  2  0.46525849  0.00000000  0.24167102  1

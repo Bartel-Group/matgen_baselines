@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiAc3YbPrSmY2Hg2Ge
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.73240026
+_cell_length_b   7.39114482
+_cell_length_c   7.77034141
+_cell_angle_alpha   91.66187332
+_cell_angle_beta   91.42506484
+_cell_angle_gamma   91.31559635
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAc3YbPrSmY2Hg2Ge
+_chemical_formula_sum   'Li1 Ac3 Yb1 Pr1 Sm1 Y2 Hg2 Ge1'
+_cell_volume   386.26263712
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.51227794  0.78915602  0.92519521  1
+  Ac  Ac1  1  0.30046492  0.95513051  0.59296227  1
+  Yb  Yb2  1  0.30099002  0.61111722  0.23734074  1
+  Ac  Ac3  1  0.79700224  0.42881873  0.06743084  1
+  Ac  Ac4  1  0.81247830  0.93764428  0.25026057  1
+  Pr  Pr5  1  0.83307892  0.09885051  0.75249601  1
+  Sm  Sm6  1  0.81552708  0.62055275  0.62465634  1
+  Y  Y7  1  0.28154869  0.11337161  0.08298540  1
+  Y  Y8  1  0.29189906  0.44788663  0.75746469  1
+  Hg  Hg9  1  0.05961127  0.31511237  0.42072303  1
+  Hg  Hg10  1  0.54986023  0.30926758  0.43002725  1
+  Ge  Ge11  1  0.08498777  0.77475997  0.92102972  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_HfSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84160141
+_cell_length_b   4.84160125
+_cell_length_c   6.26032908
+_cell_angle_alpha   112.74863628
+_cell_angle_beta   112.74864109
+_cell_angle_gamma   90.00001286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSiO4
+_chemical_formula_sum   'Hf2 Si2 O8'
+_cell_volume   122.86172068
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Hf4+  4.0
+  Si4+  4.0
+  O2-  -2.0
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf4+  Hf0  1  0.37500000  0.12500000  0.75000000  1.0
+  Hf4+  Hf1  1  0.62500000  0.87500000  0.25000000  1.0
+  Si4+  Si2  1  0.87500000  0.62500000  0.75000000  1.0
+  Si4+  Si3  1  0.12500000  0.37500000  0.25000000  1.0
+  O2-  O4  1  0.31205218  0.46685098  0.08591008  1.0
+  O2-  O5  1  0.61905910  0.81205218  0.58591008  1.0
+  O2-  O6  1  0.96685098  0.27385790  0.58591008  1.0
+  O2-  O7  1  0.77385790  0.11905910  0.08591008  1.0
+  O2-  O8  1  0.22614210  0.88094090  0.91408992  1.0
+  O2-  O9  1  0.03314902  0.72614210  0.41408992  1.0
+  O2-  O10  1  0.38094090  0.18794782  0.41408992  1.0
+  O2-  O11  1  0.68794782  0.53314902  0.91408992  1.0

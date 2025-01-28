@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ge4Te3H2
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   7.77455750
+_cell_length_b   3.81926017
+_cell_length_c   9.06732359
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.81691194
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Ge4Te3H2
+_chemical_formula_sum   'Ge4 Te3 H2'
+_cell_volume   268.91123838
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.03514879  0.00000000  0.32799919  1
+  Ge  Ge1  1  0.33011807  0.50000000  0.33823148  1
+  Ge  Ge2  1  0.72213475  0.00000000  0.53130811  1
+  Ge  Ge3  1  0.78831378  0.50000000  0.76016761  1
+  Te  Te4  1  0.35146781  0.00000000  0.55613038  1
+  Te  Te5  1  0.67646320  0.00000000  0.93117902  1
+  Te  Te6  1  0.73678840  0.50000000  0.29499404  1
+  H  H7  1  0.96937136  0.00000000  0.50256138  1
+  H  H8  1  0.98909384  0.50000000  0.78542880  1

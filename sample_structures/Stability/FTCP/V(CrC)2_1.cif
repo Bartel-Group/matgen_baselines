@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_V(CrC)2
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   2.38510712
+_cell_length_b   4.07887554
+_cell_length_c   6.39988375
+_cell_angle_alpha   87.44689941
+_cell_angle_beta   79.28489128
+_cell_angle_gamma   85.66086003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V(CrC)2
+_chemical_formula_sum   'V2 Cr4 C4'
+_cell_volume   60.97114297
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.34401360  0.32970491  0.23627031  1
+  V  V1  1  0.44164973  0.03743625  0.62151563  1
+  Cr  Cr2  1  -0.00000000  0.87591040  0.37381226  1
+  Cr  Cr3  1  0.15951976  0.67017153  0.18284300  1
+  Cr  Cr4  1  0.80471063  0.38264745  0.35719681  1
+  Cr  Cr5  1  0.83986032  0.16013968  0.89121807  1
+  C  C6  1  0.14978462  0.54525334  0.82376885  1
+  C  C7  1  0.39782819  0.82315829  0.38759190  1
+  C  C8  1  0.76858443  0.71066427  0.00000000  1
+  C  C9  1  0.84216028  0.67864835  0.14484039  1

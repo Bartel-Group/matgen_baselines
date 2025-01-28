@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlAuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67116136
+_cell_length_b   5.53215080
+_cell_length_c   9.80369669
+_cell_angle_alpha   104.76714593
+_cell_angle_beta   90.00004596
+_cell_angle_gamma   89.99997295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlAuO3
+_chemical_formula_sum   'Al4 Au4 O12'
+_cell_volume   244.97491418
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.97071164  0.00134231  0.74984687  1.0
+  Al  Al1  1  0.47070977  0.49865836  0.25015385  1.0
+  Al  Al2  1  0.52929023  0.50134164  0.74984615  1.0
+  Al  Al3  1  0.02928836  0.99865768  0.25015314  1.0
+  Au  Au4  1  0.50000000  0.00000000  0.50000000  1.0
+  Au  Au5  1  0.50000001  0.00000000  0.00000000  1.0
+  Au  Au6  1  0.00000000  0.50000000  0.50000001  1.0
+  Au  Au7  1  0.00000000  0.50000000  0.00000000  1.0
+  O  O8  1  0.25194007  0.24742306  0.25006612  1.0
+  O  O9  1  0.18938392  0.15919812  0.90300851  1.0
+  O  O10  1  0.81144434  0.15890445  0.40319822  1.0
+  O  O11  1  0.31144568  0.34109703  0.59680151  1.0
+  O  O12  1  0.68938208  0.34080208  0.09699215  1.0
+  O  O13  1  0.75194284  0.25257738  0.74993344  1.0
+  O  O14  1  0.24805718  0.74742262  0.25006656  1.0
+  O  O15  1  0.31061791  0.65919793  0.90300785  1.0
+  O  O16  1  0.68855431  0.65890297  0.40319850  1.0
+  O  O17  1  0.18855566  0.84109556  0.59680178  1.0
+  O  O18  1  0.81061608  0.84080187  0.09699149  1.0
+  O  O19  1  0.74805993  0.75257696  0.74993387  1.0

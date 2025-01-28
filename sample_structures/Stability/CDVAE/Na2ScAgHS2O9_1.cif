@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na2ScAgHS2O9
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.79715898
+_cell_length_b   6.87410993
+_cell_length_c   7.69103147
+_cell_angle_alpha   111.72607130
+_cell_angle_beta   96.22479746
+_cell_angle_gamma   98.22010152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ScAgHS2O9
+_chemical_formula_sum   'Na2 Sc1 Ag1 H1 S2 O9'
+_cell_volume   229.56523631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.21070219  0.16638056  0.94185972  1
+  Na  Na1  1  0.72683162  0.60511432  0.71010856  1
+  Sc  Sc2  1  0.97255215  0.77793186  0.30460098  1
+  Ag  Ag3  1  0.14855325  0.34489020  0.38582399  1
+  H  H4  1  0.59779956  0.45847571  0.33471953  1
+  S  S5  1  0.32714230  0.70804171  0.01838146  1
+  S  S6  1  0.60640597  0.04030730  0.61977363  1
+  O  O7  1  0.17155947  0.54637631  0.08311399  1
+  O  O8  1  0.24309540  0.91475086  0.13337314  1
+  O  O9  1  0.24387484  0.65071798  0.81407393  1
+  O  O10  1  0.33046859  0.88170183  0.52203276  1
+  O  O11  1  0.54499955  0.25556670  0.70833688  1
+  O  O12  1  0.64275003  0.72354222  0.06474490  1
+  O  O13  1  0.75217345  0.97701581  0.76438521  1
+  O  O14  1  0.79083270  0.03152305  0.47042195  1
+  O  O15  1  0.79206943  0.55355423  0.38350697  1

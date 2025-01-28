@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SrTlBO3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.60054798
+_cell_length_b   6.64033994
+_cell_length_c   8.85275269
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.91649456
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   SrTlBO3
+_chemical_formula_sum   'Sr4 Tl4 B4 O12'
+_cell_volume   387.26567584
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  4  0.42196250  0.13467247  0.65739908  1
+  Tl  Tl1  4  0.08404077  0.52998632  0.73078519  1
+  B  B2  4  0.32811531  0.62429561  0.46060006  1
+  O  O3  4  0.26338679  0.60582421  0.28449320  1
+  O  O4  4  0.26791312  0.01663279  0.04555054  1
+  O  O5  4  0.44796494  0.71205463  0.05215359  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ErGeBr2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   3.53169666
+_cell_length_b   5.00170553
+_cell_length_c   8.45106746
+_cell_angle_alpha   85.03086763
+_cell_angle_beta   85.45852865
+_cell_angle_gamma   89.76649934
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   ErGeBr2
+_chemical_formula_sum   'Er1 Ge1 Br2'
+_cell_volume   148.25532561
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.50000000  0.50000000  0.50000000  1
+  Ge  Ge1  1  0.00000000  0.00000000  0.50000000  1
+  Br  Br2  2  0.04815150  0.39991340  0.23988956  1

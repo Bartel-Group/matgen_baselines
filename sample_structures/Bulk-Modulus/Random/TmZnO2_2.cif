@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TmZnO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53003988
+_cell_length_b   7.98398075
+_cell_length_c   5.99956240
+_cell_angle_alpha   122.71387722
+_cell_angle_beta   144.09980234
+_cell_angle_gamma   49.16882746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmZnO2
+_chemical_formula_sum   'Tm2 Zn2 O4'
+_cell_volume   117.49051627
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.99985384  0.49996122  0.49987790  1.0
+  Tm  Tm1  1  0.99996002  0.99997894  0.99987641  1.0
+  Zn  Zn2  1  0.17854674  0.17501961  0.85145625  1.0
+  Zn  Zn3  1  0.82183690  0.82525353  0.14908623  1.0
+  O  O4  1  0.77913732  0.35572507  0.92636015  1.0
+  O  O5  1  0.19760770  0.17014095  0.53518844  1.0
+  O  O6  1  0.80243646  0.82969889  0.46469271  1.0
+  O  O7  1  0.22062102  0.64422179  0.07346191  1.0

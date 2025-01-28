@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Th2SeN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24001741
+_cell_length_b   4.93248177
+_cell_length_c   8.68942738
+_cell_angle_alpha   81.90534210
+_cell_angle_beta   89.06600189
+_cell_angle_gamma   120.28444672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2SeN2
+_chemical_formula_sum   'Th2 Se1 N2'
+_cell_volume   227.45517602
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th1  1  0.69179314  0.33840683  0.72117555  1.0
+  Th  Th2  1  0.51591110  0.68666440  0.38293758  1.0
+  Se  Se1  1  0.00000000  0.00000000  0.00000000  1.0
+  N  N1  1  0.36879608  0.77460879  0.38305160  1.0
+  N  N2  1  0.57217789  0.42434630  0.39740080  1.0

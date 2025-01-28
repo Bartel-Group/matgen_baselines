@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrHoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18386388
+_cell_length_b   6.18386400
+_cell_length_c   6.18158518
+_cell_angle_alpha   119.69256812
+_cell_angle_beta   119.74591884
+_cell_angle_gamma   90.50904022
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrHoO3
+_chemical_formula_sum   'Pr2 Ho2 O6'
+_cell_volume   167.81945407
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000085  0.00000021  0.00000041  1.0
+  Pr  Pr1  1  0.50000080  0.50000005  0.00000028  1.0
+  Ho  Ho2  1  0.24951000  0.74950998  0.49999545  1.0
+  Ho  Ho3  1  0.75049897  0.25049683  0.50000568  1.0
+  O  O4  1  0.25002160  0.25004996  0.99999747  1.0
+  O  O5  1  0.74997552  0.74995116  0.00000070  1.0
+  O  O6  1  0.14167259  0.35810788  0.49978447  1.0
+  O  O7  1  0.85832354  0.64188809  0.50021570  1.0
+  O  O8  1  0.64199354  0.14212415  0.78414780  1.0
+  O  O9  1  0.35800259  0.85787168  0.21585203  1.0

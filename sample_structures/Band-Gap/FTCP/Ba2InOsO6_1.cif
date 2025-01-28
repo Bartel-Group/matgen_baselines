@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2InOsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46879101
+_cell_length_b   5.70190001
+_cell_length_c   5.34614992
+_cell_angle_alpha   59.37114716
+_cell_angle_beta   59.92332077
+_cell_angle_gamma   56.69453049
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2InOsO6
+_chemical_formula_sum   'Ba2 In1 Os1 O6'
+_cell_volume   134.92203031
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.24990380  0.35169297  0.30970588  1.0
+  Ba  Ba2  1  0.80183089  0.69780076  0.76891929  1.0
+  In  In1  1  0.50097376  0.53272933  0.52167350  1.0
+  Os  Os1  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O1  1  0.67378783  0.32062483  0.24728733  1.0
+  O  O2  1  0.26860374  0.61838055  0.81138390  1.0
+  O  O3  1  0.20849016  0.83067584  0.21326894  1.0
+  O  O4  1  0.70790040  0.30557996  0.58267617  1.0
+  O  O5  1  0.31350878  0.27136225  0.85314190  1.0
+  O  O6  1  0.78286010  0.80090684  0.25121948  1.0

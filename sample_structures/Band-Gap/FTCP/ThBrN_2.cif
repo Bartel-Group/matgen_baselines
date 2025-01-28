@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThBrN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06164395
+_cell_length_b   4.05786687
+_cell_length_c   8.72770905
+_cell_angle_alpha   89.96303446
+_cell_angle_beta   90.22597671
+_cell_angle_gamma   89.94522710
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThBrN
+_chemical_formula_sum   'Th2 Br2 N2'
+_cell_volume   143.84548563
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.68094177  0.71560243  0.87828804  1.0
+  Th  Th1  1  0.18319298  0.21503432  0.14547460  1.0
+  Br  Br2  1  0.17921335  0.21468154  0.67805773  1.0
+  Br  Br3  1  0.68374486  0.71674631  0.34573405  1.0
+  N  N4  1  0.68193014  0.21576290  0.01189641  1.0
+  N  N5  1  0.18182648  0.71575801  0.01184866  1.0

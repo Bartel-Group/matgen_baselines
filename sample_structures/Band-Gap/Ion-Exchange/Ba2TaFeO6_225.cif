@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2TaFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79613771
+_cell_length_b   5.79614438
+_cell_length_c   5.79614219
+_cell_angle_alpha   59.99990983
+_cell_angle_beta   59.99999798
+_cell_angle_gamma   59.99993043
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2TaFeO6
+_chemical_formula_sum   'Ba2 Ta1 Fe1 O6'
+_cell_volume   137.68968062
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.25000003  0.24999960  1.0
+  Ba  Ba1  1  0.75000044  0.75000014  0.75000005  1.0
+  Ta  Ta2  1  0.99999981  0.99999998  0.00000025  1.0
+  Fe  Fe3  1  0.49999981  0.49999997  0.50000028  1.0
+  O  O4  1  0.75388237  0.24611789  0.24611776  1.0
+  O  O5  1  0.24611782  0.75388183  0.75388247  1.0
+  O  O6  1  0.24611759  0.75388188  0.24611816  1.0
+  O  O7  1  0.75388270  0.24611861  0.75388143  1.0
+  O  O8  1  0.24611724  0.24611812  0.75388143  1.0
+  O  O9  1  0.75388221  0.75388155  0.24611859  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Hf2Co3Si4Ni
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   6.70477477
+_cell_length_b   7.73376079
+_cell_length_c   5.09525559
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.09717778
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   Hf2Co3Si4Ni
+_chemical_formula_sum   'Hf4 Co6 Si8 Ni2'
+_cell_volume   264.20454107
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  4  0.16378559  0.48690380  0.74876813  1
+  Co  Co1  2  0.00000000  0.16520553  0.50000000  1
+  Co  Co2  2  0.00000000  0.81237206  0.50000000  1
+  Co  Co3  2  0.00000000  0.81281121  0.00000000  1
+  Si  Si4  4  0.20944456  0.64476613  0.25278617  1
+  Si  Si5  4  0.21276020  0.33261203  0.25093372  1
+  Ni  Ni6  2  0.00000000  0.15854959  0.00000000  1

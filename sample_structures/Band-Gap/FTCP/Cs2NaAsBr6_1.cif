@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2NaAsBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95709547
+_cell_length_b   7.96250978
+_cell_length_c   7.94160023
+_cell_angle_alpha   60.39538710
+_cell_angle_beta   60.14401462
+_cell_angle_gamma   60.50771705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaAsBr6
+_chemical_formula_sum   'Cs2 Na1 As1 Br6'
+_cell_volume   358.59499425
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75014123  0.74510317  0.76238601  1.0
+  Cs  Cs1  1  0.25073397  0.24525351  0.26308524  1.0
+  Na  Na2  1  0.49896863  0.49493089  0.51276285  1.0
+  As  As3  1  0.99868473  0.99566304  0.01156328  1.0
+  Br  Br4  1  0.77029936  0.25840078  0.22179254  1.0
+  Br  Br5  1  0.26387379  0.20403653  0.76585135  1.0
+  Br  Br6  1  0.22403063  0.73205720  0.80159591  1.0
+  Br  Br7  1  0.21911972  0.76369605  0.26507465  1.0
+  Br  Br8  1  0.78016053  0.22920767  0.75673714  1.0
+  Br  Br9  1  0.73493233  0.78547458  0.25778174  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2NaYI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.86942948
+_cell_length_b   8.77574390
+_cell_length_c   8.71097237
+_cell_angle_alpha   59.46303083
+_cell_angle_beta   59.04214595
+_cell_angle_gamma   59.94160340
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaYI6
+_chemical_formula_sum   'Cs2 Na1 Y1 I6'
+_cell_volume   473.73138611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.76485198  0.74548093  0.71731753  1.0
+  Cs  Cs1  1  0.26851462  0.23774535  0.23550386  1.0
+  Na  Na2  1  0.51207994  0.49250296  0.48282024  1.0
+  Y  Y3  1  0.01351511  0.98994091  0.98361408  1.0
+  I  I4  1  0.83511070  0.23671193  0.22095893  1.0
+  I  I5  1  0.30709329  0.18174686  0.71499816  1.0
+  I  I6  1  0.19086021  0.74506551  0.74444441  1.0
+  I  I7  1  0.26230443  0.70204542  0.21846084  1.0
+  I  I8  1  0.76087531  0.27727464  0.75252044  1.0
+  I  I9  1  0.72109171  0.79597412  0.24996146  1.0

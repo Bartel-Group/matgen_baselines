@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_PrHo2SiSnTePt
+_symmetry_space_group_name_H-M   Amm2
+_cell_length_a   5.24593429
+_cell_length_b   5.91949928
+_cell_length_c   12.27421146
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   38
+_chemical_formula_structural   PrHo2SiSnTePt
+_chemical_formula_sum   'Pr2 Ho4 Si2 Sn2 Te2 Pt2'
+_cell_volume   381.15482232
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x, y+1/2, z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  2  0.50000000  0.00000000  0.54195599  1
+  Ho  Ho1  2  0.00000000  0.00000000  0.96289152  1
+  Ho  Ho2  2  0.50000000  0.00000000  0.23247749  1
+  Si  Si3  2  0.50000000  0.00000000  0.79600251  1
+  Sn  Sn4  2  0.00000000  0.00000000  0.70379899  1
+  Te  Te5  2  0.00000000  0.00000000  0.37356633  1
+  Pt  Pt6  2  0.50000000  0.00000000  0.99968582  1

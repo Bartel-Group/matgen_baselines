@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeInPt4
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.05074530
+_cell_length_b   5.38222694
+_cell_length_c   5.41822855
+_cell_angle_alpha   64.10937190
+_cell_angle_beta   67.32872098
+_cell_angle_gamma   67.81923453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeInPt4
+_chemical_formula_sum   'Ce1 In1 Pt4'
+_cell_volume   118.32096283
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00000000  0.00000000  1
+  In  In1  1  0.23462814  0.18542188  0.28768933  1
+  Pt  Pt2  1  0.00000000  0.79532570  0.63668489  1
+  Pt  Pt3  1  0.57832378  0.12950790  0.70205325  1
+  Pt  Pt4  1  0.63611764  0.38920417  0.69083226  1
+  Pt  Pt5  1  0.67656076  0.61919272  0.17627931  1

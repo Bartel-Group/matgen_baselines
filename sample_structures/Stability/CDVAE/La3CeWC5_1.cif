@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La3CeWC5
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.47320162
+_cell_length_b   6.26875610
+_cell_length_c   6.42989106
+_cell_angle_alpha   80.91574931
+_cell_angle_beta   65.28342392
+_cell_angle_gamma   64.44587124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3CeWC5
+_chemical_formula_sum   'La3 Ce1 W1 C5'
+_cell_volume   180.72837151
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.20215502  0.83244429  0.61920634  1
+  La  La1  1  0.39314927  0.22512372  0.83915592  1
+  La  La2  1  0.98160521  0.44247565  0.43675898  1
+  Ce  Ce3  1  0.81008523  0.02212551  0.20812714  1
+  W  W4  1  0.54475446  0.60459109  0.07408257  1
+  C  C5  1  0.20118268  0.63244554  0.03441950  1
+  C  C6  1  0.40104845  0.94984931  0.18824306  1
+  C  C7  1  0.49681621  0.44541866  0.37340928  1
+  C  C8  1  0.72871626  0.87299387  0.56259835  1
+  C  C9  1  0.87071024  0.30086627  0.86780933  1

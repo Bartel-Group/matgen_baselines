@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cd5NiSbS7
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.55376982
+_cell_length_b   6.65360287
+_cell_length_c   8.56665118
+_cell_angle_alpha   97.93709096
+_cell_angle_beta   90.10848033
+_cell_angle_gamma   114.53242098
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd5NiSbS7
+_chemical_formula_sum   'Cd5 Ni1 Sb1 S7'
+_cell_volume   284.60718233
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.08392792  0.28339917  0.51527553  1
+  Cd  Cd1  1  0.21449759  0.54994998  0.93642496  1
+  Cd  Cd2  1  0.37390206  0.86609006  0.39354591  1
+  Cd  Cd3  1  0.50185024  0.12146455  0.79694757  1
+  Cd  Cd4  1  0.65070271  0.43564399  0.23390482  1
+  Ni  Ni5  1  0.80694392  0.70298421  0.66562773  1
+  Sb  Sb6  1  0.92391745  0.98308655  0.09543409  1
+  S  S7  1  0.14070758  0.42346137  0.22313344  1
+  S  S8  1  0.22628379  0.69518412  0.66541279  1
+  S  S9  1  0.41481262  0.99115737  0.10061081  1
+  S  S10  1  0.59163413  0.32438283  0.53682530  1
+  S  S11  1  0.70882992  0.55902652  0.93360737  1
+  S  S12  1  0.84996187  0.84234723  0.42383717  1
+  S  S13  1  0.96497493  0.07310301  0.80618415  1

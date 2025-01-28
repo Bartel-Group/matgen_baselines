@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TmCl2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25256724
+_cell_length_b   4.26799652
+_cell_length_c   10.70344739
+_cell_angle_alpha   89.50312160
+_cell_angle_beta   89.99844169
+_cell_angle_gamma   89.98967651
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmCl2F
+_chemical_formula_sum   'Tm2 Cl4 F2'
+_cell_volume   194.25964304
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.49999976  0.75056164  0.25064940  1.0
+  Tm  Tm1  1  0.50000025  0.24943836  0.74935058  1.0
+  Cl  Cl2  1  0.49999996  0.25178132  0.10457410  1.0
+  Cl  Cl3  1  0.50000006  0.74821874  0.89542589  1.0
+  Cl  Cl4  1  0.49999940  0.75070584  0.60315720  1.0
+  Cl  Cl5  1  0.50000058  0.24929418  0.39684280  1.0
+  F  F6  1  0.99999926  0.75214639  0.25056134  1.0
+  F  F7  1  0.00000074  0.24785353  0.74943869  1.0

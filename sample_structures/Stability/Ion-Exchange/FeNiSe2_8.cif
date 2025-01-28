@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_FeNiSe2
+_symmetry_space_group_name_H-M   Imm2
+_cell_length_a   8.57018466
+_cell_length_b   12.28493743
+_cell_length_c   8.49712797
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   44
+_chemical_formula_structural   FeNiSe2
+_chemical_formula_sum   'Fe8 Ni8 Se16'
+_cell_volume   894.61317015
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  4  0.00000000  0.24934691  0.49345104  1
+  Fe  Fe1  4  0.14652870  0.00000000  0.85913723  1
+  Ni  Ni2  4  0.00000000  0.15923151  0.99496758  1
+  Ni  Ni3  4  0.16312365  0.00000000  0.15656460  1
+  Se  Se4  8  0.22202580  0.35775295  0.50295603  1
+  Se  Se5  4  0.00000000  0.13517857  0.27355815  1
+  Se  Se6  4  0.00000000  0.13944371  0.71670033  1

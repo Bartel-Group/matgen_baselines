@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2CeTeI3BrCl2
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.87303775
+_cell_length_b   5.06182792
+_cell_length_c   15.77777820
+_cell_angle_alpha   80.89217412
+_cell_angle_beta   81.80850718
+_cell_angle_gamma   89.89500814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CeTeI3BrCl2
+_chemical_formula_sum   'Ba2 Ce1 Te1 I3 Br1 Cl2'
+_cell_volume   380.26938180
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.64367379  0.60779073  0.09766946  1
+  Ba  Ba1  1  0.89327593  0.85708047  0.66703591  1
+  Ce  Ce2  1  0.50493582  0.47373669  0.41248890  1
+  Te  Te3  1  0.06302493  0.53243872  0.28074749  1
+  I  I4  1  0.16172962  0.12772010  0.06375874  1
+  I  I5  1  0.36956150  0.33257946  0.71412655  1
+  I  I6  1  0.77120371  0.73727645  0.88493223  1
+  Br  Br7  1  0.55231551  0.02606330  0.30006868  1
+  Cl  Cl8  1  0.46160105  0.92784580  0.51624815  1
+  Cl  Cl9  1  0.95959372  0.43011309  0.51512293  1

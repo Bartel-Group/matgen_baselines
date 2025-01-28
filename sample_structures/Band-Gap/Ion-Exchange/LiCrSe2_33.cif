@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiCrSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47892899
+_cell_length_b   7.01801875
+_cell_length_c   8.40850614
+_cell_angle_alpha   90.00029941
+_cell_angle_beta   90.00000556
+_cell_angle_gamma   90.00001952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCrSe2
+_chemical_formula_sum   'Li4 Cr4 Se8'
+_cell_volume   382.32842687
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00635323  0.58779009  0.87837328  1.0
+  Li  Li1  1  0.50635423  0.41220981  0.12162674  1.0
+  Li  Li2  1  0.50635327  0.91220754  0.37837536  1.0
+  Li  Li3  1  0.00635266  0.08779232  0.62162433  1.0
+  Cr  Cr4  1  0.00421583  0.57636509  0.37300249  1.0
+  Cr  Cr5  1  0.50421450  0.42363432  0.62699939  1.0
+  Cr  Cr6  1  0.50421910  0.92363342  0.87300131  1.0
+  Cr  Cr7  1  0.00422246  0.07636795  0.12699639  1.0
+  Se  Se8  1  0.10506980  0.90567109  0.36191207  1.0
+  Se  Se9  1  0.60506937  0.09432855  0.63808695  1.0
+  Se  Se10  1  0.60506810  0.59432432  0.86191154  1.0
+  Se  Se11  1  0.10506835  0.40567567  0.13808934  1.0
+  Se  Se12  1  0.63416217  0.56489411  0.38494931  1.0
+  Se  Se13  1  0.13416008  0.43510528  0.61505062  1.0
+  Se  Se14  1  0.13415648  0.93510464  0.88494917  1.0
+  Se  Se15  1  0.63416037  0.06489581  0.11505172  1.0

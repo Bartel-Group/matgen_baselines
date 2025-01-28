@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Rb2NaSn5Au2
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   5.05257333
+_cell_length_b   5.31161177
+_cell_length_c   11.63706500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Rb2NaSn5Au2
+_chemical_formula_sum   'Rb2 Na1 Sn5 Au2'
+_cell_volume   312.30749729
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.50000000  0.16632029  1
+  Rb  Rb1  1  0.50000000  0.50000000  0.49574080  1
+  Na  Na2  1  0.50000000  0.00000000  0.75622657  1
+  Sn  Sn3  1  0.00000000  0.00000000  0.61147038  1
+  Sn  Sn4  1  0.00000000  0.00000000  0.92326019  1
+  Sn  Sn5  1  0.00000000  0.50000000  0.75644132  1
+  Sn  Sn6  1  0.50000000  0.00000000  0.27074362  1
+  Sn  Sn7  1  0.50000000  0.50000000  0.92066272  1
+  Au  Au8  1  0.00000000  0.00000000  0.37170017  1
+  Au  Au9  1  0.50000000  0.00000000  0.03373390  1

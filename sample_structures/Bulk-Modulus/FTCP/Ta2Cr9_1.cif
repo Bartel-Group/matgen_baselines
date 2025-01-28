@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ta2Cr9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.40601134
+_cell_length_b   3.47015429
+_cell_length_c   5.30625772
+_cell_angle_alpha   104.92066193
+_cell_angle_beta   97.90952301
+_cell_angle_gamma   136.41267395
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Cr9
+_chemical_formula_sum   'Ta2 Cr9'
+_cell_volume   25.78707353
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta1  1  0.14621955  0.30512723  0.57151544  1.0
+  Ta  Ta2  1  0.78324807  0.35358280  0.90942854  1.0
+  Cr  Cr1  1  0.76813531  0.40216714  0.75789487  1.0
+  Cr  Cr2  1  0.49611920  0.59064895  0.00000000  1.0
+  Cr  Cr3  1  0.32444942  0.57991350  0.69316417  1.0
+  Cr  Cr4  1  0.33042321  0.89798498  0.86343491  1.0
+  Cr  Cr5  1  0.33367899  0.00000000  0.28927714  1.0
+  Cr  Cr6  1  0.95134264  0.56877398  0.30283582  1.0
+  Cr  Cr7  1  0.00000000  0.00000000  0.00000000  1.0
+  Cr  Cr8  1  0.79326349  0.74872565  0.84115702  1.0
+  Cr  Cr9  1  0.78052306  0.15348205  0.00000000  1.0

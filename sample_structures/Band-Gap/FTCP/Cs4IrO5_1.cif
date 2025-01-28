@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs4IrO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32038498
+_cell_length_b   5.22923088
+_cell_length_c   6.38510132
+_cell_angle_alpha   76.36161804
+_cell_angle_beta   69.94760132
+_cell_angle_gamma   81.82064819
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs4IrO5
+_chemical_formula_sum   'Cs4 Ir1 O5'
+_cell_volume   161.80158309
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs1  1  0.33592802  0.33296686  0.57999420  1.0
+  Cs  Cs2  1  0.36410809  0.17888650  0.75823444  1.0
+  Cs  Cs3  1  0.83874702  0.66298711  0.25228679  1.0
+  Cs  Cs4  1  0.74852979  0.91659480  0.49388260  1.0
+  Ir  Ir1  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O1  1  0.00000000  0.90239561  0.38693115  1.0
+  O  O2  1  0.87138593  0.11862352  0.66820842  1.0
+  O  O3  1  0.67324543  0.00000000  0.17507389  1.0
+  O  O4  1  0.35687187  0.85894758  0.66475213  1.0
+  O  O5  1  0.10316738  0.12987606  0.00000000  1.0

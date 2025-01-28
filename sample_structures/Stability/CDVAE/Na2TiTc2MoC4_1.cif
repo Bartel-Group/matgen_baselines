@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2TiTc2MoC4
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.46281462
+_cell_length_b   5.48851416
+_cell_length_c   5.91344415
+_cell_angle_alpha   112.99420183
+_cell_angle_beta   90.12575070
+_cell_angle_gamma   119.31903866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2TiTc2MoC4
+_chemical_formula_sum   'Na2 Ti1 Tc2 Mo1 C4'
+_cell_volume   138.11056263
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.29655350  0.03045602  0.99034408  1
+  Na  Na1  1  0.94834353  0.35133025  0.97331399  1
+  Ti  Ti2  1  0.76124267  0.60167586  0.52008592  1
+  Tc  Tc3  1  0.15334954  0.34891820  0.49139736  1
+  Tc  Tc4  1  0.37890120  0.99160862  0.48940090  1
+  Mo  Mo5  1  0.65287578  0.75707022  0.12636121  1
+  C  C6  1  0.02082770  0.86719638  0.30582628  1
+  C  C7  1  0.39794407  0.57897244  0.33367595  1
+  C  C8  1  0.47550747  0.42428924  0.75911166  1
+  C  C9  1  0.71296766  0.18520387  0.31838997  1

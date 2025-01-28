@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CrHg8Te5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22996908
+_cell_length_b   8.22996864
+_cell_length_c   8.27343090
+_cell_angle_alpha   67.63839953
+_cell_angle_beta   67.63839455
+_cell_angle_gamma   67.57841931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrHg8Te5
+_chemical_formula_sum   'Cr1 Hg8 Te5'
+_cell_volume   460.55179564
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000002  0.00000000  0.49999998  1.0
+  Hg  Hg1  1  0.21711400  0.21711411  0.26293228  1.0
+  Hg  Hg2  1  0.24053776  0.24053768  0.74059539  1.0
+  Hg  Hg3  1  0.75946220  0.75946233  0.25940465  1.0
+  Hg  Hg4  1  0.78288600  0.78288592  0.73706771  1.0
+  Hg  Hg5  1  0.21691816  0.76438379  0.71814655  1.0
+  Hg  Hg6  1  0.76438383  0.21691828  0.71814655  1.0
+  Hg  Hg7  1  0.23561618  0.78308168  0.28185343  1.0
+  Hg  Hg8  1  0.78308185  0.23561620  0.28185346  1.0
+  Te  Te9  1  0.61010283  0.61010272  0.10939266  1.0
+  Te  Te10  1  0.38989717  0.38989727  0.89060734  1.0
+  Te  Te11  1  0.00000000  0.99999999  0.00000001  1.0
+  Te  Te12  1  0.49999999  0.00000001  0.49999999  1.0
+  Te  Te13  1  0.00000000  0.50000000  0.49999999  1.0

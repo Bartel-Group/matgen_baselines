@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Rb2TlCuSb3BrO8
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.44549197
+_cell_length_b   8.10644255
+_cell_length_c   8.19484144
+_cell_angle_alpha   77.61307445
+_cell_angle_beta   84.39099243
+_cell_angle_gamma   89.07104310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2TlCuSb3BrO8
+_chemical_formula_sum   'Rb2 Tl1 Cu1 Sb3 Br1 O8'
+_cell_volume   351.63253782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.38426989  0.57378000  0.75652785  1
+  Rb  Rb1  1  0.44680533  0.42061170  0.33148427  1
+  Tl  Tl2  1  0.87996852  0.73605212  0.05847191  1
+  Cu  Cu3  1  0.81453256  0.26636293  0.99275042  1
+  Sb  Sb4  1  0.34750234  0.01254491  0.21125782  1
+  Sb  Sb5  1  0.38015040  0.04935448  0.82024129  1
+  Sb  Sb6  1  0.91004324  0.08088985  0.62021773  1
+  Br  Br7  1  0.92054801  0.62221090  0.45210736  1
+  O  O8  1  0.08497172  0.91149249  0.78988295  1
+  O  O9  1  0.21272228  0.16053578  0.00820089  1
+  O  O10  1  0.23606139  0.22291023  0.65160429  1
+  O  O11  1  0.44913014  0.87465473  0.03805567  1
+  O  O12  1  0.59563206  0.92434378  0.68327647  1
+  O  O13  1  0.65432974  0.13840488  0.19712583  1
+  O  O14  1  0.70677292  0.18529538  0.80201482  1
+  O  O15  1  0.78528805  0.48823147  0.98336020  1

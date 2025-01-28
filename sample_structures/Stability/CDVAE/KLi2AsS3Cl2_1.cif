@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_KLi2AsS3Cl2
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.43353749
+_cell_length_b   6.44722999
+_cell_length_c   7.57828300
+_cell_angle_alpha   65.37831161
+_cell_angle_beta   65.54970300
+_cell_angle_gamma   60.54824471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLi2AsS3Cl2
+_chemical_formula_sum   'K1 Li2 As1 S3 Cl2'
+_cell_volume   239.99379339
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.86835527  0.60407115  0.54908672  1
+  Li  Li1  1  0.44464425  0.17168503  0.84028338  1
+  Li  Li2  1  0.67030338  0.39760629  0.16327705  1
+  As  As3  1  0.07939387  0.80419715  0.93625009  1
+  S  S4  1  0.07068646  0.44613271  0.01943570  1
+  S  S5  1  0.36560737  0.79566618  0.01910739  1
+  S  S6  1  0.72140651  0.07788608  0.03050261  1
+  Cl  Cl7  1  0.18593524  0.92500542  0.59387555  1
+  Cl  Cl8  1  0.55675453  0.29133491  0.50332663  1

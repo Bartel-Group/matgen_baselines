@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_CaAsRhO
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   6.47992153
+_cell_length_b   3.75240617
+_cell_length_c   6.04532615
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.93839121
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   CaAsRhO
+_chemical_formula_sum   'Ca2 As2 Rh2 O2'
+_cell_volume   146.97418980
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  2  0.01330739  0.50000000  0.03703453  1
+  As  As1  2  0.35609919  0.50000000  0.64268326  1
+  Rh  Rh2  2  0.18787342  0.00000000  0.47906824  1
+  O  O3  2  0.18093391  0.00000000  0.13881479  1

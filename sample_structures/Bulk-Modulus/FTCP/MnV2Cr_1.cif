@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnV2Cr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.76352191
+_cell_length_b   3.61999989
+_cell_length_c   1.67334211
+_cell_angle_alpha   53.69681168
+_cell_angle_beta   60.63668442
+_cell_angle_gamma   51.81736755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnV2Cr
+_chemical_formula_sum   'Mn1 V2 Cr1'
+_cell_volume   6.63538944
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn1  1  0.68589413  0.80158406  0.65164661  1.0
+  V  V1  1  0.00000000  0.00000000  0.00000000  1.0
+  V  V2  1  0.64709169  0.57917237  0.69261318  1.0
+  Cr  Cr1  1  0.21758074  0.18221962  0.15061522  1.0

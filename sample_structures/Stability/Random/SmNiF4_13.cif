@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_SmNiF4
+_symmetry_space_group_name_H-M   P2/c
+_cell_length_a   5.63956912
+_cell_length_b   5.58542178
+_cell_length_c   5.55526887
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.14868841
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   13
+_chemical_formula_structural   SmNiF4
+_chemical_formula_sum   'Sm2 Ni2 F8'
+_cell_volume   170.39983741
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  2  0.50000000  0.24791792  0.75000000  1
+  Ni  Ni1  2  0.00000000  0.29306515  0.25000000  1
+  F  F2  4  0.26575829  0.46824244  0.96484425  1
+  F  F3  4  0.28121410  0.05814290  0.38822912  1

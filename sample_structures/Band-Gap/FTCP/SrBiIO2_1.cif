@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrBiIO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.38963727
+_cell_length_b   10.14109258
+_cell_length_c   5.74432184
+_cell_angle_alpha   54.76454979
+_cell_angle_beta   89.14112289
+_cell_angle_gamma   127.12357380
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrBiIO2
+_chemical_formula_sum   'Sr2 Bi2 I2 O4'
+_cell_volume   264.19474785
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.82818580  0.03141740  0.70575395  1.0
+  Sr  Sr1  1  0.07325853  0.87243319  0.31763109  1.0
+  Bi  Bi2  1  0.43095475  0.53714493  0.70916196  1.0
+  Bi  Bi3  1  0.55886155  0.42051568  0.33340339  1.0
+  I  I4  1  0.19016280  0.73519587  0.97744481  1.0
+  I  I5  1  0.75496228  0.17271579  0.04480948  1.0
+  O  O6  1  0.69887320  0.71113975  0.80163948  1.0
+  O  O7  1  0.21605886  0.23949165  0.59487050  1.0
+  O  O8  1  0.72072890  0.71769970  0.27618930  1.0
+  O  O9  1  0.41684462  0.27551711  0.99914741  1.0

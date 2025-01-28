@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2LiGdCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98234224
+_cell_length_b   7.28512573
+_cell_length_c   7.72185612
+_cell_angle_alpha   66.26726532
+_cell_angle_beta   63.40087891
+_cell_angle_gamma   57.70616531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2LiGdCl6
+_chemical_formula_sum   'Cs2 Li1 Gd1 Cl6'
+_cell_volume   331.39907836
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.74000329  0.68731952  0.60919935  1.0
+  Cs  Cs1  1  0.13744435  0.23331681  0.16534832  1.0
+  Li  Li2  1  0.72649544  0.62146455  0.59583467  1.0
+  Gd  Gd3  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl4  1  0.45071992  0.19179258  0.17691687  1.0
+  Cl  Cl5  1  0.17180413  0.25694463  0.59940553  1.0
+  Cl  Cl6  1  0.15380779  0.72480088  0.82036006  1.0
+  Cl  Cl7  1  0.20523041  0.75200820  0.18031606  1.0
+  Cl  Cl8  1  0.79610652  0.16609064  0.72709179  1.0
+  Cl  Cl9  1  0.67395967  0.72314823  0.30120179  1.0

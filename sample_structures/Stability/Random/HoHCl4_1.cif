@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_HoHCl4
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   6.21859689
+_cell_length_b   6.84617022
+_cell_length_c   8.41252013
+_cell_angle_alpha   90.92741344
+_cell_angle_beta   91.78355105
+_cell_angle_gamma   97.08410561
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   HoHCl4
+_chemical_formula_sum   'Ho2 H2 Cl8'
+_cell_volume   355.17239695
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  2  0.00856776  0.74598705  0.37963249  1
+  H  H1  2  0.48403999  0.24265492  0.83315638  1
+  Cl  Cl2  2  0.22647845  0.09896370  0.40167416  1
+  Cl  Cl3  2  0.23360451  0.59724908  0.60792750  1
+  Cl  Cl4  2  0.26002622  0.64058419  0.16014709  1
+  Cl  Cl5  2  0.26634529  0.14071315  0.84751518  1

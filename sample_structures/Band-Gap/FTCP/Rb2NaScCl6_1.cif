@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2NaScCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41668261
+_cell_length_b   7.49831148
+_cell_length_c   7.49064939
+_cell_angle_alpha   59.64148648
+_cell_angle_beta   59.43262403
+_cell_angle_gamma   59.13228940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaScCl6
+_chemical_formula_sum   'Rb2 Na1 Sc1 Cl6'
+_cell_volume   290.54326119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.73227669  0.75465732  0.70062721  1.0
+  Rb  Rb1  1  0.23714911  0.25652781  0.20420234  1.0
+  Na  Na2  1  0.48094076  0.50706921  0.45346673  1.0
+  Sc  Sc3  1  0.98160663  0.00762204  0.95242312  1.0
+  Cl  Cl4  1  0.72606401  0.28902081  0.14329077  1.0
+  Cl  Cl5  1  0.20950307  0.25138076  0.67207731  1.0
+  Cl  Cl6  1  0.23694469  0.72639344  0.76086199  1.0
+  Cl  Cl7  1  0.21814813  0.82656045  0.18640707  1.0
+  Cl  Cl8  1  0.74622759  0.18903417  0.71645914  1.0
+  Cl  Cl9  1  0.75421139  0.76331615  0.23131804  1.0

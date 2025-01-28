@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba2MoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09673256
+_cell_length_b   4.09822545
+_cell_length_c   7.44383432
+_cell_angle_alpha   105.97781830
+_cell_angle_beta   105.97290696
+_cell_angle_gamma   89.99842567
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2MoO4
+_chemical_formula_sum   'Ba2 Mo1 O4'
+_cell_volume   115.12192564
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.64814939  0.64815136  0.29630153  1.0
+  Ba  Ba1  1  0.35185062  0.35184854  0.70369842  1.0
+  Mo  Mo2  1  0.99999999  0.99999999  0.99999999  1.0
+  O  O3  1  0.84428724  0.84428535  0.68857276  1.0
+  O  O4  1  0.15571270  0.15571478  0.31142727  1.0
+  O  O5  1  0.00000007  0.50000000  0.00000003  1.0
+  O  O6  1  0.49999999  0.99999999  0.00000001  1.0

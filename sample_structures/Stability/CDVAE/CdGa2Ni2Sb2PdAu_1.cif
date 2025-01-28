@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdGa2Ni2Sb2PdAu
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   5.80081552
+_cell_length_b   3.84721092
+_cell_length_c   7.72213471
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.81317654
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   CdGa2Ni2Sb2PdAu
+_chemical_formula_sum   'Cd1 Ga2 Ni2 Sb2 Pd1 Au1'
+_cell_volume   163.12762371
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.40958744  0.50000000  0.05846026  1
+  Ga  Ga1  1  0.14388435  0.00000000  0.24863807  1
+  Ga  Ga2  1  0.17338509  0.50000000  0.61657478  1
+  Ni  Ni3  1  0.40259774  0.50000000  0.40189481  1
+  Ni  Ni4  1  0.89045458  0.50000000  0.29138997  1
+  Sb  Sb5  1  0.73508712  0.00000000  0.44831085  1
+  Sb  Sb6  1  0.83859488  0.50000000  0.94259433  1
+  Pd  Pd7  1  0.08427530  0.00000000  0.82099837  1
+  Au  Au8  1  0.51049338  0.00000000  0.71353676  1

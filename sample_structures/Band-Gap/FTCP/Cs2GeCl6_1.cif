@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2GeCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.69070816
+_cell_length_b   6.19629145
+_cell_length_c   6.38318539
+_cell_angle_alpha   62.71952438
+_cell_angle_beta   64.42582703
+_cell_angle_gamma   58.28214645
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2GeCl6
+_chemical_formula_sum   'Cs2 Ge1 Cl6'
+_cell_volume   222.53583309
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs1  1  0.71308172  0.82441568  0.78985679  1.0
+  Cs  Cs2  1  0.25642979  0.33549434  0.21953267  1.0
+  Ge  Ge1  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl1  1  0.11969781  0.65811604  0.73832327  1.0
+  Cl  Cl2  1  0.27826908  0.70043290  0.26777852  1.0
+  Cl  Cl3  1  0.73597902  0.26857907  0.70875585  1.0
+  Cl  Cl4  1  0.78054899  0.31251258  0.17298988  1.0
+  Cl  Cl5  1  0.74112105  0.77152771  0.21078330  1.0
+  Cl  Cl6  1  0.37426788  0.17531952  0.84199834  1.0

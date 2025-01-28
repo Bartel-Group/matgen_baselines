@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Na4SnGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30078459
+_cell_length_b   6.50174761
+_cell_length_c   10.04861927
+_cell_angle_alpha   74.77617645
+_cell_angle_beta   73.83750916
+_cell_angle_gamma   125.45363617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4SnGe2
+_chemical_formula_sum   'Na4 Sn1 Ge2'
+_cell_volume   270.66376172
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.52832949  0.51530343  0.00000000  1.0
+  Na  Na2  1  0.76414233  0.23146635  0.47470227  1.0
+  Na  Na3  1  0.30048972  0.78845990  0.66836327  1.0
+  Na  Na4  1  0.17242885  0.87836444  0.00000000  1.0
+  Sn  Sn1  1  0.86059868  0.38964313  0.00000000  1.0
+  Ge  Ge1  1  0.00000000  0.00000000  0.17269555  1.0
+  Ge  Ge2  1  0.83126694  0.84746969  0.46324483  1.0

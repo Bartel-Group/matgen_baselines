@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaPO3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.58376637
+_cell_length_b   5.44578569
+_cell_length_c   5.94822153
+_cell_angle_alpha   74.18997571
+_cell_angle_beta   88.12202565
+_cell_angle_gamma   77.03786728
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPO3
+_chemical_formula_sum   'Na2 P2 O6'
+_cell_volume   139.15978372
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.40885545  0.55358964  0.74973285  1
+  Na  Na1  1  0.87381515  0.60309340  0.13369317  1
+  P  P2  1  0.48174682  0.13136108  0.37359843  1
+  P  P3  1  0.96718855  0.15657441  0.69405737  1
+  O  O4  1  0.08576686  0.88583729  0.84577167  1
+  O  O5  1  0.12911413  0.20125307  0.44123184  1
+  O  O6  1  0.50917274  0.34488059  0.15973176  1
+  O  O7  1  0.57810152  0.84774072  0.38272307  1
+  O  O8  1  0.62592225  0.18700425  0.60053674  1
+  O  O9  1  0.95974412  0.38908490  0.78397292  1

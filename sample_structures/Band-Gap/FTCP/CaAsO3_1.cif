@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaAsO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.83916489
+_cell_length_b   9.02233247
+_cell_length_c   9.72574899
+_cell_angle_alpha   116.22594227
+_cell_angle_beta   71.12479455
+_cell_angle_gamma   103.75921623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAsO3
+_chemical_formula_sum   'Ca2 As2 O6'
+_cell_volume   728.25790649
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.92212712  0.25816289  0.76700009  1.0
+  Ca  Ca1  1  0.80750680  0.25271735  0.42881643  1.0
+  As  As2  1  0.36344582  0.41834081  0.78625447  1.0
+  As  As3  1  0.88720944  0.35927445  0.25844850  1.0
+  O  O4  1  0.27801072  0.87808902  0.47116925  1.0
+  O  O5  1  0.62408856  0.66995749  0.98511982  1.0
+  O  O6  1  0.09884391  0.12218313  0.40123176  1.0
+  O  O7  1  0.48085564  0.47826291  0.85205403  1.0
+  O  O8  1  0.91001720  0.33873930  0.06142749  1.0
+  O  O9  1  0.90313628  0.28546057  0.50924064  1.0

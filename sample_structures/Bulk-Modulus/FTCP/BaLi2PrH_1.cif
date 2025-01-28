@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaLi2PrH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.05977297
+_cell_length_b   3.05087876
+_cell_length_c   3.18856025
+_cell_angle_alpha   63.17027283
+_cell_angle_beta   68.43524933
+_cell_angle_gamma   69.04139709
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi2PrH
+_chemical_formula_sum   'Ba1 Li2 Pr1 H1'
+_cell_volume   24.03304851
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.85901833  0.64684391  0.66232938  1.0
+  Li  Li1  1  0.00000000  0.00000000  0.00000000  1.0
+  Li  Li2  1  0.83566976  0.51486778  0.28912562  1.0
+  Pr  Pr1  1  0.44024524  0.23534951  0.22841331  1.0
+  H  H1  1  0.36732405  0.38606924  0.20278817  1.0

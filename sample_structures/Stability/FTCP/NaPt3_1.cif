@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaPt3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   2.83690143
+_cell_length_b   2.93108702
+_cell_length_c   2.97733641
+_cell_angle_alpha   92.91510010
+_cell_angle_beta   99.02749634
+_cell_angle_gamma   100.86210632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPt3
+_chemical_formula_sum   'Na1 Pt3'
+_cell_volume   23.92974101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt1  1  -0.00000000  0.70889372  0.43143022  1
+  Pt  Pt2  1  0.49153271  0.00000000  0.52962506  1
+  Pt  Pt3  1  0.63884676  0.42816222  0.00000000  1

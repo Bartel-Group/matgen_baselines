@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoSiNi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35925817
+_cell_length_b   5.81446314
+_cell_length_c   4.89272499
+_cell_angle_alpha   83.07221985
+_cell_angle_beta   79.07231903
+_cell_angle_gamma   127.01874542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoSiNi4
+_chemical_formula_sum   'Ho1 Si1 Ni4'
+_cell_volume   114.04056324
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho1  1  0.00000000  0.00000000  0.00000000  1.0
+  Si  Si1  1  0.49719346  0.69259739  0.61717439  1.0
+  Ni  Ni1  1  0.18672541  0.52010560  0.00000000  1.0
+  Ni  Ni2  1  0.68587214  0.17720804  0.00000000  1.0
+  Ni  Ni3  1  0.12680334  0.00000000  0.28850597  1.0
+  Ni  Ni4  1  0.00000000  0.69565409  0.49319756  1.0

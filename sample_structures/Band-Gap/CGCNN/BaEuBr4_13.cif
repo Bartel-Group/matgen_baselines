@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaEuBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61078325
+_cell_length_b   7.75662793
+_cell_length_c   7.76867805
+_cell_angle_alpha   90.00593830
+_cell_angle_beta   90.00286172
+_cell_angle_gamma   83.47947519
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEuBr4
+_chemical_formula_sum   'Ba2 Eu2 Br8'
+_cell_volume   455.64956680
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.49998421  0.25000354  0.73565428  1.0
+  Ba  Ba1  1  0.50001616  0.74999651  0.26434579  1.0
+  Eu  Eu2  1  0.99997908  0.74998032  0.79772339  1.0
+  Eu  Eu3  1  0.00002170  0.25002027  0.20227653  1.0
+  Br  Br4  1  0.75353726  0.93798928  0.54112954  1.0
+  Br  Br5  1  0.24645811  0.56201613  0.54109017  1.0
+  Br  Br6  1  0.24646377  0.06201091  0.45887084  1.0
+  Br  Br7  1  0.75354084  0.43798330  0.45890931  1.0
+  Br  Br8  1  0.24665614  0.49229658  0.03965583  1.0
+  Br  Br9  1  0.75334099  0.00771601  0.03969702  1.0
+  Br  Br10  1  0.75334501  0.50770329  0.96034441  1.0
+  Br  Br11  1  0.24665973  0.99228487  0.96030487  1.0

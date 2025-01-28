@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Mg7Tl4ZnSn5
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   7.32187236
+_cell_length_b   8.03738636
+_cell_length_c   8.43719436
+_cell_angle_alpha   74.88509593
+_cell_angle_beta   67.92972334
+_cell_angle_gamma   69.55197336
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg7Tl4ZnSn5
+_chemical_formula_sum   'Mg7 Tl4 Zn1 Sn5'
+_cell_volume   426.32104614
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.04282014  0.81458134  0.01421586  1
+  Mg  Mg1  1  0.06861766  0.94449527  0.60129090  1
+  Mg  Mg2  1  0.23718182  0.31288803  0.35625650  1
+  Mg  Mg3  1  0.48813950  0.76531801  0.71748941  1
+  Mg  Mg4  1  0.55119829  0.87088649  0.29310325  1
+  Mg  Mg5  1  0.71520244  0.23061236  0.05747681  1
+  Mg  Mg6  1  0.92896427  0.56923015  0.81197586  1
+  Tl  Tl7  1  0.15319170  0.04185387  0.19480670  1
+  Tl  Tl8  1  0.36013184  0.55726892  0.51321452  1
+  Tl  Tl9  1  0.64092447  0.12167432  0.46707768  1
+  Tl  Tl10  1  0.78001433  0.34237214  0.65188834  1
+  Zn  Zn11  1  0.46278073  0.64147052  0.08978962  1
+  Sn  Sn12  1  0.19413325  0.15769342  0.78322321  1
+  Sn  Sn13  1  0.31693409  0.43017592  0.95500230  1
+  Sn  Sn14  1  0.65042856  0.94714268  0.89981400  1
+  Sn  Sn15  1  0.83438905  0.48351340  0.20536588  1
+  Sn  Sn16  1  0.92749084  0.70284011  0.42210611  1

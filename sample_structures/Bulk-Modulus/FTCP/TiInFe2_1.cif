@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiInFe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.96102381
+_cell_length_b   3.30456853
+_cell_length_c   2.30392957
+_cell_angle_alpha   70.20240021
+_cell_angle_beta   67.96637726
+_cell_angle_gamma   73.55194855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiInFe2
+_chemical_formula_sum   'Ti1 In1 Fe2'
+_cell_volume   19.34468443
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In1  1  0.52129781  0.39430532  0.46518242  1.0
+  Fe  Fe1  1  0.37903646  0.27866626  0.28032336  1.0
+  Fe  Fe2  1  0.62370157  0.70327657  0.73892748  1.0

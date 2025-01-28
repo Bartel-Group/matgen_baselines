@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Gd2MgTl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31754637
+_cell_length_b   6.40845251
+_cell_length_c   5.50142765
+_cell_angle_alpha   69.24490356
+_cell_angle_beta   64.60089111
+_cell_angle_gamma   69.12004089
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2MgTl
+_chemical_formula_sum   'Gd2 Mg1 Tl1'
+_cell_volume   124.75965422
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd1  1  0.00000000  0.89488524  0.00000000  1.0
+  Gd  Gd2  1  0.49150088  0.60144162  0.59067261  1.0
+  Mg  Mg1  1  0.20026523  0.22841284  0.23658112  1.0
+  Tl  Tl1  1  0.66936320  0.73803097  0.70258713  1.0

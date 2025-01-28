@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BeCuBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94844121
+_cell_length_b   6.25017489
+_cell_length_c   7.62938074
+_cell_angle_alpha   90.01038962
+_cell_angle_beta   89.99287085
+_cell_angle_gamma   97.64118296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeCuBr4
+_chemical_formula_sum   'Be2 Cu2 Br8'
+_cell_volume   281.13243851
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.49890502  0.25016628  0.61499641  1.0
+  Be  Be1  1  0.50108862  0.74991412  0.38509543  1.0
+  Cu  Cu2  1  0.00014993  0.25005799  0.19077510  1.0
+  Cu  Cu3  1  0.99976705  0.74999410  0.80874084  1.0
+  Br  Br4  1  0.27271631  0.04962123  0.39538442  1.0
+  Br  Br5  1  0.72732417  0.45026968  0.39526654  1.0
+  Br  Br6  1  0.72733180  0.95032228  0.60477328  1.0
+  Br  Br7  1  0.27276174  0.54967397  0.60479933  1.0
+  Br  Br8  1  0.25282057  0.07266669  0.86203967  1.0
+  Br  Br9  1  0.74693401  0.42732496  0.86198375  1.0
+  Br  Br10  1  0.74709060  0.92726148  0.13808629  1.0
+  Br  Br11  1  0.25311018  0.57272722  0.13805895  1.0

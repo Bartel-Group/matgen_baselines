@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb3AuF8
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   7.73856019
+_cell_length_b   8.14191448
+_cell_length_c   7.68705014
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.14827378
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   Rb3AuF8
+_chemical_formula_sum   'Rb6 Au2 F16'
+_cell_volume   457.53873189
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  4  0.38015414  0.24959044  0.89625321  1
+  Rb  Rb1  2  0.38815850  0.00000000  0.39578577  1
+  Au  Au2  2  0.38971620  0.50000000  0.39601404  1
+  F  F3  4  0.29129543  0.33200093  0.51409205  1
+  F  F4  4  0.48887803  0.33198084  0.27871892  1
+  F  F5  2  0.07841616  0.50000000  0.78560041  1
+  F  F6  2  0.11711728  0.00000000  0.60885347  1
+  F  F7  2  0.16342524  0.50000000  0.18189056  1
+  F  F8  2  0.18748487  0.00000000  0.00971548  1

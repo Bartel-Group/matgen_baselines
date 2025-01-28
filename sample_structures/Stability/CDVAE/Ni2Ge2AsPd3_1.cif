@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ni2Ge2AsPd3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.26438903
+_cell_length_b   6.36351010
+_cell_length_c   6.86567979
+_cell_angle_alpha   90.07611057
+_cell_angle_beta   90.00190792
+_cell_angle_gamma   118.07861833
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2Ge2AsPd3
+_chemical_formula_sum   'Ni4 Ge4 As2 Pd6'
+_cell_volume   241.47715257
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.63347169  0.76552503  0.60180981  1
+  Ni  Ni1  1  0.63515869  0.76496094  0.07426539  1
+  Ni  Ni2  1  0.64604549  0.42827132  0.82668606  1
+  Ni  Ni3  1  0.89433076  0.28240294  0.59165051  1
+  Ge  Ge4  1  0.31356186  0.36139649  0.60593671  1
+  Ge  Ge5  1  0.60779761  0.03857318  0.82842208  1
+  Ge  Ge6  1  0.62619775  0.01611659  0.34683108  1
+  Ge  Ge7  1  0.96734990  0.68494741  0.58245225  1
+  As  As8  1  0.33526008  0.35485810  0.06798546  1
+  As  As9  1  0.97787476  0.71118625  0.09308633  1
+  Pd  Pd10  1  0.04385378  0.01724068  0.82301195  1
+  Pd  Pd11  1  0.05873636  0.03310128  0.35703775  1
+  Pd  Pd12  1  0.23807879  0.65325782  0.83667765  1
+  Pd  Pd13  1  0.25007048  0.63686751  0.34335131  1
+  Pd  Pd14  1  0.61403809  0.40275550  0.34913282  1
+  Pd  Pd15  1  0.89882094  0.28339815  0.08608382  1

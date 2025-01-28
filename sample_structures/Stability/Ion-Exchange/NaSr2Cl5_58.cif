@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaSr2Cl5
+_symmetry_space_group_name_H-M   Pnnm
+_cell_length_a   7.92211338
+_cell_length_b   12.48984243
+_cell_length_c   8.46401237
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   58
+_chemical_formula_structural   NaSr2Cl5
+_chemical_formula_sum   'Na4 Sr8 Cl20'
+_cell_volume   837.47972638
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.00000000  0.50000000  0.24633035  1
+  Sr  Sr1  4  0.01312586  0.81823239  0.50000000  1
+  Sr  Sr2  4  0.01346892  0.82293258  0.00000000  1
+  Cl  Cl3  8  0.18886226  0.30397490  0.24800134  1
+  Cl  Cl4  4  0.00000000  0.00000000  0.25275456  1
+  Cl  Cl5  4  0.16102699  0.60674921  0.00000000  1
+  Cl  Cl6  4  0.16225679  0.60121030  0.50000000  1

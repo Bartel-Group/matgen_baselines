@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2FeMoCl6OF
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.67368644
+_cell_length_b   7.54916831
+_cell_length_c   8.74061819
+_cell_angle_alpha   65.19428352
+_cell_angle_beta   70.83461919
+_cell_angle_gamma   76.21950907
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2FeMoCl6OF
+_chemical_formula_sum   'Cs2 Fe1 Mo1 Cl6 O1 F1'
+_cell_volume   374.97365807
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.36440479  0.26382231  0.34418723  1
+  Cs  Cs1  1  0.37739062  0.98436915  0.90481173  1
+  Fe  Fe2  1  0.52848756  0.57929242  0.61942477  1
+  Mo  Mo3  1  0.92069064  0.81655252  0.46093946  1
+  Cl  Cl4  1  0.32106545  0.52729421  0.89183895  1
+  Cl  Cl5  1  0.33637482  0.74676197  0.38183602  1
+  Cl  Cl6  1  0.88118016  0.46622661  0.67777966  1
+  Cl  Cl7  1  0.94600163  0.14497963  0.23612808  1
+  Cl  Cl8  1  0.95359817  0.69375823  0.23786492  1
+  Cl  Cl9  1  0.95767209  0.92677823  0.67146936  1
+  O  O10  1  0.62001143  0.83600966  0.53252255  1
+  F  F11  1  0.51290083  0.34533099  0.60137153  1

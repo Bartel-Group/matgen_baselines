@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NiCl4
+_symmetry_space_group_name_H-M   Pna2_1
+_cell_length_a   8.89486205
+_cell_length_b   12.78068101
+_cell_length_c   7.23763625
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   33
+_chemical_formula_structural   K2NiCl4
+_chemical_formula_sum   'K8 Ni4 Cl16'
+_cell_volume   822.79181950
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x+1/2, y+1/2, z+1/2'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.02153258  0.18451684  0.22988194  1
+  K  K1  4  0.12029861  0.44180095  0.75394515  1
+  Ni  Ni2  4  0.20787888  0.07712928  0.74011054  1
+  Cl  Cl3  4  0.02997432  0.93988670  0.33439530  1
+  Cl  Cl4  4  0.17068329  0.65615961  0.00681517  1
+  Cl  Cl5  4  0.17630336  0.64855599  0.48916459  1
+  Cl  Cl6  4  0.19016470  0.41479233  0.23967327  1

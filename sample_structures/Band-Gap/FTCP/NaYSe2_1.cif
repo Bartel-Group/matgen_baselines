@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaYSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.40059304
+_cell_length_b   4.33822536
+_cell_length_c   5.91939783
+_cell_angle_alpha   82.79353333
+_cell_angle_beta   67.78473663
+_cell_angle_gamma   64.02987671
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaYSe2
+_chemical_formula_sum   'Na1 Y1 Se2'
+_cell_volume   72.59600970
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.00000000  0.00000000  0.00000000  1.0
+  Y  Y1  1  0.54011214  0.40591225  0.51406270  1.0
+  Se  Se1  1  0.76400220  0.74028051  0.79170483  1.0
+  Se  Se2  1  0.24367434  0.25627962  0.20933545  1.0

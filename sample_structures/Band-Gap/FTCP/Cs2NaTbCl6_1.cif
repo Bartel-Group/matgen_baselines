@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2NaTbCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83366823
+_cell_length_b   6.51057673
+_cell_length_c   7.09540510
+_cell_angle_alpha   63.55487442
+_cell_angle_beta   63.18928528
+_cell_angle_gamma   57.19705582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaTbCl6
+_chemical_formula_sum   'Cs2 Na1 Tb1 Cl6'
+_cell_volume   261.54962543
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs1  1  0.27362123  0.33632487  0.12085223  1.0
+  Cs  Cs2  1  0.67309946  0.75229096  0.82013166  1.0
+  Na  Na1  1  0.42120245  0.67413652  0.56210715  1.0
+  Tb  Tb1  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl1  1  0.79272431  0.64489067  0.42890975  1.0
+  Cl  Cl2  1  0.32641506  0.61945170  0.78995043  1.0
+  Cl  Cl3  1  0.14694718  0.28843611  0.69746685  1.0
+  Cl  Cl4  1  0.75328231  0.31730187  0.73569715  1.0
+  Cl  Cl5  1  0.23481894  0.69796276  0.36805573  1.0
+  Cl  Cl6  1  0.77191579  0.38387528  0.29275450  1.0

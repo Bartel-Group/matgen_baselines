@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaNaDyHW2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.47473257
+_cell_length_b   7.62902140
+_cell_length_c   7.12983620
+_cell_angle_alpha   54.71250350
+_cell_angle_beta   81.52127228
+_cell_angle_gamma   59.95920375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaDyHW2
+_chemical_formula_sum   'Ba1 Na1 Dy1 H1 W2'
+_cell_volume   432.06962813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.58568033  0.46781825  0.55341067  1.0
+  Na  Na1  1  0.27505217  0.33742169  0.28308873  1.0
+  Dy  Dy2  1  0.91503555  0.03610214  0.02726126  1.0
+  H  H3  1  0.79101843  0.43710683  0.26248874  1.0
+  W  W4  1  0.40879753  0.34693443  0.59394682  1.0
+  W  W5  1  0.57217158  0.03296271  0.09924901  1.0

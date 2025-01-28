@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoSnBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64834163
+_cell_length_b   7.02309357
+_cell_length_c   7.76941756
+_cell_angle_alpha   89.99142974
+_cell_angle_beta   89.99635146
+_cell_angle_gamma   92.72787308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSnBr4
+_chemical_formula_sum   'Co2 Sn2 Br8'
+_cell_volume   362.35798459
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50002085  0.24992863  0.61961072  1.0
+  Co  Co1  1  0.50003777  0.75014121  0.38038290  1.0
+  Sn  Sn2  1  0.00000048  0.25000792  0.15499275  1.0
+  Sn  Sn3  1  0.00002117  0.75000962  0.84500677  1.0
+  Br  Br4  1  0.71783918  0.45271482  0.40596116  1.0
+  Br  Br5  1  0.28209133  0.04720965  0.40609545  1.0
+  Br  Br6  1  0.28213318  0.54726790  0.59406907  1.0
+  Br  Br7  1  0.71788421  0.95278178  0.59388038  1.0
+  Br  Br8  1  0.73718442  0.89228304  0.12411732  1.0
+  Br  Br9  1  0.26270140  0.60770011  0.12406114  1.0
+  Br  Br10  1  0.26280265  0.10768894  0.87585538  1.0
+  Br  Br11  1  0.73728337  0.39226638  0.87596694  1.0

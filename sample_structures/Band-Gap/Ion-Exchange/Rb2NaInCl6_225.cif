@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2NaInCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50531109
+_cell_length_b   7.50531147
+_cell_length_c   7.50531044
+_cell_angle_alpha   59.99994424
+_cell_angle_beta   59.99995231
+_cell_angle_gamma   59.99996978
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaInCl6
+_chemical_formula_sum   'Rb2 Na1 In1 Cl6'
+_cell_volume   298.94455138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.74999952  0.75000092  0.75000005  1.0
+  Rb  Rb1  1  0.25000013  0.24999970  0.24999897  1.0
+  Na  Na2  1  0.50000002  0.49999994  0.50000010  1.0
+  In  In3  1  0.00000004  0.99999993  0.00000010  1.0
+  Cl  Cl4  1  0.76042866  0.23957134  0.23957159  1.0
+  Cl  Cl5  1  0.23957149  0.23957138  0.76042880  1.0
+  Cl  Cl6  1  0.23957154  0.76042844  0.76042863  1.0
+  Cl  Cl7  1  0.23957151  0.76042852  0.23957150  1.0
+  Cl  Cl8  1  0.76042863  0.23957125  0.76042871  1.0
+  Cl  Cl9  1  0.76042846  0.76042858  0.23957156  1.0

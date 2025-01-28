@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Fe3SnC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.71180320
+_cell_length_b   3.49306917
+_cell_length_c   2.88132215
+_cell_angle_alpha   86.28590393
+_cell_angle_beta   97.79595947
+_cell_angle_gamma   97.30297852
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3SnC
+_chemical_formula_sum   'Fe3 Sn1 C1'
+_cell_volume   16.91118600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe1  1  0.64292860  0.00000000  0.59979290  1.0
+  Fe  Fe2  1  0.00000000  0.33678561  0.31614017  1.0
+  Fe  Fe3  1  0.57362986  0.55374157  0.00000000  1.0
+  Sn  Sn1  1  0.00000000  0.00000000  0.00000000  1.0
+  C  C1  1  0.42395464  0.59201956  0.54673952  1.0

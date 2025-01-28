@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_PrMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95042404
+_cell_length_b   3.95042400
+_cell_length_c   3.95042261
+_cell_angle_alpha   89.99999913
+_cell_angle_beta   90.00000029
+_cell_angle_gamma   90.00000058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrMnO3
+_chemical_formula_sum   'Pr1 Mn1 O3'
+_cell_volume   61.64970244
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.00000001  0.00000000  1.0
+  Mn  Mn1  1  0.50000001  0.50000003  0.50000000  1.0
+  O  O2  1  0.00000000  0.50000002  0.49999999  1.0
+  O  O3  1  0.50000000  0.99999998  0.50000001  1.0
+  O  O4  1  0.49999999  0.49999996  0.99999999  1.0

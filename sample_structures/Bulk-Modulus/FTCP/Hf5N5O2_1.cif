@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf5N5O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33579397
+_cell_length_b   3.17386293
+_cell_length_c   10.10103130
+_cell_angle_alpha   79.95201111
+_cell_angle_beta   87.24110413
+_cell_angle_gamma   35.94623184
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf5N5O2
+_chemical_formula_sum   'Hf5 N5 O2'
+_cell_volume   79.29711144
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf1  1  0.14608446  0.11329284  0.00000000  1.0
+  Hf  Hf2  1  0.61662936  0.73190647  0.87023509  1.0
+  Hf  Hf3  1  0.35198152  0.10101059  0.12456781  1.0
+  Hf  Hf4  1  0.95744097  0.88273370  0.94633853  1.0
+  Hf  Hf5  1  0.96301425  0.94127536  0.39985412  1.0
+  N  N1  1  0.25202584  0.67077005  0.88288856  1.0
+  N  N2  1  0.79173046  0.77095085  0.12907538  1.0
+  N  N3  1  0.27543309  0.30111486  0.83368456  1.0
+  N  N4  1  0.26561081  0.35593420  0.43864214  1.0
+  N  N5  1  0.89599878  0.85994583  0.19820173  1.0
+  O  O1  1  0.00000000  0.00000000  0.75247359  1.0
+  O  O2  1  0.60035467  0.49078822  0.54866582  1.0

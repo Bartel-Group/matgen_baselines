@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94444571
+_cell_length_b   5.94445256
+_cell_length_c   5.94444559
+_cell_angle_alpha   106.59188765
+_cell_angle_beta   106.59230329
+_cell_angle_gamma   115.39702908
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAsO4
+_chemical_formula_sum   'Ho2 As2 O8'
+_cell_volume   160.39034277
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.12499998  0.87500023  0.24999989  1.0
+  Ho  Ho1  1  0.87499974  0.12499950  0.74999993  1.0
+  As  As2  1  0.37500531  0.62500492  0.75000073  1.0
+  As  As3  1  0.62499827  0.37499881  0.24999890  1.0
+  O  O4  1  0.80311454  0.73529170  0.43217721  1.0
+  O  O5  1  0.37093707  0.80311369  0.56782406  1.0
+  O  O6  1  0.73528787  0.80311238  0.93217512  1.0
+  O  O7  1  0.80311465  0.37093703  0.06782302  1.0
+  O  O8  1  0.62906326  0.19688649  0.43217683  1.0
+  O  O9  1  0.19688473  0.26470767  0.56782157  1.0
+  O  O10  1  0.26471108  0.19688705  0.06782366  1.0
+  O  O11  1  0.19688549  0.62906354  0.93217807  1.0

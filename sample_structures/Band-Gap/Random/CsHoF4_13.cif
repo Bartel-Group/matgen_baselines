@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsHoF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89348319
+_cell_length_b   5.51437201
+_cell_length_c   5.52466871
+_cell_angle_alpha   89.93340022
+_cell_angle_beta   90.01679538
+_cell_angle_gamma   91.03352912
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsHoF4
+_chemical_formula_sum   'Cs2 Ho2 F8'
+_cell_volume   209.97619047
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50005412  0.24997405  0.74882108  1.0
+  Cs  Cs1  1  0.49994546  0.75002565  0.25117898  1.0
+  Ho  Ho2  1  0.99986025  0.75009208  0.74976696  1.0
+  Ho  Ho3  1  0.00014017  0.24990747  0.25023293  1.0
+  F  F4  1  0.81949420  0.99891361  0.50507179  1.0
+  F  F5  1  0.18068428  0.50107147  0.50488680  1.0
+  F  F6  1  0.18050638  0.00108729  0.49492736  1.0
+  F  F7  1  0.81931660  0.49892936  0.49511408  1.0
+  F  F8  1  0.18102191  0.49422890  0.00152370  1.0
+  F  F9  1  0.81876499  0.00563162  0.00161170  1.0
+  F  F10  1  0.81897731  0.50577064  0.99847677  1.0
+  F  F11  1  0.18123433  0.99436787  0.99838784  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KSrInHgAsAu5
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.64868924
+_cell_length_b   6.43377449
+_cell_length_c   9.38304550
+_cell_angle_alpha   73.89030328
+_cell_angle_beta   82.06215368
+_cell_angle_gamma   88.24040931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrInHgAsAu5
+_chemical_formula_sum   'K1 Sr1 In1 Hg1 As1 Au5'
+_cell_volume   267.02218527
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49069896  0.61897356  0.48615994  1
+  Sr  Sr1  1  0.59403028  0.78772518  0.01650979  1
+  In  In2  1  0.18265786  0.32089779  0.96259271  1
+  Hg  Hg3  1  0.54356034  0.19493018  0.26155359  1
+  As  As4  1  0.83930220  0.05818604  0.59788529  1
+  Au  Au5  1  0.04955610  0.93851936  0.20391362  1
+  Au  Au6  1  0.05587600  0.49988651  0.21271836  1
+  Au  Au7  1  0.29929799  0.07585420  0.71110059  1
+  Au  Au8  1  0.72868421  0.28045391  0.80414662  1
+  Au  Au9  1  0.95686968  0.68029354  0.75112613  1

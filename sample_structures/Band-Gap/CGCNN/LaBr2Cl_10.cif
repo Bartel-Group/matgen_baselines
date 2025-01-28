@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LaBr2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97201228
+_cell_length_b   10.25145130
+_cell_length_c   11.88403554
+_cell_angle_alpha   69.19960768
+_cell_angle_beta   89.99149815
+_cell_angle_gamma   89.99322388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaBr2Cl
+_chemical_formula_sum   'La2 Br4 Cl2'
+_cell_volume   452.36539435
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.99995915  0.80927700  0.30355003  1.0
+  La  La1  1  0.00004144  0.19072255  0.69645407  1.0
+  Br  Br2  1  0.49996040  0.02924430  0.18015897  1.0
+  Br  Br3  1  0.50003828  0.97075661  0.81984821  1.0
+  Br  Br4  1  0.49991018  0.76180507  0.50042739  1.0
+  Br  Br5  1  0.50008650  0.23817570  0.49958005  1.0
+  Cl  Cl6  1  0.49999557  0.65301836  0.24149492  1.0
+  Cl  Cl7  1  0.50000847  0.34700041  0.75848637  1.0

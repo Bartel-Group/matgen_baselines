@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2SeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47736672
+_cell_length_b   6.47272828
+_cell_length_c   5.79047226
+_cell_angle_alpha   74.77518128
+_cell_angle_beta   74.66393777
+_cell_angle_gamma   119.98813875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2SeO3
+_chemical_formula_sum   'Hf4 Se2 O6'
+_cell_volume   178.70405098
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.80444522  0.19532340  0.74967094  1.0
+  Hf  Hf1  1  0.36807274  0.63155630  0.74995127  1.0
+  Hf  Hf2  1  0.63137054  0.36788841  0.25059233  1.0
+  Hf  Hf3  1  0.19531111  0.80443303  0.24986591  1.0
+  Se  Se4  1  0.04483771  0.95661509  0.74922548  1.0
+  Se  Se5  1  0.95555151  0.04377330  0.25002678  1.0
+  O  O6  1  0.79393279  0.47502523  0.48919499  1.0
+  O  O7  1  0.47514901  0.79381487  0.98892969  1.0
+  O  O8  1  0.00010171  0.50028173  0.00024855  1.0
+  O  O9  1  0.52503602  0.20602515  0.01115389  1.0
+  O  O10  1  0.50028305  0.00010294  0.50025175  1.0
+  O  O11  1  0.20590861  0.52516056  0.51088841  1.0

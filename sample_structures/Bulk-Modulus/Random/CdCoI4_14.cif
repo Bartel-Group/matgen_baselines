@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdCoI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00087326
+_cell_length_b   8.33279593
+_cell_length_c   8.45625917
+_cell_angle_alpha   61.30845453
+_cell_angle_beta   89.99962266
+_cell_angle_gamma   89.99791760
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdCoI4
+_chemical_formula_sum   'Cd2 Co2 I8'
+_cell_volume   432.74124816
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000056  0.99999966  0.00000024  1.0
+  Cd  Cd1  1  0.50000047  0.50000030  0.99999987  1.0
+  Co  Co2  1  0.00000248  0.49999878  0.49999802  1.0
+  Co  Co3  1  0.50000346  0.00000198  0.50000224  1.0
+  I  I4  1  0.69315751  0.14475668  0.18125449  1.0
+  I  I5  1  0.19316154  0.35516734  0.81878429  1.0
+  I  I6  1  0.21944997  0.81744933  0.35093364  1.0
+  I  I7  1  0.71944224  0.68251385  0.64907974  1.0
+  I  I8  1  0.30684076  0.85524332  0.81874568  1.0
+  I  I9  1  0.80683655  0.64483246  0.18121523  1.0
+  I  I10  1  0.78054826  0.18254949  0.64906641  1.0
+  I  I11  1  0.28055620  0.31748684  0.35092015  1.0

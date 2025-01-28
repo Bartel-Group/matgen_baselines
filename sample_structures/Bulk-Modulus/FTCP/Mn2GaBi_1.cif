@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Mn2GaBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19148254
+_cell_length_b   3.66650081
+_cell_length_c   2.54648018
+_cell_angle_alpha   67.45293427
+_cell_angle_beta   53.78449249
+_cell_angle_gamma   49.11533737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2GaBi
+_chemical_formula_sum   'Mn2 Ga1 Bi1'
+_cell_volume   23.87030103
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn1  1  0.11297175  0.24176988  0.12243798  1.0
+  Mn  Mn2  1  0.65511280  0.68330175  0.66377175  1.0
+  Ga  Ga1  1  0.48130926  0.68154889  0.59392810  1.0
+  Bi  Bi1  1  0.00000000  0.00000000  0.00000000  1.0

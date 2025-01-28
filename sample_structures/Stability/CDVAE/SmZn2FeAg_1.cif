@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SmZn2FeAg
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   3.95819467
+_cell_length_b   4.19221611
+_cell_length_c   11.41515506
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   SmZn2FeAg
+_chemical_formula_sum   'Sm2 Zn4 Fe2 Ag2'
+_cell_volume   189.41860221
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.50000000  0.00000000  0.63880379  1
+  Sm  Sm1  1  0.50000000  0.50000000  0.02579900  1
+  Zn  Zn2  1  0.00000000  0.00000000  0.12582822  1
+  Zn  Zn3  1  0.00000000  0.00000000  0.42024453  1
+  Zn  Zn4  1  0.00000000  0.50000000  0.76324878  1
+  Zn  Zn5  1  0.50000000  0.50000000  0.41739079  1
+  Fe  Fe6  1  0.00000000  0.50000000  0.54921735  1
+  Fe  Fe7  1  0.50000000  0.00000000  0.26286108  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.89581348  1
+  Ag  Ag9  1  0.00000000  0.50000000  0.26137075  1

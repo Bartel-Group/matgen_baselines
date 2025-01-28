@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2LiInCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16045243
+_cell_length_b   8.33708863
+_cell_length_c   8.10890493
+_cell_angle_alpha   63.85363738
+_cell_angle_beta   72.55539605
+_cell_angle_gamma   68.79783057
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2LiInCl6
+_chemical_formula_sum   'Cs2 Li1 In1 Cl6'
+_cell_volume   455.16466450
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.73313669  0.80613456  0.79297498  1.0
+  Cs  Cs1  1  0.28431486  0.23828822  0.16613182  1.0
+  Li  Li2  1  0.45111966  0.51891773  0.65774480  1.0
+  In  In3  1  0.06449052  0.88754699  0.03408819  1.0
+  Cl  Cl4  1  0.80028698  0.22851341  0.31870089  1.0
+  Cl  Cl5  1  0.18832516  0.32033514  0.53798901  1.0
+  Cl  Cl6  1  0.17618280  0.78336004  0.73584819  1.0
+  Cl  Cl7  1  0.31288122  0.69218327  0.21274489  1.0
+  Cl  Cl8  1  0.67781337  0.40025872  0.81739120  1.0
+  Cl  Cl9  1  0.60720046  0.68781107  0.39316442  1.0

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Cs2Cu2PdAuBr7Cl3
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   8.58532316
+_cell_length_b   5.10735956
+_cell_length_c   11.53249978
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.50497282
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Cs2Cu2PdAuBr7Cl3
+_chemical_formula_sum   'Cs2 Cu2 Pd1 Au1 Br7 Cl3'
+_cell_volume   479.53521525
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.39560777  0.50000000  0.94647712  1
+  Cs  Cs1  1  0.41922541  0.50000000  0.43433854  1
+  Cu  Cu2  1  0.05471064  0.00000000  0.12279314  1
+  Cu  Cu3  1  0.75600561  0.00000000  0.26659144  1
+  Pd  Pd4  1  0.06344611  0.00000000  0.59466557  1
+  Au  Au5  1  0.72460185  0.00000000  0.75565738  1
+  Br  Br6  1  0.06401465  0.50000000  0.10723544  1
+  Br  Br7  1  0.10832990  0.00000000  0.39295948  1
+  Br  Br8  1  0.11656679  0.50000000  0.61407890  1
+  Br  Br9  1  0.34241127  0.00000000  0.16786998  1
+  Br  Br10  1  0.41764441  0.00000000  0.70858760  1
+  Br  Br11  1  0.71567491  0.50000000  0.25779912  1
+  Br  Br12  1  0.73929821  0.00000000  0.46916017  1
+  Cl  Cl13  1  0.02014627  0.00000000  0.78969074  1
+  Cl  Cl14  1  0.71521506  0.50000000  0.75650722  1
+  Cl  Cl15  1  0.77914388  0.00000000  0.07730526  1

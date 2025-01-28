@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SmGaAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00993728
+_cell_length_b   5.00993458
+_cell_length_c   5.00993554
+_cell_angle_alpha   59.99996470
+_cell_angle_beta   59.99992471
+_cell_angle_gamma   59.99993355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmGaAs2
+_chemical_formula_sum   'Sm1 Ga1 As2'
+_cell_volume   88.91620183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.99999995  0.00000001  0.00000003  1.0
+  Ga  Ga1  1  0.50000008  0.50000008  0.49999989  1.0
+  As  As2  1  0.24999991  0.24999996  0.25000004  1.0
+  As  As3  1  0.75000006  0.74999995  0.75000004  1.0

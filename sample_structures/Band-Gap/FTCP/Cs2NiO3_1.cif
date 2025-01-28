@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Cs2NiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.33369137
+_cell_length_b   14.21974540
+_cell_length_c   12.99475180
+_cell_angle_alpha   157.18027082
+_cell_angle_beta   157.72677779
+_cell_angle_gamma   35.72901031
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NiO3
+_chemical_formula_sum   'Cs2 Ni1 O3'
+_cell_volume   321.60809038
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.48755707  0.21197395  0.01424443  1.0
+  Cs  Cs1  1  0.45215988  0.63836492  0.09176320  1.0
+  Ni  Ni2  1  0.96218401  0.96340202  0.04285453  1.0
+  O  O3  1  0.00213581  0.21756526  0.99864946  1.0
+  O  O4  1  0.92198399  0.93781933  0.88583297  1.0
+  O  O5  1  0.11617606  0.08725664  0.11242056  1.0

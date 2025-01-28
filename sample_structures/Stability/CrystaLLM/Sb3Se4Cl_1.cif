@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Sb3Se4Cl
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.91294810
+_cell_length_b   7.44825111
+_cell_length_c   8.81563572
+_cell_angle_alpha   110.47808623
+_cell_angle_beta   109.05913723
+_cell_angle_gamma   97.20033444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sb3Se4Cl
+_chemical_formula_sum   'Sb3 Se4 Cl1'
+_cell_volume   386.92521610
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.40895853  0.61748446  0.39323162  1
+  Sb  Sb1  1  0.75507127  0.58527324  0.15004717  1
+  Sb  Sb2  1  0.81229286  0.07093418  0.15719721  1
+  Se  Se3  1  0.04913287  0.92731542  0.35692474  1
+  Se  Se4  1  0.09308478  0.31819638  0.12314037  1
+  Se  Se5  1  0.42888043  0.74984367  0.16306819  1
+  Se  Se6  1  0.75561188  0.49040466  0.41106062  1
+  Cl  Cl7  1  0.75776738  0.79304799  0.87263008  1

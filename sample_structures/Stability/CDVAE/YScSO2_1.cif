@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YScSO2
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   3.70830668
+_cell_length_b   3.86455509
+_cell_length_c   5.91159751
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.62956764
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   YScSO2
+_chemical_formula_sum   'Y1 Sc1 S1 O2'
+_cell_volume   82.97967735
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.45667388  0.50000000  0.91333101  1
+  Sc  Sc1  1  0.84878350  0.00000000  0.55512784  1
+  S  S2  1  0.03966257  0.00000000  0.16248842  1
+  O  O3  1  0.39016339  0.00000000  0.71293050  1
+  O  O4  1  0.87974836  0.50000000  0.68118178  1

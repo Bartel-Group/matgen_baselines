@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2HoTaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64956661
+_cell_length_b   5.86435897
+_cell_length_c   6.84699071
+_cell_angle_alpha   61.00066077
+_cell_angle_beta   50.80971620
+_cell_angle_gamma   64.60549257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2HoTaO6
+_chemical_formula_sum   'Ba2 Ho1 Ta1 O6'
+_cell_volume   178.01481593
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.23754053  0.26063654  0.27952462  1.0
+  Ba  Ba1  1  0.68066812  0.76744712  0.83955566  1.0
+  Ho  Ho2  1  0.97896187  0.08687178  0.00068498  1.0
+  Ta  Ta3  1  0.50964257  0.48310687  0.54767051  1.0
+  O  O4  1  0.78579805  0.28914653  0.30037739  1.0
+  O  O5  1  0.22454250  0.72130526  0.03256546  1.0
+  O  O6  1  0.78353577  0.28242666  0.80438020  1.0
+  O  O7  1  0.60664009  0.83015129  0.37912150  1.0
+  O  O8  1  0.26198836  0.56430684  0.47941362  1.0
+  O  O9  1  0.34296787  0.21523424  0.87538186  1.0

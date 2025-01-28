@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_RbNa4SnO4
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.13359194
+_cell_length_b   3.99110654
+_cell_length_c   7.77597314
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   99.03664375
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   RbNa4SnO4
+_chemical_formula_sum   'Rb1 Na4 Sn1 O4'
+_cell_volume   187.99175246
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.14067392  0.50000000  0.96161373  1
+  Na  Na1  1  0.25318109  0.00000000  0.28322102  1
+  Na  Na2  1  0.69235963  0.00000000  0.86430620  1
+  Na  Na3  1  0.76411874  0.50000000  0.21743847  1
+  Na  Na4  1  0.94199312  0.00000000  0.56306562  1
+  Sn  Sn5  1  0.45198780  0.50000000  0.57574810  1
+  O  O6  1  0.34330634  0.00000000  0.63832033  1
+  O  O7  1  0.43085792  0.50000000  0.31554138  1
+  O  O8  1  0.78072973  0.50000000  0.67528027  1
+  O  O9  1  0.90964953  0.00000000  0.12690897  1

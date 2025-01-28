@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KEr5Te8
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   22.54317260
+_cell_length_b   4.36536841
+_cell_length_c   10.65534822
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.49346010
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   KEr5Te8
+_chemical_formula_sum   'K2 Er10 Te16'
+_cell_volume   1015.21492382
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  2  0.00000000  0.50000000  0.00000000  1
+  Er  Er1  4  0.15420055  0.50000000  0.46458662  1
+  Er  Er2  4  0.20482010  0.50000000  0.84441301  1
+  Er  Er3  2  0.00000000  0.00000000  0.50000000  1
+  Te  Te4  4  0.07614126  0.50000000  0.66164320  1
+  Te  Te5  4  0.08038071  0.00000000  0.30408494  1
+  Te  Te6  4  0.16461661  0.00000000  0.99829307  1
+  Te  Te7  4  0.23380381  0.00000000  0.65148576  1

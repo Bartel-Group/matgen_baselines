@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaHoH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47250281
+_cell_length_b   5.20993153
+_cell_length_c   5.25657368
+_cell_angle_alpha   90.00732018
+_cell_angle_beta   89.99935540
+_cell_angle_gamma   89.49747204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHoH4
+_chemical_formula_sum   'Na2 Ho2 H8'
+_cell_volume   149.86632476
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000232  0.24999971  0.25426042  1.0
+  Na  Na1  1  0.49999747  0.75000025  0.74573928  1.0
+  Ho  Ho2  1  0.99999906  0.24998836  0.74989493  1.0
+  Ho  Ho3  1  0.00000124  0.75001166  0.25010436  1.0
+  H  H4  1  0.21332404  0.53949907  0.54216056  1.0
+  H  H5  1  0.78668334  0.96049960  0.54215875  1.0
+  H  H6  1  0.78844806  0.04793630  0.04451555  1.0
+  H  H7  1  0.21155147  0.45207278  0.04451304  1.0
+  H  H8  1  0.21155193  0.95206371  0.95548434  1.0
+  H  H9  1  0.78844851  0.54792730  0.95548664  1.0
+  H  H10  1  0.21331663  0.03950041  0.45784097  1.0
+  H  H11  1  0.78667594  0.46050086  0.45783915  1.0

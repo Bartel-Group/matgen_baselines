@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KBaBr2O7
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.96906699
+_cell_length_b   6.00629381
+_cell_length_c   7.34182930
+_cell_angle_alpha   66.00830829
+_cell_angle_beta   85.14923266
+_cell_angle_gamma   65.69116303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaBr2O7
+_chemical_formula_sum   'K1 Ba1 Br2 O7'
+_cell_volume   218.07033283
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.71487935  0.08689485  0.50520922  1
+  Ba  Ba1  1  0.11609053  0.12997359  0.95128194  1
+  Br  Br2  1  0.01927255  0.53588350  0.30410940  1
+  Br  Br3  1  0.37298935  0.64736177  0.70361293  1
+  O  O4  1  0.04154675  0.24005822  0.26612857  1
+  O  O5  1  0.10039429  0.70782096  0.80624210  1
+  O  O6  1  0.31139737  0.51360086  0.29805769  1
+  O  O7  1  0.51189880  0.77753935  0.79752303  1
+  O  O8  1  0.52900139  0.31127473  0.81533639  1
+  O  O9  1  0.86242671  0.89068148  0.22220500  1
+  O  O10  1  0.96100139  0.43332657  0.54956226  1

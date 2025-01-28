@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaMg7TlCu3SnPb
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.94857610
+_cell_length_b   5.65036920
+_cell_length_c   11.56350865
+_cell_angle_alpha   101.78027271
+_cell_angle_beta   99.51338067
+_cell_angle_gamma   96.16808422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMg7TlCu3SnPb
+_chemical_formula_sum   'Ca1 Mg7 Tl1 Cu3 Sn1 Pb1'
+_cell_volume   308.81140776
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.28207515  0.73989110  0.92858456  1
+  Mg  Mg1  1  0.10844600  0.59026104  0.60461594  1
+  Mg  Mg2  1  0.22415495  0.15543229  0.72766255  1
+  Mg  Mg3  1  0.39076873  0.87078773  0.25733510  1
+  Mg  Mg4  1  0.39542451  0.34546391  0.11609103  1
+  Mg  Mg5  1  0.68119027  0.80880687  0.71101615  1
+  Mg  Mg6  1  0.90058415  0.04417836  0.47079940  1
+  Mg  Mg7  1  0.95252753  0.54702279  0.32564784  1
+  Tl  Tl8  1  0.86607430  0.04138387  0.14566012  1
+  Cu  Cu9  1  0.38947278  0.91742107  0.50929692  1
+  Cu  Cu10  1  0.71546908  0.30873304  0.66831233  1
+  Cu  Cu11  1  0.93226902  0.56595321  0.10167851  1
+  Sn  Sn12  1  0.77168586  0.25540294  0.89785977  1
+  Pb  Pb13  1  0.48032848  0.39351705  0.43935280  1

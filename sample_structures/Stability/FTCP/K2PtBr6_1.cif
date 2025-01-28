@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_K2PtBr6
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   7.35199151
+_cell_length_b   7.43505661
+_cell_length_c   7.47306407
+_cell_angle_alpha   60.73780386
+_cell_angle_beta   62.29194723
+_cell_angle_gamma   60.54496383
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   K2PtBr6
+_chemical_formula_sum   'K2 Pt1 Br6'
+_cell_volume   296.43137279
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  2  0.25708622  0.24279155  0.74931855  1
+  Pt  Pt1  1  0.50000000  0.50000000  0.00000000  1
+  Br  Br2  2  0.22740997  0.30528304  0.20586286  1
+  Br  Br3  2  0.25406695  0.77251061  0.19265596  1
+  Br  Br4  2  0.31515151  0.73753968  0.71102656  1

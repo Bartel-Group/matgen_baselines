@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2InGaF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39464617
+_cell_length_b   7.14110947
+_cell_length_c   5.60490370
+_cell_angle_alpha   62.82164383
+_cell_angle_beta   66.16985321
+_cell_angle_gamma   64.44139862
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2InGaF6
+_chemical_formula_sum   'Cs2 In1 Ga1 F6'
+_cell_volume   198.45941246
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs1  1  0.79380745  0.78222656  0.80443120  1.0
+  Cs  Cs2  1  0.22288167  0.16796657  0.20783070  1.0
+  In  In1  1  0.56880611  0.43019676  0.40350983  1.0
+  Ga  Ga1  1  0.00000000  0.00000000  0.00000000  1.0
+  F  F1  1  0.74496138  0.22529197  0.22578484  1.0
+  F  F2  1  0.17090583  0.29605949  0.72972310  1.0
+  F  F3  1  0.20060435  0.81665194  0.75577366  1.0
+  F  F4  1  0.21086940  0.82473075  0.21173447  1.0
+  F  F5  1  0.80131793  0.21274298  0.74441779  1.0
+  F  F6  1  0.75631940  0.79881150  0.24191926  1.0

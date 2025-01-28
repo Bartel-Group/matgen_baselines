@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Er2Zn4Si3Ni
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   11.20167359
+_cell_length_b   4.01153151
+_cell_length_c   8.60464365
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   118.54719998
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   Er2Zn4Si3Ni
+_chemical_formula_sum   'Er4 Zn8 Si6 Ni2'
+_cell_volume   339.64879000
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  2  0.02404241  0.00000000  0.60020142  1
+  Er  Er1  2  0.02751679  0.00000000  0.11865620  1
+  Zn  Zn2  2  0.18880943  0.50000000  0.46698798  1
+  Zn  Zn3  2  0.26764627  0.00000000  0.98985481  1
+  Zn  Zn4  2  0.27688933  0.50000000  0.23593599  1
+  Zn  Zn5  2  0.34971274  0.00000000  0.72529475  1
+  Si  Si6  2  0.09409024  0.50000000  0.91340176  1
+  Si  Si7  2  0.24836539  0.50000000  0.78913348  1
+  Si  Si8  2  0.43897830  0.00000000  0.30285184  1
+  Ni  Ni9  2  0.29900489  0.00000000  0.42126061  1

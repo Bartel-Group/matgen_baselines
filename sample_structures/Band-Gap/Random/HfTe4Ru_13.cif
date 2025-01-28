@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfTe4Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82353648
+_cell_length_b   6.98874781
+_cell_length_c   7.97369947
+_cell_angle_alpha   90.00000311
+_cell_angle_beta   89.99999978
+_cell_angle_gamma   89.13169174
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTe4Ru
+_chemical_formula_sum   'Hf2 Te8 Ru2'
+_cell_volume   324.48614552
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.75000001  0.88588272  1.0
+  Hf  Hf1  1  0.00000000  0.24999999  0.11411723  1.0
+  Te  Te2  1  0.72150277  0.42805006  0.86936866  1.0
+  Te  Te3  1  0.27849860  0.57195182  0.13063157  1.0
+  Te  Te4  1  0.27849720  0.07194997  0.86936864  1.0
+  Te  Te5  1  0.72150142  0.92804816  0.13063159  1.0
+  Te  Te6  1  0.76185518  0.93465695  0.59847680  1.0
+  Te  Te7  1  0.23814554  0.06534400  0.40152362  1.0
+  Te  Te8  1  0.23814481  0.56534306  0.59847681  1.0
+  Te  Te9  1  0.76185447  0.43465599  0.40152362  1.0
+  Ru  Ru10  1  0.50000000  0.74999999  0.37915917  1.0
+  Ru  Ru11  1  0.50000000  0.25000001  0.62083956  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tl2InGaF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50509453
+_cell_length_b   5.53956270
+_cell_length_c   6.17688942
+_cell_angle_alpha   51.05389404
+_cell_angle_beta   57.22283936
+_cell_angle_gamma   65.66912079
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2InGaF6
+_chemical_formula_sum   'Tl2 In1 Ga1 F6'
+_cell_volume   122.43341765
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl1  1  0.29372650  0.26396793  0.36508393  1.0
+  Tl  Tl2  1  0.78086758  0.78811228  0.75734818  1.0
+  In  In1  1  0.00000000  0.00000000  0.00000000  1.0
+  Ga  Ga1  1  0.53830141  0.52743942  0.52519006  1.0
+  F  F1  1  0.30333251  0.53807235  0.74020457  1.0
+  F  F2  1  0.19587615  0.78748286  0.39956182  1.0
+  F  F3  1  0.84237307  0.37146884  0.75851357  1.0
+  F  F4  1  0.71508843  0.80552411  0.26196146  1.0
+  F  F5  1  0.42757738  0.15888771  0.68997639  1.0
+  F  F6  1  0.79263490  0.43860120  0.32918641  1.0

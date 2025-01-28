@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Sm2SO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96986880
+_cell_length_b   3.94669518
+_cell_length_c   6.42733249
+_cell_angle_alpha   88.68057548
+_cell_angle_beta   89.68492859
+_cell_angle_gamma   120.27493686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2SO2
+_chemical_formula_sum   'Sm2 S1 O2'
+_cell_volume   86.92822911
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.34843214  0.66560100  0.96960325  1.0
+  Sm  Sm1  1  0.68483604  0.33614372  0.52636995  1.0
+  S  S2  1  0.01684276  0.00084636  0.24808515  1.0
+  O  O3  1  0.34984337  0.66577710  0.61423026  1.0
+  O  O4  1  0.68439370  0.33649258  0.88195599  1.0

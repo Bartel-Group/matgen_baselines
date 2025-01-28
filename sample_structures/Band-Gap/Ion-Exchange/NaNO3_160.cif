@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_NaNO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09013335
+_cell_length_b   4.09013593
+_cell_length_c   4.09013527
+_cell_angle_alpha   77.41551391
+_cell_angle_beta   77.41529859
+_cell_angle_gamma   77.41531848
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNO3
+_chemical_formula_sum   'Na1 N1 O3'
+_cell_volume   64.12492403
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.98950057  0.98950105  0.98950110  1.0
+  N  N1  1  0.43784072  0.43784492  0.43784200  1.0
+  O  O2  1  0.57857540  0.14950413  0.57857545  1.0
+  O  O3  1  0.57857440  0.57857525  0.14950489  1.0
+  O  O4  1  0.14950691  0.57857265  0.57857456  1.0

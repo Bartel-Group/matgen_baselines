@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ti2SO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.44217918
+_cell_length_b   3.44216668
+_cell_length_c   6.06778494
+_cell_angle_alpha   89.99996204
+_cell_angle_beta   90.00017035
+_cell_angle_gamma   119.99981228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2SO2
+_chemical_formula_sum   'Ti2 S1 O2'
+_cell_volume   62.26256422
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66666667  0.33333333  0.71166918  1.0
+  Ti  Ti1  1  0.33333333  0.66666667  0.28833491  1.0
+  S  S2  1  0.00000172  0.00000118  0.99999881  1.0
+  O  O3  1  0.66666667  0.33333333  0.36690742  1.0
+  O  O4  1  0.33333333  0.66666667  0.63308967  1.0

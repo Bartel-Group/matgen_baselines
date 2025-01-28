@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CuSi2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90699430
+_cell_length_b   6.90701345
+_cell_length_c   2.92471654
+_cell_angle_alpha   90.00000075
+_cell_angle_beta   89.99999711
+_cell_angle_gamma   120.00030116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSi2F9
+_chemical_formula_sum   'Cu1 Si2 F9'
+_cell_volume   120.83492983
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000097  0.99999913  0.99999895  1.0
+  Si  Si1  1  0.66666667  0.33333333  0.00000029  1.0
+  Si  Si2  1  0.33333333  0.66666667  0.99999991  1.0
+  F  F3  1  0.77608895  0.55217446  0.49999998  1.0
+  F  F4  1  0.22391368  0.77608986  0.50000018  1.0
+  F  F5  1  0.55217602  0.77608792  0.50000012  1.0
+  F  F6  1  0.50000187  0.00000355  0.00000007  1.0
+  F  F7  1  0.50000303  0.49999723  0.00000008  1.0
+  F  F8  1  0.00000933  0.50000473  0.00000011  1.0
+  F  F9  1  0.22391406  0.44782447  0.50000026  1.0
+  F  F10  1  0.77608789  0.22391496  0.50000006  1.0
+  F  F11  1  0.44781967  0.22390952  0.49999998  1.0

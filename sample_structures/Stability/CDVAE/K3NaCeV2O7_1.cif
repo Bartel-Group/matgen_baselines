@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K3NaCeV2O7
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.01535830
+_cell_length_b   6.55351940
+_cell_length_c   6.91656272
+_cell_angle_alpha   78.77494267
+_cell_angle_beta   87.58918655
+_cell_angle_gamma   68.41856417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3NaCeV2O7
+_chemical_formula_sum   'K3 Na1 Ce1 V2 O7'
+_cell_volume   248.56748237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.29008090  0.22847057  0.37859236  1
+  K  K1  1  0.37377549  0.10555381  0.92099579  1
+  K  K2  1  0.97958190  0.84118339  0.26162006  1
+  Na  Na3  1  0.70984175  0.49661839  0.11534344  1
+  Ce  Ce4  1  0.54020514  0.63199322  0.57841306  1
+  V  V5  1  0.05750631  0.65157581  0.79417549  1
+  V  V6  1  0.85497045  0.11205964  0.67621987  1
+  O  O7  1  0.08987382  0.51646740  0.04820655  1
+  O  O8  1  0.18897021  0.89625111  0.71304542  1
+  O  O9  1  0.24534559  0.49570500  0.60626047  1
+  O  O10  1  0.49406726  0.80765622  0.29146481  1
+  O  O11  1  0.72842299  0.32153254  0.84020494  1
+  O  O12  1  0.73625546  0.85778943  0.69895889  1
+  O  O13  1  0.76848048  0.30865042  0.43565778  1

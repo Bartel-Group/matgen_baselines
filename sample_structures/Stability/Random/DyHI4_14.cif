@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_DyHI4
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.68916734
+_cell_length_b   10.22854217
+_cell_length_c   14.86022215
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.80616455
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   DyHI4
+_chemical_formula_sum   'Dy4 H4 I16'
+_cell_volume   1085.11293625
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  4  0.25101739  0.60753473  0.00290290  1
+  H  H1  4  0.25906607  0.74109905  0.25927909  1
+  I  I2  4  0.16362351  0.10098049  0.62489842  1
+  I  I3  4  0.21388419  0.67442759  0.63335769  1
+  I  I4  4  0.29877390  0.66359261  0.38013026  1
+  I  I5  4  0.33366163  0.09127116  0.37261030  1

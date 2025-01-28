@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaHoNi3P4Rh3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.61181395
+_cell_length_b   5.71188949
+_cell_length_c   5.95563655
+_cell_angle_alpha   89.89780188
+_cell_angle_beta   86.39873172
+_cell_angle_gamma   89.78901153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaHoNi3P4Rh3
+_chemical_formula_sum   'La1 Ho1 Ni3 P4 Rh3'
+_cell_volume   190.52384818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.96855346  0.17056745  0.46402831  1
+  Ho  Ho1  1  0.65489634  0.67128753  0.00038726  1
+  Ni  Ni2  1  0.14346494  0.66760613  0.28190444  1
+  Ni  Ni3  1  0.15998596  0.40920291  0.93108698  1
+  Ni  Ni4  1  0.47784391  0.18164698  0.18202687  1
+  P  P5  1  0.12403269  0.66501212  0.65757615  1
+  P  P6  1  0.48616243  0.17322052  0.82130198  1
+  P  P7  1  0.78285583  0.66839156  0.45359041  1
+  P  P8  1  0.83857260  0.18316165  0.99450202  1
+  Rh  Rh9  1  0.15673430  0.93173240  0.93426931  1
+  Rh  Rh10  1  0.45738025  0.43617323  0.54245832  1
+  Rh  Rh11  1  0.46251816  0.90745736  0.53950363  1

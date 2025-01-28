@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_RbNdO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67144194
+_cell_length_b   6.79409841
+_cell_length_c   7.13205618
+_cell_angle_alpha   28.92335637
+_cell_angle_beta   38.76536703
+_cell_angle_gamma   27.41202150
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNdO2
+_chemical_formula_sum   'Rb1 Nd1 O2'
+_cell_volume   82.76271544
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.10224222  0.83869177  0.19603443  1.0
+  Nd  Nd1  1  0.61431319  0.45349728  0.59214874  1.0
+  O  O2  1  0.60592031  0.70863663  0.65026119  1.0
+  O  O3  1  0.10873855  0.42080315  0.06573106  1.0

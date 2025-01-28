@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaMgTlCd2Cu3BiSeNO7
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.50369338
+_cell_length_b   7.36810440
+_cell_length_c   7.81414504
+_cell_angle_alpha   80.11774278
+_cell_angle_beta   73.91365581
+_cell_angle_gamma   86.78384368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMgTlCd2Cu3BiSeNO7
+_chemical_formula_sum   'Na1 Mg1 Tl1 Cd2 Cu3 Bi1 Se1 N1 O7'
+_cell_volume   299.94047508
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.46686476  0.04650574  0.36567446  1
+  Mg  Mg1  1  0.10008654  0.59148634  0.03855443  1
+  Tl  Tl2  1  0.69141302  0.88920198  0.90172034  1
+  Cd  Cd3  1  0.08025857  0.11459511  0.07395795  1
+  Cd  Cd4  1  0.65709392  0.38145517  0.90557515  1
+  Cu  Cu5  1  0.27944086  0.36116140  0.65806765  1
+  Cu  Cu6  1  0.52524001  0.54843203  0.31440994  1
+  Cu  Cu7  1  0.86773128  0.24862679  0.48615361  1
+  Bi  Bi8  1  0.96070951  0.73713436  0.47929107  1
+  Se  Se9  1  0.24030686  0.90916185  0.80769448  1
+  N  N10  1  0.55278864  0.33891040  0.46979372  1
+  O  O11  1  0.02648868  0.05492087  0.36794840  1
+  O  O12  1  0.19962468  0.63437802  0.25041739  1
+  O  O13  1  0.24684021  0.38706340  0.90881341  1
+  O  O14  1  0.62489427  0.75366981  0.40389203  1
+  O  O15  1  0.67176043  0.11030954  0.06760661  1
+  O  O16  1  0.73541275  0.58977955  0.05648302  1
+  O  O17  1  0.93676026  0.40940170  0.62967579  1

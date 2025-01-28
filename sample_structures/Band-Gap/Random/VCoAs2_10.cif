@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_VCoAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73888308
+_cell_length_b   5.59311661
+_cell_length_c   8.98986138
+_cell_angle_alpha   95.87394575
+_cell_angle_beta   89.99999999
+_cell_angle_gamma   90.00000015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VCoAs2
+_chemical_formula_sum   'V3 Co3 As6'
+_cell_volume   187.00898126
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00000000  0.50000959  0.49999851  1.0
+  V  V1  1  0.00000000  0.49996181  0.99997723  1.0
+  V  V2  1  0.00000000  0.00000406  0.49999484  1.0
+  Co  Co3  1  0.00000000  0.28899664  0.24439554  1.0
+  Co  Co4  1  0.00000000  0.71104612  0.75560623  1.0
+  Co  Co5  1  0.00000000  0.99994999  0.00005735  1.0
+  As  As6  1  0.50000000  0.23355962  0.07758171  1.0
+  As  As7  1  0.50000000  0.76637492  0.60485136  1.0
+  As  As8  1  0.50000000  0.76642685  0.92240832  1.0
+  As  As9  1  0.50000000  0.23363572  0.39515043  1.0
+  As  As10  1  0.00000000  0.27636158  0.74221835  1.0
+  As  As11  1  0.00000000  0.72367310  0.25776012  1.0

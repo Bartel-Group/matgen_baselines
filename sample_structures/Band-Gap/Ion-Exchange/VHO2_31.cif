@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_VHO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06125691
+_cell_length_b   4.47384704
+_cell_length_c   5.05343836
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99997138
+_cell_angle_gamma   90.00013941
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VHO2
+_chemical_formula_sum   'V2 H2 O4'
+_cell_volume   69.20984597
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.49999890  0.22711011  0.50023394  1.0
+  V  V1  1  0.00000117  0.77288989  0.00023394  1.0
+  H  H2  1  0.49999982  0.30556728  0.01914707  1.0
+  H  H3  1  0.00000010  0.69443273  0.51914708  1.0
+  O  O4  1  0.99999878  0.51176652  0.64261279  1.0
+  O  O5  1  0.50000143  0.48823347  0.14261285  1.0
+  O  O6  1  0.00000076  0.98808113  0.35130619  1.0
+  O  O7  1  0.49999904  0.01191886  0.85130614  1.0

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.05944920
+_cell_length_b   2.14722323
+_cell_length_c   3.28958392
+_cell_angle_alpha   139.27575684
+_cell_angle_beta   130.74717712
+_cell_angle_gamma   63.16127396
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaO3
+_chemical_formula_sum   'Pa1 O3'
+_cell_volume   7.16258599
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa1  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O1  1  0.76624715  0.17384720  0.24764404  1.0
+  O  O2  1  0.49251378  0.87552726  0.77180862  1.0
+  O  O3  1  0.15295079  0.23935488  0.00000000  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NiOsCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47460143
+_cell_length_b   6.01456625
+_cell_length_c   6.87212309
+_cell_angle_alpha   89.99999625
+_cell_angle_beta   90.00004673
+_cell_angle_gamma   86.11895474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiOsCl4
+_chemical_formula_sum   'Ni2 Os2 Cl8'
+_cell_volume   225.76189870
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.50000329  0.25000026  0.65774421  1.0
+  Ni  Ni1  1  0.49999009  0.74999594  0.34227166  1.0
+  Os  Os2  1  0.99999947  0.25000061  0.14447410  1.0
+  Os  Os3  1  0.00000079  0.75000146  0.85558637  1.0
+  Cl  Cl4  1  0.74199808  0.92590523  0.61766298  1.0
+  Cl  Cl5  1  0.25800500  0.57409604  0.61766165  1.0
+  Cl  Cl6  1  0.25800613  0.07408025  0.38231862  1.0
+  Cl  Cl7  1  0.74199366  0.42591931  0.38231980  1.0
+  Cl  Cl8  1  0.76212684  0.93349239  0.10935709  1.0
+  Cl  Cl9  1  0.23787440  0.56650636  0.10935468  1.0
+  Cl  Cl10  1  0.23790786  0.06650439  0.89062522  1.0
+  Cl  Cl11  1  0.76209439  0.43349778  0.89062562  1.0

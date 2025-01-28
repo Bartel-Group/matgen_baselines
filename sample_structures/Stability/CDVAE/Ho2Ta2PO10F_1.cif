@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ho2Ta2PO10F
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.37280306
+_cell_length_b   5.37499664
+_cell_length_c   8.26108529
+_cell_angle_alpha   95.55904760
+_cell_angle_beta   97.99149258
+_cell_angle_gamma   98.99444777
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Ta2PO10F
+_chemical_formula_sum   'Ho2 Ta2 P1 O10 F1'
+_cell_volume   231.62634970
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.15679901  0.56365239  0.56889429  1
+  Ho  Ho1  1  0.62090591  0.88908652  0.27983287  1
+  Ta  Ta2  1  0.77391476  0.93692067  0.70556405  1
+  Ta  Ta3  1  0.78264116  0.47299160  0.90049105  1
+  P  P4  1  0.17268171  0.31097744  0.21925836  1
+  O  O5  1  0.01787177  0.76985488  0.82109589  1
+  O  O6  1  0.08684375  0.39015066  0.04826265  1
+  O  O7  1  0.32044779  0.09325552  0.20075548  1
+  O  O8  1  0.33953249  0.54612333  0.33270617  1
+  O  O9  1  0.53737483  0.60175416  0.73289381  1
+  O  O10  1  0.61526465  0.12801746  0.87366556  1
+  O  O11  1  0.68587482  0.64398455  0.07844650  1
+  O  O12  1  0.86736154  0.79889277  0.49916458  1
+  O  O13  1  0.94538496  0.24333856  0.31612787  1
+  O  O14  1  0.94746693  0.27812128  0.69430263  1
+  F  F15  1  0.44226513  0.96318903  0.54226894  1

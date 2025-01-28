@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PaInO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86185074
+_cell_length_b   6.94288969
+_cell_length_c   6.63936281
+_cell_angle_alpha   126.83885956
+_cell_angle_beta   137.00765991
+_cell_angle_gamma   73.62225342
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaInO4
+_chemical_formula_sum   'Pa2 In2 O8'
+_cell_volume   141.26498733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa1  1  0.75349903  0.11822015  0.52269548  1.0
+  Pa  Pa2  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In1  1  0.28894782  0.83920646  0.49225575  1.0
+  In  In2  1  0.58794117  0.42272228  0.00000000  1.0
+  O  O1  1  0.81540203  0.68256748  0.66057944  1.0
+  O  O2  1  0.32016468  0.10114571  0.65362996  1.0
+  O  O3  1  0.38666117  0.29316765  0.44578424  1.0
+  O  O4  1  0.31763104  0.93251896  0.00000000  1.0
+  O  O5  1  0.77937877  0.10279626  0.00000000  1.0
+  O  O6  1  0.93916899  0.87810850  0.54883558  1.0
+  O  O7  1  0.90391243  0.17851445  0.87402999  1.0
+  O  O8  1  0.12414262  0.40339997  0.93851912  1.0

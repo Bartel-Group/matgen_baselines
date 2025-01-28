@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cs2PdCl4
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.63898842
+_cell_length_b   4.71206536
+_cell_length_c   11.09998634
+_cell_angle_alpha   90.75373200
+_cell_angle_beta   96.66839393
+_cell_angle_gamma   90.20349156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2PdCl4
+_chemical_formula_sum   'Cs2 Pd1 Cl4'
+_cell_volume   240.97152804
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.62052387  0.50414398  0.97625440  1
+  Cs  Cs1  1  0.83626418  0.46812330  0.60390440  1
+  Pd  Pd2  1  0.21169867  0.00284973  0.26586484  1
+  Cl  Cl3  1  0.14787104  0.00720022  0.05567070  1
+  Cl  Cl4  1  0.27871789  0.96289915  0.47157486  1
+  Cl  Cl5  1  0.40590349  0.98853162  0.75889588  1
+  Cl  Cl6  1  0.71416589  0.12672942  0.27039658  1

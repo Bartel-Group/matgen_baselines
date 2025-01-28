@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li2MgTlSnO4F
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.88698376
+_cell_length_b   4.70172079
+_cell_length_c   7.62150271
+_cell_angle_alpha   81.41515620
+_cell_angle_beta   89.60535236
+_cell_angle_gamma   78.30427950
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2MgTlSnO4F
+_chemical_formula_sum   'Li2 Mg1 Tl1 Sn1 O4 F1'
+_cell_volume   134.82750822
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.19627804  0.17984555  0.37752336  1
+  Li  Li1  1  0.44220619  0.63765824  0.44989509  1
+  Mg  Mg2  1  0.89093479  0.81143999  0.65118523  1
+  Tl  Tl3  1  0.29792400  0.21829423  0.85152669  1
+  Sn  Sn4  1  0.87881979  0.77021529  0.17339898  1
+  O  O5  1  0.35837708  0.87485063  0.21005045  1
+  O  O6  1  0.36345881  0.93260176  0.59876932  1
+  O  O7  1  0.86962470  0.84895969  0.91182451  1
+  O  O8  1  0.95995900  0.57815765  0.43450075  1
+  F  F9  1  0.78130734  0.27589414  0.19561932  1

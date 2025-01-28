@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiHoF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13102025
+_cell_length_b   5.34343326
+_cell_length_c   5.34595432
+_cell_angle_alpha   89.99828407
+_cell_angle_beta   89.96498726
+_cell_angle_gamma   92.47115432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHoF4
+_chemical_formula_sum   'Li2 Ho2 F8'
+_cell_volume   146.43511140
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50005287  0.25017167  0.72933189  1.0
+  Li  Li1  1  0.49994711  0.74982835  0.27066820  1.0
+  Ho  Ho2  1  0.99999592  0.75001751  0.75243021  1.0
+  Ho  Ho3  1  0.00000408  0.24998249  0.24756978  1.0
+  F  F4  1  0.76154298  0.05026539  0.56148349  1.0
+  F  F5  1  0.23847324  0.44976765  0.56124294  1.0
+  F  F6  1  0.23845700  0.94973461  0.43851650  1.0
+  F  F7  1  0.76152678  0.55023236  0.43875704  1.0
+  F  F8  1  0.23502204  0.57638330  0.06649943  1.0
+  F  F9  1  0.76500113  0.92359436  0.06673995  1.0
+  F  F10  1  0.76497800  0.42361668  0.93350054  1.0
+  F  F11  1  0.23499885  0.07640563  0.93326005  1.0

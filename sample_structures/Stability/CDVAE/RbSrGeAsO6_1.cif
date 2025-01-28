@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbSrGeAsO6
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.24781764
+_cell_length_b   4.91741257
+_cell_length_c   9.64546085
+_cell_angle_alpha   88.97468242
+_cell_angle_beta   89.14969271
+_cell_angle_gamma   89.72468566
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSrGeAsO6
+_chemical_formula_sum   'Rb1 Sr1 Ge1 As1 O6'
+_cell_volume   154.00308437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.30656791  0.24573809  0.18798104  1
+  Sr  Sr1  1  0.32694208  0.26866615  0.63972425  1
+  Ge  Ge2  1  0.83485675  0.77621536  0.45093070  1
+  As  As3  1  0.81312244  0.78739676  0.90824839  1
+  O  O4  1  0.31627044  0.61712145  0.86092419  1
+  O  O5  1  0.33914256  0.67063481  0.37084335  1
+  O  O6  1  0.80429073  0.76996208  0.08148682  1
+  O  O7  1  0.81619964  0.09858776  0.83269370  1
+  O  O8  1  0.82652132  0.63829313  0.61909842  1
+  O  O9  1  0.83402099  0.13012539  0.45066182  1

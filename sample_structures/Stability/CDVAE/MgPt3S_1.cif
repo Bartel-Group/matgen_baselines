@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_MgPt3S
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.32032509
+_cell_length_b   4.58729222
+_cell_length_c   4.62237632
+_cell_angle_alpha   86.73208432
+_cell_angle_beta   78.04024628
+_cell_angle_gamma   78.26845776
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgPt3S
+_chemical_formula_sum   'Mg1 Pt3 S1'
+_cell_volume   87.73782303
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.80449654  0.78986658  0.16412360  1
+  Pt  Pt1  1  0.38960337  0.36300068  0.19285392  1
+  Pt  Pt2  1  0.39205492  0.77882328  0.73680396  1
+  Pt  Pt3  1  0.97428903  0.35075744  0.76187994  1
+  S  S4  1  0.53208733  0.22950726  0.63267758  1

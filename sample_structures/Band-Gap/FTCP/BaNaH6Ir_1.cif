@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaNaH6Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51229968
+_cell_length_b   9.55914722
+_cell_length_c   5.48156109
+_cell_angle_alpha   54.72235970
+_cell_angle_beta   59.89682967
+_cell_angle_gamma   30.56784237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaH6Ir
+_chemical_formula_sum   'Ba1 Na1 H6 Ir1'
+_cell_volume   119.91048525
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.92681537  0.26517564  0.19221629  1.0
+  Na  Na1  1  0.91772633  0.77135279  0.69223119  1.0
+  H  H2  1  0.92946526  0.79336968  0.16277899  1.0
+  H  H3  1  0.51208739  0.21788291  0.72993026  1.0
+  H  H4  1  0.51047255  0.21689290  0.16777802  1.0
+  H  H5  1  0.93912450  0.22066724  0.73186921  1.0
+  H  H6  1  0.35765487  0.79508163  0.16709202  1.0
+  H  H7  1  0.36223186  0.79600574  0.72725899  1.0
+  Ir  Ir8  1  0.93558229  0.00637398  0.94777244  1.0

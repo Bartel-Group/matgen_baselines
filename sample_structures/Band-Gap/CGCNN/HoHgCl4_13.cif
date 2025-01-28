@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoHgCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24236328
+_cell_length_b   6.95417110
+_cell_length_c   8.25953171
+_cell_angle_alpha   89.99792707
+_cell_angle_beta   90.00034830
+_cell_angle_gamma   105.27923888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoHgCl4
+_chemical_formula_sum   'Ho2 Hg2 Cl8'
+_cell_volume   401.28433585
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.50000242  0.24999153  0.62907231  1.0
+  Ho  Ho1  1  0.49999753  0.75000846  0.37093008  1.0
+  Hg  Hg2  1  0.99999732  0.75000005  0.82476831  1.0
+  Hg  Hg3  1  0.00000251  0.25000000  0.17521500  1.0
+  Cl  Cl4  1  0.71613372  0.99822040  0.58639518  1.0
+  Cl  Cl5  1  0.28386394  0.50177463  0.58639900  1.0
+  Cl  Cl6  1  0.28386382  0.00177586  0.41361328  1.0
+  Cl  Cl7  1  0.71613872  0.49822935  0.41360976  1.0
+  Cl  Cl8  1  0.29784318  0.57385834  0.12843294  1.0
+  Cl  Cl9  1  0.70216412  0.92615231  0.12842671  1.0
+  Cl  Cl10  1  0.70216439  0.42614569  0.87156568  1.0
+  Cl  Cl11  1  0.29782831  0.07384337  0.87157175  1.0

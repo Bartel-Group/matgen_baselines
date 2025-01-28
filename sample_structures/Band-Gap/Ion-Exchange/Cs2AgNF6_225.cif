@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2AgNF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16520308
+_cell_length_b   6.16520422
+_cell_length_c   6.16520376
+_cell_angle_alpha   59.99973931
+_cell_angle_beta   59.99974794
+_cell_angle_gamma   59.99974319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2AgNF6
+_chemical_formula_sum   'Cs2 Ag1 N1 F6'
+_cell_volume   165.70086083
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.24999999  0.25000000  0.25000003  1.0
+  Cs  Cs1  1  0.74999998  0.75000003  0.75000005  1.0
+  Ag  Ag2  1  0.50000002  0.50000004  0.50000001  1.0
+  N  N3  1  0.00000013  0.99999960  0.00000005  1.0
+  F  F4  1  0.21735339  0.78264653  0.78264658  1.0
+  F  F5  1  0.21735349  0.78264659  0.21735348  1.0
+  F  F6  1  0.78264635  0.21735347  0.78264640  1.0
+  F  F7  1  0.78264657  0.78264652  0.21735340  1.0
+  F  F8  1  0.21735362  0.21735358  0.78264645  1.0
+  F  F9  1  0.78264647  0.21735365  0.21735355  1.0

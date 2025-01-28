@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ni(BMo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59121656
+_cell_length_b   6.30522823
+_cell_length_c   3.43650699
+_cell_angle_alpha   145.35617065
+_cell_angle_beta   131.25100708
+_cell_angle_gamma   67.14701080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni(BMo)2
+_chemical_formula_sum   'Ni1 B2 Mo2'
+_cell_volume   39.65873728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni1  1  0.00000000  0.00000000  0.00000000  1.0
+  B  B1  1  0.58975494  0.52746040  0.00000000  1.0
+  B  B2  1  0.15283802  0.46486616  0.77309620  1.0
+  Mo  Mo1  1  0.75953764  0.24852440  0.26854765  1.0
+  Mo  Mo2  1  0.22297904  0.91053677  0.37513563  1.0

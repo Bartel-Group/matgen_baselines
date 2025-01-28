@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnHgBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.62537055
+_cell_length_b   5.77955361
+_cell_length_c   5.87791280
+_cell_angle_alpha   90.11597409
+_cell_angle_beta   90.00000403
+_cell_angle_gamma   89.99994401
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnHgBr4
+_chemical_formula_sum   'Zn2 Hg2 Br8'
+_cell_volume   428.90457538
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.75083500  0.99999971  0.25000110  1.0
+  Zn  Zn1  1  0.24916500  0.00000030  0.74999891  1.0
+  Hg  Hg2  1  0.74644471  0.49999981  0.74999985  1.0
+  Hg  Hg3  1  0.25355528  0.50000020  0.25000013  1.0
+  Br  Br4  1  0.62746395  0.77002288  0.48084434  1.0
+  Br  Br5  1  0.62746421  0.22997720  0.01915511  1.0
+  Br  Br6  1  0.37253605  0.22997711  0.51915567  1.0
+  Br  Br7  1  0.37253580  0.77002282  0.98084486  1.0
+  Br  Br8  1  0.87076920  0.23435222  0.48213930  1.0
+  Br  Br9  1  0.87076900  0.76564821  0.01785987  1.0
+  Br  Br10  1  0.12923081  0.76564777  0.51786068  1.0
+  Br  Br11  1  0.12923100  0.23435178  0.98214015  1.0

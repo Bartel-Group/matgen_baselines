@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K2Ge2Br7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78807364
+_cell_length_b   8.75113183
+_cell_length_c   11.28786489
+_cell_angle_alpha   86.49966490
+_cell_angle_beta   95.49922062
+_cell_angle_gamma   62.61250391
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ge2Br7
+_chemical_formula_sum   'K2 Ge2 Br7'
+_cell_volume   501.74568933
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.90723959  0.68745607  0.27776195  1.0
+  K  K1  1  0.08441763  0.73929932  0.83025147  1.0
+  Ge  Ge2  1  0.55725611  0.29864863  0.13674314  1.0
+  Ge  Ge3  1  0.48119510  0.79359429  0.57371751  1.0
+  Br  Br4  1  0.37984825  0.99098302  0.73140321  1.0
+  Br  Br5  1  0.37067444  0.25865465  0.31366286  1.0
+  Br  Br6  1  0.41876152  0.63072643  0.13038770  1.0
+  Br  Br7  1  0.02163606  0.80155464  0.53541574  1.0
+  Br  Br8  1  0.24096662  0.32325714  0.97174603  1.0
+  Br  Br9  1  0.69392172  0.52564596  0.71782932  1.0
+  Br  Br10  1  0.96367496  0.01317837  0.13043763  1.0

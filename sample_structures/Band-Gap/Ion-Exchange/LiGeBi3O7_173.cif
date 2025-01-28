@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiGeBi3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.60941227
+_cell_length_b   8.60941251
+_cell_length_c   5.36744781
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000007
+_cell_angle_gamma   120.00014829
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGeBi3O7
+_chemical_formula_sum   'Li2 Ge2 Bi6 O14'
+_cell_volume   344.54411394
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99999949  0.99999975  0.01012700  1.0
+  Li  Li1  1  0.00000051  0.00000025  0.51012702  1.0
+  Ge  Ge2  1  0.33333333  0.66666667  0.17438823  1.0
+  Ge  Ge3  1  0.66666667  0.33333333  0.67438848  1.0
+  Bi  Bi4  1  0.09402588  0.73797365  0.70065108  1.0
+  Bi  Bi5  1  0.26202678  0.35605264  0.70065108  1.0
+  Bi  Bi6  1  0.64394706  0.90597401  0.70065059  1.0
+  Bi  Bi7  1  0.35605295  0.09402603  0.20065061  1.0
+  Bi  Bi8  1  0.73797326  0.64394738  0.20065110  1.0
+  Bi  Bi9  1  0.90597410  0.26202633  0.20065111  1.0
+  O  O10  1  0.09041825  0.86135708  0.33762336  1.0
+  O  O11  1  0.11738348  0.52352347  0.03827925  1.0
+  O  O12  1  0.40614066  0.88261689  0.03827983  1.0
+  O  O13  1  0.33333333  0.66666667  0.50362340  1.0
+  O  O14  1  0.13864251  0.22906123  0.33762332  1.0
+  O  O15  1  0.47647643  0.59386004  0.03827922  1.0
+  O  O16  1  0.22906152  0.09041857  0.83762290  1.0
+  O  O17  1  0.77093848  0.90958144  0.33762291  1.0
+  O  O18  1  0.52352343  0.40613999  0.53827917  1.0
+  O  O19  1  0.86135750  0.77093878  0.83762330  1.0
+  O  O20  1  0.66666667  0.33333333  0.00362464  1.0
+  O  O21  1  0.59385929  0.11738292  0.53827980  1.0
+  O  O22  1  0.88261670  0.47647667  0.53827923  1.0
+  O  O23  1  0.90958173  0.13864291  0.83762336  1.0

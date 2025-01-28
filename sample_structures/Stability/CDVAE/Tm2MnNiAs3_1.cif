@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Tm2MnNiAs3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.99987045
+_cell_length_b   5.44658230
+_cell_length_c   7.02465048
+_cell_angle_alpha   70.06828355
+_cell_angle_beta   88.62668199
+_cell_angle_gamma   88.21614040
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm2MnNiAs3
+_chemical_formula_sum   'Tm2 Mn1 Ni1 As3'
+_cell_volume   143.78519709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.69885536  0.28291820  0.18564243  1
+  Tm  Tm1  1  0.72198739  0.56795223  0.57772206  1
+  Mn  Mn2  1  0.20155686  0.93056140  0.86733972  1
+  Ni  Ni3  1  0.21289313  0.96478223  0.47799457  1
+  As  As4  1  0.20878600  0.42049065  0.88303790  1
+  As  As5  1  0.22797437  0.73461599  0.24531073  1
+  As  As6  1  0.70389645  0.05296171  0.62224367  1

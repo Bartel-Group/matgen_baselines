@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li3HfBr7
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.69525820
+_cell_length_b   3.85662521
+_cell_length_c   13.07382645
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   98.00516359
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Li3HfBr7
+_chemical_formula_sum   'Li3 Hf1 Br7'
+_cell_volume   334.29105385
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.39734221  0.00000000  0.13336176  1
+  Li  Li1  1  0.41836502  0.50000000  0.33638209  1
+  Li  Li2  1  0.97867943  0.50000000  0.31746031  1
+  Hf  Hf3  1  0.67384689  0.50000000  0.78779855  1
+  Br  Br4  1  0.17671240  0.50000000  0.15483443  1
+  Br  Br5  1  0.21470895  0.00000000  0.41643793  1
+  Br  Br6  1  0.41815411  0.00000000  0.70976591  1
+  Br  Br7  1  0.50826114  0.50000000  0.95344327  1
+  Br  Br8  1  0.68248874  0.00000000  0.27876561  1
+  Br  Br9  1  0.84004212  0.50000000  0.62831934  1
+  Br  Br10  1  0.92379900  0.00000000  0.87293081  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ZrSe2Cl
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   6.72073955
+_cell_length_b   6.51838824
+_cell_length_c   5.01098516
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.68104005
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   ZrSe2Cl
+_chemical_formula_sum   'Zr2 Se4 Cl2'
+_cell_volume   215.71977131
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  2  0.00000000  0.91808551  0.50000000  1
+  Se  Se1  4  0.13250993  0.27508896  0.32840378  1
+  Cl  Cl2  2  0.00000000  0.79331164  0.00000000  1

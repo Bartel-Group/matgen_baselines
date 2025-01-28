@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsAs5O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.43652067
+_cell_length_b   8.43559394
+_cell_length_c   8.24634672
+_cell_angle_alpha   75.28286767
+_cell_angle_beta   75.29813832
+_cell_angle_gamma   23.81666832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAs5O8
+_chemical_formula_sum   'Cs1 As5 O8'
+_cell_volume   228.86555122
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.01263980  0.98735697  0.49999405  1.0
+  As  As1  1  0.90016476  0.09984335  0.00002423  1.0
+  As  As2  1  0.58870385  0.75126785  0.07463052  1.0
+  As  As3  1  0.25199445  0.40821607  0.92525632  1.0
+  As  As4  1  0.85393742  0.60166242  0.66041015  1.0
+  As  As5  1  0.39788704  0.14655297  0.33963814  1.0
+  O  O6  1  0.53903807  0.35785392  0.16022192  1.0
+  O  O7  1  0.64197636  0.46115032  0.83974479  1.0
+  O  O8  1  0.84882942  0.92886475  0.88278710  1.0
+  O  O9  1  0.07145662  0.15041994  0.11735961  1.0
+  O  O10  1  0.80236356  0.82021450  0.46389376  1.0
+  O  O11  1  0.17998085  0.19744251  0.53616711  1.0
+  O  O12  1  0.64772827  0.73730235  0.27945505  1.0
+  O  O13  1  0.26329952  0.35185209  0.72041726  1.0

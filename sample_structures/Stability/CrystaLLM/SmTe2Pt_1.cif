@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SmTe2Pt
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.52069405
+_cell_length_b   4.95560083
+_cell_length_c   5.71436448
+_cell_angle_alpha   65.29577771
+_cell_angle_beta   73.68967483
+_cell_angle_gamma   86.70505725
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmTe2Pt
+_chemical_formula_sum   'Sm1 Te2 Pt1'
+_cell_volume   111.35675892
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.70959888  0.14981026  0.94734375  1
+  Te  Te1  1  0.47329769  0.79687616  0.67725573  1
+  Te  Te2  1  0.96004025  0.46732518  0.26485581  1
+  Pt  Pt3  1  0.10996318  0.91932173  0.35137805  1

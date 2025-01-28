@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ta2FeOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11652422
+_cell_length_b   4.63348722
+_cell_length_c   3.25941896
+_cell_angle_alpha   53.14636993
+_cell_angle_beta   54.63192368
+_cell_angle_gamma   51.28755188
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2FeOs
+_chemical_formula_sum   'Ta2 Fe1 Os1'
+_cell_volume   27.77898159
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta1  1  0.00000000  0.00000000  0.00000000  1.0
+  Ta  Ta2  1  0.28873372  0.43065798  0.32165813  1.0
+  Fe  Fe1  1  0.27837187  0.12748978  0.14519209  1.0
+  Os  Os1  1  0.77145922  0.80139577  0.78119671  1.0

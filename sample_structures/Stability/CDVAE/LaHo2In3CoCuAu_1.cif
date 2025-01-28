@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LaHo2In3CoCuAu
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.55065595
+_cell_length_b   6.31430487
+_cell_length_c   6.84196228
+_cell_angle_alpha   66.02639714
+_cell_angle_beta   83.53329756
+_cell_angle_gamma   72.72720545
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaHo2In3CoCuAu
+_chemical_formula_sum   'La1 Ho2 In3 Co1 Cu1 Au1'
+_cell_volume   209.22334419
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.07545446  0.29530791  0.22009893  1
+  Ho  Ho1  1  0.47950029  0.62107483  0.43756810  1
+  Ho  Ho2  1  0.67040701  0.04557036  0.98351685  1
+  In  In3  1  0.08007256  0.32835613  0.71492986  1
+  In  In4  1  0.53659476  0.59707644  0.94445843  1
+  In  In5  1  0.59592062  0.05620813  0.51044759  1
+  Co  Co6  1  0.21238082  0.92572260  0.06065534  1
+  Cu  Cu7  1  0.95540328  0.75712898  0.37102994  1
+  Au  Au8  1  0.07573175  0.82251786  0.72519943  1

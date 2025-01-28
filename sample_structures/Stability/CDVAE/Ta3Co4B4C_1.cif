@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta3Co4B4C
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.33931834
+_cell_length_b   4.76493157
+_cell_length_c   6.05757639
+_cell_angle_alpha   87.70829589
+_cell_angle_beta   88.43645240
+_cell_angle_gamma   77.04171865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Co4B4C
+_chemical_formula_sum   'Ta3 Co4 B4 C1'
+_cell_volume   121.94094095
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.20402636  0.08304755  0.15744997  1
+  Ta  Ta1  1  0.27077996  0.80292473  0.62300817  1
+  Ta  Ta2  1  0.81467294  0.66078151  0.27574418  1
+  Co  Co3  1  0.34395701  0.57939635  0.99866227  1
+  Co  Co4  1  0.67190548  0.17419545  0.48645574  1
+  Co  Co5  1  0.72951719  0.93451840  0.90102257  1
+  Co  Co6  1  0.89061713  0.41750070  0.79698603  1
+  B  B7  1  0.16709147  0.30014325  0.51479634  1
+  B  B8  1  0.35344300  0.49192190  0.31774899  1
+  B  B9  1  0.37457968  0.26460921  0.77881183  1
+  B  B10  1  0.67475179  0.25003286  0.13760173  1
+  C  C11  1  0.77815094  0.77770065  0.62038820  1

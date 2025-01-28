@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MoRh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35561752
+_cell_length_b   4.60640383
+_cell_length_c   5.36838818
+_cell_angle_alpha   90.46570587
+_cell_angle_beta   96.13629913
+_cell_angle_gamma   110.72680664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoRh3
+_chemical_formula_sum   'Mo2 Rh6'
+_cell_volume   123.00702503
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo1  1  0.31585383  0.82082105  0.28823900  1.0
+  Mo  Mo2  1  0.70446831  0.18601668  0.70954764  1.0
+  Rh  Rh1  1  0.91486049  0.73236966  0.27425921  1.0
+  Rh  Rh2  1  0.18191546  0.62099028  0.77801085  1.0
+  Rh  Rh3  1  0.85419768  0.83512759  0.90618813  1.0
+  Rh  Rh4  1  0.36637121  0.25328457  0.15867817  1.0
+  Rh  Rh5  1  0.78799909  0.14201513  0.33284521  1.0
+  Rh  Rh6  1  0.22145984  0.44482487  0.67805636  1.0

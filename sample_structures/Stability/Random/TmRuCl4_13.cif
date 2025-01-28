@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_TmRuCl4
+_symmetry_space_group_name_H-M   P2/c
+_cell_length_a   6.55140775
+_cell_length_b   7.57594943
+_cell_length_c   7.02774477
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.69615247
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   13
+_chemical_formula_structural   TmRuCl4
+_chemical_formula_sum   'Tm2 Ru2 Cl8'
+_cell_volume   324.09846011
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  2  0.00000000  0.38146032  0.25000000  1
+  Ru  Ru1  2  0.50000000  0.40387210  0.25000000  1
+  Cl  Cl2  4  0.22840276  0.36321593  0.65416384  1
+  Cl  Cl3  4  0.24552192  0.16377775  0.16244326  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ce2N2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49540737
+_cell_length_b   4.34683330
+_cell_length_c   8.78945116
+_cell_angle_alpha   100.71643025
+_cell_angle_beta   90.00111413
+_cell_angle_gamma   89.99739651
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2N2O
+_chemical_formula_sum   'Ce4 N4 O2'
+_cell_volume   131.21739300
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Ce4+  4.0
+  N3-  -3.0
+  O2-  -2.0
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce4+  Ce0  1  0.75017222  0.29104708  0.10675862  1.0
+  Ce4+  Ce1  1  0.74992847  0.11932270  0.67198738  1.0
+  Ce4+  Ce2  1  0.25007153  0.88067730  0.32801262  1.0
+  Ce4+  Ce3  1  0.24982778  0.70895292  0.89324138  1.0
+  N3-  N4  1  0.25012396  0.33151173  0.24909842  1.0
+  N3-  N5  1  0.24982435  0.21454544  0.90250836  1.0
+  N3-  N6  1  0.75017565  0.78545456  0.09749164  1.0
+  N3-  N7  1  0.74987604  0.66848827  0.75090158  1.0
+  O2-  O8  1  0.75006422  0.81460006  0.43689064  1.0
+  O2-  O9  1  0.24993578  0.18539994  0.56310936  1.0

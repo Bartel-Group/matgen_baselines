@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_AuSCl7
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.88680148
+_cell_length_b   8.57077327
+_cell_length_c   10.21665091
+_cell_angle_alpha   85.00826019
+_cell_angle_beta   89.34321618
+_cell_angle_gamma   81.17906137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AuSCl7
+_chemical_formula_sum   'Au1 S1 Cl7'
+_cell_volume   507.44570461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.90903530  0.18913850  0.72416501  1
+  S  S1  1  0.25999881  0.68741604  0.81215789  1
+  Cl  Cl2  1  0.12876724  0.74526962  0.98921642  1
+  Cl  Cl3  1  0.17086879  0.21741001  0.56197244  1
+  Cl  Cl4  1  0.37205817  0.94806439  0.55720105  1
+  Cl  Cl5  1  0.41105134  0.45147356  0.85085541  1
+  Cl  Cl6  1  0.54090928  0.69955069  0.55832073  1
+  Cl  Cl7  1  0.64672517  0.16320467  0.88586418  1
+  Cl  Cl8  1  0.97188590  0.68287252  0.70644687  1

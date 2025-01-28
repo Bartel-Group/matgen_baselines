@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CdAgCl3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.15957148
+_cell_length_b   6.45654965
+_cell_length_c   7.08441174
+_cell_angle_alpha   103.23375658
+_cell_angle_beta   99.08905071
+_cell_angle_gamma   91.43772013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdAgCl3
+_chemical_formula_sum   'Cd1 Ag1 Cl3'
+_cell_volume   182.51259238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.31024010  0.96967620  0.34953299  1
+  Ag  Ag1  1  0.77995926  0.79298981  0.87300321  1
+  Cl  Cl2  1  0.18542919  0.63961793  0.08026881  1
+  Cl  Cl3  1  0.31545606  0.92536899  0.69181827  1
+  Cl  Cl4  1  0.79761539  0.17644707  0.30187672  1

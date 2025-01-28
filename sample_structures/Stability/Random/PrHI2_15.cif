@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_PrHI2
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   9.19321897
+_cell_length_b   15.07315253
+_cell_length_c   10.11720521
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.83886209
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   PrHI2
+_chemical_formula_sum   'Pr8 H8 I16'
+_cell_volume   1400.22862821
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  8  0.18612619  0.10944133  0.08137402  1
+  H  H1  8  0.14402838  0.46898616  0.85322700  1
+  I  I2  8  0.15871373  0.07552591  0.40709644  1
+  I  I3  8  0.23431767  0.30485025  0.18928133  1

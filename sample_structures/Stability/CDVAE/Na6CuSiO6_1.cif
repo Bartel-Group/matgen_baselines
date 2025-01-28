@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Na6CuSiO6
+_symmetry_space_group_name_H-M   Amm2
+_cell_length_a   4.74588959
+_cell_length_b   8.53973954
+_cell_length_c   9.88754572
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   38
+_chemical_formula_structural   Na6CuSiO6
+_chemical_formula_sum   'Na12 Cu2 Si2 O12'
+_cell_volume   400.72898889
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x, y+1/2, z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  4  0.00000000  0.23770928  0.23838130  1
+  Na  Na1  4  0.50000000  0.21826041  0.46733475  1
+  Na  Na2  2  0.00000000  0.00000000  0.94929662  1
+  Na  Na3  2  0.50000000  0.00000000  0.74786980  1
+  Cu  Cu4  2  0.00000000  0.00000000  0.53151288  1
+  Si  Si5  2  0.50000000  0.00000000  0.15458894  1
+  O  O6  4  0.00000000  0.21182376  0.48696677  1
+  O  O7  4  0.50000000  0.16250054  0.23052969  1
+  O  O8  2  0.00000000  0.00000000  0.72594405  1
+  O  O9  2  0.50000000  0.00000000  0.99279089  1

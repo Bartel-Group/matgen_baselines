@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbHgCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48037307
+_cell_length_b   6.56081725
+_cell_length_c   6.90166881
+_cell_angle_alpha   89.87838825
+_cell_angle_beta   89.92445566
+_cell_angle_gamma   92.57444443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHgCl4
+_chemical_formula_sum   'Tb2 Hg2 Cl8'
+_cell_volume   338.37272384
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00042653  0.75025834  0.76758852  1.0
+  Tb  Tb1  1  0.99957280  0.24974161  0.23232579  1.0
+  Hg  Hg2  1  0.50006014  0.25004661  0.71073527  1.0
+  Hg  Hg3  1  0.49994126  0.74995458  0.28925546  1.0
+  Cl  Cl4  1  0.78940477  0.99353480  0.57218046  1.0
+  Cl  Cl5  1  0.21066248  0.50649385  0.57243766  1.0
+  Cl  Cl6  1  0.21030702  0.00647877  0.42793263  1.0
+  Cl  Cl7  1  0.78962433  0.49349112  0.42767609  1.0
+  Cl  Cl8  1  0.19767680  0.56094323  0.07393285  1.0
+  Cl  Cl9  1  0.80241283  0.93879822  0.07394143  1.0
+  Cl  Cl10  1  0.80185520  0.43912942  0.92600273  1.0
+  Cl  Cl11  1  0.19805584  0.06112944  0.92599110  1.0

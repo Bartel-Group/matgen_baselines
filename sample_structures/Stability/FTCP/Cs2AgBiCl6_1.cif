@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cs2AgBiCl6
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   7.70804017
+_cell_length_b   7.72286436
+_cell_length_c   7.72626312
+_cell_angle_alpha   119.81114500
+_cell_angle_beta   119.33213329
+_cell_angle_gamma   90.59993845
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Cs2AgBiCl6
+_chemical_formula_sum   'Cs2 Ag1 Bi1 Cl6'
+_cell_volume   327.70318319
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  2  0.24782790  0.25205748  0.50023256  1
+  Ag  Ag1  1  0.00000000  0.50000000  0.00000000  1
+  Bi  Bi2  1  0.50000000  0.00000000  0.00000000  1
+  Cl  Cl3  2  0.21316581  0.75395072  0.96979836  1
+  Cl  Cl4  2  0.25903715  0.76816602  0.50205436  1
+  Cl  Cl5  2  0.27411741  0.27064499  0.00808217  1

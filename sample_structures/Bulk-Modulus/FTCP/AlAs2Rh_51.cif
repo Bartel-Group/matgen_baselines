@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AlAs2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88299180
+_cell_length_b   5.34740004
+_cell_length_c   5.20496639
+_cell_angle_alpha   90.00003204
+_cell_angle_beta   90.01474617
+_cell_angle_gamma   90.00001195
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlAs2Rh
+_chemical_formula_sum   'Al2 As4 Rh2'
+_cell_volume   135.90848929
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.49997193  0.24999938  0.45728512  1.0
+  Al  Al1  1  0.50002805  0.74999942  0.54260846  1.0
+  As  As2  1  0.99998656  0.25000157  0.66089035  1.0
+  As  As3  1  0.00001327  0.75000120  0.33919741  1.0
+  As  As4  1  0.50000016  0.99966556  0.99996999  1.0
+  As  As5  1  0.50000017  0.50033684  0.99997126  1.0
+  Rh  Rh6  1  0.99998407  0.74999781  0.85868755  1.0
+  Rh  Rh7  1  0.00001578  0.24999822  0.14138985  1.0

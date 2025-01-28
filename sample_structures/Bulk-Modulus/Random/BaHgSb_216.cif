@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_BaHgSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43882840
+_cell_length_b   5.43882848
+_cell_length_c   5.43882746
+_cell_angle_alpha   59.99999414
+_cell_angle_beta   59.99998529
+_cell_angle_gamma   59.99998450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHgSb
+_chemical_formula_sum   'Ba1 Hg1 Sb1'
+_cell_volume   113.76296042
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000003  0.49999997  0.50000002  1.0
+  Hg  Hg1  1  0.74999997  0.75000001  0.74999999  1.0
+  Sb  Sb2  1  0.00000000  0.00000002  0.00000000  1.0

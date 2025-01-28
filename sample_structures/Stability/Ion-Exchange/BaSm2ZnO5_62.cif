@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaSm2ZnO5
+_symmetry_space_group_name_H-M   Pnma
+_cell_length_a   12.67295584
+_cell_length_b   5.85596285
+_cell_length_c   7.28519876
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   62
+_chemical_formula_structural   BaSm2ZnO5
+_chemical_formula_sum   'Ba4 Sm8 Zn4 O20'
+_cell_volume   540.65178284
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  '-x+1/2, y+1/2, z+1/2'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.09982448  0.75000000  0.07479680  1
+  Sm  Sm1  4  0.07462851  0.25000000  0.39757266  1
+  Sm  Sm2  4  0.20795738  0.75000000  0.61526726  1
+  Zn  Zn3  4  0.14999856  0.25000000  0.80641388  1
+  O  O4  8  0.06617505  0.00464202  0.66536608  1
+  O  O5  8  0.22378444  0.50376297  0.35075250  1
+  O  O6  4  0.09857716  0.25000000  0.06672836  1

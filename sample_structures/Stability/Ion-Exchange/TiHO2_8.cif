@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TiHO2
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   6.67783023
+_cell_length_b   8.13549496
+_cell_length_c   3.36347926
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.57508306
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   TiHO2
+_chemical_formula_sum   'Ti4 H4 O8'
+_cell_volume   158.92140600
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  4  0.26248541  0.24784773  0.35881304  1
+  H  H1  2  0.06370033  0.00000000  0.38189087  1
+  H  H2  2  0.45184225  0.50000000  0.77677941  1
+  O  O3  4  0.42916123  0.22222756  0.02605760  1
+  O  O4  2  0.18773943  0.00000000  0.29644643  1
+  O  O5  2  0.32275738  0.50000000  0.45035432  1

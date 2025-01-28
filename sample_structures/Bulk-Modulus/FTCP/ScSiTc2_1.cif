@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ScSiTc2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81933737
+_cell_length_b   3.50105786
+_cell_length_c   3.30153561
+_cell_angle_alpha   73.09555817
+_cell_angle_beta   58.83835983
+_cell_angle_gamma   65.48117065
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScSiTc2
+_chemical_formula_sum   'Sc1 Si1 Tc2'
+_cell_volume   34.20637077
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc1  1  0.80135572  0.59911597  0.67187029  1.0
+  Si  Si1  1  0.19250354  0.19908184  0.32029277  1.0
+  Tc  Tc1  1  0.00000000  0.00000000  0.00000000  1.0
+  Tc  Tc2  1  0.58625752  0.57759273  0.46781316  1.0

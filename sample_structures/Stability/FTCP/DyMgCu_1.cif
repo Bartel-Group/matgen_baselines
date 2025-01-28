@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_DyMgCu
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.45483708
+_cell_length_b   6.00156203
+_cell_length_c   7.20847988
+_cell_angle_alpha   65.99397455
+_cell_angle_beta   87.88920593
+_cell_angle_gamma   81.77652789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMgCu
+_chemical_formula_sum   'Dy3 Mg3 Cu3'
+_cell_volume   135.09382730
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.00000000  0.20296079  1
+  Dy  Dy1  1  0.00000000  0.39646232  0.60353768  1
+  Dy  Dy2  1  0.00000000  0.62964055  0.07649741  1
+  Mg  Mg3  1  0.42640072  0.12346137  0.08587480  1
+  Mg  Mg4  1  0.54453975  0.00000000  0.73357272  1
+  Mg  Mg5  1  0.62017447  0.77112141  0.22887859  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu7  1  0.37288272  0.73657539  0.63220516  1
+  Cu  Cu8  1  0.39935172  0.28590691  0.51908928  1

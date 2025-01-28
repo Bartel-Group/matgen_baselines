@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YInO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75693417
+_cell_length_b   5.75693421
+_cell_length_c   5.75693388
+_cell_angle_alpha   61.03199978
+_cell_angle_beta   61.03200049
+_cell_angle_gamma   61.03198896
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YInO3
+_chemical_formula_sum   'Y2 In2 O6'
+_cell_volume   138.05003339
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.25000011  0.24999993  0.25000001  1.0
+  Y  Y1  1  0.74999996  0.75000008  0.75000001  1.0
+  In  In2  1  0.00000000  0.00000003  0.99999999  1.0
+  In  In3  1  0.49999998  0.49999999  0.50000003  1.0
+  O  O4  1  0.74999980  0.12362122  0.37637878  1.0
+  O  O5  1  0.12362113  0.37637887  0.74999999  1.0
+  O  O6  1  0.62362118  0.24999979  0.87637882  1.0
+  O  O7  1  0.37637881  0.75000015  0.12362120  1.0
+  O  O8  1  0.87637886  0.62362114  0.24999997  1.0
+  O  O9  1  0.25000017  0.87637880  0.62362120  1.0

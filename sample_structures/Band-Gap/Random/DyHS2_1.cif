@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_DyHS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78637900
+_cell_length_b   5.30776655
+_cell_length_c   7.68204656
+_cell_angle_alpha   80.77898136
+_cell_angle_beta   87.97311527
+_cell_angle_gamma   110.23561881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHS2
+_chemical_formula_sum   'Dy2 H2 S4'
+_cell_volume   142.29798156
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.47164741  0.72159908  0.15760918  1.0
+  Dy  Dy1  1  0.21847536  0.24138750  0.82545384  1.0
+  H  H2  1  0.05992696  0.89165317  0.03918925  1.0
+  H  H3  1  0.73843958  0.85912923  0.63576730  1.0
+  S  S4  1  0.75191495  0.31057380  0.08383551  1.0
+  S  S5  1  0.79261318  0.37548157  0.55633267  1.0
+  S  S6  1  0.97873683  0.77737027  0.41601504  1.0
+  S  S7  1  0.48824571  0.82280537  0.78579720  1.0

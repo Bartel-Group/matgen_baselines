@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiRe2W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27236152
+_cell_length_b   4.20120716
+_cell_length_c   2.50106573
+_cell_angle_alpha   57.46339035
+_cell_angle_beta   56.41170502
+_cell_angle_gamma   64.74773407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiRe2W
+_chemical_formula_sum   'Ti1 Re2 W1'
+_cell_volume   23.73643066
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.36237580  0.38141623  0.42126599  1.0
+  Re  Re1  1  0.29194403  0.14919570  0.30175388  1.0
+  Re  Re2  1  0.77279466  0.86096388  0.83388507  1.0
+  W  W1  1  0.00000000  0.00000000  0.00000000  1.0

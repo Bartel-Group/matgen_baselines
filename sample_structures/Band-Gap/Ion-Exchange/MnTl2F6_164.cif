@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MnTl2F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91452277
+_cell_length_b   5.91446104
+_cell_length_c   4.96063743
+_cell_angle_alpha   90.00849897
+_cell_angle_beta   89.99247986
+_cell_angle_gamma   120.00444227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnTl2F6
+_chemical_formula_sum   'Mn1 Tl2 F6'
+_cell_volume   150.27389843
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.99999937  0.00008338  0.00000114  1.0
+  Tl  Tl1  1  0.33333333  0.66666667  0.69582914  1.0
+  Tl  Tl2  1  0.66666667  0.33333333  0.30417088  1.0
+  F  F3  1  0.14928198  0.85071426  0.21020598  1.0
+  F  F4  1  0.14923326  0.29845375  0.21012054  1.0
+  F  F5  1  0.29848381  0.14924275  0.78985889  1.0
+  F  F6  1  0.70151677  0.85075015  0.21014088  1.0
+  F  F7  1  0.85074854  0.70150210  0.78985115  1.0
+  F  F8  1  0.85073606  0.14926060  0.78982140  1.0

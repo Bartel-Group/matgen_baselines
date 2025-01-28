@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbEuI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78263580
+_cell_length_b   7.99498755
+_cell_length_c   8.21936136
+_cell_angle_alpha   90.00062261
+_cell_angle_beta   89.99992581
+_cell_angle_gamma   100.14362025
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbEuI4
+_chemical_formula_sum   'Yb2 Eu2 I8'
+_cell_volume   503.43183119
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.49999900  0.25000130  0.66438544  1.0
+  Yb  Yb1  1  0.50000162  0.75000102  0.33561600  1.0
+  Eu  Eu2  1  0.00000244  0.74999907  0.77774608  1.0
+  Eu  Eu3  1  0.00000136  0.24999909  0.22225422  1.0
+  I  I4  1  0.75180534  0.99808733  0.57027327  1.0
+  I  I5  1  0.24819414  0.50191252  0.57026936  1.0
+  I  I6  1  0.24819774  0.00191469  0.42972595  1.0
+  I  I7  1  0.75180263  0.49808780  0.42972929  1.0
+  I  I8  1  0.24172159  0.59331971  0.07136675  1.0
+  I  I9  1  0.75827895  0.90668093  0.07136399  1.0
+  I  I10  1  0.75827641  0.40667588  0.92863523  1.0
+  I  I11  1  0.24172179  0.09332166  0.92863644  1.0

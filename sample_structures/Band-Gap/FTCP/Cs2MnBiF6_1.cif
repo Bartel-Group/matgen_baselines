@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2MnBiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68398214
+_cell_length_b   6.56559119
+_cell_length_c   6.26617886
+_cell_angle_alpha   65.15886773
+_cell_angle_beta   65.68006809
+_cell_angle_gamma   57.78356226
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2MnBiF6
+_chemical_formula_sum   'Cs2 Mn1 Bi1 F6'
+_cell_volume   204.70618791
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.29801523  0.26453639  0.19660181  1.0
+  Cs  Cs1  1  0.78603616  0.76990394  0.69961167  1.0
+  Mn  Mn2  1  0.54067511  0.51768647  0.44893835  1.0
+  Bi  Bi3  1  0.04123325  0.01769237  0.94855696  1.0
+  F  F4  1  0.32799949  0.74064610  0.17265350  1.0
+  F  F5  1  0.76050407  0.69792939  0.25783453  1.0
+  F  F6  1  0.75192373  0.29534654  0.72659717  1.0
+  F  F7  1  0.78671206  0.22029813  0.25235981  1.0
+  F  F8  1  0.29699503  0.81304924  0.64494073  1.0
+  F  F9  1  0.32218939  0.33557603  0.63811782  1.0

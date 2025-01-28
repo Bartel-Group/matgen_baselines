@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HfSiOs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.19663763
+_cell_length_b   4.18002272
+_cell_length_c   3.12838435
+_cell_angle_alpha   68.52168274
+_cell_angle_beta   80.49466705
+_cell_angle_gamma   75.04364777
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSiOs2
+_chemical_formula_sum   'Hf1 Si1 Os2'
+_cell_volume   37.46469330
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf1  1  0.84420800  0.63374412  0.67151284  1.0
+  Si  Si1  1  0.31062847  0.21601039  0.32582319  1.0
+  Os  Os1  1  0.00000000  0.00000000  0.00000000  1.0
+  Os  Os2  1  0.65190667  0.59354830  0.40302032  1.0

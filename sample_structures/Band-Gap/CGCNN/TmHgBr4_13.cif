@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmHgBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30781025
+_cell_length_b   7.21561846
+_cell_length_c   8.97754484
+_cell_angle_alpha   90.00047471
+_cell_angle_beta   90.00097570
+_cell_angle_gamma   103.52631726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmHgBr4
+_chemical_formula_sum   'Tm2 Hg2 Br8'
+_cell_volume   460.25867420
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.49999889  0.74999880  0.37992756  1.0
+  Tm  Tm1  1  0.50000102  0.25000114  0.62007318  1.0
+  Hg  Hg2  1  0.00000561  0.75000515  0.83181315  1.0
+  Hg  Hg3  1  0.99999444  0.24999494  0.16819265  1.0
+  Br  Br4  1  0.70093314  0.42141190  0.86065362  1.0
+  Br  Br5  1  0.29907856  0.57858913  0.13934510  1.0
+  Br  Br6  1  0.29907796  0.07860210  0.86065163  1.0
+  Br  Br7  1  0.70091059  0.92139682  0.13934725  1.0
+  Br  Br8  1  0.72876879  0.99238724  0.58499747  1.0
+  Br  Br9  1  0.27122977  0.00761492  0.41500046  1.0
+  Br  Br10  1  0.27123518  0.50761705  0.58499362  1.0
+  Br  Br11  1  0.72876604  0.49238082  0.41500431  1.0

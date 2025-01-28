@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_IrN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34806013
+_cell_length_b   5.84451866
+_cell_length_c   2.00966978
+_cell_angle_alpha   61.68901825
+_cell_angle_beta   79.73894501
+_cell_angle_gamma   78.84741211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   IrN2
+_chemical_formula_sum   'Ir4 N8'
+_cell_volume   33.79687370
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir1  1  0.38931274  0.42694706  0.17229572  1.0
+  Ir  Ir2  1  0.91109061  0.75643170  0.21443617  1.0
+  Ir  Ir3  1  0.34222984  0.66513336  0.79029477  1.0
+  Ir  Ir4  1  0.00000000  0.49861509  0.76414603  1.0
+  N  N1  1  0.90038294  0.32522050  0.64262146  1.0
+  N  N2  1  0.71471804  0.51080209  0.28880715  1.0
+  N  N3  1  0.11713359  0.75739872  0.86459333  1.0
+  N  N4  1  0.43850359  0.46310461  0.84995729  1.0
+  N  N5  1  0.48474851  0.24778292  0.57300091  1.0
+  N  N6  1  0.85596341  0.88846332  0.68847066  1.0
+  N  N7  1  0.37545371  0.60155785  0.46709067  1.0
+  N  N8  1  0.21871853  0.49459037  0.40878803  1.0

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CrMoN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53431627
+_cell_length_b   5.53431662
+_cell_length_c   5.53431667
+_cell_angle_alpha   30.27406119
+_cell_angle_beta   30.27405591
+_cell_angle_gamma   30.27405634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrMoN2
+_chemical_formula_sum   'Cr1 Mo1 N2'
+_cell_volume   38.17618678
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.83310790  0.83310784  0.83310799  1.0
+  Mo  Mo1  1  0.99898232  0.99898234  0.99898249  1.0
+  N  N2  1  0.41760050  0.41760055  0.41760061  1.0
+  N  N3  1  0.24511028  0.24511027  0.24510991  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mg3SiAg
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.40605760
+_cell_length_b   5.62287829
+_cell_length_c   6.79453296
+_cell_angle_alpha   99.30749350
+_cell_angle_beta   105.59736032
+_cell_angle_gamma   91.13045386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3SiAg
+_chemical_formula_sum   'Mg6 Si2 Ag2'
+_cell_volume   195.87809720
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.08465748  0.36567714  0.77973674  1
+  Mg  Mg1  1  0.08528181  0.02653864  0.35779171  1
+  Mg  Mg2  1  0.28082158  0.88025299  0.81493744  1
+  Mg  Mg3  1  0.53359068  0.22656377  0.23149299  1
+  Mg  Mg4  1  0.69049826  0.74392614  0.54873904  1
+  Mg  Mg5  1  0.77118253  0.60619203  0.03985132  1
+  Si  Si6  1  0.33324489  0.68058038  0.15654221  1
+  Si  Si7  1  0.81558432  0.07163384  0.94361039  1
+  Ag  Ag8  1  0.13774761  0.54300251  0.43413604  1
+  Ag  Ag9  1  0.53168110  0.26928052  0.65387749  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_MgScCr2Si3NiPtC
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   3.78922448
+_cell_length_b   3.89940754
+_cell_length_c   9.21588554
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   MgScCr2Si3NiPtC
+_chemical_formula_sum   'Mg1 Sc1 Cr2 Si3 Ni1 Pt1 C1'
+_cell_volume   136.17144125
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.00000000  0.65971123  1
+  Sc  Sc1  1  0.00000000  0.00000000  0.95937400  1
+  Cr  Cr2  1  0.00000000  0.50000000  0.24701130  1
+  Cr  Cr3  1  0.50000000  0.00000000  0.24147669  1
+  Si  Si4  1  0.50000000  0.50000000  0.08361847  1
+  Si  Si5  1  0.50000000  0.50000000  0.43917652  1
+  Si  Si6  1  0.50000000  0.50000000  0.83621039  1
+  Ni  Ni7  1  0.00000000  0.50000000  0.67923679  1
+  Pt  Pt8  1  0.00000000  0.00000000  0.45949263  1
+  C  C9  1  0.00000000  0.00000000  0.22042685  1

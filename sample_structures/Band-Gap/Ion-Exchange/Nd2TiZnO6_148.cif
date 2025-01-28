@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Nd2TiZnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51797726
+_cell_length_b   5.51797681
+_cell_length_c   5.51797779
+_cell_angle_alpha   61.64760764
+_cell_angle_beta   61.64761081
+_cell_angle_gamma   61.64760892
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2TiZnO6
+_chemical_formula_sum   'Nd2 Ti1 Zn1 O6'
+_cell_volume   123.19155539
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.75291454  0.75291436  0.75291434  1.0
+  Nd  Nd1  1  0.24708560  0.24708574  0.24708570  1.0
+  Ti  Ti2  1  0.99999999  0.00000008  0.00000004  1.0
+  Zn  Zn3  1  0.50000009  0.50000002  0.50000009  1.0
+  O  O4  1  0.76754966  0.32830315  0.15419037  1.0
+  O  O5  1  0.15419017  0.76754956  0.32830325  1.0
+  O  O6  1  0.32830325  0.15419024  0.76754970  1.0
+  O  O7  1  0.23245016  0.67169661  0.84580986  1.0
+  O  O8  1  0.67169661  0.84580987  0.23244999  1.0
+  O  O9  1  0.84580993  0.23245037  0.67169666  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2RbCoF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57978236
+_cell_length_b   6.61648753
+_cell_length_c   6.54319576
+_cell_angle_alpha   59.64038963
+_cell_angle_beta   60.44455865
+_cell_angle_gamma   59.81683420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2RbCoF6
+_chemical_formula_sum   'Cs2 Rb1 Co1 F6'
+_cell_volume   201.25370457
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75013864  0.75003192  0.74980138  1.0
+  Cs  Cs1  1  0.24986136  0.24996808  0.25019862  1.0
+  Rb  Rb2  1  0.49999999  0.50000001  0.50000000  1.0
+  Co  Co3  1  0.00000000  0.00000000  0.00000000  1.0
+  F  F4  1  0.79248119  0.20597556  0.79561442  1.0
+  F  F5  1  0.78918446  0.21129415  0.20922391  1.0
+  F  F6  1  0.78916434  0.79022668  0.20929095  1.0
+  F  F7  1  0.21081554  0.78870585  0.79077609  1.0
+  F  F8  1  0.21083566  0.20977331  0.79070905  1.0
+  F  F9  1  0.20751881  0.79402444  0.20438558  1.0

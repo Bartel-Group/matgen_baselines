@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmZnI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.68768643
+_cell_length_b   7.54243036
+_cell_length_c   7.73431877
+_cell_angle_alpha   90.00001925
+_cell_angle_beta   89.99975243
+_cell_angle_gamma   100.54586166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmZnI4
+_chemical_formula_sum   'Sm2 Zn2 I8'
+_cell_volume   440.89034415
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.99999956  0.74999979  0.74341035  1.0
+  Sm  Sm1  1  0.00000044  0.25000021  0.25659108  1.0
+  Zn  Zn2  1  0.49999928  0.24999944  0.67919634  1.0
+  Zn  Zn3  1  0.50000073  0.75000056  0.32080482  1.0
+  I  I4  1  0.76656159  0.01126374  0.57075650  1.0
+  I  I5  1  0.23343958  0.48873665  0.57075704  1.0
+  I  I6  1  0.23343612  0.98873412  0.42924191  1.0
+  I  I7  1  0.76656271  0.51126550  0.42924139  1.0
+  I  I8  1  0.23059838  0.58904501  0.07376634  1.0
+  I  I9  1  0.76940075  0.91095419  0.07376489  1.0
+  I  I10  1  0.76939526  0.41095707  0.92623396  1.0
+  I  I11  1  0.23060561  0.08904372  0.92623539  1.0

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MnBr3
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.59024117
+_cell_length_b   7.48880074
+_cell_length_c   10.99554507
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   97.66454082
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   MnBr3
+_chemical_formula_sum   'Mn4 Br12'
+_cell_volume   619.42276244
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  4  0.30227269  0.58681829  0.45057870  1
+  Br  Br1  4  0.11482942  0.12104467  0.84621401  1
+  Br  Br2  4  0.27499047  0.61533964  0.99683536  1
+  Br  Br3  4  0.42110061  0.06330057  0.14727281  1

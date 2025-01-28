@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_FeCuBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55988152
+_cell_length_b   6.84609295
+_cell_length_c   7.39699306
+_cell_angle_alpha   69.29303973
+_cell_angle_beta   89.98255988
+_cell_angle_gamma   90.00797449
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCuBr4
+_chemical_formula_sum   'Fe2 Cu2 Br8'
+_cell_volume   310.73618656
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.00000000  0.50000003  0.50000002  1.0
+  Fe  Fe1  1  0.50000005  0.00000012  0.50000000  1.0
+  Cu  Cu2  1  0.00000009  0.99999987  0.99999989  1.0
+  Cu  Cu3  1  0.50000005  0.49999998  0.00000003  1.0
+  Br  Br4  1  0.64803142  0.17292840  0.15341966  1.0
+  Br  Br5  1  0.14803795  0.32701504  0.84657165  1.0
+  Br  Br6  1  0.32690413  0.72616121  0.38507700  1.0
+  Br  Br7  1  0.82688907  0.77387955  0.61495204  1.0
+  Br  Br8  1  0.35196851  0.82707160  0.84658036  1.0
+  Br  Br9  1  0.85196196  0.67298491  0.15342838  1.0
+  Br  Br10  1  0.67309583  0.27383883  0.61492299  1.0
+  Br  Br11  1  0.17311094  0.22612046  0.38504799  1.0

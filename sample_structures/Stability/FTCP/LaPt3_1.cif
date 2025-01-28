@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LaPt3
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   3.25958180
+_cell_length_b   4.50743723
+_cell_length_c   4.67888069
+_cell_angle_alpha   88.49304962
+_cell_angle_beta   88.09062958
+_cell_angle_gamma   78.15216064
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPt3
+_chemical_formula_sum   'La1 Pt3'
+_cell_volume   67.22864444
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt1  1  0.00000000  0.36884689  0.38585123  1
+  Pt  Pt2  1  0.30632859  0.61360449  0.00000000  1
+  Pt  Pt3  1  0.47103727  -0.00000000  0.45827374  1

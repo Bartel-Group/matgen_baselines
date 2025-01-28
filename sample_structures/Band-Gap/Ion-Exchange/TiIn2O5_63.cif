@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiIn2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72603202
+_cell_length_b   5.72603196
+_cell_length_c   10.45826291
+_cell_angle_alpha   90.00000118
+_cell_angle_beta   89.99999859
+_cell_angle_gamma   139.83480769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiIn2O5
+_chemical_formula_sum   'Ti2 In4 O10'
+_cell_volume   221.16809180
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.16938002  0.83061997  0.25000001  1.0
+  Ti  Ti1  1  0.83062012  0.16937990  0.74999999  1.0
+  In  In2  1  0.14108597  0.85891401  0.93186795  1.0
+  In  In3  1  0.14108598  0.85891401  0.56813205  1.0
+  In  In4  1  0.85891402  0.14108600  0.06813201  1.0
+  In  In5  1  0.85891400  0.14108598  0.43186799  1.0
+  O  O6  1  0.04968112  0.95031883  0.37764130  1.0
+  O  O7  1  0.04968115  0.95031888  0.12235869  1.0
+  O  O8  1  0.70372757  0.29627241  0.91023341  1.0
+  O  O9  1  0.70372758  0.29627240  0.58976659  1.0
+  O  O10  1  0.27308265  0.72691733  0.75000000  1.0
+  O  O11  1  0.72691738  0.27308264  0.25000000  1.0
+  O  O12  1  0.29627236  0.70372766  0.08976670  1.0
+  O  O13  1  0.29627234  0.70372766  0.41023331  1.0
+  O  O14  1  0.95031887  0.04968117  0.62235871  1.0
+  O  O15  1  0.95031887  0.04968115  0.87764131  1.0

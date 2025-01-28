@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Rb2FeF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.34004974
+_cell_length_b   6.65703201
+_cell_length_c   9.64521408
+_cell_angle_alpha   153.79219055
+_cell_angle_beta   150.99876404
+_cell_angle_gamma   50.16376877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2FeF3
+_chemical_formula_sum   'Rb2 Fe1 F3'
+_cell_volume   94.97274991
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.48489019  0.44365072  0.00000000  1.0
+  Rb  Rb1  1  0.67919707  0.60943204  0.00000000  1.0
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1.0
+  F  F3  1  0.87256533  0.84054899  0.00000000  1.0
+  F  F4  1  0.30758300  0.00000000  0.54847485  1.0
+  F  F5  1  0.00000000  0.73896313  0.43615153  1.0

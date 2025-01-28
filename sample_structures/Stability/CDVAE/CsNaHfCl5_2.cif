@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CsNaHfCl5
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   7.52867367
+_cell_length_b   8.53395299
+_cell_length_c   8.75060051
+_cell_angle_alpha   96.12410255
+_cell_angle_beta   114.92587399
+_cell_angle_gamma   107.70318909
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   CsNaHfCl5
+_chemical_formula_sum   'Cs2 Na2 Hf2 Cl10'
+_cell_volume   467.41800084
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  2  0.35907447  0.99769071  0.22807491  1
+  Na  Na1  2  0.05418313  0.34276910  0.35442732  1
+  Hf  Hf2  2  0.29227863  0.34662360  0.86258484  1
+  Cl  Cl3  2  0.07336380  0.68122055  0.38400083  1
+  Cl  Cl4  2  0.13962697  0.32467631  0.06351528  1
+  Cl  Cl5  2  0.16171168  0.01845188  0.79209968  1
+  Cl  Cl6  2  0.36587768  0.66351864  0.90511881  1
+  Cl  Cl7  2  0.40404456  0.32635480  0.63399554  1

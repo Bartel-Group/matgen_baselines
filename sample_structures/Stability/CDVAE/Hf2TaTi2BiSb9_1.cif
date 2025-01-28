@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Hf2TaTi2BiSb9
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.63579239
+_cell_length_b   5.71183158
+_cell_length_c   12.84733395
+_cell_angle_alpha   94.00379393
+_cell_angle_beta   93.09077424
+_cell_angle_gamma   116.42747569
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2TaTi2BiSb9
+_chemical_formula_sum   'Hf2 Ta1 Ti2 Bi1 Sb9'
+_cell_volume   367.76664902
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.19116976  0.17089886  0.40014788  1
+  Hf  Hf1  1  0.57507572  0.09984703  0.00656283  1
+  Ta  Ta2  1  0.07965278  0.59834811  0.01051698  1
+  Ti  Ti3  1  0.48653602  0.00956346  0.66613270  1
+  Ti  Ti4  1  0.49106188  0.50136938  0.64324018  1
+  Bi  Bi5  1  0.94642769  0.32386719  0.21308608  1
+  Sb  Sb6  1  0.05462130  0.07581995  0.92879847  1
+  Sb  Sb7  1  0.24277553  0.68874071  0.48528334  1
+  Sb  Sb8  1  0.29758328  0.96885812  0.20185243  1
+  Sb  Sb9  1  0.35508285  0.68320892  0.82510938  1
+  Sb  Sb10  1  0.60253385  0.62422991  0.08753069  1
+  Sb  Sb11  1  0.67117732  0.65193209  0.31650542  1
+  Sb  Sb12  1  0.71632107  0.42025956  0.82460839  1
+  Sb  Sb13  1  0.71714449  0.25525478  0.49570727  1
+  Sb  Sb14  1  0.99739142  0.01949925  0.69218379  1

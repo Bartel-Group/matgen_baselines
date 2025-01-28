@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00247007
+_cell_length_b   5.19259376
+_cell_length_c   5.45116787
+_cell_angle_alpha   89.99860426
+_cell_angle_beta   90.00163820
+_cell_angle_gamma   82.16090612
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErAsO4
+_chemical_formula_sum   'Er2 As2 O8'
+_cell_volume   140.27518231
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.99999547  0.25000214  0.78373316  1.0
+  Er  Er1  1  0.00000459  0.74999782  0.21626652  1.0
+  As  As2  1  0.50000777  0.25000348  0.32909959  1.0
+  As  As3  1  0.49999142  0.74999665  0.67090011  1.0
+  O  O4  1  0.28340338  0.48268678  0.57767631  1.0
+  O  O5  1  0.71660141  0.01731296  0.57766873  1.0
+  O  O6  1  0.74545833  0.11680425  0.11106701  1.0
+  O  O7  1  0.25451435  0.38320803  0.11106980  1.0
+  O  O8  1  0.25454181  0.88319567  0.88893251  1.0
+  O  O9  1  0.74548579  0.61679183  0.88892988  1.0
+  O  O10  1  0.28339891  0.98268710  0.42233095  1.0
+  O  O11  1  0.71659677  0.51731328  0.42232342  1.0

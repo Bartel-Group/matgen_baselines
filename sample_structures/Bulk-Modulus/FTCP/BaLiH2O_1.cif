@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaLiH2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20297194
+_cell_length_b   4.91665077
+_cell_length_c   8.44916821
+_cell_angle_alpha   74.54112244
+_cell_angle_beta   67.79917145
+_cell_angle_gamma   60.88216400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiH2O
+_chemical_formula_sum   'Ba1 Li1 H2 O1'
+_cell_volume   240.76030806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.66786301  0.76676947  0.86175835  1.0
+  Li  Li1  1  0.00000000  0.00000000  0.00000000  1.0
+  H  H1  1  0.17913142  0.29193375  0.16840890  1.0
+  H  H2  1  0.44663116  0.32881272  0.59825855  1.0
+  O  O1  1  0.71068978  0.13596871  0.26897234  1.0
