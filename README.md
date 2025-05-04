@@ -48,7 +48,7 @@ We also provide results from two template-based methods (described [here](https:
 * **Prototype novelty**: Defined as the percentage of proposed materials whose structures cannot be indexed to a known prototype in the [AFLOW](https://www.aflowlib.org/prototype-encyclopedia/) Encyclopedia of Crystallographic Prototypes.
 * **Prototype S∩N**: The stability rate of materials in these novel prototypes.
 
-The bold text in each column denotes the best value achieved among all methods.
+The bold text in each column denotes the best value achieved among all methods. For all metrics except Avg. $\Delta E_{\mathrm{d}}$, a higher value is considered better.
 
 ## Installation
 
