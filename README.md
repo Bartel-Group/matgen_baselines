@@ -29,6 +29,7 @@ We also provide results from two template-based methods (described [here](https:
 ### Generative models
 | Method | Avg. $\Delta E_{\mathrm{d}}$ | Stability | Novelty | S∩N | Prototype novelty | Prototype S∩N |
 |--------|:------------------:|:-------------:|:------------:|:--------:|:----------------------:|:------------------:|
+| [MatterGen](https://github.com/microsoft/mattergen) | 102.7 | 8.2% | 95.4% | 5.6% | 11.2% | 0% |
 | [FTCP](https://github.com/PV-Lab/FTCP) | 124.0 | **26.8%** | 49.2% | 5.6% | 8.2% | 0% |
 | [CDVAE](https://github.com/txie-93/cdvae) | 185.3 | 6.4% | 96.4% | 4.8% | **16.4%** | 0% |
 | [CrystaLLM](https://github.com/lantunes/CrystaLLM) | 369.0 | 1.4% | 91.4% | 1.1% | 6.4% | 0% |
