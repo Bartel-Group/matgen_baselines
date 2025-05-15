@@ -1,0 +1,10 @@
+{
+    "mp_api_key": "YOUR_MP_API_KEY_HERE",
+    "tasks": [
+        {
+            "method": "random_enum",
+            "num_strucs": 500,
+            "filepath": "Randomly-Enumerated"
+        }
+    ]
+}

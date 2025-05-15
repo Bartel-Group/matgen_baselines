@@ -1,0 +1,13 @@
+{
+    "mp_api_key": "YOUR_MP_API_KEY_HERE",
+    "tasks": [
+        {
+            "method": "ion_exchange",
+            "num_strucs": 500,
+            "filter_type": "band_gap",
+            "target": 3,
+            "threshold": 0.5,
+            "filepath": "Ion-Exchanged"
+        }
+    ]
+}
