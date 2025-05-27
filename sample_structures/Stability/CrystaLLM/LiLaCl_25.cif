@@ -1,0 +1,37 @@
+data_Li1La1Cl4
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Li 0.9800 1.4500 0.9000
+La 1.1000 1.9500 1.1720
+Cl 3.1600 1.0000 0.7800
+_symmetry_space_group_name_H-M P4/mmm
+_cell_length_a 4.7449
+_cell_length_b 4.7449
+_cell_length_c 6.3251
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 123
+_chemical_formula_structural LiLaCl4
+_chemical_formula_sum 'Li1 La1 Cl4'
+_cell_volume 142.4858
+_cell_formula_units_Z 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li Li0 1 0.5000 0.5000 0.0000 1
+La La1 1 0.0000 0.0000 0.5000 1
+Cl Cl2 4 0.0000 0.5000 0.2433 1
+
