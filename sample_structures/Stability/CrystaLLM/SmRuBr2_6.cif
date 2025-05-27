@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SmRuBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10389258
+_cell_length_b   3.86542075
+_cell_length_c   7.78925106
+_cell_angle_alpha   89.99967074
+_cell_angle_beta   103.56318596
+_cell_angle_gamma   89.99820562
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmRuBr2
+_chemical_formula_sum   'Sm1 Ru1 Br2'
+_cell_volume   120.11706519
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.56500088  0.50000484  0.00598951  1
+  Ru  Ru1  1  0.09806994  0.00000604  0.08853909  1
+  Br  Br2  1  0.18671510  0.49999553  0.31183864  1
+  Br  Br3  1  0.09121409  -0.00000641  0.76133276  1

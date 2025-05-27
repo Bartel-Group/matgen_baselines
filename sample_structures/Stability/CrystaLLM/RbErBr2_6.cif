@@ -1,0 +1,38 @@
+data_Rb1Er1Br4
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Rb 0.8200 2.3500 1.6600
+Er 1.2400 1.7500 1.0300
+Br 2.9600 1.1500 0.8825
+_symmetry_space_group_name_H-M P2/m
+_cell_length_a 7.5449
+_cell_length_b 4.1906
+_cell_length_c 7.9241
+_cell_angle_alpha 90.0000
+_cell_angle_beta 107.9575
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 10
+_chemical_formula_structural RbErBr4
+_chemical_formula_sum 'Rb1 Er1 Br4'
+_cell_volume 240.0858
+_cell_formula_units_Z 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Rb Rb0 1 0.5000 0.5000 0.0000 1
+Er Er1 1 0.0000 0.0000 0.5000 1
+Br Br2 2 0.1577 0.5000 0.7233 1
+Br Br3 2 0.2333 0.0000 0.3040 1
+

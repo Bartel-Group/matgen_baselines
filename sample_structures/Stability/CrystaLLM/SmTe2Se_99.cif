@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SmTe2Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06554008
+_cell_length_b   4.06573367
+_cell_length_c   8.44992414
+_cell_angle_alpha   89.99993517
+_cell_angle_beta   89.95185183
+_cell_angle_gamma   90.00027183
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmTe2Se
+_chemical_formula_sum   'Sm1 Te2 Se1'
+_cell_volume   139.67215360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.50019017  0.50000482  0.37253057  1
+  Te  Te1  1  0.00000067  -0.00000177  0.53584580  1
+  Te  Te2  1  0.49998256  0.50000073  0.01004056  1
+  Se  Se3  1  -0.00017340  -0.00000378  0.07708306  1
