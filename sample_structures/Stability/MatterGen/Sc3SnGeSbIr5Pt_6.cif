@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc3SnGeSbIr5Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31529505
+_cell_length_b   5.52125530
+_cell_length_c   9.80953357
+_cell_angle_alpha   99.78420753
+_cell_angle_beta   89.99902432
+_cell_angle_gamma   90.00109924
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3SnGeSbIr5Pt
+_chemical_formula_sum   'Sc3 Sn1 Ge1 Sb1 Ir5 Pt1'
+_cell_volume   230.32091687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.08593727  0.52704580  0.91957746  1
+  Sc  Sc1  1  0.58598686  0.73117451  0.21408190  1
+  Sc  Sc2  1  0.58596036  0.12418087  0.50223887  1
+  Sn  Sn3  1  0.08595565  0.92928251  0.68332556  1
+  Ge  Ge4  1  0.58612388  0.00092211  0.98416265  1
+  Sb  Sb5  1  0.08597188  0.43318134  0.36319701  1
+  Ir  Ir6  1  0.58601962  0.64052128  0.48890078  1
+  Ir  Ir7  1  0.08595549  0.39292530  0.63097146  1
+  Ir  Ir8  1  0.58595894  0.24298398  0.79863753  1
+  Ir  Ir9  1  0.58595513  0.70198263  0.76733544  1
+  Ir  Ir10  1  0.58602242  0.24974291  0.23122480  1
+  Pt  Pt11  1  0.08603712  0.96144961  0.12028018  1

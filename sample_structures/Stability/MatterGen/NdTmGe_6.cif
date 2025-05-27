@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TmGeNd2TmGe
+_chemical_formula_sum              "Tm2 Ge2 Nd2"
+_cell_length_a       4.472064269568885
+_cell_length_b       4.511128132092028
+_cell_length_c       8.059926986694336
+_cell_angle_alpha    89.80572462098623
+_cell_angle_beta     89.79078015034823
+_cell_angle_gamma    89.85874736439426
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.677933931350708  0.42956429719924927  0.657539427280426  1.0000
+  Ge  Ge1       1.0  0.17856241762638092  0.42755213379859924  0.40133872628211975  1.0000
+  Nd  Nd1       1.0  0.17747658491134644  0.42735424637794495  0.016893016174435616  1.0000
+  Nd  Nd2       1.0  0.6777310371398926  0.9290916323661805  0.29928427934646606  1.0000
+  Tm  Tm2       1.0  0.17731329798698425  0.9273457527160645  0.6567625999450684  1.0000
+  Ge  Ge2       1.0  0.6768420934677124  0.9287317395210267  0.9147376418113708  1.0000

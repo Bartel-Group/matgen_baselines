@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NdSm2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96918162
+_cell_length_b   3.97175161
+_cell_length_c   9.72596120
+_cell_angle_alpha   89.93816212
+_cell_angle_beta   89.98280265
+_cell_angle_gamma   60.01092034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdSm2O6
+_chemical_formula_sum   'Nd1 Sm2 O6'
+_cell_volume   132.79867019
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.26626825  0.52718190  0.85482916  1
+  Sm  Sm1  1  0.59957044  0.86046062  0.18864941  1
+  Sm  Sm2  1  0.93282882  0.19335614  0.52117581  1
+  O  O3  1  0.59952570  0.86055813  0.94189328  1
+  O  O4  1  0.26606651  0.52667891  0.60067771  1
+  O  O5  1  0.26631848  0.52719515  0.10932369  1
+  O  O6  1  0.93284122  0.19373454  0.27213177  1
+  O  O7  1  0.59959159  0.85996388  0.43770369  1
+  O  O8  1  0.93299734  0.19382160  0.76767574  1

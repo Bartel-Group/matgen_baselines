@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tm2Sm2TmSmTmSm
+_chemical_formula_sum              "Tm4 Sm4"
+_cell_length_a       3.5952974070911448
+_cell_length_b       3.5936343642272806
+_cell_length_c       22.8577880859375
+_cell_angle_alpha    90.03607956256266
+_cell_angle_beta     89.70395477864342
+_cell_angle_gamma    119.77031789241214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.9470274448394775  0.601007878780365  0.007239820435643196  1.0000
+  Tm  Tm2       1.0  0.27702683210372925  0.2616170048713684  0.7587647438049316  1.0000
+  Sm  Sm1       1.0  0.9470008611679077  0.5984256863594055  0.2585276961326599  1.0000
+  Sm  Sm2       1.0  0.6131535172462463  0.9319959282875061  0.12682542204856873  1.0000
+  Tm  Tm3       1.0  0.6118087768554688  0.926787257194519  0.3865072429180145  1.0000
+  Sm  Sm3       1.0  0.9366316795349121  0.5871791839599609  0.635944664478302  1.0000
+  Tm  Tm4       1.0  0.27416226267814636  0.25913938879966736  0.5108606219291687  1.0000
+  Sm  Sm4       1.0  0.6133424639701843  0.9295235872268677  0.8825827836990356  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgNdHg2
+_chemical_formula_sum              "Hg3 Nd1"
+_cell_length_a       4.701053818705018
+_cell_length_b       4.721315610590309
+_cell_length_c       5.87180757522583
+_cell_angle_alpha    113.5879046609138
+_cell_angle_beta     113.44223572913344
+_cell_angle_gamma    89.82980734666286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.5715292096138  0.49102675914764404  0.14836131036281586  1.0000
+  Nd  Nd1       1.0  0.07437609881162643  0.9930207133293152  0.1526891589164734  1.0000
+  Hg  Hg2       1.0  0.8233798146247864  0.24339878559112552  0.6527684926986694  1.0000
+  Hg  Hg3       1.0  0.3243430554866791  0.7438130974769592  0.6515527367591858  1.0000

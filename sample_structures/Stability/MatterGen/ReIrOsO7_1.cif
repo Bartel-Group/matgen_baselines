@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ReIrOsO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51158698
+_cell_length_b   5.42941233
+_cell_length_c   8.05737079
+_cell_angle_alpha   62.26492106
+_cell_angle_beta   77.48864876
+_cell_angle_gamma   71.63715000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReIrOsO7
+_chemical_formula_sum   'Re1 Ir1 Os1 O7'
+_cell_volume   128.59832838
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.07848873  0.22249907  0.13901186  1
+  Ir  Ir1  1  0.35585762  0.42567773  0.47229056  1
+  Os  Os2  1  0.57606162  0.65293174  0.79165925  1
+  O  O3  1  0.52154664  0.28155351  0.26615858  1
+  O  O4  1  0.68284030  0.24124227  0.97853397  1
+  O  O5  1  0.01893904  0.62748518  0.95698960  1
+  O  O6  1  0.25146463  0.84836863  0.25999779  1
+  O  O7  1  0.85170290  0.45918355  0.44768718  1
+  O  O8  1  0.43647657  0.04799824  0.68707086  1
+  O  O9  1  0.17042422  0.59629095  0.66786046  1

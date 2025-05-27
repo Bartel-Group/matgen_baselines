@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2Ga2CdSr
+_chemical_formula_sum              "Cd3 Ga2 Sr1"
+_cell_length_a       4.684441662752905
+_cell_length_b       4.687957408925781
+_cell_length_c       7.958693981170654
+_cell_angle_alpha    90.07425348888434
+_cell_angle_beta     89.94700706761802
+_cell_angle_gamma    120.16724884951604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.7056451439857483  0.9165363907814026  0.13448116183280948  1.0000
+  Cd  Cd2       1.0  0.04028861597180366  0.5827277898788452  0.9189771413803102  1.0000
+  Ga  Ga1       1.0  0.3740238845348358  0.2498094439506531  0.8959344029426576  1.0000
+  Ga  Ga2       1.0  0.041127528995275504  0.5827391147613525  0.3377401530742646  1.0000
+  Cd  Cd3       1.0  0.37324267625808716  0.24884428083896637  0.3728777766227723  1.0000
+  Sr  Sr1       1.0  0.7063583731651306  0.9159929752349854  0.6305106282234193  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hg3PrHgPrHg2
+_chemical_formula_sum              "Hg6 Pr2"
+_cell_length_a       4.630189602864528
+_cell_length_b       4.639361585435426
+_cell_length_c       9.876161575317383
+_cell_angle_alpha    89.82881065268559
+_cell_angle_beta     89.81000713747378
+_cell_angle_gamma    90.0503751496291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.09327840805053711  0.9507659077644347  0.4568181335926056  1.0000
+  Hg  Hg2       1.0  0.5916934013366699  0.9511814713478088  0.20529332756996155  1.0000
+  Hg  Hg3       1.0  0.5954213738441467  0.9518997073173523  0.7103228569030762  1.0000
+  Pr  Pr1       1.0  0.09368129074573517  0.9515754580497743  0.959985852241516  1.0000
+  Hg  Hg4       1.0  0.5934411287307739  0.4503046274185181  0.953574001789093  1.0000
+  Pr  Pr2       1.0  0.5951430201530457  0.4509671032428742  0.45728379487991333  1.0000
+  Hg  Hg5       1.0  0.0937420204281807  0.45018005371093744  0.20907211303710938  1.0000
+  Hg  Hg6       1.0  0.09671348333358765  0.45257130265235895  0.706058144569397  1.0000

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ReSb2SCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70609178
+_cell_length_b   6.42635600
+_cell_length_c   7.45051082
+_cell_angle_alpha   107.87568487
+_cell_angle_beta   79.62911258
+_cell_angle_gamma   98.02068329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReSb2SCl5
+_chemical_formula_sum   'Re1 Sb2 S1 Cl5'
+_cell_volume   254.73025669
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.01036242  0.50513484  0.70154083  1
+  Sb  Sb1  1  0.77323575  0.59003472  0.41881800  1
+  Sb  Sb2  1  0.19667383  0.37204347  0.98266764  1
+  S  S3  1  0.82503387  0.25247002  0.15987634  1
+  Cl  Cl4  1  0.18828970  0.73671803  0.23700685  1
+  Cl  Cl5  1  0.24062985  0.84215891  0.74512508  1
+  Cl  Cl6  1  0.79438960  0.16028697  0.64872658  1
+  Cl  Cl7  1  0.70445048  0.66803222  0.92767265  1
+  Cl  Cl8  1  0.33374733  0.34088302  0.47503978  1

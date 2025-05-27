@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrP2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93718065
+_cell_length_b   4.84387831
+_cell_length_c   6.86979212
+_cell_angle_alpha   109.21972154
+_cell_angle_beta   104.59952622
+_cell_angle_gamma   96.36145305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrP2O7
+_chemical_formula_sum   'Pr1 P2 O7'
+_cell_volume   146.71113868
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.17458427  0.48600302  0.57222796  1
+  P  P1  1  0.67879264  1.00009658  0.58742695  1
+  P  P2  1  0.18624086  0.74826641  0.16859900  1
+  O  O3  1  0.98538927  0.96004342  0.59579473  1
+  O  O4  1  0.56255808  0.91542685  0.74801224  1
+  O  O5  1  0.65449772  0.31065631  0.57979506  1
+  O  O6  1  0.94285660  0.54906571  0.19830840  1
+  O  O7  1  0.46928586  0.74648041  0.35111137  1
+  O  O8  1  0.22924924  0.61223371  0.95088844  1
+  O  O9  1  0.12618641  0.06148884  0.22994334  1

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OInEuSrIn2Mg
+_chemical_formula_sum              "O1 In3 Eu1 Sr1 Mg1"
+_cell_length_a       3.7694778305924967
+_cell_length_b       3.788716129915301
+_cell_length_c       11.452509880065918
+_cell_angle_alpha    90.04643413299549
+_cell_angle_beta     90.14110055813441
+_cell_angle_gamma    90.42704643633691
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5284605026245117  0.9625208377838134  0.9243112206459045  1.0000
+  In  In1       1.0  0.5276243090629578  0.9652578830718994  0.12717784941196442  1.0000
+  Eu  Eu1       1.0  0.02722852677106857  0.4640043377876281  0.9391987919807434  1.0000
+  Sr  Sr1       1.0  0.5278903245925903  0.9646661281585693  0.4435586631298065  1.0000
+  In  In2       1.0  0.028380339965224263  0.46412661671638483  0.6213935613632202  1.0000
+  In  In3       1.0  0.027315095067024227  0.46492004394531244  0.26649829745292664  1.0000
+  Mg  Mg1       1.0  0.5274479389190674  0.9650291204452515  0.7497386932373047  1.0000

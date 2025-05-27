@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InErBiPrInNiEr2
+_chemical_formula_sum              "In2 Er3 Bi1 Pr1 Ni1"
+_cell_length_a       4.420393753656394
+_cell_length_b       4.508253365672177
+_cell_length_c       11.323715209960938
+_cell_angle_alpha    113.71270938399483
+_cell_angle_beta     90.24478283703397
+_cell_angle_gamma    90.11440134206093
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.062325432896614075  0.9143239259719849  0.1334368884563446  1.0000
+  Er  Er1       1.0  0.059745341539382935  0.1978939771652222  0.9189437627792358  1.0000
+  Bi  Bi1       1.0  0.5601266026496887  0.6633226275444032  0.8842195272445679  1.0000
+  Pr  Pr1       1.0  0.5614386200904846  0.14339441061019897  0.36289525032043457  1.0000
+  In  In2       1.0  0.5604880452156067  0.9018482565879822  0.6252619028091431  1.0000
+  Ni  Ni1       1.0  0.559463620185852  0.4160383343696594  0.13619676232337952  1.0000
+  Er  Er2       1.0  0.06067829951643944  0.41926491260528564  0.6420837640762329  1.0000
+  Er  Er3       1.0  0.061354514211416245  0.6271092295646667  0.34733569622039795  1.0000

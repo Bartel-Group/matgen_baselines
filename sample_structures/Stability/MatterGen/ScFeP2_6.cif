@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PScPFe
+_chemical_formula_sum              "P2 Sc1 Fe1"
+_cell_length_a       3.617830016067249
+_cell_length_b       3.624527429591916
+_cell_length_c       5.096629619598389
+_cell_angle_alpha    90.19594014228679
+_cell_angle_beta     90.02873028189128
+_cell_angle_gamma    89.98765352216482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.3800545632839203  0.16186903417110443  0.9773626923561096  1.0000
+  Sc  Sc1       1.0  0.38103199005126953  0.15898962318897245  0.47708016633987427  1.0000
+  P   P2        1.0  0.8800501227378846  0.6582140326499939  0.47552013397216797  1.0000
+  Fe  Fe1       1.0  0.8797569870948793  0.6576492190361023  0.9758440256118774  1.0000
