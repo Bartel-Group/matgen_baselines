@@ -22,14 +22,14 @@ A preprint describing the methods in this package can be found on [arXiv](https:
 
 ## Stability and novelty leaderboard
 
-Below are performance metrics for select models. Note this list is not exhaustive, but rather a sampling of different model types (diffusion-based, LLMs, and variational autoencoders).
+Below are performance metrics for select models trained on the MP-20 dataset. Note this list is not exhaustive, but rather a sampling of different model types (diffusion-based, LLMs, and var>
 
 We also provide results from two template-based methods (described [here](https://arxiv.org/abs/2501.02144)) to serve as a baseline.
 
 ### Generative models
 | Method | Avg. $\Delta E_{\mathrm{d}}$ | Stability | Novelty | S∩N | Prototype novelty | Prototype S∩N |
 |--------|:------------------:|:-------------:|:------------:|:--------:|:----------------------:|:------------------:|
-| [MatterGen](https://github.com/microsoft/mattergen) | 102.7 | 8.2% | 95.4% | 5.6% | 11.2% | 0% |
+| [MatterGen](https://github.com/microsoft/mattergen) | 161.4 | 7.4% | 8.0% | 5.0% | 10.8% | 0% |
 | [FTCP](https://github.com/PV-Lab/FTCP) | 124.0 | **26.8%** | 49.2% | 5.6% | 8.2% | 0% |
 | [CDVAE](https://github.com/txie-93/cdvae) | 185.3 | 6.4% | 96.4% | 4.8% | **16.4%** | 0% |
 | [CrystaLLM](https://github.com/lantunes/CrystaLLM) | 369.0 | 1.4% | 91.4% | 1.1% | 6.4% | 0% |
