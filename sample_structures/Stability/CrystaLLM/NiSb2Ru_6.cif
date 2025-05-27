@@ -1,0 +1,38 @@
+data_Ni1Sb2Ru1
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Ni 1.9100 1.3500 0.7400
+Sb 2.0500 1.4500 0.8300
+Ru 2.2000 1.3000 0.6610
+_symmetry_space_group_name_H-M Pm
+_cell_length_a 3.2449
+_cell_length_b 4.9928
+_cell_length_c 4.8251
+_cell_angle_alpha 90.0000
+_cell_angle_beta 105.9575
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 6
+_chemical_formula_structural NiSb2Ru
+_chemical_formula_sum 'Ni1 Sb2 Ru1'
+_cell_volume 75.3988
+_cell_formula_units_Z 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni Ni0 1 0.5439 0.0000 0.5017 1
+Sb Sb1 1 0.3579 0.5000 0.6577 1
+Sb Sb2 1 0.8985 0.0000 0.1030 1
+Ru Ru3 1 0.7097 0.5000 0.2376 1
+

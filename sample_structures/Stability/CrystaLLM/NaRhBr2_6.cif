@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaRhBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27881471
+_cell_length_b   3.72427381
+_cell_length_c   7.20427622
+_cell_angle_alpha   90.03419462
+_cell_angle_beta   100.95193948
+_cell_angle_gamma   90.06803493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaRhBr2
+_chemical_formula_sum   'Na1 Rh1 Br2'
+_cell_volume   112.71253292
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.12220292  0.50083497  0.43677881  1
+  Rh  Rh1  1  0.38328960  0.49976887  0.03510238  1
+  Br  Br2  1  0.33272156  -0.00023362  0.24186903  1
+  Br  Br3  1  0.45419176  0.49962978  0.70394977  1

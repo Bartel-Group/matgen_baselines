@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_MoPbCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11030354
+_cell_length_b   3.81149069
+_cell_length_c   6.97480194
+_cell_angle_alpha   90.00060179
+_cell_angle_beta   89.99904345
+_cell_angle_gamma   90.00409930
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoPbCl
+_chemical_formula_sum   'Mo1 Pb1 Cl1'
+_cell_volume   82.68553049
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.50000032  0.49999835  0.60025772  1
+  Pb  Pb1  1  -0.00001830  0.00000412  -0.17076957  1
+  Cl  Cl2  1  0.00001798  0.49999752  0.34381185  1

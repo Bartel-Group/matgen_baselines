@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnRhCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56398253
+_cell_length_b   3.50853366
+_cell_length_c   7.99348840
+_cell_angle_alpha   89.99999945
+_cell_angle_beta   117.77253285
+_cell_angle_gamma   90.00004780
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnRhCl2
+_chemical_formula_sum   'Mn1 Rh1 Cl2'
+_cell_volume   88.43921187
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.17811432  0.50000013  0.06092508  1
+  Rh  Rh1  1  0.56636128  0.00000020  -0.05076272  1
+  Cl  Cl2  1  0.10376211  -0.00000008  0.27014900  1
+  Cl  Cl3  1  0.17976229  0.49999975  0.72698864  1
