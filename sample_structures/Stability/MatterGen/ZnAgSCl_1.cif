@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClZnAgS
+_chemical_formula_sum              "Cl1 Zn1 Ag1 S1"
+_cell_length_a       3.893463454192071
+_cell_length_b       3.9261672304069943
+_cell_length_c       7.326937675476074
+_cell_angle_alpha    74.54431526899855
+_cell_angle_beta     105.16292560800667
+_cell_angle_gamma    119.77395328951013
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3067191243171692  0.5589045882225037  0.7476487159729004  1.0000
+  Zn  Zn1       1.0  0.4267734289169312  0.4442572593688965  0.09684222936630249  1.0000
+  Ag  Ag1       1.0  0.9056897759437562  0.9606122374534607  0.5425466299057007  1.0000
+  S   S1        1.0  0.7881665229797364  0.07918971776962279  0.18759466707706451  1.0000

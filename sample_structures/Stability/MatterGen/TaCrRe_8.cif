@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       CrTaRe
+_chemical_formula_sum              "Cr1 Ta1 Re1"
+_cell_length_a       2.776175010796386
+_cell_length_b       2.76810567833148
+_cell_length_c       6.316708087921143
+_cell_angle_alpha    102.4176698514977
+_cell_angle_beta     77.64172518837111
+_cell_angle_gamma    89.71286140081429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.04304719716310501  0.44725996255874634  0.0862429141998291  1.0000
+  Ta  Ta1       1.0  0.3708988428115845  0.1176803484559059  0.42753821611404424  1.0000
+  Re  Re1       1.0  0.6941344738006592  0.7946841716766357  0.7828158140182496  1.0000

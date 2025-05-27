@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta3CuSi3Pt5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87801155
+_cell_length_b   6.46677947
+_cell_length_c   8.41681943
+_cell_angle_alpha   116.19218790
+_cell_angle_beta   103.32366627
+_cell_angle_gamma   89.99476877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3CuSi3Pt5
+_chemical_formula_sum   'Ta3 Cu1 Si3 Pt5'
+_cell_volume   183.05449901
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.91158407  0.85902253  0.35685162  1
+  Ta  Ta1  1  0.07927606  0.41734952  0.69239674  1
+  Ta  Ta2  1  0.15644606  0.02612370  0.84635857  1
+  Cu  Cu3  1  0.32834015  0.44289098  0.19039239  1
+  Si  Si4  1  0.93065974  0.47326006  0.39448523  1
+  Si  Si5  1  0.66934784  0.71888976  0.87236187  1
+  Si  Si6  1  0.54765535  0.08844021  0.62908303  1
+  Pt  Pt7  1  0.70349463  0.38723902  0.94062678  1
+  Pt  Pt8  1  0.79012615  0.10636031  0.11402290  1
+  Pt  Pt9  1  0.43060100  0.19897933  0.39520984  1
+  Pt  Pt10  1  0.27299635  0.76450608  0.07976539  1
+  Pt  Pt11  1  0.52004751  0.70152921  0.57315366  1

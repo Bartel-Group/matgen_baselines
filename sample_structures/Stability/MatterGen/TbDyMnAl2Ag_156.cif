@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbDyMnAl2Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46493983
+_cell_length_b   4.46479423
+_cell_length_c   7.14302645
+_cell_angle_alpha   90.00137389
+_cell_angle_beta   90.00105011
+_cell_angle_gamma   60.00694026
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbDyMnAl2Ag
+_chemical_formula_sum   'Tb1 Dy1 Mn1 Al2 Ag1'
+_cell_volume   123.32761037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.47799166  0.48094041  0.08310088  1
+  Dy  Dy1  1  0.47795633  0.48095632  0.60755803  1
+  Mn  Mn2  1  0.14466795  0.14757944  0.84398129  1
+  Al  Al3  1  0.14458218  0.14757561  0.34658689  1
+  Al  Al4  1  0.81131455  0.81426775  0.84290211  1
+  Ag  Ag5  1  0.81129838  0.81428308  0.34826240  1

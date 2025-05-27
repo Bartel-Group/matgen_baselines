@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OTi2O2
+_chemical_formula_sum              "O3 Ti2"
+_cell_length_a       3.3212493756962647
+_cell_length_b       3.3184823663193974
+_cell_length_c       7.156543254852295
+_cell_angle_alpha    61.952594131813804
+_cell_angle_beta     61.62714383723808
+_cell_angle_gamma    58.57109265500871
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.04802102968096733  0.6229007244110107  0.13498343527317047  1.0000
+  Ti  Ti1       1.0  0.7326213121414185  0.30416423082351685  0.61535507440567  1.0000
+  Ti  Ti2       1.0  0.7284006476402283  0.301822692155838  0.11767260730266572  1.0000
+  O   O2        1.0  0.49767121672630305  0.06976810842752457  0.46696737408637995  1.0000
+  O   O3        1.0  0.9601668715476989  0.5311500430107116  0.7760325670242308  1.0000

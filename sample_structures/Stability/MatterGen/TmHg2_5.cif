@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       TmHg2
+_chemical_formula_sum              "Tm1 Hg2"
+_cell_length_a       3.9325435067514656
+_cell_length_b       3.858998701597265
+_cell_length_c       5.408030986785889
+_cell_angle_alpha    110.68782695386307
+_cell_angle_beta     111.34217717005204
+_cell_angle_gamma    89.93299838945643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.9481405615806578  0.7109239697456361  0.6195374727249147  1.0000
+  Hg  Hg1       1.0  0.2827937602996826  0.0487336739897728  0.2908937335014343  1.0000
+  Hg  Hg2       1.0  0.6107277870178223  0.3745172321796418  0.9486774206161499  1.0000

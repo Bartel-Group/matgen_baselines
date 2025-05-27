@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TmOTmO2Cl
+_chemical_formula_sum              "Tm2 O3 Cl1"
+_cell_length_a       4.063735301495447
+_cell_length_b       4.076301004294173
+_cell_length_c       6.495291709899902
+_cell_angle_alpha    108.17223848791602
+_cell_angle_beta     107.88504375598588
+_cell_angle_gamma    90.07997098755159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.8772560358047485  0.10271967202425003  0.265489399433136  1.0000
+  O   O1        1.0  0.7965409755706787  0.5228179693222046  0.10392708331346516  1.0000
+  Tm  Tm2       1.0  0.2107972502708435  0.43855616450309753  0.9393792152404785  1.0000
+  O   O2        1.0  0.045722074806690216  0.2701950669288635  0.602215051651001  1.0000
+  O   O3        1.0  0.2942928373813629  0.022125817835330963  0.10233353823423386  1.0000
+  Cl  Cl1       1.0  0.550264835357666  0.7761586308479308  0.6082385778427124  1.0000

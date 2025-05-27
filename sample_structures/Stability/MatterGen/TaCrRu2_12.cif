@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaRu2Cr
+_chemical_formula_sum              "Ta1 Ru2 Cr1"
+_cell_length_a       4.3424429900454555
+_cell_length_b       4.349838441860066
+_cell_length_c       4.352890491485596
+_cell_angle_alpha    60.16891415095984
+_cell_angle_beta     60.11757051599101
+_cell_angle_gamma    60.169637780251044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.7437230944633484  0.6506492495536804  0.14642417430877686  1.0000
+  Ru  Ru1       1.0  0.4938003420829773  0.40101003646850586  0.8964030742645264  1.0000
+  Ru  Ru2       1.0  0.993335485458374  0.9010235071182251  0.39689794182777405  1.0000
+  Cr  Cr1       1.0  0.24339787662029266  0.15104350447654724  0.6460363268852234  1.0000

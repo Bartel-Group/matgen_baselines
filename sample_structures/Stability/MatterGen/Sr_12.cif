@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Sr4
+_chemical_formula_sum              "Sr4"
+_cell_length_a       6.883563655526535
+_cell_length_b       6.885780655774289
+_cell_length_c       6.847017288208008
+_cell_angle_alpha    59.922128773697324
+_cell_angle_beta     59.33855315026239
+_cell_angle_gamma    59.8077610678927
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.8106672763824461  0.8285412192344667  0.5306634306907654  1.0000
+  Sr  Sr2       1.0  0.060619540512561805  0.07935140281915665  0.7793300151824951  1.0000
+  Sr  Sr3       1.0  0.3094810545444488  0.32934430241584783  0.030689049512147903  1.0000
+  Sr  Sr4       1.0  0.5603270530700684  0.5777738094329834  0.2811811864376068  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TmRuTmPbTmCRuPb
+_chemical_formula_sum              "Tm3 Ru2 Pb2 C1"
+_cell_length_a       3.489257385415514
+_cell_length_b       4.479357144165944
+_cell_length_c       11.246431350708008
+_cell_angle_alpha    90.44379405505929
+_cell_angle_beta     89.88552854678349
+_cell_angle_gamma    89.98425208789142
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.9328349232673646  0.6825039386749268  0.6001685261726379  1.0000
+  Ru  Ru1       1.0  0.9310248494148256  0.6858716011047363  0.8777552843093872  1.0000
+  Tm  Tm2       1.0  0.43084621429443365  0.1840672343969345  0.7873262763023376  1.0000
+  Pb  Pb1       1.0  0.9287730455398561  0.18700267374515533  0.3278769552707672  1.0000
+  Tm  Tm3       1.0  0.42684790492057806  0.6887623071670532  0.167425274848938  1.0000
+  C   C1        1.0  0.43225270509719854  0.6834049820899963  0.7741801738739014  1.0000
+  Ru  Ru2       1.0  0.43230262398719793  0.18124905228614807  0.5225427150726318  1.0000
+  Pb  Pb2       1.0  0.9280751943588258  0.1876695305109024  0.031413767486810684  1.0000

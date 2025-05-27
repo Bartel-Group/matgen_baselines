@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Se2W2
+_chemical_formula_sum              "Se2 W2"
+_cell_length_a       3.106755705818834
+_cell_length_b       3.1106720169494246
+_cell_length_c       8.748936653137207
+_cell_angle_alpha    90.00647752367365
+_cell_angle_beta     89.9411057841437
+_cell_angle_gamma    89.92769811966458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.45315325260162354  0.5447890758514404  0.41347479820251465  1.0000
+  Se  Se2       1.0  0.9519878029823303  0.046436380594968796  0.03434503823518753  1.0000
+  W   W1        1.0  0.45459210872650146  0.5463867783546448  0.8492340445518494  1.0000
+  W   W2        1.0  0.9541379809379578  0.044920023530721664  0.5992428064346313  1.0000

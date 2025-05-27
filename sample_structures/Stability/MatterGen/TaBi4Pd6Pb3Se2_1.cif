@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TaBi4Pd6Pb3Se2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59137230
+_cell_length_b   4.40235778
+_cell_length_c   19.26443611
+_cell_angle_alpha   89.46962573
+_cell_angle_beta   94.61968910
+_cell_angle_gamma   90.30131828
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaBi4Pd6Pb3Se2
+_chemical_formula_sum   'Ta1 Bi4 Pd6 Pb3 Se2'
+_cell_volume   388.10378630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.50610439  0.34758608  0.21543029  1
+  Bi  Bi1  1  0.36121368  0.35296340  0.01155873  1
+  Bi  Bi2  1  0.32070807  0.36197050  0.81884922  1
+  Bi  Bi3  1  0.00012420  0.84958220  0.19770103  1
+  Bi  Bi4  1  0.54041049  0.83812348  0.33455115  1
+  Pd  Pd5  1  0.46324445  0.84548013  0.11872663  1
+  Pd  Pd6  1  0.92633358  0.85447355  0.01443346  1
+  Pd  Pd7  1  0.86539423  0.35035952  0.10204881  1
+  Pd  Pd8  1  0.83318339  0.35841990  0.91848528  1
+  Pd  Pd9  1  0.36869615  0.85702914  0.91563699  1
+  Pd  Pd10  1  0.02635396  0.34463131  0.29181661  1
+  Pb  Pb11  1  0.14621799  0.88795870  0.49420042  1
+  Pb  Pb12  1  0.71069795  0.38158443  0.64536314  1
+  Pb  Pb13  1  0.82527441  0.86251758  0.81785088  1
+  Se  Se14  1  0.25930388  0.87236577  0.64564044  1
+  Se  Se15  1  0.70052900  0.37996245  0.49806882  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zr6GaCuNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12811737
+_cell_length_b   4.38564809
+_cell_length_c   10.39301398
+_cell_angle_alpha   89.99355678
+_cell_angle_beta   101.45708426
+_cell_angle_gamma   90.00229217
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6GaCuNi2
+_chemical_formula_sum   'Zr6 Ga1 Cu1 Ni2'
+_cell_volume   184.41068746
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.07838384  0.55334285  0.44878037  1
+  Zr  Zr1  1  0.17776776  0.05315939  0.64996283  1
+  Zr  Zr2  1  0.28376781  0.55338386  0.86002161  1
+  Zr  Zr3  1  0.90489112  0.55352300  0.10243739  1
+  Zr  Zr4  1  0.55868046  0.05355047  0.40977808  1
+  Zr  Zr5  1  0.79299910  0.05332528  0.87869474  1
+  Ga  Ga6  1  0.39887536  0.05357871  0.09040670  1
+  Cu  Cu7  1  0.67749430  0.55262974  0.64786845  1
+  Ni  Ni8  1  0.97483004  0.05364041  0.24223142  1
+  Ni  Ni9  1  0.48581388  0.55360219  0.26361837  1

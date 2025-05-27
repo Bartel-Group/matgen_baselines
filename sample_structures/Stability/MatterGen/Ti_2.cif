@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti6
+_chemical_formula_sum              "Ti6"
+_cell_length_a       2.907646673390611
+_cell_length_b       4.694975210220478
+_cell_length_c       7.775218486785889
+_cell_angle_alpha    89.03978704839736
+_cell_angle_beta     99.26992811814698
+_cell_angle_gamma    89.10164817390759
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.48753300309181213  0.4258669316768647  0.44742098450660706  1.0000
+  Ti  Ti2       1.0  0.04126479476690292  0.9232213497161866  0.5645636916160583  1.0000
+  Ti  Ti3       1.0  0.7058059573173523  0.9212307333946228  0.8971264958381653  1.0000
+  Ti  Ti4       1.0  0.14971064031124115  0.42560592293739324  0.780887246131897  1.0000
+  Ti  Ti5       1.0  0.3689499795436859  0.9225629568099976  0.2317318320274353  1.0000
+  Ti  Ti6       1.0  0.8156269788742065  0.4234071373939514  0.11400235444307327  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SmSrS2
+_chemical_formula_sum              "Sm1 Sr1 S2"
+_cell_length_a       4.166382410336063
+_cell_length_b       4.175077102453235
+_cell_length_c       5.908101558685303
+_cell_angle_alpha    89.98511269106983
+_cell_angle_beta     90.01239929779459
+_cell_angle_gamma    89.73693093317372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.25579139590263367  0.4835227727890014  0.9048871994018555  1.0000
+  Sr  Sr1       1.0  0.7556840777397156  0.9841454625129699  0.4031320810317993  1.0000
+  S   S1        1.0  0.2565062642097473  0.4845886528491974  0.40380221605300903  1.0000
+  S   S2        1.0  0.7565218210220337  0.9833493232727051  0.9033389091491699  1.0000
