@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Te2MoRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96519008
+_cell_length_b   3.63675812
+_cell_length_c   4.92475306
+_cell_angle_alpha   90.00000236
+_cell_angle_beta   93.30492765
+_cell_angle_gamma   89.99999860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te2MoRh
+_chemical_formula_sum   'Te2 Mo1 Rh1'
+_cell_volume   88.77932988
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.10220153  0.49999999  0.16031447  1
+  Te  Te1  1  0.40573517  -0.00000001  0.66555461  1
+  Mo  Mo2  1  -0.12121282  0.00000001  0.46468124  1
+  Rh  Rh3  1  0.60857612  0.50000001  -0.01055031  1

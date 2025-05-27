@@ -1,0 +1,38 @@
+data_Tb1Sb1Te4
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Tb 1.1000 1.7500 0.9815
+Sb 2.0500 1.4500 0.8300
+Te 2.1000 1.4000 1.2933
+_symmetry_space_group_name_H-M P2/m
+_cell_length_a 7.8849
+_cell_length_b 4.4021
+_cell_length_c 7.9241
+_cell_angle_alpha 90.0000
+_cell_angle_beta 110.9555
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 10
+_chemical_formula_structural TbSbTe4
+_chemical_formula_sum 'Tb1 Sb1 Te4'
+_cell_volume 256.8358
+_cell_formula_units_Z 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Tb Tb0 1 0.5000 0.5000 0.0000 1
+Sb Sb1 1 0.0000 0.0000 0.0000 1
+Te Te2 2 0.2547 0.5000 0.2432 1
+Te Te3 2 0.2633 0.0000 0.7440 1
+

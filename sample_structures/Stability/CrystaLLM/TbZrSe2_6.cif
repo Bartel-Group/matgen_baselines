@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TbZrSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89595018
+_cell_length_b   3.83595991
+_cell_length_c   6.02567987
+_cell_angle_alpha   89.99952708
+_cell_angle_beta   89.82497775
+_cell_angle_gamma   90.01122452
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbZrSe2
+_chemical_formula_sum   'Tb1 Zr1 Se2'
+_cell_volume   90.05160866
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.01780897  0.50000221  0.67815954  1
+  Zr  Zr1  1  0.49573967  -0.00000166  0.31422299  1
+  Se  Se2  1  -0.00214707  0.50000322  0.19593394  1
+  Se  Se3  1  0.51659842  -0.00000377  0.78938353  1

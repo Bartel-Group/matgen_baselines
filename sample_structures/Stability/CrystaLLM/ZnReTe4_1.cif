@@ -1,0 +1,40 @@
+data_Zn1Re1Te4
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Zn 1.6500 1.3500 0.8800
+Re 1.9000 1.3500 0.7125
+Te 2.1000 1.4000 1.2933
+_symmetry_space_group_name_H-M P1
+_cell_length_a 3.5447
+_cell_length_b 6.7429
+_cell_length_c 7.3921
+_cell_angle_alpha 90.0843
+_cell_angle_beta 91.0557
+_cell_angle_gamma 97.2500
+_symmetry_Int_Tables_number 1
+_chemical_formula_structural ZnReTe4
+_chemical_formula_sum 'Zn1 Re1 Te4'
+_cell_volume 176.9943
+_cell_formula_units_Z 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Zn Zn0 1 0.9489 0.5111 0.0117 1
+Re Re1 1 0.5175 0.8306 0.5076 1
+Te Te2 1 0.0085 0.1048 0.5130 1
+Te Te3 1 0.4240 0.4538 0.7450 1
+Te Te4 1 0.5216 0.0168 0.1956 1
+Te Te5 1 0.9890 0.5948 0.3196 1
+

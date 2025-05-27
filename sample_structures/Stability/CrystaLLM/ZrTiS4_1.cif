@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ZrTiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56108688
+_cell_length_b   3.56092653
+_cell_length_c   18.07357667
+_cell_angle_alpha   87.01474322
+_cell_angle_beta   85.74772320
+_cell_angle_gamma   60.00737252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiS4
+_chemical_formula_sum   'Zr1 Ti1 S4'
+_cell_volume   197.92005414
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.44566288  0.48277800  0.17449703  1
+  Ti  Ti1  1  0.55394530  0.51657727  0.83047260  1
+  S  S2  1  0.08450585  0.14094562  0.25806403  1
+  S  S3  1  0.19747842  0.17587981  0.90568083  1
+  S  S4  1  0.80585766  0.82473327  0.09091188  1
+  S  S5  1  0.91264989  0.85768602  0.75517363  1

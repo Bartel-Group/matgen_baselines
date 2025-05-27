@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TaAlSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43143384
+_cell_length_b   3.43137527
+_cell_length_c   12.98795799
+_cell_angle_alpha   90.00126409
+_cell_angle_beta   89.99997430
+_cell_angle_gamma   119.99951014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAlSe2
+_chemical_formula_sum   'Ta1 Al1 Se2'
+_cell_volume   132.43948941
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000518  0.00000997  0.49908655  1
+  Al  Al1  1  0.66666022  0.33332391  0.01034644  1
+  Se  Se2  1  0.00000893  0.00000732  0.11369880  1
+  Se  Se3  1  0.33332566  0.66665880  0.37296821  1
