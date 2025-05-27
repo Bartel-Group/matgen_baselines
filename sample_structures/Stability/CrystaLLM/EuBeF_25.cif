@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_EuBeF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84320563
+_cell_length_b   3.28869025
+_cell_length_c   4.42218269
+_cell_angle_alpha   89.99997315
+_cell_angle_beta   90.00000069
+_cell_angle_gamma   89.99999823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuBeF
+_chemical_formula_sum   'Eu1 Be1 F1'
+_cell_volume   55.89246621
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.50000000  0.50000000  0.54694711  1
+  Be  Be1  1  0.00000001  -0.00000029  -0.01518614  1
+  F  F2  1  -0.00000000  0.50000030  0.18393903  1

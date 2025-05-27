@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_DyHBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47255267
+_cell_length_b   5.47262602
+_cell_length_c   3.73651062
+_cell_angle_alpha   89.99874821
+_cell_angle_beta   89.99833163
+_cell_angle_gamma   41.65733120
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHBr
+_chemical_formula_sum   'Dy1 H1 Br1'
+_cell_volume   74.38077943
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  -0.03567543  -0.03567960  0.00000021  1
+  H  H1  1  0.53732003  0.53732157  -0.00000028  1
+  Br  Br2  1  0.25305540  0.25305803  0.00000007  1

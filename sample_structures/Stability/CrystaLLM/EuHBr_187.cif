@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_EuHBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18649218
+_cell_length_b   4.18649226
+_cell_length_c   5.77647558
+_cell_angle_alpha   90.00003139
+_cell_angle_beta   89.99996232
+_cell_angle_gamma   120.00017098
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuHBr
+_chemical_formula_sum   'Eu1 H1 Br1'
+_cell_volume   87.67855875
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000008  -0.00000017  -0.05573696  1
+  H  H1  1  0.33333315  0.66666691  0.94433746  1
+  Br  Br2  1  0.00000009  -0.00000007  0.44419950  1
