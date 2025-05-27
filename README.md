@@ -32,7 +32,7 @@ We also provide results from two template-based methods (described [here](https:
 | [MatterGen](https://github.com/microsoft/mattergen) | 161.4 | 7.4% | 8.0% | 5.0% | 10.8% | 0% |
 | [FTCP](https://github.com/PV-Lab/FTCP) | 124.0 | **26.8%** | 49.2% | 5.6% | 8.2% | 0% |
 | [CDVAE](https://github.com/txie-93/cdvae) | 185.3 | 6.4% | 96.4% | 4.8% | **16.4%** | 0% |
-| [CrystaLLM](https://github.com/lantunes/CrystaLLM) | 369.0 | 1.4% | 91.4% | 1.1% | 6.4% | 0% |
+| [CrystaLLM](https://github.com/lantunes/CrystaLLM) | 403.0 | 3.2% | 97.4% | 1.2% | 6.0% | 0% |
 
 ### Template-based methods
 | Method | Avg. $\Delta E_{\mathrm{d}}$ | Stability | Novelty | S∩N | Prototype novelty | Prototype S∩N |
