@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaCuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06624340
+_cell_length_b   3.98952793
+_cell_length_c   14.80863131
+_cell_angle_alpha   97.73827217
+_cell_angle_beta   88.82289605
+_cell_angle_gamma   90.00015689
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCuO2
+_chemical_formula_sum   'La4 Cu4 O8'
+_cell_volume   237.99258454
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.97538083  0.91330991  0.80317343  1
+  La  La1  1  0.47685035  0.62325703  0.22128170  1
+  La  La2  1  0.99181677  0.03674771  0.04824509  1
+  La  La3  1  0.96430454  0.76950190  0.51518797  1
+  Cu  Cu4  1  0.98749534  0.17273256  0.32032607  1
+  Cu  Cu5  1  0.44932994  0.33923892  0.65555743  1
+  Cu  Cu6  1  0.49400020  0.47146208  0.91857182  1
+  Cu  Cu7  1  0.47908649  0.21434575  0.40441006  1
+  O  O8  1  1.00188639  0.47859993  0.93250341  1
+  O  O9  1  0.98214814  0.58489473  0.14445386  1
+  O  O10  1  0.66834973  0.39682647  0.77025618  1
+  O  O11  1  0.48132605  0.97109176  0.91785757  1
+  O  O12  1  0.44459291  0.71439930  0.40449966  1
+  O  O13  1  0.48277447  0.08021142  0.13507224  1
+  O  O14  1  0.65933674  0.27833849  0.53293101  1
+  O  O15  1  0.24518291  0.83760221  0.65212791  1

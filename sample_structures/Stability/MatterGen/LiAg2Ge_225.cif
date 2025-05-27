@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiAg2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55202209
+_cell_length_b   4.55253082
+_cell_length_c   4.55084066
+_cell_angle_alpha   60.01897872
+_cell_angle_beta   60.00202267
+_cell_angle_gamma   59.94907163
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAg2Ge
+_chemical_formula_sum   'Li1 Ag2 Ge1'
+_cell_volume   66.67074256
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.58320105  0.31840297  0.75548462  1
+  Ag  Ag1  1  0.83326018  0.56880889  0.00506410  1
+  Ag  Ag2  1  0.33317524  0.06844781  0.50508342  1
+  Ge  Ge3  1  0.08323339  0.81849251  0.25505623  1

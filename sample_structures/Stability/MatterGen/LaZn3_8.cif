@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LaZn3LaZn3
+_chemical_formula_sum              "La2 Zn6"
+_cell_length_a       4.508938036210306
+_cell_length_b       4.503506601768531
+_cell_length_c       8.571138381958008
+_cell_angle_alpha    90.1880649405589
+_cell_angle_beta     90.21636242058041
+_cell_angle_gamma    90.11983134420343
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.218358114361763  0.009470765478909016  0.831845223903656  1.0000
+  Zn  Zn1       1.0  0.7155860662460327  0.010479884222149849  0.5823397040367126  1.0000
+  Zn  Zn2       1.0  0.7179747819900513  0.5095778107643127  0.8322542905807495  1.0000
+  Zn  Zn3       1.0  0.21796384453773499  0.010548178106546402  0.32952556014060974  1.0000
+  La  La2       1.0  0.7182084918022156  0.5103639364242554  0.334258109331131  1.0000
+  Zn  Zn4       1.0  0.21925155818462372  0.5096400380134583  0.5821426510810852  1.0000
+  Zn  Zn5       1.0  0.21678903698921204  0.5102427005767822  0.08259221911430359  1.0000
+  Zn  Zn6       1.0  0.7192748785018921  0.009841980412602425  0.08245713263750076  1.0000

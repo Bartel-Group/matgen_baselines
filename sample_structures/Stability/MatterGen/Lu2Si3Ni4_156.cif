@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2Si3Ni4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93631386
+_cell_length_b   3.93606672
+_cell_length_c   10.05997433
+_cell_angle_alpha   90.00650742
+_cell_angle_beta   90.00733102
+_cell_angle_gamma   60.02039496
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Si3Ni4
+_chemical_formula_sum   'Lu2 Si3 Ni4'
+_cell_volume   135.01091734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.95543889  0.53478414  0.04813496  1
+  Lu  Lu1  1  0.95550925  0.53479553  0.67451528  1
+  Si  Si2  1  0.28876055  0.86812980  0.24339734  1
+  Si  Si3  1  0.62207888  0.20142894  0.86057872  1
+  Si  Si4  1  0.62212335  0.20140731  0.48044555  1
+  Ni  Ni5  1  0.95539925  0.53475203  0.36275399  1
+  Ni  Ni6  1  0.28883573  0.86819582  0.86087701  1
+  Ni  Ni7  1  0.28885530  0.86812163  0.48103543  1
+  Ni  Ni8  1  0.62198289  0.20135923  0.24487062  1

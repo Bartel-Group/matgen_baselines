@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li4FeH3NCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20710852
+_cell_length_b   5.41450777
+_cell_length_c   6.52163939
+_cell_angle_alpha   98.20388051
+_cell_angle_beta   90.00953717
+_cell_angle_gamma   90.07540438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4FeH3NCl
+_chemical_formula_sum   'Li4 Fe1 H3 N1 Cl1'
+_cell_volume   112.08869025
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.27826967  0.53931716  0.65402646  1
+  Li  Li1  1  0.77797430  0.17157024  0.66431034  1
+  Li  Li2  1  0.77825452  0.32995886  0.29283861  1
+  Li  Li3  1  0.77836337  0.73453567  0.01659010  1
+  Fe  Fe4  1  0.27790497  0.91569848  0.34227370  1
+  H  H5  1  0.27764553  0.62682255  0.19919396  1
+  H  H6  1  0.77834685  0.52838987  0.77831628  1
+  H  H7  1  0.77829078  0.84551339  0.40037685  1
+  N  N8  1  0.27783737  0.21932959  0.46636585  1
+  Cl  Cl9  1  0.27910769  0.04885763  0.95944252  1

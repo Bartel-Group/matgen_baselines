@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiRhAlLi
+_chemical_formula_sum              "Li2 Rh1 Al1"
+_cell_length_a       3.7113286474742595
+_cell_length_b       3.669456673609948
+_cell_length_c       4.187207221984863
+_cell_angle_alpha    90.01851914878324
+_cell_angle_beta     90.01579390283158
+_cell_angle_gamma    90.07754563332827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.5411121845245361  0.1376175880432129  0.13597907125949862  1.0000
+  Rh  Rh1       1.0  0.540683925151825  0.6375362277030945  0.6360858082771301  1.0000
+  Al  Al1       1.0  0.04165829345583916  0.13769435882568362  0.6357242465019226  1.0000
+  Li  Li2       1.0  0.04124497249722481  0.6378111839294434  0.13637405633926392  1.0000

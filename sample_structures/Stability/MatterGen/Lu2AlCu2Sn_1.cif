@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuLuAlSnCuLu
+_chemical_formula_sum              "Cu2 Lu2 Al1 Sn1"
+_cell_length_a       3.5399291013775978
+_cell_length_b       4.363045220278568
+_cell_length_c       7.495641708374023
+_cell_angle_alpha    91.0828333175949
+_cell_angle_beta     90.39329163570113
+_cell_angle_gamma    90.66085743267601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.5031231045722961  0.7947553992271423  0.3479988276958465  1.0000
+  Lu  Lu1       1.0  0.005027055740356445  0.2929670810699463  0.5141797065734863  1.0000
+  Al  Al1       1.0  0.5065307021141052  0.7943851351737976  0.6739824414253234  1.0000
+  Sn  Sn1       1.0  0.5062659382820129  0.2956365942955017  0.1716848164796829  1.0000
+  Cu  Cu2       1.0  0.505538284778595  0.2964334189891815  0.8301957249641417  1.0000
+  Lu  Lu2       1.0  0.006953095551580191  0.7955538630485535  0.9969017505645751  1.0000

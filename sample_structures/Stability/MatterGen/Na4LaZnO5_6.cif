@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na4LaZnO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.53652662
+_cell_length_b   6.02260870
+_cell_length_c   9.73262124
+_cell_angle_alpha   124.82846541
+_cell_angle_beta   90.01325072
+_cell_angle_gamma   90.03212738
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4LaZnO5
+_chemical_formula_sum   'Na4 La1 Zn1 O5'
+_cell_volume   170.16227132
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.38034271  0.27238791  0.18789153  1
+  Na  Na1  1  0.88071522  0.10130922  0.83161441  1
+  Na  Na2  1  0.38161301  0.93451494  0.51163666  1
+  Na  Na3  1  0.88050187  0.51882094  0.52771016  1
+  La  La4  1  0.38081056  0.60930557  0.84989467  1
+  Zn  Zn5  1  0.88073207  0.65934727  0.15222277  1
+  O  O6  1  0.88078708  0.89365624  0.07121284  1
+  O  O7  1  0.38063688  0.78415486  0.69641620  1
+  O  O8  1  0.88102502  0.62521717  0.33385198  1
+  O  O9  1  0.88049882  0.31156472  0.68423289  1
+  O  O10  1  0.38074090  0.44125389  0.02662340  1

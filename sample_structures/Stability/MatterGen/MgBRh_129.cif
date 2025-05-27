@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MgBRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82911341
+_cell_length_b   3.82874281
+_cell_length_c   5.56442489
+_cell_angle_alpha   90.05407774
+_cell_angle_beta   90.00056733
+_cell_angle_gamma   89.98770444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgBRh
+_chemical_formula_sum   'Mg2 B2 Rh2'
+_cell_volume   81.57827263
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.08640687  0.69299469  0.82006911  1
+  Mg  Mg1  1  0.58613633  0.19296908  0.53831183  1
+  B  B2  1  0.58560792  0.19268174  0.99109258  1
+  B  B3  1  0.08574301  0.69300412  0.36722609  1
+  Rh  Rh4  1  0.08575771  0.19310134  0.17912839  1
+  Rh  Rh5  1  0.58567133  0.69261888  0.17910098  1

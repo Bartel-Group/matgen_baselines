@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LaOSb2LaO
+_chemical_formula_sum              "La2 O2 Sb2"
+_cell_length_a       4.167402408370907
+_cell_length_b       4.282040961540786
+_cell_length_c       8.268671035766602
+_cell_angle_alpha    82.30018659359553
+_cell_angle_beta     89.73243666962279
+_cell_angle_gamma    89.69939222190601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.07756371051073074  0.7420670390129089  0.3782297968864441  1.0000
+  O   O1        1.0  0.07692768424749374  0.2784515917301178  0.23546119034290314  1.0000
+  Sb  Sb1       1.0  0.07848531752824783  0.8859611153602599  0.8368664383888245  1.0000
+  Sb  Sb2       1.0  0.5780150890350342  0.1714078187942505  0.6220017075538635  1.0000
+  La  La2       1.0  0.5771387219429016  0.31247231364250183  0.0832819789648056  1.0000
+  O   O2        1.0  0.5786441564559937  0.7776607275009154  0.22606717050075534  1.0000

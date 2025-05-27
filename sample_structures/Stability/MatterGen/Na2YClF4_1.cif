@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2NaFYFNaCl
+_chemical_formula_sum              "F4 Na2 Y1 Cl1"
+_cell_length_a       3.9457379313231327
+_cell_length_b       6.248475641030643
+_cell_length_c       6.209216117858887
+_cell_angle_alpha    108.89761815624036
+_cell_angle_beta     90.10423802165568
+_cell_angle_gamma    89.99942877024085
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.8856447339057922  0.18200756609439853  0.659823477268219  1.0000
+  F   F2        1.0  0.38585978746414185  0.881468176841736  0.7871193289756776  1.0000
+  Na  Na1       1.0  0.38550660014152527  0.7909332513809204  0.3702500462532044  1.0000
+  F   F3        1.0  0.8845753073692322  0.6650916934013367  0.5704589486122131  1.0000
+  Y   Y1        1.0  0.8853093981742859  0.9946012496948242  0.9015492796897889  1.0000
+  F   F4        1.0  0.8854488134384155  0.7408231496810914  0.08088086545467381  1.0000
+  Na  Na2       1.0  0.38536709547042847  0.46820223331451416  0.7174165248870851  1.0000
+  Cl  Cl1       1.0  0.3877863883972168  0.2695522010326386  0.1844131946563721  1.0000

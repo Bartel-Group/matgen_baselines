@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnTiLiPt3
+_chemical_formula_sum              "Sn1 Ti1 Li1 Pt3"
+_cell_length_a       4.453206371197205
+_cell_length_b       4.456656122172423
+_cell_length_c       5.507665157318115
+_cell_angle_alpha    89.6092952024381
+_cell_angle_beta     89.58782789497856
+_cell_angle_gamma    59.98553551184465
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.7415403723716736  0.4372133016586303  0.1053621768951416  1.0000
+  Ti  Ti1       1.0  0.4074520170688629  0.10448554158210753  0.4447519779205322  1.0000
+  Li  Li1       1.0  0.07346276193857193  0.7708598971366882  0.7788728475570679  1.0000
+  Pt  Pt1       1.0  0.07341111451387415  0.7711472511291503  0.2952086329460144  1.0000
+  Pt  Pt2       1.0  0.407230794429779  0.10451960563659667  0.9238325357437135  1.0000
+  Pt  Pt3       1.0  0.7414557337760926  0.4380901157855987  0.6060786247253418  1.0000

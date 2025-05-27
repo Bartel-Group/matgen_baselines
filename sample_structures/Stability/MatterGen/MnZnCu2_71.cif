@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuZnCuMn
+_chemical_formula_sum              "Cu2 Zn1 Mn1"
+_cell_length_a       4.2504916904470464
+_cell_length_b       4.243663265668602
+_cell_length_c       4.246674537658691
+_cell_angle_alpha    59.68110701673092
+_cell_angle_beta     59.89649821986834
+_cell_angle_gamma    59.879126613371476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.31051638722419744  0.8959556221961974  0.3911249041557312  1.0000
+  Zn  Zn1       1.0  0.5612741708755493  0.14580781757831573  0.6415191888809204  1.0000
+  Cu  Cu2       1.0  0.8117350339889525  0.3950799703598022  0.8915053009986877  1.0000
+  Mn  Mn1       1.0  0.061406064778566354  0.6452727317810059  0.14138534665107721  1.0000
