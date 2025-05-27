@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CeSi4Ni5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73956995
+_cell_length_b   6.80665861
+_cell_length_c   6.38031219
+_cell_angle_alpha   122.23138780
+_cell_angle_beta   89.99543195
+_cell_angle_gamma   89.99741946
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSi4Ni5
+_chemical_formula_sum   'Ce1 Si4 Ni5'
+_cell_volume   137.37798944
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.71510208  0.81974174  0.59105862  1
+  Si  Si1  1  0.21510169  0.43218385  0.42041116  1
+  Si  Si2  1  0.71505041  0.52276169  0.99663714  1
+  Si  Si3  1  0.21508206  0.02997353  0.01109013  1
+  Si  Si4  1  0.21512487  0.03634726  0.42011003  1
+  Ni  Ni5  1  0.21505026  0.26375493  0.85003303  1
+  Ni  Ni6  1  0.71523366  0.30842018  0.56843608  1
+  Ni  Ni7  1  0.71510130  0.29306628  0.15640420  1
+  Ni  Ni8  1  0.71505713  0.91207408  0.15618354  1
+  Ni  Ni9  1  0.21507873  0.63514913  0.85032964  1

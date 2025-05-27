@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgBaSrCd
+_chemical_formula_sum              "Hg1 Ba1 Sr1 Cd1"
+_cell_length_a       5.91999103970021
+_cell_length_b       5.9343533208707395
+_cell_length_c       5.936295032501221
+_cell_angle_alpha    59.04065468608852
+_cell_angle_beta     59.33033133162735
+_cell_angle_gamma    59.36782063049374
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.22245672345161435  0.9542074799537659  0.8424814939498901  1.0000
+  Ba  Ba1       1.0  0.47273278236389155  0.20400390028953552  0.09155651181936264  1.0000
+  Sr  Sr1       1.0  0.9725912809371947  0.7035588026046753  0.591555118560791  1.0000
+  Cd  Cd1       1.0  0.7229113578796386  0.45408496260643005  0.341042160987854  1.0000

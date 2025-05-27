@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaPbCaTlEu2
+_chemical_formula_sum              "Ca2 Pb1 Tl1 Eu2"
+_cell_length_a       4.971374614266025
+_cell_length_b       4.952082212866212
+_cell_length_c       8.682398796081543
+_cell_angle_alpha    90.15110678743571
+_cell_angle_beta     90.30859044492215
+_cell_angle_gamma    89.96059914268127
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2930791974067688  0.6392166018486023  0.831725001335144  1.0000
+  Pb  Pb1       1.0  0.29220154881477356  0.6381310820579529  0.21218429505825043  1.0000
+  Ca  Ca2       1.0  0.2932518422603607  0.1386967897415161  0.47550302743911743  1.0000
+  Tl  Tl1       1.0  0.7934644222259521  0.13982738554477692  0.7423567771911621  1.0000
+  Eu  Eu1       1.0  0.792638897895813  0.1384172886610031  0.12361321598291397  1.0000
+  Eu  Eu2       1.0  0.7926738858222961  0.6395156383514405  0.4781351387500763  1.0000

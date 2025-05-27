@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BO2AlO2
+_chemical_formula_sum              "B1 O4 Al1"
+_cell_length_a       3.8718870433429395
+_cell_length_b       3.8628539705612206
+_cell_length_c       4.453675746917725
+_cell_angle_alpha    91.57895772384644
+_cell_angle_beta     89.26579821074174
+_cell_angle_gamma    90.46526129662084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.4341979324817657  0.5795918107032777  0.2997267544269562  1.0000
+  O   O1        1.0  0.6583772301673888  0.3544366359710694  0.10411771386861801  1.0000
+  O   O2        1.0  0.6530100107192992  0.8064214587211609  0.4958248734474182  1.0000
+  Al  Al1       1.0  0.9348226785659789  0.07984272390604019  0.29820501804351807  1.0000
+  O   O3        1.0  0.20661592483520505  0.36050078272819525  0.496535062789917  1.0000
+  O   O4        1.0  0.21259029209613797  0.7995575070381165  0.10328888148069382  1.0000

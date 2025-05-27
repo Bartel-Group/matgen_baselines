@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AlCuPdSI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52530941
+_cell_length_b   7.13761966
+_cell_length_c   14.07637095
+_cell_angle_alpha   91.61453126
+_cell_angle_beta   122.60865329
+_cell_angle_gamma   81.09375693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCuPdSI8
+_chemical_formula_sum   'Al1 Cu1 Pd1 S1 I8'
+_cell_volume   627.83333153
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.01475332  0.64391229  0.36438390  1
+  Cu  Cu1  1  0.02725992  0.11775524  0.85844621  1
+  Pd  Pd2  1  0.52496728  0.11893550  0.85737659  1
+  S  S3  1  0.29627477  0.78607118  0.48893553  1
+  I  I4  1  0.74714929  0.89593682  0.79429866  1
+  I  I5  1  0.30686881  0.34065829  0.92354920  1
+  I  I6  1  0.69378778  0.91646088  0.25266564  1
+  I  I7  1  0.05995387  0.42292233  0.23325763  1
+  I  I8  1  0.29560993  0.86570008  0.84091144  1
+  I  I9  1  0.47630784  -0.17291827  0.39470915  1
+  I  I10  1  0.97552878  0.47345910  0.50865518  1
+  I  I11  1  0.75464856  0.37072474  0.87229206  1

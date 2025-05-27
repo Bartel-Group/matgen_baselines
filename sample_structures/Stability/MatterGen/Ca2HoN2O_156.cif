@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ca2HoN2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.44800263
+_cell_length_b   3.44862378
+_cell_length_c   8.72066363
+_cell_angle_alpha   89.99985040
+_cell_angle_beta   90.01149834
+_cell_angle_gamma   120.00591279
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2HoN2O
+_chemical_formula_sum   'Ca2 Ho1 N2 O1'
+_cell_volume   89.79821078
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.75101342  0.30018448  0.47541391  1
+  Ca  Ca1  1  0.41742696  0.63308526  0.82161710  1
+  Ho  Ho2  1  0.08396831  0.96683130  0.15650908  1
+  N  N3  1  0.41736175  0.63347998  0.29153723  1
+  N  N4  1  0.08424129  0.96655366  0.65284699  1
+  O  O5  1  0.75058986  0.29986887  0.99140677  1

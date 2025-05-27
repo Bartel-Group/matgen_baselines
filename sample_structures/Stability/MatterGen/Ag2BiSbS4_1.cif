@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiSbAg2S4
+_chemical_formula_sum              "Bi1 Sb1 Ag2 S4"
+_cell_length_a       3.9442385914915215
+_cell_length_b       6.8643070083348
+_cell_length_c       6.783106327056885
+_cell_angle_alpha    109.11136357101114
+_cell_angle_beta     90.0651693383405
+_cell_angle_gamma    89.96195835106322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.08846142143011093  0.9730806946754456  0.8803699016571046  1.0000
+  Sb  Sb1       1.0  0.5896145701408386  0.4726783335208892  0.8791658282279969  1.0000
+  Ag  Ag1       1.0  0.08922804147005081  0.4729711413383484  0.3798580765724182  1.0000
+  Ag  Ag2       1.0  0.5826461911201477  0.9729849696159363  0.3782474994659424  1.0000
+  S   S1        1.0  0.5873175859451294  0.7187975049018859  0.6304219961166382  1.0000
+  S   S2        1.0  0.0882449746131897  0.22987270355224607  0.630341649055481  1.0000
+  S   S3        1.0  0.5886121392250061  0.22266449034214017  0.1305011659860611  1.0000
+  S   S4        1.0  0.08755004405975342  0.7058792710304259  0.12521938979625702  1.0000

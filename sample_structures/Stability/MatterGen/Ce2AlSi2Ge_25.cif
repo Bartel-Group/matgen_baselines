@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ce2AlSi2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14880695
+_cell_length_b   4.18937319
+_cell_length_c   7.25666346
+_cell_angle_alpha   90.03878586
+_cell_angle_beta   90.00096940
+_cell_angle_gamma   90.00343309
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2AlSi2Ge
+_chemical_formula_sum   'Ce2 Al1 Si2 Ge1'
+_cell_volume   126.12731723
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.42287025  0.83732690  0.10552459  1
+  Ce  Ce1  1  0.42296855  0.33766373  0.63280479  1
+  Al  Al2  1  0.92327782  0.83770321  0.45624236  1
+  Si  Si3  1  0.92285290  0.83723818  0.78905823  1
+  Si  Si4  1  0.92298618  0.33731244  0.94215355  1
+  Ge  Ge5  1  0.92258518  0.33750425  0.27890492  1

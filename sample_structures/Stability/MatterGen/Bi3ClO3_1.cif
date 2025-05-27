@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi3OClO2
+_chemical_formula_sum              "Bi3 O3 Cl1"
+_cell_length_a       3.9116428724106274
+_cell_length_b       3.904426127671408
+_cell_length_c       10.683313369750977
+_cell_angle_alpha    90.02123756391933
+_cell_angle_beta     90.22839035502987
+_cell_angle_gamma    121.23140460416607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.08877019584178925  0.9409859776496887  0.008983440697193146  1.0000
+  Bi  Bi2       1.0  0.4226331114768982  0.609279990196228  0.3138897120952606  1.0000
+  Bi  Bi3       1.0  0.09066995233297354  0.9425859451293946  0.6114360094070435  1.0000
+  O   O1        1.0  0.4211355149745941  0.6085049510002136  0.07337918877601624  1.0000
+  Cl  Cl1       1.0  0.7572013139724731  0.27332577109336853  0.8087634444236755  1.0000
+  O   O2        1.0  0.4219285547733307  0.6088266968727112  0.5446128249168396  1.0000
+  O   O3        1.0  0.7542435526847839  0.2777805030345917  0.3194473385810852  1.0000

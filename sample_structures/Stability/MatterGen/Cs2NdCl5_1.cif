@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClCs2Cl3NdCl
+_chemical_formula_sum              "Cl5 Cs2 Nd1"
+_cell_length_a       5.53930316587917
+_cell_length_b       5.563412319562104
+_cell_length_c       11.868133544921875
+_cell_angle_alpha    102.87386412499585
+_cell_angle_beta     102.61469919084766
+_cell_angle_gamma    89.0982673296152
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3170675039291382  0.5552572011947632  0.5902220010757446  1.0000
+  Cs  Cs1       1.0  0.42409953474998474  0.1725853681564331  0.8153252601623535  1.0000
+  Cs  Cs2       1.0  0.7085038423538208  0.4416366219520569  0.37607938051223755  1.0000
+  Cl  Cl2       1.0  0.5607253313064575  0.8166078925132753  0.08191303163766864  1.0000
+  Cl  Cl3       1.0  0.9456965327262878  0.6949602961540222  0.8499175906181335  1.0000
+  Cl  Cl4       1.0  0.06420895457267761  0.3072092831134796  0.08361230790615082  1.0000
+  Nd  Nd1       1.0  0.06502525508403778  0.8109280467033386  0.08780776709318161  1.0000
+  Cl  Cl5       1.0  0.17976783215999603  0.9210449457168579  0.3246290981769562  1.0000

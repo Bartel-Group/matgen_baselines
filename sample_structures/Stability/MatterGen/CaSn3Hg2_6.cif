@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnCaSnHgSnHg
+_chemical_formula_sum              "Sn3 Ca1 Hg2"
+_cell_length_a       4.5314325020807384
+_cell_length_b       4.471740985644653
+_cell_length_c       8.27987003326416
+_cell_angle_alpha    105.92314554147809
+_cell_angle_beta     89.94280649013106
+_cell_angle_gamma    90.08691665967581
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9102579951286316  0.11858874559402466  0.8626410961151123  1.0000
+  Ca  Ca1       1.0  0.4099116325378418  0.2843524217605591  0.19463373720645905  1.0000
+  Sn  Sn2       1.0  0.9100870490074158  0.4499855637550354  0.5259710550308228  1.0000
+  Hg  Hg1       1.0  0.9105162620544434  0.7850335836410521  0.1957140862941742  1.0000
+  Sn  Sn3       1.0  0.4098875820636749  0.94777113199234  0.519933819770813  1.0000
+  Hg  Hg2       1.0  0.410774827003479  0.6209643483161926  0.8686453104019165  1.0000

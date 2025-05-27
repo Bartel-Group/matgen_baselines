@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrCl2BaCl2
+_chemical_formula_sum              "Sr1 Cl4 Ba1"
+_cell_length_a       4.597600552145852
+_cell_length_b       4.600781442639344
+_cell_length_c       7.9265265464782715
+_cell_angle_alpha    90.00164858008334
+_cell_angle_beta     90.05343507612974
+_cell_angle_gamma    90.12951655219175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.6178842186927795  0.3903636932373047  0.9581775069236754  1.0000
+  Cl  Cl1       1.0  0.6188064217567444  0.892080307006836  0.18943992257118225  1.0000
+  Cl  Cl2       1.0  0.11849908530712128  0.39197680354118347  0.18917830288410187  1.0000
+  Ba  Ba1       1.0  0.11820203065872192  0.8911554813385011  0.44853186607360834  1.0000
+  Cl  Cl3       1.0  0.11844075471162796  0.8935372233390807  0.8387395739555358  1.0000
+  Cl  Cl4       1.0  0.618545413017273  0.391455739736557  0.5721704959869385  1.0000

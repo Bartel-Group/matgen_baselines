@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdHg3BrCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03383651
+_cell_length_b   4.16763066
+_cell_length_c   24.32517071
+_cell_angle_alpha   90.64999031
+_cell_angle_beta   96.05842573
+_cell_angle_gamma   121.21826326
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdHg3BrCl5
+_chemical_formula_sum   'Cd1 Hg3 Br1 Cl5'
+_cell_volume   346.72447643
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.23210481  0.96183174  0.22643600  1
+  Hg  Hg1  1  0.84236021  0.26195358  0.44946040  1
+  Hg  Hg2  1  0.54491685  0.62629782  0.94198967  1
+  Hg  Hg3  1  0.91149067  0.31158242  0.65232071  1
+  Br  Br4  1  0.12893364  0.92076662  0.01467223  1
+  Cl  Cl5  1  0.94173108  0.31983727  0.28256937  1
+  Cl  Cl6  1  0.47689173  0.59906637  0.71825912  1
+  Cl  Cl7  1  0.34533240  0.02303904  0.58623224  1
+  Cl  Cl8  1  0.97422867  0.33615942  0.87539950  1
+  Cl  Cl9  1  0.52461491  0.60475288  0.17003963  1

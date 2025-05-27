@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_BaCuF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04437236
+_cell_length_b   4.22654108
+_cell_length_c   6.10022670
+_cell_angle_alpha   69.75284273
+_cell_angle_beta   61.36276365
+_cell_angle_gamma   65.26040467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCuF5
+_chemical_formula_sum   'Ba1 Cu1 F5'
+_cell_volume   101.93013110
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.87067060  0.61695601  0.58712035  1
+  Cu  Cu1  1  0.37034538  0.11683091  0.08726591  1
+  F  F2  1  0.80984264  0.98311836  0.91560662  1
+  F  F3  1  0.93098643  0.25019452  0.25951610  1
+  F  F4  1  0.36894116  0.28064734  0.76037049  1
+  F  F5  1  0.37039678  0.61693545  0.08764844  1
+  F  F6  1  0.37166684  0.95212485  0.41433236  1
