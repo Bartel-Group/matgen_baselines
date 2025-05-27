@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_CeTiSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70401681
+_cell_length_b   3.70402783
+_cell_length_c   5.77435651
+_cell_angle_alpha   90.00321192
+_cell_angle_beta   90.00168468
+_cell_angle_gamma   119.99739653
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTiSi
+_chemical_formula_sum   'Ce1 Ti1 Si1'
+_cell_volume   68.61085114
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.00001192  0.00000135  -0.02863829  1
+  Ti  Ti1  1  0.33334042  0.66665786  0.52946624  1
+  Si  Si2  1  0.66667150  0.33334079  0.30847205  1

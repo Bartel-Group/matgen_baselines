@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BeCrI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04485278
+_cell_length_b   7.56228166
+_cell_length_c   8.31375960
+_cell_angle_alpha   93.26154799
+_cell_angle_beta   84.37996646
+_cell_angle_gamma   81.63802171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeCrI4
+_chemical_formula_sum   'Be1 Cr1 I4'
+_cell_volume   249.73669138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.64688181  0.87490055  0.78757417  1
+  Cr  Cr1  1  0.50767336  0.12583331  0.13332252  1
+  I  I2  1  0.20752978  0.76429020  0.63544628  1
+  I  I3  1  0.55359906  0.19851823  0.81736549  1
+  I  I4  1  0.63140808  0.76805146  0.05643974  1
+  I  I5  1  0.93480792  0.26160625  0.31115180  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CoSnCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51734808
+_cell_length_b   3.44437832
+_cell_length_c   5.85638764
+_cell_angle_alpha   90.06272572
+_cell_angle_beta   99.58646913
+_cell_angle_gamma   89.72859576
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSnCl2
+_chemical_formula_sum   'Co1 Sn1 Cl2'
+_cell_volume   109.73840813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  -0.00032787  -0.00082487  0.44811889  1
+  Sn  Sn1  1  0.73518305  0.50059840  0.16585035  1
+  Cl  Cl2  1  -0.09765525  0.50049027  0.67954255  1
+  Cl  Cl3  1  0.29380007  -0.00026380  0.24418821  1

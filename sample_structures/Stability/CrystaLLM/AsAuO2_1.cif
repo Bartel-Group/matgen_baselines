@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_AsAuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54896446
+_cell_length_b   3.13191394
+_cell_length_c   4.99927099
+_cell_angle_alpha   89.75842118
+_cell_angle_beta   95.97044605
+_cell_angle_gamma   74.49401924
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AsAuO2
+_chemical_formula_sum   'As1 Au1 O2'
+_cell_volume   68.22165197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  -0.01978571  0.49971125  0.09392840  1
+  Au  Au1  1  0.65327313  0.14842798  0.52884849  1
+  O  O2  1  -0.01007750  -0.02853173  0.84670439  1
+  O  O3  1  0.37009009  0.38039251  0.18851872  1

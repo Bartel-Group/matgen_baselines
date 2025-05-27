@@ -1,0 +1,38 @@
+data_Cr1Cd1Te4
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Cr 1.6600 1.4000 0.9400
+Cd 1.6900 1.5500 1.0900
+Te 2.1000 1.4000 1.2933
+_symmetry_space_group_name_H-M P2/m
+_cell_length_a 6.2849
+_cell_length_b 4.0929
+_cell_length_c 7.1251
+_cell_angle_alpha 90.0000
+_cell_angle_beta 108.3575
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 10
+_chemical_formula_structural CrCdTe4
+_chemical_formula_sum 'Cr1 Cd1 Te4'
+_cell_volume 174.8858
+_cell_formula_units_Z 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cr Cr0 1 0.5000 0.0000 0.5000 1
+Cd Cd1 1 0.0000 0.5000 0.0000 1
+Te Te2 2 0.2547 0.5000 0.7433 1
+Te Te3 2 0.2633 0.0000 0.2640 1
+

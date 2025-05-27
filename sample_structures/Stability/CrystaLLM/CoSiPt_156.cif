@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_CoSiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96680778
+_cell_length_b   3.96681112
+_cell_length_c   2.88296659
+_cell_angle_alpha   89.99987873
+_cell_angle_beta   90.00014709
+_cell_angle_gamma   120.00018934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSiPt
+_chemical_formula_sum   'Co1 Si1 Pt1'
+_cell_volume   39.28729163
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000071  -0.00000041  0.89567807  1
+  Si  Si1  1  0.33333273  0.66666701  0.70322139  1
+  Pt  Pt2  1  0.66666656  0.33333340  0.40110054  1

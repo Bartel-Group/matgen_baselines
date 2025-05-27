@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaP2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42023250
+_cell_length_b   4.12250713
+_cell_length_c   4.53288605
+_cell_angle_alpha   89.99970312
+_cell_angle_beta   99.53198236
+_cell_angle_gamma   90.00025663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaP2Pd
+_chemical_formula_sum   'Ca1 P2 Pd1'
+_cell_volume   81.45980884
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.24875694  0.49999750  0.81894994  1
+  P  P1  1  0.77489210  -0.00000046  0.97419048  1
+  P  P2  1  0.83635221  0.50000309  0.24808655  1
+  Pd  Pd3  1  0.63999875  -0.00000014  0.45877303  1
