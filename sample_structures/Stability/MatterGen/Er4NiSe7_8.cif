@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er4NiSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93910559
+_cell_length_b   9.08469147
+_cell_length_c   7.89215723
+_cell_angle_alpha   97.09526446
+_cell_angle_beta   90.00166172
+_cell_angle_gamma   102.55533149
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4NiSe7
+_chemical_formula_sum   'Er4 Ni1 Se7'
+_cell_volume   273.45508296
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.89921381  0.48773903  0.21073944  1
+  Er  Er1  1  0.78494874  0.25913179  0.64662333  1
+  Er  Er2  1  0.14668250  0.98273392  0.14020256  1
+  Er  Er3  1  0.55640481  0.80220426  0.61937831  1
+  Ni  Ni4  1  0.47304065  0.63567280  0.96484506  1
+  Se  Se5  1  0.34087246  0.37147978  0.94211265  1
+  Se  Se6  1  0.39246217  0.47352180  0.49599660  1
+  Se  Se7  1  0.53357152  0.75778652  0.24897878  1
+  Se  Se8  1  0.01120768  0.71200305  0.85148781  1
+  Se  Se9  1  0.16245973  0.01421895  0.53173295  1
+  Se  Se10  1  0.75125673  0.19137570  0.27963262  1
+  Se  Se11  1  0.67575695  0.04069307  0.88956837  1

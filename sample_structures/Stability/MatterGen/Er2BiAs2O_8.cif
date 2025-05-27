@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ErAsErBiOAs
+_chemical_formula_sum              "Er2 As2 Bi1 O1"
+_cell_length_a       3.93084912451365
+_cell_length_b       3.9359193605240685
+_cell_length_c       9.641849517822266
+_cell_angle_alpha    90.07805107586658
+_cell_angle_beta     90.10408775545775
+_cell_angle_gamma    60.04813965156362
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.9984771013259888  0.2170325517654419  0.24304170906543732  1.0000
+  As  As1       1.0  0.6647976636886597  0.8837183713912964  0.061477597802877426  1.0000
+  Er  Er2       1.0  0.6646856665611267  0.8853539824485778  0.5933321714401245  1.0000
+  Bi  Bi1       1.0  0.32923534512519836  0.5498661398887634  0.8719969987869263  1.0000
+  O   O1        1.0  0.9971874356269835  0.21778284013271332  0.7166265845298767  1.0000
+  As  As2       1.0  0.3317082226276397  0.550075113773346  0.4158308804035187  1.0000

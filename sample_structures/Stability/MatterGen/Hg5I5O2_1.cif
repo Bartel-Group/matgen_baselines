@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hg5I5O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61979977
+_cell_length_b   7.59796725
+_cell_length_c   7.65021166
+_cell_angle_alpha   94.74694739
+_cell_angle_beta   93.42798965
+_cell_angle_gamma   105.58470809
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg5I5O2
+_chemical_formula_sum   'Hg5 I5 O2'
+_cell_volume   423.60661414
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.24954528  0.20453524  0.51307699  1
+  Hg  Hg1  1  0.82535793  0.47438478  0.92819779  1
+  Hg  Hg2  1  0.24746983  0.89726530  0.91014951  1
+  Hg  Hg3  1  0.55598100  0.89616281  0.50310881  1
+  Hg  Hg4  1  0.04145982  0.68285544  0.50723034  1
+  I  I5  1  0.49675744  0.13848122  0.12834086  1
+  I  I6  1  0.76156314  0.74239561  0.26331206  1
+  I  I7  1  0.48762662  0.53161725  0.73045567  1
+  I  I8  1  0.88028619  0.13762272  0.72954289  1
+  I  I9  1  0.10167579  0.39998218  0.26637121  1
+  O  O10  1  0.02836594  0.69035538  0.79138014  1
+  O  O11  1  0.29967865  0.94656842  0.57790366  1

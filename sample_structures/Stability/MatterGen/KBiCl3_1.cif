@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KBiCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52926972
+_cell_length_b   9.07483297
+_cell_length_c   9.28634431
+_cell_angle_alpha   112.10689807
+_cell_angle_beta   90.74318929
+_cell_angle_gamma   89.02290360
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBiCl3
+_chemical_formula_sum   'K2 Bi2 Cl6'
+_cell_volume   353.56982466
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.34157343  0.10876164  0.18919438  1
+  K  K1  1  0.35122025  0.66798431  0.77632360  1
+  Bi  Bi2  1  0.83643179  0.66527108  0.27879197  1
+  Bi  Bi3  1  0.84756986  0.16308149  0.77475063  1
+  Cl  Cl4  1  -0.15567997  0.99067531  0.44542963  1
+  Cl  Cl5  1  0.36448708  0.72999003  0.12566706  1
+  Cl  Cl6  1  0.85475789  0.41843642  0.70195281  1
+  Cl  Cl7  1  -0.15354660  0.92980215  0.91115377  1
+  Cl  Cl8  1  0.83061249  0.33959915  0.09994390  1
+  Cl  Cl9  1  0.30587938  0.59298979  0.42674556  1

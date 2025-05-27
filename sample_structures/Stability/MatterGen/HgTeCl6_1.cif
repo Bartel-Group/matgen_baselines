@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl5HgClTe
+_chemical_formula_sum              "Cl6 Hg1 Te1"
+_cell_length_a       4.3368705476703635
+_cell_length_b       4.34695576888034
+_cell_length_c       14.859414100646973
+_cell_angle_alpha    90.69568461531313
+_cell_angle_beta     90.50960294113962
+_cell_angle_gamma    91.4083944057121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.8911803960800171  0.8519683480262756  0.7898807525634766  1.0000
+  Cl  Cl2       1.0  0.8870531320571899  0.8521504402160645  0.45633602142333984  1.0000
+  Cl  Cl3       1.0  0.388682097196579  0.35349124670028687  0.624058723449707  1.0000
+  Cl  Cl4       1.0  0.892108678817749  0.8507047891616821  0.11904972791671753  1.0000
+  Cl  Cl5       1.0  0.38790780305862427  0.3502418100833893  0.290853887796402  1.0000
+  Hg  Hg1       1.0  0.893190324306488  0.8478786945343018  0.9541098475456238  1.0000
+  Cl  Cl6       1.0  0.39337220788002014  0.35005250573158264  0.9517209529876709  1.0000
+  Te  Te1       1.0  0.3858303129673004  0.3526667356491089  0.4575776755809784  1.0000

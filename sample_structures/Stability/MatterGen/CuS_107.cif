@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu3S3CuS
+_chemical_formula_sum              "Cu4 S4"
+_cell_length_a       3.5305904303086257
+_cell_length_b       3.53233718695307
+_cell_length_c       9.941303253173828
+_cell_angle_alpha    89.97902699413808
+_cell_angle_beta     89.98418378543428
+_cell_angle_gamma    89.90524728054174
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2464757114648819  0.15067365765571594  0.5966142416000366  1.0000
+  Cu  Cu2       1.0  0.7464857697486877  0.654834270477295  0.34330087900161743  1.0000
+  Cu  Cu3       1.0  0.7455695271492004  0.6504241824150085  0.8474735617637634  1.0000
+  S   S1        1.0  0.2456570565700531  0.14995381236076355  0.8429723381996155  1.0000
+  S   S2        1.0  0.745791494846344  0.6519150733947754  0.5942001342773438  1.0000
+  S   S3        1.0  0.24623553454875946  0.1540849208831787  0.34669217467308044  1.0000
+  Cu  Cu4       1.0  0.24469362199306488  0.15458662807941437  0.09281235933303833  1.0000
+  S   S4        1.0  0.7447536587715149  0.6539601683616638  0.09799285233020782  1.0000

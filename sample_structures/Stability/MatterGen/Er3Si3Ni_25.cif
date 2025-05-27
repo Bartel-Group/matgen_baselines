@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Er3Si3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12966240
+_cell_length_b   3.84235454
+_cell_length_c   8.67366725
+_cell_angle_alpha   89.99574147
+_cell_angle_beta   89.99784510
+_cell_angle_gamma   90.00136272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Si3Ni
+_chemical_formula_sum   'Er3 Si3 Ni1'
+_cell_volume   137.63051674
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.56600397  0.91672233  0.20891058  1
+  Er  Er1  1  0.06665899  0.91698115  0.57063482  1
+  Er  Er2  1  0.06663453  0.41684003  0.94254192  1
+  Si  Si3  1  0.56668405  0.41695105  0.69187722  1
+  Si  Si4  1  0.56673179  0.91688918  0.86490094  1
+  Si  Si5  1  0.06596029  0.41673595  0.29584024  1
+  Ni  Ni6  1  0.56597764  0.41665213  0.43366831  1

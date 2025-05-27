@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuZnBi2PbO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10232714
+_cell_length_b   7.22666753
+_cell_length_c   6.82917171
+_cell_angle_alpha   98.25690831
+_cell_angle_beta   106.17855465
+_cell_angle_gamma   89.73859781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuZnBi2PbO7
+_chemical_formula_sum   'Eu1 Zn1 Bi2 Pb1 O7'
+_cell_volume   192.29144542
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.49434862  0.98019658  0.37017583  1
+  Zn  Zn1  1  0.62649148  0.39024889  0.62437484  1
+  Bi  Bi2  1  0.96806156  0.54674885  0.34122834  1
+  Bi  Bi3  1  0.31058141  0.25452923  0.93013544  1
+  Pb  Pb4  1  0.76674863  0.80896996  0.89074822  1
+  O  O5  1  0.63373304  0.12159340  0.72095484  1
+  O  O6  1  0.76551165  0.46591048  0.98396959  1
+  O  O7  1  0.95634859  0.85025610  0.28438226  1
+  O  O8  1  0.13185825  0.41563567  0.64245052  1
+  O  O9  1  0.50728966  0.29450347  0.29738222  1
+  O  O10  1  0.56685099  0.66576460  0.49351156  1
+  O  O11  1  0.32152279  0.95146880  1.00320623  1

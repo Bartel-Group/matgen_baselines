@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlEuMnEuAl
+_chemical_formula_sum              "Al2 Eu2 Mn1"
+_cell_length_a       4.772851082947348
+_cell_length_b       4.75243539606235
+_cell_length_c       6.23490571975708
+_cell_angle_alpha    112.72391413800734
+_cell_angle_beta     112.85660710704246
+_cell_angle_gamma    90.34428352934238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.34645816683769226  0.6343778967857361  0.8512977361679077  1.0000
+  Eu  Eu1       1.0  0.033186908811330795  0.8206637501716614  0.22721023857593536  1.0000
+  Mn  Mn1       1.0  0.34343135356903076  0.13293197751045227  0.8512665033340454  1.0000
+  Eu  Eu2       1.0  0.6583783030509949  0.44492968916893005  0.47623327374458313  1.0000
+  Al  Al2       1.0  0.8426834344863892  0.13181725144386292  0.8525833487510681  1.0000

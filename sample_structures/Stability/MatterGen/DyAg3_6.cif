@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       DyAg3
+_chemical_formula_sum              "Dy1 Ag3"
+_cell_length_a       4.349766933334549
+_cell_length_b       4.372925821867354
+_cell_length_c       4.355788707733154
+_cell_angle_alpha    89.99023533437861
+_cell_angle_beta     89.8880147314158
+_cell_angle_gamma    89.86802277118674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.7774720788002014  0.398672342300415  0.2958628237247467  1.0000
+  Ag  Ag1       1.0  0.2764366567134857  0.3989379405975342  0.7955785989761353  1.0000
+  Ag  Ag2       1.0  0.7769370675086975  0.8984647989273071  0.7954198122024536  1.0000
+  Ag  Ag3       1.0  0.2761088013648987  0.8995035290718079  0.2958347201347351  1.0000

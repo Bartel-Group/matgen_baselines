@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Dy6In7Ge2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41009126
+_cell_length_b   6.14891734
+_cell_length_c   14.51274889
+_cell_angle_alpha   96.06077329
+_cell_angle_beta   89.99991062
+_cell_angle_gamma   90.00005953
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6In7Ge2
+_chemical_formula_sum   'Dy6 In7 Ge2'
+_cell_volume   391.34662902
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.92346753  0.16342507  0.09627081  1
+  Dy  Dy1  1  0.42350672  0.64966775  0.02499570  1
+  Dy  Dy2  1  0.92356532  0.55568594  0.67013425  1
+  Dy  Dy3  1  0.42355164  0.08498899  0.77470177  1
+  Dy  Dy4  1  0.92353133  0.98357535  0.39096404  1
+  Dy  Dy5  1  0.42351632  0.47090844  0.30407971  1
+  In  In6  1  0.42357271  0.76546543  0.52657904  1
+  In  In7  1  0.42348307  0.97705665  0.22584243  1
+  In  In8  1  0.92353045  0.86800509  0.89903742  1
+  In  In9  1  0.92353194  0.36174877  0.90004689  1
+  In  In10  1  0.92357245  0.04289722  0.62489234  1
+  In  In11  1  0.42356105  0.27430582  0.52962078  1
+  In  In12  1  0.92349590  0.66886480  0.18190145  1
+  Ge  Ge13  1  0.42354344  0.59401687  0.81189322  1
+  Ge  Ge14  1  0.92353809  0.49079698  0.43370866  1

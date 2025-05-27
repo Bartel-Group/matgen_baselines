@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaSe2K3Se2
+_chemical_formula_sum              "Ga1 Se4 K3"
+_cell_length_a       6.637630672026597
+_cell_length_b       6.643776023345445
+_cell_length_c       6.667628288269043
+_cell_angle_alpha    103.93210574119821
+_cell_angle_beta     103.55540017447862
+_cell_angle_gamma    103.69767311080167
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5483049750328064  0.6882925629615785  0.0624927990138531  1.0000
+  Se  Se1       1.0  0.3502517640590668  0.4886608719825745  0.2495410740375519  1.0000
+  Se  Se2       1.0  0.8563207387924194  0.9969682693481445  0.371776670217514  1.0000
+  K   K1        1.0  0.3799377381801605  0.04693778604269028  0.4231965541839599  1.0000
+  K   K2        1.0  0.9065204858779907  0.5195433497428894  0.4197396636009217  1.0000
+  K   K3        1.0  0.9092572331428528  0.04771793261170387  0.8952884078025817  1.0000
+  Se  Se3       1.0  0.7389172315597534  0.48955646157264715  0.8656933307647704  1.0000
+  Se  Se4       1.0  0.35041436553001404  0.8730783462524414  0.863240897655487  1.0000

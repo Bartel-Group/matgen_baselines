@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SSeEuS
+_chemical_formula_sum              "S2 Se1 Eu1"
+_cell_length_a       4.050009940888588
+_cell_length_b       4.263327884310171
+_cell_length_c       5.053969383239746
+_cell_angle_alpha    90.3120465299443
+_cell_angle_beta     90.0434971514589
+_cell_angle_gamma    90.06915816890589
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6764199137687683  0.9105527997016906  0.23265613615512848  1.0000
+  Se  Se1       1.0  0.1749318540096283  0.4156600832939148  0.23279786109924316  1.0000
+  Eu  Eu1       1.0  0.17669382691383362  0.9134411215782166  0.7335190773010254  1.0000
+  S   S2        1.0  0.6761308908462524  0.4149709045886993  0.7330009341239929  1.0000

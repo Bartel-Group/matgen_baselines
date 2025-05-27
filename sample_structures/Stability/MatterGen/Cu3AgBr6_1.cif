@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cu3AgBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02975621
+_cell_length_b   6.72959410
+_cell_length_c   9.94948455
+_cell_angle_alpha   93.33275047
+_cell_angle_beta   79.81694420
+_cell_angle_gamma   95.98619646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3AgBr6
+_chemical_formula_sum   'Cu3 Ag1 Br6'
+_cell_volume   263.90077067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.91864185  0.35046734  0.15716611  1
+  Cu  Cu1  1  0.50825662  0.47114934  0.53481866  1
+  Cu  Cu2  1  0.08705518  0.00694373  0.58875298  1
+  Ag  Ag3  1  0.42362032  0.84201093  0.17726464  1
+  Br  Br4  1  0.52272464  0.81822968  0.65257845  1
+  Br  Br5  1  0.97950816  0.03160163  0.04000541  1
+  Br  Br6  1  0.92655551  0.60951765  0.34148749  1
+  Br  Br7  1  0.98294517  0.34465832  0.67513552  1
+  Br  Br8  1  0.48380976  0.49113465  0.03544277  1
+  Br  Br9  1  0.45363010  0.15632526  0.37384270  1
