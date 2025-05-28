@@ -22,7 +22,7 @@ A preprint describing the methods in this package can be found on [arXiv](https:
 
 ## Stability and novelty leaderboard
 
-Below are performance metrics for select models trained on the MP-20 dataset. Note this list is not exhaustive, but rather a sampling of different model types (diffusion-based, LLMs, and var>
+Below are performance metrics for select models trained on the MP-20 dataset. Note this list is not exhaustive, but rather a sampling of different model types (diffusion-based, LLMs, and variational autoencoders).
 
 We also provide results from two template-based methods (described [here](https://arxiv.org/abs/2501.02144)) to serve as a baseline.
 
