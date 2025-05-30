@@ -1,0 +1,14 @@
+{
+    "task": {
+	"type": "bulk_modulus",
+        "parameters": {
+            "objective": "maximize",
+            "percentile": 10
+        }
+    },
+    "sampling_params": {
+        "n_samples": 500,
+        "n_perturb": 1,
+        "noise_scale": 0.2
+    }
+}
