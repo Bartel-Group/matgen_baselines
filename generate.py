@@ -32,7 +32,7 @@ from matgen_baselines.analysis.random_enum import (
 )
 from matgen_baselines.analysis.ion_exchange import (
     SubstitutionConfig,
-    generate_structures as generate_ion_exchange
+    IonExchanger
 )
 from matgen_baselines.analysis.ml_filtration import (
     analyze_structure,
@@ -133,12 +133,12 @@ class StructurePipeline:
                     f"Generating structures ({self.ml_passed}/{self.ml_tested} passed ML filter)"
                 )
                 return False
-                
+
             self.ml_passed += 1
             pbar.set_description(
                 f"Generating structures ({self.ml_passed}/{self.ml_tested} passed ML filter)"
             )
-            
+
             if relaxed_structure is not None:
                 structure = relaxed_structure
 
@@ -201,15 +201,78 @@ class StructurePipeline:
         config: GenerationConfig,
         pbar: tqdm
     ) -> None:
-        """Generate structures using ion exchange."""
-        ion_config = SubstitutionConfig(
-            target_num_strucs=config.num_strucs,
-            filepath=config.filepath,
-            filter_type=config.filter_type or "stability",
-            target_params=(config.target, config.threshold) if config.target else None,
-            show_progress=True
-        )
-        generate_ion_exchange(ion_config, self.mp_api_key)
+        """Generate structures using ion exchange with ML filtering integration."""
+        log_to_file("Starting ion exchange generation with ML filtering integration")
+
+        # Initialize the ion exchanger
+        exchanger = IonExchanger(self.mp_api_key)
+
+        # Get MP entries based on filter type
+        if config.filter_type == "band_gap":
+            mp_entries = exchanger.get_mp_entries(
+                config.min_elements or DEFAULT_MIN_ELEMENTS,
+                config.max_elements or DEFAULT_MAX_ELEMENTS,
+                band_gap_target=config.target_params if hasattr(config, 'target_params') else None
+            )
+        elif config.filter_type == "bulk_modulus":
+            mp_entries = exchanger.get_mp_entries(
+                config.min_elements or DEFAULT_MIN_ELEMENTS,
+                config.max_elements or DEFAULT_MAX_ELEMENTS,
+                bulk_modulus_target=config.target_params if hasattr(config, 'target_params') else None
+            )
+        else:  # stability
+            stability_threshold = config.threshold or 0.0
+            mp_entries = exchanger.get_mp_entries(
+                config.min_elements or DEFAULT_MIN_ELEMENTS,
+                config.max_elements or DEFAULT_MAX_ELEMENTS,
+                stability=stability_threshold
+            )
+
+        if not mp_entries:
+            log_to_file("No materials found matching the criteria.")
+            return
+
+        # Generate structures with ML filtering
+        num_generated = 0
+        attempts = 0
+        max_attempts = 1000  # Limit to prevent infinite loops
+
+        log_to_file(f"Found {len(mp_entries)} MP entries to process")
+
+        for entry in mp_entries:
+            if num_generated >= config.num_strucs:
+                break
+            if attempts >= max_attempts:
+                log_to_file(f"Reached maximum attempts ({max_attempts})")
+                break
+
+            attempts += 1
+
+            try:
+                # Generate substituted structures from this entry
+                substituted_structures = exchanger.substitute_structure(entry.structure)
+
+                if not substituted_structures:
+                    continue
+
+                # Process each substituted structure
+                for idx, structure in enumerate(substituted_structures):
+                    if idx >= 10:  # Limit substitutions per entry
+                        break
+                    if num_generated >= config.num_strucs:
+                        break
+
+                    # Apply ML filtering through process_structure
+                    if self.process_structure(
+                        structure, config, "", num_generated, pbar
+                    ):
+                        num_generated += 1
+
+            except Exception as e:
+                log_to_file(f"Error processing entry {getattr(entry, 'entry_id', 'unknown')}: {str(e)}")
+                continue
+
+        log_to_file(f"Ion exchange generation completed. Generated {num_generated} structures from {attempts} attempts.")
 
 def load_config(config_path: str = 'config.json') -> Config:
     """Load and validate configuration from JSON file."""
@@ -231,10 +294,10 @@ def get_task_description(config: GenerationConfig) -> str:
             return f"Begin {config.method} with ML stability filtering"
         target = config.ml_filter.get('target', '')
         return f"Begin {config.method} with ML {filter_type} filtering (target: {target})"
-    
+
     if config.filter_type:
         return f"Begin {config.method} targeting {config.filter_type}"
-    
+
     return f"Begin {config.method} without filtering"
 
 def run_task(task_config: TaskConfig, mp_api_key: str) -> None:
@@ -248,10 +311,21 @@ def run_task(task_config: TaskConfig, mp_api_key: str) -> None:
         threshold=task_config.get('threshold'),
         ml_filter=task_config.get('ml_filter')
     )
+
+    # Add target_params to config if available
+    if config.target is not None and config.threshold is not None:
+        config.target_params = (config.target, config.threshold)
+    else:
+        config.target_params = None
+
+    # Add min/max elements for ion exchange
+    config.min_elements = task_config.get('min_elements', DEFAULT_MIN_ELEMENTS)
+    config.max_elements = task_config.get('max_elements', DEFAULT_MAX_ELEMENTS)
+
     print(get_task_description(config))
-    
+
     pipeline = StructurePipeline(mp_api_key)
-    if config.ml_filter and config.ml_filter['type'] == 'stability':
+    if config.ml_filter:
         pipeline.initialize_ml_models()
 
     os.makedirs(config.filepath, exist_ok=True)
@@ -259,7 +333,7 @@ def run_task(task_config: TaskConfig, mp_api_key: str) -> None:
         total=config.num_strucs,
         desc="Generating structures" if not config.ml_filter else "Generating structures (0/0 passed ML filter)"
     )
-    
+
     try:
         if config.method == 'random_enum':
             pipeline.generate_random_enum_structures(config, pbar)
