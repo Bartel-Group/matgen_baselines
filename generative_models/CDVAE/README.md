@@ -11,7 +11,7 @@ All code included here is adapted from the CDVAE package:
 
 ### Environment Setup
 
-Follow instructions on the original [CDVAE repository](https://github.com/txie-93/cdvae) for environment setup (based on ```env.yml```) and installation.
+Follow instructions on the original [CDVAE repository](https://github.com/txie-93/cdvae) for environment setup and installation. If the environment provided with that repository does not work on your system, consider using the ```env.yml``` included with this folder.
 
 ## Pre-trained Models
 
