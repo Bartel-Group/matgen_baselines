@@ -18,6 +18,7 @@ A preprint describing the methods in this package can be found on [arXiv](https:
   - [Full Example Configuration](#full-example-configuration)
 - [Running Generation](#running-generation)
 - [Calculating Decomposition Energies](#calculating-decomposition-energies)
+- [Assessing MP Novelty](#assessing-mp-novelty)
 - [How to Cite](#how-to-cite)
 
 ## Stability and novelty leaderboard
@@ -291,6 +292,34 @@ AlFe2,-7.0365,0.1
 - Positive decomposition energies indicate the material is unstable
 - Zero or negative values indicate the material is stable
 - Values are in eV/atom
+
+## Assessing MP Novelty
+
+The package includes a script `assess_mp_novelty.py` for checking the novelty of crystal structures by comparing them against the Materials Project database. A structure is considered novel if either:
+
+1. No materials with the same composition exist in MP, or
+2. No materials with matching structure exist in MP for the same composition
+
+While this does not necessarily mean the material has never been synthesized, it confirms the material is absent from the MP-20 dataset, which is commonly used to train generative models for inorganic crystals.
+
+### Usage
+
+1. Set your Materials Project API key:
+   - Open `assess_mp_novelty.py`
+   - Replace `'YOUR_API_KEY'` with your actual [Materials Project](https://materialsproject.org/api) API key in the `NoveltyAssessment` class initialization
+
+2. Place your CIF files in a directory (default: `Structures/`)
+
+3. Run the script:
+   ```bash
+   python assess_mp_novelty.py
+   ```
+
+4. The script will:
+   - Process all CIF files in the structures directory
+   - Check each structure against the Materials Project database
+   - Generate a detailed report showing novelty status for each structure
+   - Save results to `novelty_results.json`
 
 ## How to Cite
 
