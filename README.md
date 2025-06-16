@@ -30,10 +30,10 @@ We also provide results from two template-based methods (described [here](https:
 ### Generative models
 | Method | Avg. $\Delta E_{\mathrm{d}}$ (meV/atom) | Stability rate | Novelty rate | Novel prototype rate | Novel prototype stability rate |
 |--------|:---------------------------:|:--------------:|:------------:|:--------------------:|:------------------------------:|
-| [MatterGen](https://github.com/microsoft/mattergen) | 213.2 | 3.0% | 91.8% | 9.8% | 0% |
-| [FTCP](https://github.com/PV-Lab/FTCP) | 228.5 | 2.0% | 38.2% | 6.4% | 0% |
-| [CDVAE](https://github.com/txie-93/cdvae) | 230.5 | 0.8% | 96.0% | **16.0%** | 0% |
-| [CrystaLLM](https://github.com/lantunes/CrystaLLM) | 411.0 | 2.4% | 98.2% | 5.2% | 0% |
+| [MatterGen](https://github.com/microsoft/mattergen) | 213.2 | 3.0% | 91.8% | 7.2% | 0% |
+| [FTCP](https://github.com/PV-Lab/FTCP) | 228.5 | 2.0% | 38.2% | 1.8% | 0% |
+| [CDVAE](https://github.com/txie-93/cdvae) | 230.5 | 0.8% | 96.0% | **8.2%** | 0% |
+| [CrystaLLM](https://github.com/lantunes/CrystaLLM) | 411.0 | 2.4% | 98.2% | 1.0% | 0% |
 
 ### Template-based methods
 | Method | Avg. $\Delta E_{\mathrm{d}}$ (meV/atom) | Stability rate | Novelty rate | Novel prototype rate | Novel prototype stability rate |
