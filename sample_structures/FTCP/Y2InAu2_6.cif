@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Y2InAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87858680
+_cell_length_b   8.04271260
+_cell_length_c   3.82130123
+_cell_angle_alpha   90.03226136
+_cell_angle_beta   90.02776206
+_cell_angle_gamma   92.12939338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2InAu2
+_chemical_formula_sum   'Y4 In2 Au4'
+_cell_volume   241.97027840
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.51486447  0.17270445  0.52186150  1
+  Y  Y1  1  0.31412727  0.70842561  0.52185404  1
+  Y  Y2  1  -0.03386794  0.34919564  0.52183842  1
+  Y  Y3  1  0.81430150  0.80904813  0.52185689  1
+  In  In4  1  0.30564617  0.39110006  0.02183610  1
+  In  In5  1  0.15887957  0.01712786  0.02186479  1
+  Au  Au6  1  0.02959146  0.63019897  0.02187923  1
+  Au  Au7  1  0.67154301  0.48740334  0.02190694  1
+  Au  Au8  1  0.53114623  0.87937966  0.02193025  1
+  Au  Au9  1  0.80424825  0.11872627  0.02179184  1

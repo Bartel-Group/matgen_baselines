@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_SmClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85228968
+_cell_length_b   3.85228966
+_cell_length_c   4.58425134
+_cell_angle_alpha   89.99999889
+_cell_angle_beta   90.00000097
+_cell_angle_gamma   120.00000638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmClO
+_chemical_formula_sum   'Sm1 Cl1 O1'
+_cell_volume   58.91649425
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.33333333  0.66666665  0.00000000  1
+  Cl  Cl1  1  -0.00000002  0.00000003  0.50000000  1
+  O  O2  1  0.66666669  0.33333332  -0.00000001  1

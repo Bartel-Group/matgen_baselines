@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_DyInP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.96425053
+_cell_length_b   8.96425058
+_cell_length_c   8.96424975
+_cell_angle_alpha   107.71858186
+_cell_angle_beta   107.71858592
+_cell_angle_gamma   107.71858498
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyInP2
+_chemical_formula_sum   'Dy6 In6 P12'
+_cell_volume   587.75612891
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.10144823  0.34559930  0.43732789  1
+  Dy  Dy1  1  0.56267207  0.89855174  0.65440066  1
+  Dy  Dy2  1  0.89855177  0.65440070  0.56267211  1
+  Dy  Dy3  1  0.34559932  0.43732792  0.10144823  1
+  Dy  Dy4  1  0.43732792  0.10144826  0.34559934  1
+  Dy  Dy5  1  0.65440070  0.56267209  0.89855177  1
+  In  In6  1  0.30781838  0.76865080  0.91920540  1
+  In  In7  1  0.76865082  0.91920537  0.30781836  1
+  In  In8  1  0.91920538  0.30781836  0.76865080  1
+  In  In9  1  0.69218162  0.23134920  0.08079461  1
+  In  In10  1  0.23134917  0.08079463  0.69218163  1
+  In  In11  1  0.08079461  0.69218163  0.23134921  1
+  P  P12  1  0.11649536  0.02655394  0.36104193  1
+  P  P13  1  0.02655393  0.36104191  0.11649535  1
+  P  P14  1  0.36104189  0.11649534  0.02655392  1
+  P  P15  1  0.88350463  0.97344605  0.63895806  1
+  P  P16  1  0.97344607  0.63895808  0.88350465  1
+  P  P17  1  0.63895810  0.88350465  0.97344608  1
+  P  P18  1  0.78792588  0.28568873  0.42833329  1
+  P  P19  1  0.28568873  0.42833328  0.78792589  1
+  P  P20  1  0.57166674  0.21207410  0.71431133  1
+  P  P21  1  0.21207411  0.71431127  0.57166672  1
+  P  P22  1  0.71431129  0.57166673  0.21207412  1
+  P  P23  1  0.42833325  0.78792591  0.28568867  1

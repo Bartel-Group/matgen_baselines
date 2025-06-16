@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_HPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36198024
+_cell_length_b   5.09775606
+_cell_length_c   3.48383099
+_cell_angle_alpha   110.11649340
+_cell_angle_beta   119.18877671
+_cell_angle_gamma   107.47510879
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HPb
+_chemical_formula_sum   'H1 Pb1'
+_cell_volume   40.18477722
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.06861872  0.01868600  0.08366013  1
+  Pb  Pb1  1  0.47974128  0.52160400  0.31636987  1

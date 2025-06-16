@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_TlInSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54430406
+_cell_length_b   7.85677346
+_cell_length_c   8.38298896
+_cell_angle_alpha   110.16665792
+_cell_angle_beta   105.57589550
+_cell_angle_gamma   108.06191893
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlInSi3O8
+_chemical_formula_sum   'Tl2 In2 Si6 O16'
+_cell_volume   402.30365524
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.18222347  0.26722291  0.29173598  1
+  Tl  Tl1  1  0.81777654  0.73277709  0.70826403  1
+  In  In2  1  0.15237264  0.74910924  0.19047598  1
+  In  In3  1  0.84762746  0.25089082  0.80952403  1
+  Si  Si4  1  0.30409958  0.58789674  0.84166673  1
+  Si  Si5  1  0.37283765  0.84435515  0.62458578  1
+  Si  Si6  1  0.69590047  0.41210306  0.15833354  1
+  Si  Si7  1  0.62716236  0.15564566  0.37541420  1
+  Si  Si8  1  0.26118311  0.18740802  0.79909647  1
+  Si  Si9  1  0.73881610  0.81259160  0.20090243  1
+  O  O10  1  0.12721436  0.56435614  0.92221016  1
+  O  O11  1  0.25043664  0.98844638  0.63936479  1
+  O  O12  1  0.87278564  0.43564386  0.07778977  1
+  O  O13  1  0.74956362  0.01155347  0.36063531  1
+  O  O14  1  0.30853273  0.70741736  0.40370452  1
+  O  O15  1  0.27760565  0.35730234  0.72205461  1
+  O  O16  1  0.69146732  0.29258257  0.59629549  1
+  O  O17  1  0.72239431  0.64269751  0.27794546  1
+  O  O18  1  0.94084052  0.86923602  0.15764900  1
+  O  O19  1  0.05915943  0.13076399  0.84235107  1
+  O  O20  1  0.27343139  0.68496802  0.70047497  1
+  O  O21  1  0.72656837  0.31503180  0.29952499  1
+  O  O22  1  0.38140764  0.02777688  0.24840333  1
+  O  O23  1  0.46550458  0.27858673  -0.00925299  1
+  O  O24  1  0.61859221  0.97222298  0.75159661  1
+  O  O25  1  0.53449622  0.72141367  0.00925374  1

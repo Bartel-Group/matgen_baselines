@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoCuSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00853844
+_cell_length_b   3.97820183
+_cell_length_c   7.54784447
+_cell_angle_alpha   105.12421600
+_cell_angle_beta   105.24830267
+_cell_angle_gamma   90.30329249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCuSi
+_chemical_formula_sum   'Ho2 Cu2 Si2'
+_cell_volume   111.75047601
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  -0.17228303  0.12889851  0.46101918  1
+  Ho  Ho1  1  0.07720071  -0.12261060  -0.04115723  1
+  Cu  Cu2  1  0.24287156  0.54363287  0.29143655  1
+  Cu  Cu3  1  0.49312737  0.29541759  0.79219730  1
+  Si  Si4  1  0.66035393  0.46113408  0.12562317  1
+  Si  Si5  1  0.40896945  0.71242756  0.62563103  1

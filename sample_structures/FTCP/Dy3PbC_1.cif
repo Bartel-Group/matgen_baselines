@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Dy3PbC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39837981
+_cell_length_b   4.68489442
+_cell_length_c   4.74512727
+_cell_angle_alpha   90.61526255
+_cell_angle_beta   110.05669271
+_cell_angle_gamma   110.33860286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3PbC
+_chemical_formula_sum   'Dy3 Pb1 C1'
+_cell_volume   123.91160593
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.48723923  -0.23324752  0.30350921  1
+  Dy  Dy1  1  -0.00220716  0.52066611  0.56295805  1
+  Dy  Dy2  1  0.49657913  0.26814035  -0.18632151  1
+  Pb  Pb3  1  -0.02078099  0.01027776  0.05191564  1
+  C  C4  1  0.39926980  0.72092331  0.75946861  1

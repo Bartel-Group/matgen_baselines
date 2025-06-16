@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MgOsI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19979156
+_cell_length_b   3.48564774
+_cell_length_c   7.96850309
+_cell_angle_alpha   90.00027309
+_cell_angle_beta   101.17173855
+_cell_angle_gamma   90.00679104
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgOsI2
+_chemical_formula_sum   'Mg1 Os1 I2'
+_cell_volume   114.44043201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  -0.11339944  0.50000543  0.04307937  1
+  Os  Os1  1  0.35156525  -0.00001154  -0.04045264  1
+  I  I2  1  0.55025562  0.00004232  0.29356729  1
+  I  I3  1  0.24357857  0.49996378  0.70850598  1

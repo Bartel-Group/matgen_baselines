@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_MgRhO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.16149702
+_cell_length_b   3.16149709
+_cell_length_c   6.02088108
+_cell_angle_alpha   90.00006877
+_cell_angle_beta   90.00004338
+_cell_angle_gamma   119.99891699
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgRhO
+_chemical_formula_sum   'Mg1 Rh1 O1'
+_cell_volume   52.11718897
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000370  -0.00000356  0.50000000  1
+  Rh  Rh1  1  -0.00000025  0.00000020  -0.00000000  1
+  O  O2  1  0.33332988  0.66667003  0.50000000  1

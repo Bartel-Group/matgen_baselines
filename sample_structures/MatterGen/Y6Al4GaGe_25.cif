@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y6Al4GaGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59414996
+_cell_length_b   4.72545168
+_cell_length_c   12.90746592
+_cell_angle_alpha   89.99623250
+_cell_angle_beta   89.99961243
+_cell_angle_gamma   89.99993355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y6Al4GaGe
+_chemical_formula_sum   'Y6 Al4 Ga1 Ge1'
+_cell_volume   280.21377441
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.99507197  0.47483249  0.25763860  1
+  Y  Y1  1  0.99509590  0.47492584  0.94714535  1
+  Y  Y2  1  0.49514843  0.47507957  0.73943150  1
+  Y  Y3  1  0.49510589  0.97493593  0.93213785  1
+  Y  Y4  1  0.49517379  0.97528213  0.56458457  1
+  Y  Y5  1  0.49510428  0.97493574  0.25460783  1
+  Al  Al6  1  0.99514973  0.47528252  0.56414927  1
+  Al  Al7  1  0.99514055  0.97501819  0.75461131  1
+  Al  Al8  1  0.99516030  0.97474459  0.41688682  1
+  Al  Al9  1  0.99510121  0.97487986  0.09711615  1
+  Ga  Ga10  1  0.49508494  0.47531998  0.41961148  1
+  Ge  Ge11  1  0.49507224  0.47488464  0.09935235  1

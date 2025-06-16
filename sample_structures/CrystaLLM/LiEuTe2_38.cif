@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiEuTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29206687
+_cell_length_b   5.28911486
+_cell_length_c   5.45082087
+_cell_angle_alpha   90.03541253
+_cell_angle_beta   89.94962708
+_cell_angle_gamma   120.41364091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEuTe2
+_chemical_formula_sum   'Li1 Eu1 Te2'
+_cell_volume   131.57560114
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  -0.00000736  0.00002125  0.49999785  1
+  Eu  Eu1  1  0.33289751  0.66745136  0.00002746  1
+  Te  Te2  1  0.00092262  -0.00099161  -0.00001041  1
+  Te  Te3  1  0.66618723  0.33351900  0.49998511  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CsKCeF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79714371
+_cell_length_b   6.79354929
+_cell_length_c   6.81845816
+_cell_angle_alpha   59.96245675
+_cell_angle_beta   59.97564054
+_cell_angle_gamma   59.85568471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKCeF6
+_chemical_formula_sum   'Cs1 K1 Ce1 F6'
+_cell_volume   222.28776199
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.14303640  0.69594137  0.95658280  1
+  K  K1  1  0.39200166  0.94599067  0.20715460  1
+  Ce  Ce2  1  0.89248399  0.44664318  0.70630539  1
+  F  F3  1  0.11858416  0.22027882  0.48015951  1
+  F  F4  1  0.66519103  0.67457508  0.48111966  1
+  F  F5  1  0.11921652  0.21949096  0.93215703  1
+  F  F6  1  0.66541170  0.67360737  0.93197945  1
+  F  F7  1  0.11910623  0.67239837  0.48043504  1
+  F  F8  1  0.66660267  0.21977464  0.93226298  1

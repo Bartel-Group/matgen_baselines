@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_YTe2W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38152487
+_cell_length_b   3.33627874
+_cell_length_c   16.81361464
+_cell_angle_alpha   90.16456385
+_cell_angle_beta   90.02544343
+_cell_angle_gamma   120.47641905
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YTe2W
+_chemical_formula_sum   'Y1 Te2 W1'
+_cell_volume   163.47779862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.66650242  0.33290516  0.49467644  1
+  Te  Te1  1  0.00017497  0.00048469  0.34799647  1
+  Te  Te2  1  0.66607847  0.33226298  0.10862168  1
+  W  W3  1  0.00057748  0.00101384  -0.00029458  1

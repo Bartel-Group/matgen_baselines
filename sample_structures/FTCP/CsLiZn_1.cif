@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_CsLiZn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98192915
+_cell_length_b   7.25093427
+_cell_length_c   7.21734159
+_cell_angle_alpha   148.02599215
+_cell_angle_beta   147.04124487
+_cell_angle_gamma   46.85212137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLiZn
+_chemical_formula_sum   'Cs1 Li1 Zn1'
+_cell_volume   104.76689886
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.02391278  -0.00173102  -0.00508149  1
+  Li  Li1  1  0.27452057  0.74238870  0.48716699  1
+  Zn  Zn2  1  0.78121665  0.24553232  0.49391450  1

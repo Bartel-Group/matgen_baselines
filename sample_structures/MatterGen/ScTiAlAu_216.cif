@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ScTiAlAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70891147
+_cell_length_b   4.71005902
+_cell_length_c   4.71347034
+_cell_angle_alpha   59.98740831
+_cell_angle_beta   59.99138994
+_cell_angle_gamma   60.02515832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTiAlAu
+_chemical_formula_sum   'Sc1 Ti1 Al1 Au1'
+_cell_volume   73.92401193
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.85887848  0.62734453  0.17496520  1
+  Ti  Ti1  1  0.35832480  0.12749597  0.67482385  1
+  Al  Al2  1  0.10870163  0.87749303  0.42485823  1
+  Au  Au3  1  0.60829269  0.37736167  0.92503487  1

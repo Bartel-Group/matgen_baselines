@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GdB2Pt2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82348532
+_cell_length_b   3.82709260
+_cell_length_c   6.01088267
+_cell_angle_alpha   108.55595168
+_cell_angle_beta   71.45497930
+_cell_angle_gamma   89.98990561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdB2Pt2C
+_chemical_formula_sum   'Gd1 B2 Pt2 C1'
+_cell_volume   78.54930295
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.86629875  0.05469641  0.75894435  1
+  B  B1  1  0.22866091  0.69235230  0.03421268  1
+  B  B2  1  0.50399005  0.41666465  0.48327382  1
+  Pt  Pt3  1  0.11764578  0.30326500  0.25617439  1
+  Pt  Pt4  1  0.61504632  0.80585002  0.26140045  1
+  C  C5  1  0.36628389  0.55454248  0.75874385  1

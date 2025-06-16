@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AlHgF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96545474
+_cell_length_b   5.45937438
+_cell_length_c   5.12020935
+_cell_angle_alpha   89.55043509
+_cell_angle_beta   97.06894563
+_cell_angle_gamma   92.25139726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlHgF4
+_chemical_formula_sum   'Al2 Hg2 F8'
+_cell_volume   165.35715840
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.61291151  -0.05700773  0.76910218  1
+  Al  Al1  1  0.38709391  0.05708117  0.23091966  1
+  Hg  Hg2  1  0.11284099  0.42116448  0.70844332  1
+  Hg  Hg3  1  0.88713594  0.57890103  0.29151441  1
+  F  F4  1  0.33984418  0.89409967  -0.09767614  1
+  F  F5  1  0.69262785  0.64791766  0.90462181  1
+  F  F6  1  0.88231451  0.02381286  0.70729360  1
+  F  F7  1  0.48651229  0.20468642  0.55985698  1
+  F  F8  1  0.51345115  0.79532794  0.44011536  1
+  F  F9  1  0.11778685  0.97609313  0.29269061  1
+  F  F10  1  0.30740697  0.35203277  0.09550134  1
+  F  F11  1  0.66007386  0.10589061  0.09761686  1

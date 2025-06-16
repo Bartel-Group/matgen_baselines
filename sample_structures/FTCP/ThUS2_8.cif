@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ThUS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43733324
+_cell_length_b   5.36436420
+_cell_length_c   5.33957017
+_cell_angle_alpha   40.40782131
+_cell_angle_beta   53.18098838
+_cell_angle_gamma   52.90435334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThUS2
+_chemical_formula_sum   'Th1 U1 S2'
+_cell_volume   91.77342861
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.08821373  0.02166923  0.02345551  1
+  U  U1  1  0.59833073  0.52380937  0.52173880  1
+  S  S2  1  0.18402510  0.26787761  0.26166208  1
+  S  S3  1  0.66855043  0.78382380  0.77756361  1

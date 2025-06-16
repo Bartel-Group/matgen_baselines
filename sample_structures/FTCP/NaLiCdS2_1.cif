@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_NaLiCdS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28615030
+_cell_length_b   4.37534858
+_cell_length_c   7.24825205
+_cell_angle_alpha   90.12818639
+_cell_angle_beta   75.06349543
+_cell_angle_gamma   121.02546742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiCdS2
+_chemical_formula_sum   'Na1 Li1 Cd1 S2'
+_cell_volume   111.13824314
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.23447303  0.62043176  0.98479292  1
+  Li  Li1  1  0.72548400  0.36408213  0.73142143  1
+  Cd  Cd2  1  -0.26500286  -0.13325775  0.27005829  1
+  S  S3  1  -0.00770817  0.49621135  0.38117944  1
+  S  S4  1  -0.02412600  -0.01067749  0.87411793  1

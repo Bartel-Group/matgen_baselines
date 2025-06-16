@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Tb2ScAl3VAgTeS10I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92239018
+_cell_length_b   9.76821907
+_cell_length_c   12.97797701
+_cell_angle_alpha   99.54270519
+_cell_angle_beta   89.98150760
+_cell_angle_gamma   90.00457176
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2ScAl3VAgTeS10I
+_chemical_formula_sum   'Tb2 Sc1 Al3 V1 Ag1 Te1 S10 I1'
+_cell_volume   490.36736861
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.93527573  0.34168386  0.21604213  1
+  Tb  Tb1  1  0.93597245  0.69501809  0.09894614  1
+  Sc  Sc2  1  0.93599731  0.49420937  0.64145178  1
+  Al  Al3  1  0.43609904  0.97571115  0.06955499  1
+  Al  Al4  1  0.43578217  0.92667764  0.63854198  1
+  Al  Al5  1  0.43607390  0.39362538  0.90150597  1
+  V  V6  1  0.43577693  0.23636779  0.50082483  1
+  Ag  Ag7  1  0.43550210  0.74932724  0.37713335  1
+  Te  Te8  1  0.93575552  0.80186179  0.71500835  1
+  S  S9  1  0.93564538  0.60551555  0.29942291  1
+  S  S10  1  0.43601742  0.49537672  0.53174829  1
+  S  S11  1  0.93615065  0.48437112  0.84410259  1
+  S  S12  1  0.43586791  0.86418192  0.20655892  1
+  S  S13  1  0.43586725  0.98902564  0.48368639  1
+  S  S14  1  0.93610028  0.10581566  0.06449220  1
+  S  S15  1  0.43575266  0.45067392  0.07778984  1
+  S  S16  1  0.43612856  0.77263417  0.95990372  1
+  S  S17  1  0.93577389  0.23762365  0.59517123  1
+  S  S18  1  0.43518180  0.23772368  0.32377512  1
+  I  I19  1  0.43725789  0.12923133  0.82574630  1

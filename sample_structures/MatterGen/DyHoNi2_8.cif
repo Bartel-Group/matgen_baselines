@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_DyHoNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75594862
+_cell_length_b   4.74579134
+_cell_length_c   4.75164455
+_cell_angle_alpha   60.10043073
+_cell_angle_beta   60.06160463
+_cell_angle_gamma   60.05385346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHoNi2
+_chemical_formula_sum   'Dy1 Ho1 Ni2'
+_cell_volume   75.95952909
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.03437379  0.41023928  0.00186875  1
+  Ho  Ho1  1  0.53391704  0.91031032  0.50190363  1
+  Ni  Ni2  1  0.28368932  0.66103632  0.25275505  1
+  Ni  Ni3  1  0.78474614  0.16067292  0.75248833  1

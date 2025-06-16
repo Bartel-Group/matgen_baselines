@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SrVSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26063316
+_cell_length_b   4.92013389
+_cell_length_c   6.64779879
+_cell_angle_alpha   89.99998280
+_cell_angle_beta   108.57194654
+_cell_angle_gamma   90.00007282
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrVSb2
+_chemical_formula_sum   'Sr1 V1 Sb2'
+_cell_volume   132.09995291
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.39856845  0.00000076  0.42471793  1
+  V  V1  1  0.18443012  0.49999998  0.98950257  1
+  Sb  Sb2  1  0.11022626  -0.00000028  0.84842269  1
+  Sb  Sb3  1  0.80677518  0.49999954  0.23735681  1

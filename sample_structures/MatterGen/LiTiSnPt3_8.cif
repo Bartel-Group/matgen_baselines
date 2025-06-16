@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiTiSnPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45518540
+_cell_length_b   4.45552260
+_cell_length_c   5.62045375
+_cell_angle_alpha   89.72072516
+_cell_angle_beta   89.72860484
+_cell_angle_gamma   60.15597020
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTiSnPt3
+_chemical_formula_sum   'Li1 Ti1 Sn1 Pt3'
+_cell_volume   96.76987085
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.07403294  0.77096895  0.79140912  1
+  Ti  Ti1  1  0.40740437  0.10438817  0.44579304  1
+  Sn  Sn2  1  0.74078444  0.43773433  0.08838714  1
+  Pt  Pt3  1  0.07438097  0.77139244  0.32871263  1
+  Pt  Pt4  1  0.40742137  0.10433665  0.90752295  1
+  Pt  Pt5  1  0.74052869  0.43749518  0.59228193  1

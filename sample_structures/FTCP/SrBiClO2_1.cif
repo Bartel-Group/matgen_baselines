@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrBiClO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93625901
+_cell_length_b   7.20041559
+_cell_length_c   6.65736651
+_cell_angle_alpha   70.37322584
+_cell_angle_beta   93.86444418
+_cell_angle_gamma   109.81141799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrBiClO2
+_chemical_formula_sum   'Sr2 Bi2 Cl2 O4'
+_cell_volume   251.81639994
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.60454433  -0.14306698  0.68713867  1
+  Sr  Sr1  1  0.18803114  0.90021786  0.18371096  1
+  Bi  Bi2  1  0.52168015  0.49812768  0.20412729  1
+  Bi  Bi3  1  0.03821362  0.49067004  0.86967019  1
+  Cl  Cl4  1  0.73597010  -0.01661316  0.24400583  1
+  Cl  Cl5  1  0.59121889  0.24594018  0.66855608  1
+  O  O6  1  0.82733170  0.66612713  -0.03214023  1
+  O  O7  1  0.20503453  0.70641373  0.57094527  1
+  O  O8  1  0.30165632  0.28323391  0.06916153  1
+  O  O9  1  0.32576922  0.69599960  0.01163443  1

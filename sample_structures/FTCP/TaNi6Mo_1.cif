@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TaNi6Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38835311
+_cell_length_b   4.49627807
+_cell_length_c   5.09270782
+_cell_angle_alpha   90.83966788
+_cell_angle_beta   101.99591961
+_cell_angle_gamma   96.15429257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNi6Mo
+_chemical_formula_sum   'Ta1 Ni6 Mo1'
+_cell_volume   97.65417961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  -0.01620460  0.28535252  0.05167943  1
+  Ni  Ni1  1  0.00745148  0.28823130  0.55623685  1
+  Ni  Ni2  1  0.50190964  0.57172445  -0.02312168  1
+  Ni  Ni3  1  0.49767175  0.06023177  0.71839073  1
+  Ni  Ni4  1  0.50119052  0.06129867  0.22618863  1
+  Ni  Ni5  1  0.00013659  0.78917205  0.80613963  1
+  Ni  Ni6  1  0.00746635  0.78471344  0.31629091  1
+  Mo  Mo7  1  0.52372827  0.56415579  0.48187550  1

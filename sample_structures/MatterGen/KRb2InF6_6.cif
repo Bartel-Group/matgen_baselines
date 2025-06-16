@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KRb2InF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69242801
+_cell_length_b   6.57059929
+_cell_length_c   6.57238416
+_cell_angle_alpha   89.98841028
+_cell_angle_beta   89.97248652
+_cell_angle_gamma   89.95783419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb2InF6
+_chemical_formula_sum   'K1 Rb2 In1 F6'
+_cell_volume   202.64008745
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.38177203  0.96099262  0.30025463  1
+  Rb  Rb1  1  0.88174260  0.46073142  0.30030404  1
+  Rb  Rb2  1  0.88175920  0.96112911  0.80010062  1
+  In  In3  1  0.38177055  0.46102014  0.80002520  1
+  F  F4  1  0.38214555  0.68190492  0.02135992  1
+  F  F5  1  0.88176505  0.96127031  0.29952183  1
+  F  F6  1  0.88198376  0.46123381  0.79954300  1
+  F  F7  1  0.38190381  0.68238331  0.57922587  1
+  F  F8  1  0.38194790  0.23975270  0.02084012  1
+  F  F9  1  0.38125268  0.24036133  0.57884147  1

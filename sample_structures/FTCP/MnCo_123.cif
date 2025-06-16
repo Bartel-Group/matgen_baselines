@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_MnCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.42366873
+_cell_length_b   2.42297257
+_cell_length_c   3.54668271
+_cell_angle_alpha   90.02010254
+_cell_angle_beta   89.97355500
+_cell_angle_gamma   90.04650445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCo
+_chemical_formula_sum   'Mn1 Co1'
+_cell_volume   20.82782302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  -0.00026307  -0.06774777  -0.04230426  1
+  Co  Co1  1  0.50127307  0.43182777  0.45769426  1

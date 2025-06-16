@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiAl2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91617931
+_cell_length_b   2.94070091
+_cell_length_c   4.92116274
+_cell_angle_alpha   71.66405558
+_cell_angle_beta   59.23734727
+_cell_angle_gamma   72.29629837
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl2Ir
+_chemical_formula_sum   'Li1 Al2 Ir1'
+_cell_volume   57.12962740
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50723524  0.46320810  0.46909318  1
+  Al  Al1  1  0.62876496  0.69722228  0.87410038  1
+  Al  Al2  1  0.10252841  0.22119081  0.34835448  1
+  Ir  Ir3  1  0.03966139  -0.03902119  -0.06282804  1

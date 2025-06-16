@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2CrCl7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78613132
+_cell_length_b   7.32882263
+_cell_length_c   7.30358828
+_cell_angle_alpha   117.72693597
+_cell_angle_beta   104.13599913
+_cell_angle_gamma   86.75390054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2CrCl7
+_chemical_formula_sum   'Cs2 Cr1 Cl7'
+_cell_volume   356.95002373
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.35299558  0.21763608  0.10112296  1
+  Cs  Cs1  1  0.92790064  0.86716634  0.26143087  1
+  Cr  Cr2  1  0.14065649  0.54220609  0.68158564  1
+  Cl  Cl3  1  0.27506384  0.23078678  0.60509661  1
+  Cl  Cl4  1  0.64083628  0.54256174  0.68142437  1
+  Cl  Cl5  1  0.37349273  0.68477522  0.61420755  1
+  Cl  Cl6  1  0.98339875  0.40535835  0.32098205  1
+  Cl  Cl7  1  0.90702820  0.40016844  0.74881741  1
+  Cl  Cl8  1  0.00610543  0.85397443  0.75818688  1
+  Cl  Cl9  1  0.29714924  0.67845851  0.04228177  1

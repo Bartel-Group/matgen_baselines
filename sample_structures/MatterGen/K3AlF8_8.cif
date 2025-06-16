@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K3AlF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69106750
+_cell_length_b   3.69125578
+_cell_length_c   13.82295188
+_cell_angle_alpha   90.31200456
+_cell_angle_beta   90.24247402
+_cell_angle_gamma   89.98735917
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3AlF8
+_chemical_formula_sum   'K3 Al1 F8'
+_cell_volume   188.32873400
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.07798679  0.92249604  0.15509805  1
+  K  K1  1  0.07282823  0.91847192  0.60394900  1
+  K  K2  1  0.57398806  0.41854177  0.86337292  1
+  Al  Al3  1  0.58057497  0.42550354  0.35653782  1
+  F  F4  1  0.58440391  0.43016968  0.48447135  1
+  F  F5  1  0.58029426  0.92555616  0.35317654  1
+  F  F6  1  0.08064812  0.42509988  0.35317606  1
+  F  F7  1  0.07326437  0.91750427  0.80070671  1
+  F  F8  1  0.57870982  0.42311959  0.22615880  1
+  F  F9  1  0.57602273  0.92050428  0.01184783  1
+  F  F10  1  0.57360164  0.41965846  0.67045175  1
+  F  F11  1  0.07580931  0.42019189  0.01184223  1

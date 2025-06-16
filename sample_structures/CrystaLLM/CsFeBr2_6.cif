@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CsFeBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31675100
+_cell_length_b   4.55530987
+_cell_length_c   6.79276366
+_cell_angle_alpha   90.00036644
+_cell_angle_beta   75.44229227
+_cell_angle_gamma   89.99971972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsFeBr2
+_chemical_formula_sum   'Cs1 Fe1 Br2'
+_cell_volume   159.23516551
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  -0.14202956  0.49993318  0.08969991  1
+  Fe  Fe1  1  0.42985828  0.00011105  0.56339713  1
+  Br  Br2  1  0.30726098  -0.00006193  0.23951520  1
+  Br  Br3  1  0.51291030  0.50001771  0.66508776  1

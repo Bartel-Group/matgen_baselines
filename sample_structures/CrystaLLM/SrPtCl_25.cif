@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_SrPtCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76445725
+_cell_length_b   4.46557405
+_cell_length_c   4.85749340
+_cell_angle_alpha   90.05141264
+_cell_angle_beta   89.98775073
+_cell_angle_gamma   90.00464398
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPtCl
+_chemical_formula_sum   'Sr1 Pt1 Cl1'
+_cell_volume   81.65667609
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50005887  0.49977601  0.66132804  1
+  Pt  Pt1  1  -0.00003957  0.00008055  -0.10189701  1
+  Cl  Cl2  1  -0.00001930  0.50014344  0.17386897  1

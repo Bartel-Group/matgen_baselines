@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LaSmDy2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12944593
+_cell_length_b   5.13909016
+_cell_length_c   6.26428443
+_cell_angle_alpha   114.20301063
+_cell_angle_beta   114.14944644
+_cell_angle_gamma   90.00927404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSmDy2
+_chemical_formula_sum   'La1 Sm1 Dy2'
+_cell_volume   134.60866000
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.71093828  0.35428302  0.88882117  1
+  Sm  Sm1  1  0.96122107  0.10369361  0.38792056  1
+  Dy  Dy2  1  0.21080512  0.85407284  0.88854995  1
+  Dy  Dy3  1  0.46223276  0.60523693  0.39065873  1

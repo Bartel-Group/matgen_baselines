@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Fe2BiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.23467999
+_cell_length_b   8.23406120
+_cell_length_c   10.96399691
+_cell_angle_alpha   89.99999862
+_cell_angle_beta   89.99999817
+_cell_angle_gamma   90.00037859
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2BiSe4
+_chemical_formula_sum   'Fe8 Bi4 Se16'
+_cell_volume   743.41226455
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  -0.00000000  0.50000000  0.75000122  1
+  Fe  Fe1  1  -0.00000000  0.50000000  -0.00000060  1
+  Fe  Fe2  1  -0.00000000  0.49999999  0.25000009  1
+  Fe  Fe3  1  0.50000000  -0.00000000  0.50000579  1
+  Fe  Fe4  1  0.50000000  0.00000000  0.25000134  1
+  Fe  Fe5  1  0.50000000  0.00000000  0.74999733  1
+  Fe  Fe6  1  0.00000000  0.50000000  0.49999925  1
+  Fe  Fe7  1  0.50000000  0.00000000  -0.00000450  1
+  Bi  Bi8  1  -0.00000000  0.00000000  0.85923010  1
+  Bi  Bi9  1  0.50000000  0.50000000  0.64076977  1
+  Bi  Bi10  1  0.50000000  0.50000000  0.35923011  1
+  Bi  Bi11  1  -0.00000000  0.00000000  0.14077010  1
+  Se  Se12  1  0.33104578  0.15520232  0.87505539  1
+  Se  Se13  1  0.34479971  0.16895097  0.37506539  1
+  Se  Se14  1  0.83105019  0.34480098  0.37505644  1
+  Se  Se15  1  0.66895423  0.84479768  0.87505538  1
+  Se  Se16  1  0.34480230  0.83105159  0.62493498  1
+  Se  Se17  1  0.15519969  0.33105007  0.12493746  1
+  Se  Se18  1  0.33104549  0.84479660  0.12494418  1
+  Se  Se19  1  0.84480046  0.33105033  0.87506258  1
+  Se  Se20  1  0.84480030  0.66894992  0.12493746  1
+  Se  Se21  1  0.65519770  0.16894841  0.62493497  1
+  Se  Se22  1  0.15519954  0.66894967  0.87506257  1
+  Se  Se23  1  0.65520028  0.83104903  0.37506540  1
+  Se  Se24  1  0.16894981  0.65519901  0.37505642  1
+  Se  Se25  1  0.83104831  0.65520019  0.62494361  1
+  Se  Se26  1  0.16895169  0.34479982  0.62494360  1
+  Se  Se27  1  0.66895451  0.15520341  0.12494417  1

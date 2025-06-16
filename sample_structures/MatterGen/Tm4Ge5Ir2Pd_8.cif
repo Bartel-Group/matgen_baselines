@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tm4Ge5Ir2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31384404
+_cell_length_b   4.31395782
+_cell_length_c   14.78675772
+_cell_angle_alpha   98.36985028
+_cell_angle_beta   98.36768955
+_cell_angle_gamma   60.10748273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm4Ge5Ir2Pd
+_chemical_formula_sum   'Tm4 Ge5 Ir2 Pd1'
+_cell_volume   235.17169263
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.42007584  0.46728007  0.65526357  1
+  Tm  Tm1  1  0.86284755  -0.09044465  0.97427956  1
+  Tm  Tm2  1  0.94299023  -0.01015007  0.22294037  1
+  Tm  Tm3  1  0.33925246  0.38633913  0.41549355  1
+  Ge  Ge4  1  0.04525654  0.09233999  0.53285891  1
+  Ge  Ge5  1  0.49658288  0.54345452  0.87627100  1
+  Ge  Ge6  1  0.78741529  0.83454908  0.75350751  1
+  Ge  Ge7  1  0.64335296  0.69024015  0.32686015  1
+  Ge  Ge8  1  0.24114055  0.28772974  0.11194147  1
+  Ir  Ir9  1  0.14029751  0.18725008  0.80909287  1
+  Ir  Ir10  1  0.71251172  0.75984359  0.53501875  1
+  Pd  Pd11  1  0.56382148  0.61057512  0.07858140  1

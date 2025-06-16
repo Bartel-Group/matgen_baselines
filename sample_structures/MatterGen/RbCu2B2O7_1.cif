@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbCu2B2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53478839
+_cell_length_b   6.25118802
+_cell_length_c   7.77819072
+_cell_angle_alpha   57.16564599
+_cell_angle_beta   84.58165723
+_cell_angle_gamma   98.84782313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCu2B2O7
+_chemical_formula_sum   'Rb1 Cu2 B2 O7'
+_cell_volume   178.81588220
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.33030861  0.42162740  0.68030967  1
+  Cu  Cu1  1  0.76648085  0.39208228  0.15345879  1
+  Cu  Cu2  1  0.77847990  0.87259898  0.17721408  1
+  B  B3  1  0.17062801  0.01464450  0.28636865  1
+  B  B4  1  0.42332638  0.71311575  0.03751176  1
+  O  O5  1  0.44637012  0.07494264  0.31995297  1
+  O  O6  1  0.51771817  0.56420518  0.24947316  1
+  O  O7  1  0.10653943  0.68524652  0.04316987  1
+  O  O8  1  0.56094968  0.61823978  0.92393229  1
+  O  O9  1  0.59073341  0.98377296  0.95361595  1
+  O  O10  1  0.03836798  0.18350675  0.11532923  1
+  O  O11  1  -0.02256490  0.76461267  0.40065158  1

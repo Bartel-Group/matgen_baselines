@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Al2Ge2H
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32289913
+_cell_length_b   4.17861243
+_cell_length_c   6.64356100
+_cell_angle_alpha   90.05669731
+_cell_angle_beta   89.95843808
+_cell_angle_gamma   141.99390652
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2Ge2H
+_chemical_formula_sum   'Al2 Ge2 H1'
+_cell_volume   90.98758336
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.39139260  0.03940292  0.38390922  1
+  Al  Al1  1  0.38935649  0.54330971  0.78931314  1
+  Ge  Ge2  1  0.88806717  0.54197612  0.69233466  1
+  Ge  Ge3  1  0.38298275  0.53063436  0.18159592  1
+  H  H4  1  0.88376098  0.03611688  0.07089707  1

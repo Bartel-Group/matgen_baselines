@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HfNbC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36446961
+_cell_length_b   5.34905619
+_cell_length_c   6.25503108
+_cell_angle_alpha   31.38212992
+_cell_angle_beta   44.79341198
+_cell_angle_gamma   33.88270796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfNbC2
+_chemical_formula_sum   'Hf1 Nb1 C2'
+_cell_volume   52.10695323
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.06791000  -0.01673034  0.00588154  1
+  Nb  Nb1  1  0.32993859  0.74723107  0.50544116  1
+  C  C2  1  0.67436324  0.09032350  0.50551410  1
+  C  C3  1  0.53439817  -0.05131422  0.50587319  1

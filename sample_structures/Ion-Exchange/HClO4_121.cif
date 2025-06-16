@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84141441
+_cell_length_b   4.84083183
+_cell_length_c   4.84085400
+_cell_angle_alpha   66.67018447
+_cell_angle_beta   134.26032033
+_cell_angle_gamma   134.26019949
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HClO4
+_chemical_formula_sum   'H1 Cl1 O4'
+_cell_volume   57.26633272
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  -0.00004737  0.49988672  0.49990293  1
+  Cl  Cl1  1  -0.00001830  0.00001763  0.00001574  1
+  O  O2  1  0.55250861  0.88240741  0.88240583  1
+  O  O3  1  0.00000506  0.11773505  0.67002645  1
+  O  O4  1  0.44754724  0.32992359  0.32992202  1
+  O  O5  1  0.00000476  0.67002960  0.11772704  1

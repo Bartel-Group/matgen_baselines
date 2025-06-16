@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cu5HgSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77871435
+_cell_length_b   5.77871545
+_cell_length_c   11.39757377
+_cell_angle_alpha   89.99985500
+_cell_angle_beta   89.99988236
+_cell_angle_gamma   120.00086048
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu5HgSbO6
+_chemical_formula_sum   'Cu10 Hg2 Sb2 O12'
+_cell_volume   329.61108941
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000129  0.00000059  0.88052798  1
+  Cu  Cu1  1  0.00000041  0.00000174  0.38052544  1
+  Cu  Cu2  1  -0.00000128  -0.00000054  0.11947392  1
+  Cu  Cu3  1  -0.00000045  -0.00000168  0.61946975  1
+  Cu  Cu4  1  0.50000010  0.49999976  0.00000048  1
+  Cu  Cu5  1  -0.00000032  0.49999992  0.00000050  1
+  Cu  Cu6  1  0.50000026  0.00000032  0.00000050  1
+  Cu  Cu7  1  0.00000014  0.49999921  0.50000027  1
+  Cu  Cu8  1  0.49999905  -0.00000016  0.50000027  1
+  Cu  Cu9  1  0.50000077  0.50000092  0.50000028  1
+  Hg  Hg10  1  0.66666541  0.33333447  0.74999997  1
+  Hg  Hg11  1  0.33333459  0.66666552  0.25000065  1
+  Sb  Sb12  1  0.33333344  0.66666678  0.74999925  1
+  Sb  Sb13  1  0.66666657  0.33333322  0.24999773  1
+  O  O14  1  0.63005702  0.67918061  0.85509405  1
+  O  O15  1  0.04912007  0.36993988  0.85509468  1
+  O  O16  1  0.32082093  0.95087774  0.85509463  1
+  O  O17  1  0.95087730  0.32081897  0.35509500  1
+  O  O18  1  0.36993846  0.04912083  0.35509521  1
+  O  O19  1  0.67918186  0.63005852  0.35509486  1
+  O  O20  1  0.36994428  0.32082047  0.14490647  1
+  O  O21  1  0.95087975  0.63005883  0.14490585  1
+  O  O22  1  0.67917799  0.04912244  0.14490590  1
+  O  O23  1  0.04912348  0.67918057  0.64490549  1
+  O  O24  1  0.63006029  0.95087837  0.64490527  1
+  O  O25  1  0.32081858  0.36994270  0.64490562  1

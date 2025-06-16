@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ScTaOs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37191149
+_cell_length_b   2.92661728
+_cell_length_c   4.96220062
+_cell_angle_alpha   98.27904803
+_cell_angle_beta   69.01699815
+_cell_angle_gamma   113.62427624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTaOs2
+_chemical_formula_sum   'Sc1 Ta1 Os2'
+_cell_volume   66.73554019
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  -0.58993876  0.19221476  0.25516769  1
+  Ta  Ta1  1  0.83175659  0.60805130  0.67421505  1
+  Os  Os2  1  -0.08114803  0.10827213  0.17373923  1
+  Os  Os3  1  0.33140021  0.70362181  0.76328804  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrSeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34545397
+_cell_length_b   5.47160062
+_cell_length_c   5.94027839
+_cell_angle_alpha   86.04184294
+_cell_angle_beta   88.89976417
+_cell_angle_gamma   91.32507958
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSeO4
+_chemical_formula_sum   'Zr2 Se2 O8'
+_cell_volume   173.24393248
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.50240557  0.27549974  0.66097229  1
+  Zr  Zr1  1  0.49744781  0.72446821  0.33900459  1
+  Se  Se2  1  -0.12414654  0.75406593  0.83320160  1
+  Se  Se3  1  0.12413012  0.24588434  0.16673656  1
+  O  O4  1  0.68730350  -0.09110533  0.62015354  1
+  O  O5  1  0.28577505  0.54926262  0.58946935  1
+  O  O6  1  0.31238387  0.09125342  0.38003389  1
+  O  O7  1  0.71423909  0.45074014  0.41048688  1
+  O  O8  1  0.25251395  0.54083235  0.12869833  1
+  O  O9  1  0.74056925  0.87851236  0.06309945  1
+  O  O10  1  0.74771312  0.45917525  0.87116125  1
+  O  O11  1  0.25966520  0.12141097  0.93698226  1

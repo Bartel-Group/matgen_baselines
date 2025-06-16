@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr3Fe2CuS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90672879
+_cell_length_b   6.90677550
+_cell_length_c   6.90677841
+_cell_angle_alpha   60.31347263
+_cell_angle_beta   60.31281403
+_cell_angle_gamma   60.31310334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr3Fe2CuS8
+_chemical_formula_sum   'Cr3 Fe2 Cu1 S8'
+_cell_volume   234.62512603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.49366803  0.00246274  0.00246186  1
+  Cr  Cr1  1  0.00246139  0.00246371  0.49366742  1
+  Cr  Cr2  1  0.00246181  0.49366662  0.00246351  1
+  Fe  Fe3  1  -0.00111946  -0.00111854  -0.00111935  1
+  Fe  Fe4  1  0.62511271  0.62511171  0.62511633  1
+  Cu  Cu5  1  0.37651101  0.37651033  0.37650935  1
+  S  S6  1  0.22719152  0.76136749  0.76136806  1
+  S  S7  1  0.76136904  0.76136741  0.22718896  1
+  S  S8  1  0.76136817  0.22719284  0.76136620  1
+  S  S9  1  0.75798632  0.75799146  0.75798895  1
+  S  S10  1  0.77770013  0.23623886  0.23623817  1
+  S  S11  1  0.23623730  0.23623946  0.77770194  1
+  S  S12  1  0.23623895  0.77769929  0.23624042  1
+  S  S13  1  0.24281310  0.24280662  0.24280819  1

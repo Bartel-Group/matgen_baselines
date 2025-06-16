@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ZrTaCrMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55503051
+_cell_length_b   4.55403048
+_cell_length_c   4.55365433
+_cell_angle_alpha   60.08409472
+_cell_angle_beta   60.08589678
+_cell_angle_gamma   60.06274511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTaCrMo
+_chemical_formula_sum   'Zr1 Ta1 Cr1 Mo1'
+_cell_volume   66.91062398
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.71615875  0.40674163  0.46986064  1
+  Ta  Ta1  1  0.96657149  0.65652824  0.72034123  1
+  Cr  Cr2  1  0.46693398  0.15641263  0.21903356  1
+  Mo  Mo3  1  0.21683240  0.90662184  0.96961491  1

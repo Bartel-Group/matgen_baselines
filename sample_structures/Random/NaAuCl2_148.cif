@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaAuCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.18969235
+_cell_length_b   9.18973132
+_cell_length_c   9.19048431
+_cell_angle_alpha   108.45727522
+_cell_angle_beta   108.45641652
+_cell_angle_gamma   108.44498268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAuCl2
+_chemical_formula_sum   'Na6 Au6 Cl12'
+_cell_volume   618.97751665
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25968195  0.11242204  0.69281717  1
+  Na  Na1  1  0.74031956  0.88757853  0.30718336  1
+  Na  Na2  1  0.88760949  0.30722523  0.74038157  1
+  Na  Na3  1  0.30722147  0.74039429  0.88763512  1
+  Na  Na4  1  0.11238960  0.69277453  0.25961802  1
+  Na  Na5  1  0.69277857  0.25960492  0.11236547  1
+  Au  Au6  1  0.44924583  0.23847977  0.41419957  1
+  Au  Au7  1  0.23850290  0.41419374  0.44927773  1
+  Au  Au8  1  0.41429869  0.44931538  0.23873801  1
+  Au  Au9  1  0.55075659  0.76152582  0.58580393  1
+  Au  Au10  1  0.76149702  0.58580536  0.55072106  1
+  Au  Au11  1  0.58569848  0.55068326  0.76125641  1
+  Cl  Cl12  1  0.80576383  0.61141364  0.30625498  1
+  Cl  Cl13  1  0.30624895  0.80573308  0.61141082  1
+  Cl  Cl14  1  0.38854392  0.69369747  0.19419210  1
+  Cl  Cl15  1  0.61145670  0.30630373  0.80581008  1
+  Cl  Cl16  1  0.19423600  0.38858603  0.69374464  1
+  Cl  Cl17  1  0.69375024  0.19426506  0.38858894  1
+  Cl  Cl18  1  0.65200385  0.83760974  0.97398480  1
+  Cl  Cl19  1  0.97395258  0.65201963  0.83762143  1
+  Cl  Cl20  1  0.83763510  0.97397731  0.65199785  1
+  Cl  Cl21  1  0.34799583  0.16238898  0.02601615  1
+  Cl  Cl22  1  0.02604650  0.34798000  0.16237819  1
+  Cl  Cl23  1  0.16236635  0.02602245  0.34800257  1

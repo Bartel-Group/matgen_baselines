@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_AlCr10P6C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56503791
+_cell_length_b   3.56798435
+_cell_length_c   23.17025192
+_cell_angle_alpha   89.94012129
+_cell_angle_beta   90.22933210
+_cell_angle_gamma   120.04263196
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCr10P6C
+_chemical_formula_sum   'Al1 Cr10 P6 C1'
+_cell_volume   255.12793111
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.76093688  0.81631546  0.77670750  1
+  Cr  Cr1  1  0.09509008  0.48331487  0.84789538  1
+  Cr  Cr2  1  0.41466543  0.14642666  0.99659889  1
+  Cr  Cr3  1  0.08413076  0.48066000  0.19161473  1
+  Cr  Cr4  1  0.42758615  0.14975712  0.44989291  1
+  Cr  Cr5  1  0.41404774  0.14644745  0.12229921  1
+  Cr  Cr6  1  0.74521253  0.81249279  0.06857216  1
+  Cr  Cr7  1  0.75466240  0.81511176  0.28424408  1
+  Cr  Cr8  1  0.09560052  0.48350730  0.54930337  1
+  Cr  Cr9  1  0.75901144  0.81618862  0.39316184  1
+  Cr  Cr10  1  0.76110546  0.81640946  0.65828430  1
+  P  P11  1  0.41835133  0.14772224  0.22722210  1
+  P  P12  1  0.42745357  0.14962429  0.60799438  1
+  P  P13  1  0.76146361  0.81658878  0.49325524  1
+  P  P14  1  0.42449293  0.14922352  0.34588079  1
+  P  P15  1  0.09317405  0.48266754  0.72615789  1
+  P  P16  1  0.42994667  0.15041168  0.89431730  1
+  C  C17  1  0.08036715  0.47967730  0.10718010  1

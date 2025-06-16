@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SmGeAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30391283
+_cell_length_b   5.17599700
+_cell_length_c   7.34206837
+_cell_angle_alpha   102.84302270
+_cell_angle_beta   77.48640946
+_cell_angle_gamma   131.78021827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmGeAu
+_chemical_formula_sum   'Sm2 Ge2 Au2'
+_cell_volume   145.89258571
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  -0.09079399  -0.09585351  0.81245838  1
+  Sm  Sm1  1  0.38298862  -0.60481933  0.33373049  1
+  Ge  Ge2  1  0.56889912  0.23164871  0.92898211  1
+  Ge  Ge3  1  0.72625958  0.06949392  0.22074891  1
+  Au  Au4  1  0.63243515  0.15071463  0.57410301  1
+  Au  Au5  1  0.14810153  0.65041558  0.07365710  1

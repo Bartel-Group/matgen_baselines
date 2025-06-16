@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CuPt2Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.73451731
+_cell_length_b   2.73504451
+_cell_length_c   14.09699668
+_cell_angle_alpha   73.07003203
+_cell_angle_beta   106.90744231
+_cell_angle_gamma   120.08557190
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuPt2Rh3
+_chemical_formula_sum   'Cu1 Pt2 Rh3'
+_cell_volume   85.92756641
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.20717674  0.48766351  0.87964719  1
+  Pt  Pt1  1  0.70989339  0.98838689  0.38689596  1
+  Pt  Pt2  1  0.20216364  0.49629497  0.20783676  1
+  Rh  Rh3  1  0.70120460  0.99609710  0.03754329  1
+  Rh  Rh4  1  0.70912946  0.98534535  0.71994763  1
+  Rh  Rh5  1  0.21395621  0.48200539  0.55832953  1

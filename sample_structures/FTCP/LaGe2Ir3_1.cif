@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaGe2Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87509324
+_cell_length_b   5.76082624
+_cell_length_c   3.05083906
+_cell_angle_alpha   89.93227293
+_cell_angle_beta   78.96400377
+_cell_angle_gamma   124.47939746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGe2Ir3
+_chemical_formula_sum   'La1 Ge2 Ir3'
+_cell_volume   110.95229896
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.04347265  -0.01007387  0.17485892  1
+  Ge  Ge1  1  0.66817379  -0.05356001  -0.14090323  1
+  Ge  Ge2  1  0.23561588  0.64785662  0.07518109  1
+  Ir  Ir3  1  0.44208736  0.52413210  0.47162819  1
+  Ir  Ir4  1  0.47239594  0.08697618  0.45661227  1
+  Ir  Ir5  1  -0.07767562  0.46533897  0.73164277  1

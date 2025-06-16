@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ti2AlRe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16812581
+_cell_length_b   3.30460376
+_cell_length_c   4.98284234
+_cell_angle_alpha   70.07773371
+_cell_angle_beta   51.32179614
+_cell_angle_gamma   70.74394830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2AlRe
+_chemical_formula_sum   'Ti2 Al1 Re1'
+_cell_volume   61.66256855
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.01803751  0.00540735  0.24787362  1
+  Ti  Ti1  1  -0.27153715  0.76304080  -0.01486516  1
+  Al  Al2  1  0.25322525  0.24151123  0.50303189  1
+  Re  Re3  1  0.48248942  -0.50453938  -0.23423035  1

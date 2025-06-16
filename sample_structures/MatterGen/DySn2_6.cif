@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DySn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46950275
+_cell_length_b   4.64620922
+_cell_length_c   15.97317006
+_cell_angle_alpha   107.00017098
+_cell_angle_beta   90.00759273
+_cell_angle_gamma   89.98944359
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DySn2
+_chemical_formula_sum   'Dy4 Sn8'
+_cell_volume   317.20863189
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.38020167  0.61501854  0.66134226  1
+  Dy  Dy1  1  0.37975657  0.30758912  0.35471215  1
+  Dy  Dy2  1  0.87970968  0.11571906  0.16207019  1
+  Dy  Dy3  1  0.37986240  0.92342914  0.96934756  1
+  Sn  Sn4  1  0.88005730  0.77370461  0.81819467  1
+  Sn  Sn5  1  0.37970535  0.61633519  0.16260868  1
+  Sn  Sn6  1  0.87976243  0.76944996  0.31619673  1
+  Sn  Sn7  1  0.87992549  0.45670528  0.50504689  1
+  Sn  Sn8  1  0.87974553  0.46218689  0.00832353  1
+  Sn  Sn9  1  0.88016997  0.11535272  0.66159464  1
+  Sn  Sn10  1  0.37995555  0.95123406  0.49799749  1
+  Sn  Sn11  1  0.38005401  0.27954992  0.82580627  1

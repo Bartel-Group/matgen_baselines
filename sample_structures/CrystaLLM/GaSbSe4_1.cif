@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GaSbSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39441286
+_cell_length_b   5.48191372
+_cell_length_c   7.27072544
+_cell_angle_alpha   108.69369551
+_cell_angle_beta   111.95596749
+_cell_angle_gamma   89.98653594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSbSe4
+_chemical_formula_sum   'Ga1 Sb1 Se4'
+_cell_volume   187.13503774
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.49437779  0.50135429  0.99802417  1
+  Sb  Sb1  1  -0.00457453  0.00171817  -0.00310033  1
+  Se  Se2  1  0.12122412  0.15389327  0.74426053  1
+  Se  Se3  1  0.37739153  0.85214396  0.25035054  1
+  Se  Se4  1  0.60953301  0.64073275  0.74523827  1
+  Se  Se5  1  0.86684807  0.36475756  0.25002683  1

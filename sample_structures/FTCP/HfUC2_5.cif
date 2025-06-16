@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HfUC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44004375
+_cell_length_b   5.62480004
+_cell_length_c   4.42639049
+_cell_angle_alpha   50.42402573
+_cell_angle_beta   43.09257738
+_cell_angle_gamma   50.62029347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfUC2
+_chemical_formula_sum   'Hf1 U1 C2'
+_cell_volume   55.12419567
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.05811356  -0.09242218  -0.03877895  1
+  U  U1  1  0.55824856  0.40045128  0.46127730  1
+  C  C2  1  0.31191209  0.31580719  0.21276090  1
+  C  C3  1  0.80457579  0.82095370  0.70839075  1

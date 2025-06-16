@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb4Al7Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10522454
+_cell_length_b   5.80069979
+_cell_length_c   11.37878123
+_cell_angle_alpha   104.73299127
+_cell_angle_beta   90.00401519
+_cell_angle_gamma   90.00040874
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4Al7Au
+_chemical_formula_sum   'Tb4 Al7 Au1'
+_cell_volume   262.05598352
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00484345  0.61261930  0.73698686  1
+  Tb  Tb1  1  0.00481533  0.30290760  0.11921510  1
+  Tb  Tb2  1  0.50486086  0.05795708  0.62777500  1
+  Tb  Tb3  1  0.50484325  0.85821188  0.23029224  1
+  Al  Al4  1  0.50489491  0.39985448  0.31518780  1
+  Al  Al5  1  0.50488737  0.45797141  0.92926355  1
+  Al  Al6  1  0.00487500  0.16144723  0.83412703  1
+  Al  Al7  1  0.00483167  0.75605771  0.02476237  1
+  Al  Al8  1  0.50485710  0.95902052  0.92912445  1
+  Al  Al9  1  0.00487530  0.71214015  0.42574259  1
+  Al  Al10  1  0.00484741  0.19972178  0.42567647  1
+  Au  Au11  1  0.50484707  0.51541884  0.54310241  1

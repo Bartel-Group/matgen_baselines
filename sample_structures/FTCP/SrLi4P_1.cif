@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrLi4P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60867581
+_cell_length_b   6.83845152
+_cell_length_c   8.81789183
+_cell_angle_alpha   37.43398508
+_cell_angle_beta   30.40589139
+_cell_angle_gamma   43.19479987
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLi4P
+_chemical_formula_sum   'Sr1 Li4 P1'
+_cell_volume   139.68650403
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  -0.20929507  0.10341591  0.06200463  1
+  Li  Li1  1  0.35646981  0.48071966  -0.12663839  1
+  Li  Li2  1  0.21500892  -0.14017997  0.18408100  1
+  Li  Li3  1  0.60293136  0.37723219  0.42651768  1
+  Li  Li4  1  0.92385940  0.86345392  0.68362580  1
+  P  P5  1  0.57903558  0.82231829  0.70241928  1

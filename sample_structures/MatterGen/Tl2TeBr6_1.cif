@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tl2TeBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17179275
+_cell_length_b   7.72427692
+_cell_length_c   7.70683870
+_cell_angle_alpha   119.97910437
+_cell_angle_beta   89.98446137
+_cell_angle_gamma   90.20844890
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2TeBr6
+_chemical_formula_sum   'Tl2 Te1 Br6'
+_cell_volume   369.81141014
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.78926177  0.84691899  0.10343948  1
+  Tl  Tl1  1  0.53934603  0.51193399  0.43533179  1
+  Te  Te2  1  0.66360299  0.17804788  0.77044547  1
+  Br  Br3  1  0.44471951  0.00957534  0.43424716  1
+  Br  Br4  1  0.44628224  0.51332330  0.93967636  1
+  Br  Br5  1  0.88221925  0.84361043  0.60393759  1
+  Br  Br6  1  0.88265727  0.34559627  0.60219922  1
+  Br  Br7  1  0.44419912  0.01022474  0.93855311  1
+  Br  Br8  1  0.88325783  0.34423669  0.10610261  1

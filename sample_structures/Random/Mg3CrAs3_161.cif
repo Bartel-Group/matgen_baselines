@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Mg3CrAs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91131304
+_cell_length_b   6.98722357
+_cell_length_c   6.98722828
+_cell_angle_alpha   109.69101189
+_cell_angle_beta   109.25100096
+_cell_angle_gamma   109.25095649
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3CrAs3
+_chemical_formula_sum   'Mg6 Cr2 As6'
+_cell_volume   260.44683070
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.49249268  0.00324323  0.65186648  1
+  Mg  Mg1  1  0.34059501  0.35136814  0.34812193  1
+  Mg  Mg2  1  0.48923693  -0.00323118  0.14863076  1
+  Mg  Mg3  1  -0.01076347  0.64862915  0.49676946  1
+  Mg  Mg4  1  0.84059615  0.84812411  0.85136922  1
+  Mg  Mg5  1  -0.00750586  0.15186895  0.50324487  1
+  Cr  Cr6  1  0.17581695  0.50000209  0.00000069  1
+  Cr  Cr7  1  0.67581984  0.49999993  0.00000112  1
+  As  As8  1  0.37500060  0.61125719  0.76190295  1
+  As  As9  1  0.87500934  0.26190213  0.11125676  1
+  As  As10  1  0.61309921  0.73809667  0.34935616  1
+  As  As11  1  0.11310788  0.84935647  0.23809722  1
+  As  As12  1  0.26374334  0.15064072  0.88874207  1
+  As  As13  1  0.76375143  0.38874242  0.65064031  1

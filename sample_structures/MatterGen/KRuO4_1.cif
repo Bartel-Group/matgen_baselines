@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KRuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53342162
+_cell_length_b   6.23617376
+_cell_length_c   7.88055381
+_cell_angle_alpha   100.97547483
+_cell_angle_beta   108.57622442
+_cell_angle_gamma   90.01879254
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRuO4
+_chemical_formula_sum   'K2 Ru2 O8'
+_cell_volume   206.87694681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.72785514  0.23810941  0.36520626  1
+  K  K1  1  0.41808547  0.61002483  0.84587236  1
+  Ru  Ru2  1  0.87952260  0.12446655  0.88146519  1
+  Ru  Ru3  1  0.26789103  0.72966439  0.33244947  1
+  O  O4  1  0.24241545  0.53510221  0.46080943  1
+  O  O5  1  0.90924355  0.31549239  0.75096252  1
+  O  O6  1  0.13389124  0.18078943  0.10429497  1
+  O  O7  1  0.90326193  0.85972186  0.77029080  1
+  O  O8  1  0.01366233  0.67074314  0.10953751  1
+  O  O9  1  0.23869034  -0.00801666  0.44595020  1
+  O  O10  1  0.51030935  0.14374503  0.90460793  1
+  O  O11  1  0.63732625  0.71991576  0.30896348  1

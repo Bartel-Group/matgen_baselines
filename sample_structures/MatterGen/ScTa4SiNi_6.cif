@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_ScTa4SiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28044473
+_cell_length_b   3.53132460
+_cell_length_c   8.39105131
+_cell_angle_alpha   102.01561462
+_cell_angle_beta   90.01415842
+_cell_angle_gamma   90.00148172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTa4SiNi
+_chemical_formula_sum   'Sc1 Ta4 Si1 Ni1'
+_cell_volume   124.05724025
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.58471209  0.02162815  0.76474553  1
+  Ta  Ta1  1  0.08488193  0.19812045  0.12061687  1
+  Ta  Ta2  1  0.58485973  0.68879580  0.10210023  1
+  Ta  Ta3  1  0.58512316  0.33706603  0.40072546  1
+  Ta  Ta4  1  0.08513916  0.83700988  0.40073194  1
+  Si  Si5  1  0.08471127  0.58301155  0.88790509  1
+  Ni  Ni6  1  0.08519710  0.44487314  0.61799520  1

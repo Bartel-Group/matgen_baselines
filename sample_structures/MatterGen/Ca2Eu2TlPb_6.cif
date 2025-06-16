@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ca2Eu2TlPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99951568
+_cell_length_b   4.98239199
+_cell_length_c   8.57565658
+_cell_angle_alpha   90.03859056
+_cell_angle_beta   90.01523079
+_cell_angle_gamma   89.99216993
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Eu2TlPb
+_chemical_formula_sum   'Ca2 Eu2 Tl1 Pb1'
+_cell_volume   213.61566146
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.29313860  0.63919021  0.84430234  1
+  Ca  Ca1  1  0.29281894  0.13899977  0.47477043  1
+  Eu  Eu2  1  0.79258750  0.13853691  0.11883664  1
+  Eu  Eu3  1  0.79294851  0.63901495  0.47440721  1
+  Tl  Tl4  1  0.79317920  0.13942575  0.73056906  1
+  Pb  Pb5  1  0.29263704  0.63863720  0.22063180  1

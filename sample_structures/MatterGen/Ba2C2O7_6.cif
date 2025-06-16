@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2C2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27745057
+_cell_length_b   4.58096352
+_cell_length_c   7.08676592
+_cell_angle_alpha   98.15564004
+_cell_angle_beta   89.93732509
+_cell_angle_gamma   89.99885802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2C2O7
+_chemical_formula_sum   'Ba2 C2 O7'
+_cell_volume   169.59543970
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.06927980  0.19360941  0.73065674  1
+  Ba  Ba1  1  0.56909436  0.62271258  0.25685499  1
+  C  C2  1  0.56927606  0.68808129  0.74507845  1
+  C  C3  1  0.06905959  0.20689170  0.25961615  1
+  O  O4  1  0.56952004  0.93032537  0.88961727  1
+  O  O5  1  0.56903619  0.46754961  0.86698346  1
+  O  O6  1  0.35614437  0.67659663  0.63456016  1
+  O  O7  1  0.06904780  0.38500409  0.13209239  1
+  O  O8  1  0.85749824  0.12377673  0.32699699  1
+  O  O9  1  0.78290135  0.67623290  0.63469779  1
+  O  O10  1  0.28079674  0.12479571  0.32713853  1

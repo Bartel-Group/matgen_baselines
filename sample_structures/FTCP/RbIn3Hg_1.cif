@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbIn3Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89010004
+_cell_length_b   9.49985680
+_cell_length_c   10.02677313
+_cell_angle_alpha   159.65840066
+_cell_angle_beta   139.81421933
+_cell_angle_gamma   50.82999594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbIn3Hg
+_chemical_formula_sum   'Rb1 In3 Hg1'
+_cell_volume   156.10057630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  -0.03078141  -0.03585690  -0.01502556  1
+  In  In1  1  0.67915233  0.32437923  0.56733009  1
+  In  In2  1  0.24934471  0.61822364  0.42115994  1
+  In  In3  1  0.24403884  0.25748765  -0.22986233  1
+  Hg  Hg4  1  0.68605552  0.67073639  0.20150787  1

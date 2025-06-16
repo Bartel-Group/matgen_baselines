@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_DyFeB7Mo6Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.12884990
+_cell_length_b   4.94391621
+_cell_length_c   12.67881057
+_cell_angle_alpha   100.59409793
+_cell_angle_beta   89.56453166
+_cell_angle_gamma   90.05294215
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyFeB7Mo6Ir
+_chemical_formula_sum   'Dy1 Fe1 B7 Mo6 Ir1'
+_cell_volume   192.77693621
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.10342223  -0.10348932  0.37376867  1
+  Fe  Fe1  1  0.10704269  0.45910410  0.51385537  1
+  B  B2  1  0.10028358  0.41057330  0.79197104  1
+  B  B3  1  0.60579412  0.78660856  0.53508381  1
+  B  B4  1  0.60583489  0.15324314  0.53542918  1
+  B  B5  1  0.07458668  0.38907968  0.35590768  1
+  B  B6  1  0.09599146  0.96027320  0.93450840  1
+  B  B7  1  0.09984898  0.76921547  0.79990578  1
+  B  B8  1  0.09325873  0.82759341  0.04966108  1
+  Mo  Mo9  1  0.09074287  0.33177706  0.05845540  1
+  Mo  Mo10  1  0.10264158  0.02207612  0.64487165  1
+  Mo  Mo11  1  0.59634988  0.62754837  0.92239667  1
+  Mo  Mo12  1  0.59921024  0.11193791  0.83508425  1
+  Mo  Mo13  1  0.58057161  0.34005374  0.24221592  1
+  Mo  Mo14  1  0.60466418  0.54187542  0.68172992  1
+  Ir  Ir15  1  0.58941059  0.80126898  0.15168264  1

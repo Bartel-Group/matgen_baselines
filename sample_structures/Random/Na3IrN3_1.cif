@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na3IrN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48023964
+_cell_length_b   6.42654641
+_cell_length_c   6.36374022
+_cell_angle_alpha   112.09412313
+_cell_angle_beta   106.37357396
+_cell_angle_gamma   107.35148343
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3IrN3
+_chemical_formula_sum   'Na6 Ir2 N6'
+_cell_volume   177.45147851
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.47842204  -0.01410787  0.59666727  1
+  Na  Na1  1  0.38824679  0.39148372  0.40985825  1
+  Na  Na2  1  0.49683809  0.01582968  0.10631110  1
+  Na  Na3  1  -0.01042843  0.60698725  0.50847690  1
+  Na  Na4  1  0.88628904  0.90609095  0.89129064  1
+  Na  Na5  1  -0.01944951  0.09234569  0.48858099  1
+  Ir  Ir6  1  0.17816514  0.50417521  0.01126860  1
+  Ir  Ir7  1  0.63483316  0.49479718  -0.01212764  1
+  N  N8  1  0.37949804  0.60727857  0.80399937  1
+  N  N9  1  0.88566067  0.31695845  0.09508027  1
+  N  N10  1  0.57408740  0.69649172  0.30181968  1
+  N  N11  1  0.05944489  0.77839752  0.18287414  1
+  N  N12  1  0.28269556  0.19824751  0.89428532  1
+  N  N13  1  0.78569514  0.40502443  0.72161513  1

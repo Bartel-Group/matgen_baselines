@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TiAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.95713772
+_cell_length_b   2.95713772
+_cell_length_c   14.65772454
+_cell_angle_alpha   89.99999508
+_cell_angle_beta   90.00000482
+_cell_angle_gamma   120.00001593
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAgO2
+_chemical_formula_sum   'Ti2 Ag2 O4'
+_cell_volume   111.00440679
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.00000000  0.00000000  -0.00000001  1
+  Ti  Ti1  1  0.00000000  -0.00000000  0.50000002  1
+  Ag  Ag2  1  0.66666668  0.33333337  0.75000342  1
+  Ag  Ag3  1  0.33333333  0.66666666  0.24999658  1
+  O  O4  1  0.33333323  0.66666677  0.43092850  1
+  O  O5  1  0.66666672  0.33333326  0.93092852  1
+  O  O6  1  0.33333326  0.66666673  0.06907145  1
+  O  O7  1  0.66666678  0.33333322  0.56907154  1

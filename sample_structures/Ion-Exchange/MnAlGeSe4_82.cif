@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MnAlGeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81540997
+_cell_length_b   5.81541328
+_cell_length_c   6.85824584
+_cell_angle_alpha   64.91615068
+_cell_angle_beta   64.91630580
+_cell_angle_gamma   90.00012493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAlGeSe4
+_chemical_formula_sum   'Mn1 Al1 Ge1 Se4'
+_cell_volume   185.63012679
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  -0.00000390  -0.00000259  0.00000059  1
+  Al  Al1  1  0.25000056  0.75000057  0.50000088  1
+  Ge  Ge2  1  0.49999863  0.49999775  0.00000083  1
+  Se  Se3  1  0.38184240  0.89267658  0.72998323  1
+  Se  Se4  1  0.88818052  0.37734408  0.72997664  1
+  Se  Se5  1  0.10732140  0.11182445  0.27002003  1
+  Se  Se6  1  0.62266039  0.61815916  0.27001780  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ScFeP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60832925
+_cell_length_b   3.61310746
+_cell_length_c   5.08569263
+_cell_angle_alpha   90.15713969
+_cell_angle_beta   90.02307213
+_cell_angle_gamma   89.99473677
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeP2
+_chemical_formula_sum   'Sc1 Fe1 P2'
+_cell_volume   66.30335050
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.38074182  0.15875600  0.47723801  1
+  Fe  Fe1  1  0.87976750  0.65768753  0.97585602  1
+  P  P2  1  0.38004608  0.16176241  0.97713376  1
+  P  P3  1  0.88033826  0.65851596  0.47557923  1

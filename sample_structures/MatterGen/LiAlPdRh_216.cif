@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiAlPdRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30239355
+_cell_length_b   4.30695128
+_cell_length_c   4.30628747
+_cell_angle_alpha   59.98357291
+_cell_angle_beta   60.08306315
+_cell_angle_gamma   59.98223107
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlPdRh
+_chemical_formula_sum   'Li1 Al1 Pd1 Rh1'
+_cell_volume   56.44527225
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.93184325  0.50195264  0.03109961  1
+  Al  Al1  1  0.18253821  0.75229044  0.27976815  1
+  Pd  Pd2  1  0.43227681  0.00234530  0.53017625  1
+  Rh  Rh3  1  0.68171591  0.25253215  0.78101709  1

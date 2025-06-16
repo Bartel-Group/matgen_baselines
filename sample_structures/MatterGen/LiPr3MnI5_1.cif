@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiPr3MnI5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29482340
+_cell_length_b   11.72083048
+_cell_length_c   7.90964855
+_cell_angle_alpha   91.28156674
+_cell_angle_beta   90.01883453
+_cell_angle_gamma   89.84726535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr3MnI5
+_chemical_formula_sum   'Li1 Pr3 Mn1 I5'
+_cell_volume   398.06195751
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.61327335  0.52866231  0.76044069  1
+  Pr  Pr1  1  0.60958790  0.90210285  0.35631555  1
+  Pr  Pr2  1  0.10918228  0.91265925  0.93225052  1
+  Pr  Pr3  1  0.11168534  0.61458625  0.21892783  1
+  Mn  Mn4  1  0.61044137  0.76041449  0.06219963  1
+  I  I5  1  0.60831630  0.06299555  0.71370898  1
+  I  I6  1  0.61263046  0.45782555  0.42285694  1
+  I  I7  1  0.11042781  0.75385083  0.58370135  1
+  I  I8  1  0.10842099  0.09358848  0.24013139  1
+  I  I9  1  0.11376356  0.43319330  0.91598542  1

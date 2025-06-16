@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbAgBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84372535
+_cell_length_b   4.85825380
+_cell_length_c   8.54452281
+_cell_angle_alpha   73.57248928
+_cell_angle_beta   106.26089976
+_cell_angle_gamma   119.96767012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAgBi
+_chemical_formula_sum   'Tb2 Ag2 Bi2'
+_cell_volume   164.73219840
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  -0.03732628  0.05175350  -0.03461317  1
+  Tb  Tb1  1  0.11195843  -0.10335409  0.41837333  1
+  Ag  Ag2  1  0.24914390  0.76541356  0.82295221  1
+  Ag  Ag3  1  0.82227473  0.18687424  0.54996553  1
+  Bi  Bi4  1  0.36933749  0.63907943  0.19181299  1
+  Bi  Bi5  1  0.54202174  0.47080337  0.70304911  1

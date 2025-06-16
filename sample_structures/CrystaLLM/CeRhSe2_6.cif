@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CeRhSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86080102
+_cell_length_b   4.12211686
+_cell_length_c   6.42026297
+_cell_angle_alpha   90.06815719
+_cell_angle_beta   72.34293797
+_cell_angle_gamma   90.12402449
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeRhSe2
+_chemical_formula_sum   'Ce1 Rh1 Se2'
+_cell_volume   97.36251656
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.16269683  0.49953601  0.10147770  1
+  Rh  Rh1  1  0.45090925  0.00048376  -0.10515862  1
+  Se  Se2  1  0.23381864  -0.00020239  0.29329144  1
+  Se  Se3  1  0.54366894  0.50018262  0.69708948  1

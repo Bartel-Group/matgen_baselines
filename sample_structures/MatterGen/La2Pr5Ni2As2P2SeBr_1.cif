@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_La2Pr5Ni2As2P2SeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15704315
+_cell_length_b   4.15569904
+_cell_length_c   27.16432936
+_cell_angle_alpha   90.02501002
+_cell_angle_beta   89.97519723
+_cell_angle_gamma   120.00811816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Pr5Ni2As2P2SeBr
+_chemical_formula_sum   'La2 Pr5 Ni2 As2 P2 Se1 Br1'
+_cell_volume   406.37094837
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.56405615  0.91560478  0.51604148  1
+  La  La1  1  0.23140431  0.24954505  0.38581534  1
+  Pr  Pr2  1  0.23424611  0.24749528  0.09589867  1
+  Pr  Pr3  1  0.23532619  0.24493705  0.77672669  1
+  Pr  Pr4  1  0.90255928  0.57948504  0.91026570  1
+  Pr  Pr5  1  0.23326566  0.24912015  0.24396217  1
+  Pr  Pr6  1  0.56447757  0.91243930  0.65203790  1
+  Ni  Ni7  1  0.90081702  0.58163508  0.16276622  1
+  Ni  Ni8  1  0.90005989  0.57836576  0.71714503  1
+  As  As9  1  0.56740933  0.91483885  0.16543472  1
+  As  As10  1  0.56592434  0.91646700  0.31176983  1
+  P  P11  1  0.89774962  0.58258938  0.44983495  1
+  P  P12  1  0.23041779  0.24717717  0.58545261  1
+  Se  Se13  1  0.56908663  0.91228353  0.84582600  1
+  Br  Br14  1  0.90101780  0.57946857  0.02064256  1

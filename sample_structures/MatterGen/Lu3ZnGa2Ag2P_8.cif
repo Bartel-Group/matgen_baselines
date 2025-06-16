@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu3ZnGa2Ag2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43357732
+_cell_length_b   4.43413672
+_cell_length_c   11.23139811
+_cell_angle_alpha   89.93221559
+_cell_angle_beta   90.05960352
+_cell_angle_gamma   119.97193550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3ZnGa2Ag2P
+_chemical_formula_sum   'Lu3 Zn1 Ga2 Ag2 P1'
+_cell_volume   191.27147386
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.14506491  0.12894146  0.19780440  1
+  Lu  Lu1  1  0.81212824  0.46175019  0.41971683  1
+  Lu  Lu2  1  0.47821141  0.79681908  0.77839118  1
+  Zn  Zn3  1  0.47814105  0.79594818  0.05562600  1
+  Ga  Ga4  1  0.47862028  0.79534746  0.30145611  1
+  Ga  Ga5  1  0.14489215  0.12962345  0.92471461  1
+  Ag  Ag6  1  0.14451715  0.13063707  0.60757183  1
+  Ag  Ag7  1  0.81157490  0.46268042  0.99364789  1
+  P  P8  1  0.81070278  0.46361505  0.66057082  1

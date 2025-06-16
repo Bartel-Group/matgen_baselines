@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Zr2I3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71367708
+_cell_length_b   3.71378180
+_cell_length_c   23.10980936
+_cell_angle_alpha   90.05303368
+_cell_angle_beta   90.55610369
+_cell_angle_gamma   120.00587194
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2I3Br
+_chemical_formula_sum   'Zr2 I3 Br1'
+_cell_volume   275.98894436
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.38870467  0.82691481  0.55238567  1
+  Zr  Zr1  1  0.74575802  0.51296242  0.92563674  1
+  I  I2  1  0.08687533  0.18434346  0.01355108  1
+  I  I3  1  0.40463978  0.84155205  0.83758977  1
+  I  I4  1  0.72922807  0.49719769  0.64025008  1
+  Br  Br5  1  0.04898793  0.15711666  0.47330419  1

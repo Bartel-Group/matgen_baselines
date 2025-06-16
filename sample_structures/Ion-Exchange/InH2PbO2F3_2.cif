@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_InH2PbO2F3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17820113
+_cell_length_b   6.75411297
+_cell_length_c   7.39990758
+_cell_angle_alpha   105.42963339
+_cell_angle_beta   89.34669916
+_cell_angle_gamma   106.59577149
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InH2PbO2F3
+_chemical_formula_sum   'In2 H4 Pb2 O4 F6'
+_cell_volume   238.50024786
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.15848044  0.20652092  0.67976950  1
+  In  In1  1  0.84151955  0.79347908  0.32023051  1
+  H  H2  1  0.73372391  0.18905920  0.44848973  1
+  H  H3  1  0.26627609  0.81094080  0.55151027  1
+  H  H4  1  0.73939574  0.16920262  0.89524292  1
+  H  H5  1  0.26060425  0.83079737  0.10475707  1
+  Pb  Pb6  1  0.79027338  0.71027234  0.81002144  1
+  Pb  Pb7  1  0.20972662  0.28972766  0.18997857  1
+  O  O8  1  0.89994137  0.14062870  0.42626594  1
+  O  O9  1  0.10005863  0.85937130  0.57373405  1
+  O  O10  1  0.89679798  0.11141429  0.89025667  1
+  O  O11  1  0.10320203  0.88858571  0.10974334  1
+  F  F12  1  0.47623767  0.26498551  0.88427244  1
+  F  F13  1  0.52376233  0.73501450  0.11572756  1
+  F  F14  1  0.46902541  0.26884041  0.49353801  1
+  F  F15  1  0.53097459  0.73115959  0.50646198  1
+  F  F16  1  0.14757905  0.52641635  0.76984804  1
+  F  F17  1  0.85242096  0.47358365  0.23015197  1

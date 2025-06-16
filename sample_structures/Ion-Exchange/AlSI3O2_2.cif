@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_AlSI3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08614124
+_cell_length_b   8.63909388
+_cell_length_c   8.70544224
+_cell_angle_alpha   92.35971535
+_cell_angle_beta   108.43551173
+_cell_angle_gamma   110.21848347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSI3O2
+_chemical_formula_sum   'Al2 S2 I6 O4'
+_cell_volume   467.59995052
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.67970098  0.17924833  0.85612561  1
+  Al  Al1  1  0.32029796  0.82076298  0.14388299  1
+  S  S2  1  0.40347926  0.78272583  0.79666201  1
+  S  S3  1  0.59652876  0.21728369  0.20334768  1
+  I  I4  1  0.92432787  0.72168943  0.07973311  1
+  I  I5  1  0.04610440  0.78458465  0.61548255  1
+  I  I6  1  0.07566809  0.27830631  0.92026309  1
+  I  I7  1  0.50318304  0.69214824  0.37163411  1
+  I  I8  1  0.95389366  0.21541277  0.38451377  1
+  I  I9  1  0.49681436  0.30784411  0.62835879  1
+  O  O10  1  0.56866605  0.95406042  0.79848613  1
+  O  O11  1  0.60849982  0.21925752  0.03044546  1
+  O  O12  1  0.39150765  0.78074485  0.96954869  1
+  O  O13  1  0.43132810  0.04593087  0.20151602  1

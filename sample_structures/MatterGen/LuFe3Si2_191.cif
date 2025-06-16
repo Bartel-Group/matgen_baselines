@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LuFe3Si2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66927293
+_cell_length_b   5.08051816
+_cell_length_c   5.08006083
+_cell_angle_alpha   60.00383711
+_cell_angle_beta   89.99899110
+_cell_angle_gamma   90.00000952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuFe3Si2
+_chemical_formula_sum   'Lu1 Fe3 Si2'
+_cell_volume   82.01709066
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.93968261  0.14976280  0.91411240  1
+  Fe  Fe1  1  0.43961568  0.64945748  0.41417254  1
+  Fe  Fe2  1  0.43957697  0.65001033  0.91398334  1
+  Fe  Fe3  1  0.43959105  0.14965558  0.41457082  1
+  Si  Si4  1  0.93970023  0.81608394  0.58057230  1
+  Si  Si5  1  0.93970173  0.48327379  0.24703302  1

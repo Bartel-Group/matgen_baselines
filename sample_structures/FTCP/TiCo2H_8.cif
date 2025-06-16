@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiCo2H
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50592410
+_cell_length_b   4.50869717
+_cell_length_c   2.56272086
+_cell_angle_alpha   72.97605436
+_cell_angle_beta   73.00401838
+_cell_angle_gamma   51.37889716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCo2H
+_chemical_formula_sum   'Ti1 Co2 H1'
+_cell_volume   38.47403755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.49396778  0.52137530  0.11766692  1
+  Co  Co1  1  0.81790193  0.84351979  0.79934404  1
+  Co  Co2  1  0.17036631  0.19707579  0.43803451  1
+  H  H3  1  -0.01408601  0.01306912  0.12793453  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_TlHO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41750498
+_cell_length_b   3.84585709
+_cell_length_c   5.01520622
+_cell_angle_alpha   93.39521093
+_cell_angle_beta   98.98951767
+_cell_angle_gamma   65.66647599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlHO3
+_chemical_formula_sum   'Tl1 H1 O3'
+_cell_volume   59.32151291
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.10117909  0.99506616  0.96640755  1
+  H  H1  1  0.64090623  0.40946651  0.40930595  1
+  O  O2  1  0.60151388  -0.16122641  0.65798973  1
+  O  O3  1  -0.16702288  0.44787510  0.58533062  1
+  O  O4  1  0.46556368  0.36370863  0.12486615  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ti2CdC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.10677009
+_cell_length_b   3.10601194
+_cell_length_c   15.73759827
+_cell_angle_alpha   101.36178493
+_cell_angle_beta   101.29326287
+_cell_angle_gamma   120.03200112
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2CdC
+_chemical_formula_sum   'Ti4 Cd2 C2'
+_cell_volume   120.89436038
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.51979536  0.21085010  0.36724490  1
+  Ti  Ti1  1  0.49457741  0.85298555  0.52179897  1
+  Ti  Ti2  1  0.49498163  0.84599183  0.02109717  1
+  Ti  Ti3  1  0.52085732  0.20399283  0.86667898  1
+  Cd  Cd4  1  0.50521249  0.53033283  0.19393575  1
+  Cd  Cd5  1  0.50813796  0.52548929  0.69430220  1
+  C  C6  1  0.00709944  0.03194114  0.44447604  1
+  C  C7  1  0.00788837  0.02490643  -0.05618401  1

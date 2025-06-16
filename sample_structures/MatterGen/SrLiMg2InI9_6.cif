@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrLiMg2InI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31498409
+_cell_length_b   9.25233049
+_cell_length_c   15.82837129
+_cell_angle_alpha   98.90567393
+_cell_angle_beta   89.97032384
+_cell_angle_gamma   90.01404072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLiMg2InI9
+_chemical_formula_sum   'Sr1 Li1 Mg2 In1 I9'
+_cell_volume   624.30823825
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.11000261  0.33953359  0.68209156  1
+  Li  Li1  1  0.60989817  0.18381702  0.93504693  1
+  Mg  Mg2  1  0.10929565  0.99645149  0.12669176  1
+  Mg  Mg3  1  0.61042681  0.02203975  0.44345188  1
+  In  In4  1  0.60963109  0.67383220  0.92811426  1
+  I  I5  1  0.10991442  0.93364026  0.93520611  1
+  I  I6  1  0.61010551  0.61898929  0.73122232  1
+  I  I7  1  0.10954282  0.42873394  0.93073158  1
+  I  I8  1  0.60960163  0.12734073  0.75648566  1
+  I  I9  1  0.61057302  0.31937664  0.51660052  1
+  I  I10  1  0.11017108  0.90474930  0.52989261  1
+  I  I11  1  0.60961236  0.77246868  0.12940555  1
+  I  I12  1  0.60956030  0.20872707  0.11699205  1
+  I  I13  1  0.11037965  0.04612673  0.31374806  1

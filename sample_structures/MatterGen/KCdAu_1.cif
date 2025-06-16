@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_KCdAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08410662
+_cell_length_b   5.08001554
+_cell_length_c   7.66750775
+_cell_angle_alpha   90.09385149
+_cell_angle_beta   89.57235997
+_cell_angle_gamma   89.88034705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCdAu
+_chemical_formula_sum   'K2 Cd2 Au2'
+_cell_volume   198.02511624
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.08249332  0.38174421  0.31326481  1
+  K  K1  1  0.57474719  0.88454825  0.93954942  1
+  Cd  Cd2  1  0.07775546  0.38499395  0.80121287  1
+  Cd  Cd3  1  0.58076491  0.87930359  0.44804687  1
+  Au  Au4  1  0.57982245  0.38090843  0.62447129  1
+  Au  Au5  1  0.07939631  0.88426982  0.62485219  1

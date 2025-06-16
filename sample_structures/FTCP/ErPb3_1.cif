@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ErPb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83608135
+_cell_length_b   5.78529051
+_cell_length_c   3.50003068
+_cell_angle_alpha   90.03363278
+_cell_angle_beta   89.91137202
+_cell_angle_gamma   89.32183953
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErPb3
+_chemical_formula_sum   'Er1 Pb3'
+_cell_volume   118.16458644
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  -0.04704450  0.02160883  -0.07410604  1
+  Pb  Pb1  1  0.04368104  0.52049366  0.42390516  1
+  Pb  Pb2  1  0.54760907  0.51505999  -0.07274634  1
+  Pb  Pb3  1  0.46049439  0.01635751  0.43148722  1

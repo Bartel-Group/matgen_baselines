@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaCu3Ni2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18994203
+_cell_length_b   4.16457256
+_cell_length_c   4.93670417
+_cell_angle_alpha   90.10930927
+_cell_angle_beta   79.34420366
+_cell_angle_gamma   114.03265714
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCu3Ni2
+_chemical_formula_sum   'La1 Cu3 Ni2'
+_cell_volume   95.45057755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.02270838  -0.10518851  0.00808450  1
+  Cu  Cu1  1  0.53712525  0.64002929  0.62864032  1
+  Cu  Cu2  1  0.51297521  0.12769637  0.38465558  1
+  Cu  Cu3  1  0.02611734  0.40685713  0.50873557  1
+  Ni  Ni4  1  0.60795256  0.17644732  -0.12424960  1
+  Ni  Ni5  1  0.43910127  0.59124839  0.13753362  1

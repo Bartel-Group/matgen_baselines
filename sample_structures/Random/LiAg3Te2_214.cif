@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiAg3Te2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.07916374
+_cell_length_b   9.07916488
+_cell_length_c   9.07916544
+_cell_angle_alpha   109.47124925
+_cell_angle_beta   109.47124327
+_cell_angle_gamma   109.47123191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAg3Te2
+_chemical_formula_sum   'Li4 Ag12 Te8'
+_cell_volume   576.12332126
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.24999996  0.24999994  0.24999993  1
+  Li  Li1  1  -0.00000025  0.24999997  0.50000000  1
+  Li  Li2  1  0.24999997  0.50000017  -0.00000005  1
+  Li  Li3  1  0.50000019  -0.00000004  0.25000004  1
+  Ag  Ag4  1  0.24999993  0.14675875  0.89676009  1
+  Ag  Ag5  1  0.14675868  0.89676004  0.24999992  1
+  Ag  Ag6  1  0.89676019  0.25000000  0.14675877  1
+  Ag  Ag7  1  0.14675765  0.74999945  0.89675905  1
+  Ag  Ag8  1  0.60324089  0.75000047  0.35324230  1
+  Ag  Ag9  1  0.35324125  0.25000009  0.60323993  1
+  Ag  Ag10  1  0.89675914  0.14675770  0.74999952  1
+  Ag  Ag11  1  0.60323992  0.35324127  0.25000004  1
+  Ag  Ag12  1  0.74999948  0.89675905  0.14675764  1
+  Ag  Ag13  1  0.25000005  0.60323993  0.35324130  1
+  Ag  Ag14  1  0.75000053  0.35324235  0.60324097  1
+  Ag  Ag15  1  0.35324237  0.60324093  0.75000052  1
+  Te  Te16  1  0.49999992  0.00000006  0.96559539  1
+  Te  Te17  1  0.96559543  0.49999990  0.00000003  1
+  Te  Te18  1  0.49999997  0.00000005  0.53440462  1
+  Te  Te19  1  0.00000014  0.53440458  0.49999998  1
+  Te  Te20  1  0.96559398  0.96559394  0.96559397  1
+  Te  Te21  1  0.53440460  0.50000002  0.00000013  1
+  Te  Te22  1  0.53440608  0.53440609  0.53440604  1
+  Te  Te23  1  -0.00000006  0.96559529  0.49999987  1

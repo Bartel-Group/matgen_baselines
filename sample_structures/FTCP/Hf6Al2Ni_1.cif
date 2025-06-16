@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Hf6Al2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75979165
+_cell_length_b   7.90981198
+_cell_length_c   5.56383821
+_cell_angle_alpha   116.12145302
+_cell_angle_beta   90.20127813
+_cell_angle_gamma   72.52321076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Al2Ni
+_chemical_formula_sum   'Hf6 Al2 Ni1'
+_cell_volume   177.35873371
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.37952283  0.69576663  0.89100119  1
+  Hf  Hf1  1  0.77697533  -0.09718830  0.15483547  1
+  Hf  Hf2  1  0.12724282  0.19797275  0.22771447  1
+  Hf  Hf3  1  -0.10286642  0.66273307  0.51913426  1
+  Hf  Hf4  1  0.25159410  -0.04191377  0.55557927  1
+  Hf  Hf5  1  0.00731042  0.43618809  0.90231303  1
+  Al  Al6  1  0.50717487  0.43987285  0.21648784  1
+  Al  Al7  1  0.58888061  0.27054905  0.59244285  1
+  Ni  Ni8  1  0.70847544  0.05415962  -0.18279837  1

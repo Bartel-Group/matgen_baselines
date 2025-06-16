@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ga2CuS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65707662
+_cell_length_b   3.66024155
+_cell_length_c   9.54186387
+_cell_angle_alpha   100.65901952
+_cell_angle_beta   90.15571230
+_cell_angle_gamma   120.03302933
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2CuS2
+_chemical_formula_sum   'Ga2 Cu1 S2'
+_cell_volume   107.98482902
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.47270858  0.01021909  0.06240157  1
+  Ga  Ga1  1  0.56157416  0.18213392  0.32438382  1
+  Cu  Cu2  1  0.75411284  0.57371542  0.90318666  1
+  S  S3  1  0.39244463  0.85041682  0.81521351  1
+  S  S4  1  0.93247719  0.92223791  0.43832389  1

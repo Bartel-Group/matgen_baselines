@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiFeBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52776734
+_cell_length_b   3.52295353
+_cell_length_c   7.56586702
+_cell_angle_alpha   89.88285709
+_cell_angle_beta   87.90699716
+_cell_angle_gamma   89.71179829
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiFeBr2
+_chemical_formula_sum   'Ti1 Fe1 Br2'
+_cell_volume   93.96572629
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.59217732  0.49666743  -0.01301080  1
+  Fe  Fe1  1  0.00969265  0.00047619  -0.06469280  1
+  Br  Br2  1  0.13788773  0.50144057  0.71137094  1
+  Br  Br3  1  0.24594230  0.00141581  0.22303266  1

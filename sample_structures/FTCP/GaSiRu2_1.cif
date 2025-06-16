@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_GaSiRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44225919
+_cell_length_b   4.27737269
+_cell_length_c   5.16358517
+_cell_angle_alpha   34.31953435
+_cell_angle_beta   53.52532206
+_cell_angle_gamma   57.61338765
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSiRu2
+_chemical_formula_sum   'Ga1 Si1 Ru2'
+_cell_volume   54.23034553
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.14856295  0.23292880  0.21632033  1
+  Si  Si1  1  0.62003787  0.59892591  0.98222442  1
+  Ru  Ru2  1  0.64119748  0.59181292  0.46969356  1
+  Ru  Ru3  1  0.14257170  0.24328236  -0.28090831  1

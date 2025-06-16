@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_EuTiTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74719175
+_cell_length_b   3.74727575
+_cell_length_c   7.18052384
+_cell_angle_alpha   89.99715577
+_cell_angle_beta   89.99840215
+_cell_angle_gamma   119.99985589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTiTe
+_chemical_formula_sum   'Eu1 Ti1 Te1'
+_cell_volume   87.31904135
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  -0.00001352  -0.00001142  0.54074911  1
+  Ti  Ti1  1  0.00000688  0.00000203  -0.02906551  1
+  Te  Te2  1  0.33333997  0.66667605  0.20221639  1

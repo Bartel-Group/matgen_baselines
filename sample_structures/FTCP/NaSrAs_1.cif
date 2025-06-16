@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaSrAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.89493363
+_cell_length_b   7.69952498
+_cell_length_c   4.68216643
+_cell_angle_alpha   72.34850360
+_cell_angle_beta   90.03621391
+_cell_angle_gamma   97.50633279
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSrAs
+_chemical_formula_sum   'Na3 Sr3 As3'
+_cell_volume   302.69240506
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.20545912  -0.14145568  0.32344114  1
+  Na  Na1  1  0.57372319  0.70498034  -0.10133681  1
+  Na  Na2  1  0.19054665  0.44772263  0.03079771  1
+  Sr  Sr3  1  -0.13550661  0.50018735  0.50344550  1
+  Sr  Sr4  1  0.86286195  0.04898540  0.22862662  1
+  Sr  Sr5  1  0.44697087  0.20600246  0.64969393  1
+  As  As6  1  0.64822111  0.33664990  0.08407154  1
+  As  As7  1  0.09390149  0.17201518  0.66756336  1
+  As  As8  1  -0.04365777  0.80102243  -0.14726298  1

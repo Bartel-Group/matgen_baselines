@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_DyCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65869568
+_cell_length_b   7.84327858
+_cell_length_c   9.64378824
+_cell_angle_alpha   80.94667182
+_cell_angle_beta   85.02486405
+_cell_angle_gamma   107.92627321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCl3
+_chemical_formula_sum   'Dy2 Cl6'
+_cell_volume   257.32066798
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.18090971  0.51842366  0.62490874  1
+  Dy  Dy1  1  0.34123422  0.14543374  0.02046123  1
+  Cl  Cl2  1  0.89525011  0.15053253  0.80576403  1
+  Cl  Cl3  1  0.65051550  0.88873020  0.11875681  1
+  Cl  Cl4  1  0.58544079  0.33621429  0.50838023  1
+  Cl  Cl5  1  0.62607395  0.51440071  0.83959284  1
+  Cl  Cl6  1  0.87534483  0.77465184  0.52429282  1
+  Cl  Cl7  1  -0.06664912  0.32562304  0.13917331  1

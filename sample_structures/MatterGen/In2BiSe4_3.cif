@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_In2BiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21178960
+_cell_length_b   7.64026881
+_cell_length_c   7.64538793
+_cell_angle_alpha   113.82584720
+_cell_angle_beta   89.94517687
+_cell_angle_gamma   89.96318421
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2BiSe4
+_chemical_formula_sum   'In2 Bi1 Se4'
+_cell_volume   225.05561217
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.32938241  0.11857095  0.05995604  1
+  In  In1  1  0.32768762  0.81798204  0.34678541  1
+  Bi  Bi2  1  0.82958081  0.46826826  0.70336714  1
+  Se  Se3  1  0.32996258  0.20574515  0.44335232  1
+  Se  Se4  1  0.82772604  0.70130854  0.47499765  1
+  Se  Se5  1  0.32858217  0.73093028  0.96345329  1
+  Se  Se6  1  0.82948472  0.23574997  0.93218934  1

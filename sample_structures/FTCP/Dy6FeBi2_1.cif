@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Dy6FeBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17126613
+_cell_length_b   7.74135301
+_cell_length_c   4.55277951
+_cell_angle_alpha   89.99606975
+_cell_angle_beta   89.88265286
+_cell_angle_gamma   118.46077965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6FeBi2
+_chemical_formula_sum   'Dy6 Fe1 Bi2'
+_cell_volume   253.18700638
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.19034296  0.06014799  0.44461703  1
+  Dy  Dy1  1  -0.06284691  0.22889985  0.94154163  1
+  Dy  Dy2  1  0.72902242  0.82540307  0.43966459  1
+  Dy  Dy3  1  0.42563815  -0.06369360  -0.05646234  1
+  Dy  Dy4  1  -0.06043562  0.63513618  -0.05810979  1
+  Dy  Dy5  1  0.42373453  0.42069740  -0.05709897  1
+  Fe  Fe6  1  0.07871437  0.00291943  -0.05516086  1
+  Bi  Bi7  1  0.23892161  0.58480393  0.44254323  1
+  Bi  Bi8  1  0.65753850  0.29558574  0.44213549  1

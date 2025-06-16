@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tm3Cu2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.33309261
+_cell_length_b   3.33276268
+_cell_length_c   19.69855909
+_cell_angle_alpha   90.00113254
+_cell_angle_beta   89.99740404
+_cell_angle_gamma   89.98060620
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm3Cu2O
+_chemical_formula_sum   'Tm6 Cu4 O2'
+_cell_volume   218.81959264
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.68830458  0.41806123  0.03104678  1
+  Tm  Tm1  1  0.68869062  0.41693990  0.84709456  1
+  Tm  Tm2  1  0.68856585  0.41636899  0.67140897  1
+  Tm  Tm3  1  0.18804000  0.91811553  0.17029345  1
+  Tm  Tm4  1  0.18868107  0.91622687  0.35444396  1
+  Tm  Tm5  1  0.18841570  0.91550049  0.53040802  1
+  Cu  Cu6  1  0.68870743  0.41674084  0.27338170  1
+  Cu  Cu7  1  0.68855932  0.41576504  0.44432729  1
+  Cu  Cu8  1  0.18862191  0.91662447  0.75777568  1
+  Cu  Cu9  1  0.18863936  0.91701718  0.92810522  1
+  O  O10  1  0.18819636  0.91830015  0.05530434  1
+  O  O11  1  0.68798321  0.41830144  0.14596980  1

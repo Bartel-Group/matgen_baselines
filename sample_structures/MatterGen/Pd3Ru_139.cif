@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Pd3Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90176216
+_cell_length_b   3.90110198
+_cell_length_c   4.77334205
+_cell_angle_alpha   114.16893244
+_cell_angle_beta   114.13417493
+_cell_angle_gamma   90.05335730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pd3Ru
+_chemical_formula_sum   'Pd3 Ru1'
+_cell_volume   59.24358517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.36199746  0.06083351  0.15003427  1
+  Pd  Pd1  1  0.86235813  0.56042761  0.15017551  1
+  Pd  Pd2  1  0.61228280  0.81064578  0.65031077  1
+  Ru  Ru3  1  0.11214589  0.31044133  0.65002356  1

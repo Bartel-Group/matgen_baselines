@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La2HoSb7Ir2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42684251
+_cell_length_b   4.62871302
+_cell_length_c   15.66990373
+_cell_angle_alpha   80.94740495
+_cell_angle_beta   89.84962739
+_cell_angle_gamma   90.00162648
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2HoSb7Ir2
+_chemical_formula_sum   'La2 Ho1 Sb7 Ir2'
+_cell_volume   317.08501161
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.46019499  0.11316904  0.02748417  1
+  La  La1  1  0.46181104  0.75310772  0.75311862  1
+  Ho  Ho2  1  0.45945449  0.93831237  0.38757099  1
+  Sb  Sb3  1  0.95951565  0.02312162  0.21012147  1
+  Sb  Sb4  1  0.45919848  0.52217156  0.21045355  1
+  Sb  Sb5  1  0.96033839  0.65334757  0.94700059  1
+  Sb  Sb6  1  0.46164098  0.34548909  0.57017889  1
+  Sb  Sb7  1  0.96189602  0.21260109  0.83365871  1
+  Sb  Sb8  1  0.95952513  0.43647049  0.39031943  1
+  Sb  Sb9  1  0.96181154  0.84540156  0.57025450  1
+  Ir  Ir10  1  0.96074338  0.29239651  0.66900593  1
+  Ir  Ir11  1  0.96000305  0.57613905  0.11168174  1

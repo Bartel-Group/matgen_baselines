@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti3Sb3As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.36407058
+_cell_length_b   9.36496036
+_cell_length_c   7.71264094
+_cell_angle_alpha   102.09960456
+_cell_angle_beta   102.08869488
+_cell_angle_gamma   77.75564913
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Sb3As
+_chemical_formula_sum   'Ti12 Sb12 As4'
+_cell_volume   636.57951910
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.01315086  0.48984138  0.77238517  1
+  Ti  Ti1  1  0.51016988  0.01313971  0.72760234  1
+  Ti  Ti2  1  0.01314884  0.51015352  0.22761593  1
+  Ti  Ti3  1  0.48983516  -0.01313699  0.27238894  1
+  Ti  Ti4  1  0.03633635  0.81725913  0.38588266  1
+  Ti  Ti5  1  0.18274486  0.96365984  0.11418814  1
+  Ti  Ti6  1  0.96365978  0.18274078  0.61411877  1
+  Ti  Ti7  1  0.81725160  0.03634395  0.88579963  1
+  Ti  Ti8  1  0.68226055  0.46389557  0.61404636  1
+  Ti  Ti9  1  0.53609757  0.31774804  0.88599411  1
+  Ti  Ti10  1  0.31774359  0.53610158  0.38595751  1
+  Ti  Ti11  1  0.46390626  0.68225621  0.11399926  1
+  Sb  Sb12  1  0.57387800  0.42618829  0.25003834  1
+  Sb  Sb13  1  0.42613241  0.57380693  0.74996765  1
+  Sb  Sb14  1  0.92640520  0.07348776  0.24995950  1
+  Sb  Sb15  1  0.07358070  0.92651277  0.75004114  1
+  Sb  Sb16  1  0.84244807  0.34244438  0.93108229  1
+  Sb  Sb17  1  0.65753248  0.15757413  0.56890185  1
+  Sb  Sb18  1  0.15754918  0.65755244  0.06890861  1
+  Sb  Sb19  1  0.34246300  0.84242728  0.43109722  1
+  Sb  Sb20  1  0.74787196  0.75115304  0.74718046  1
+  Sb  Sb21  1  0.24884280  0.25214537  0.75272787  1
+  Sb  Sb22  1  0.25213372  0.24884900  0.25284214  1
+  Sb  Sb23  1  0.75115851  0.74785740  0.24727216  1
+  As  As24  1  0.89712509  0.39747749  0.42826899  1
+  As  As25  1  0.60248449  0.10290579  0.07172567  1
+  As  As26  1  0.10287919  0.60252060  0.57173611  1
+  As  As27  1  0.39751160  0.89709463  0.92827116  1

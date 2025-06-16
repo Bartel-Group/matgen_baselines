@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuTe4P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.54952268
+_cell_length_b   6.00085522
+_cell_length_c   7.58119163
+_cell_angle_alpha   82.41842317
+_cell_angle_beta   90.00000494
+_cell_angle_gamma   89.99999731
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuTe4P
+_chemical_formula_sum   'Lu2 Te8 P2'
+_cell_volume   385.54866569
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.88681809  0.00000010  0.74999984  1
+  Lu  Lu1  1  0.11318193  -0.00000005  0.25000005  1
+  Te  Te2  1  0.10909511  0.68856712  0.96086066  1
+  Te  Te3  1  0.89090465  0.68856725  0.46086059  1
+  Te  Te4  1  0.57854114  0.78215250  0.91407720  1
+  Te  Te5  1  0.42145901  0.78215256  0.41407732  1
+  Te  Te6  1  0.57854094  0.21784736  0.58592281  1
+  Te  Te7  1  0.42145903  0.21784747  0.08592276  1
+  Te  Te8  1  0.10909521  0.31143297  0.53913920  1
+  Te  Te9  1  0.89090484  0.31143275  0.03913935  1
+  P  P10  1  0.43043166  0.50000012  0.75000000  1
+  P  P11  1  0.56956836  0.49999985  0.25000022  1

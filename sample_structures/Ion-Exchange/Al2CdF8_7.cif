@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Al2CdF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71461156
+_cell_length_b   6.12430911
+_cell_length_c   10.63089194
+_cell_angle_alpha   81.35604501
+_cell_angle_beta   90.00000011
+_cell_angle_gamma   89.99999562
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2CdF8
+_chemical_formula_sum   'Al4 Cd2 F16'
+_cell_volume   367.83436658
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.02190373  0.45856553  0.54670195  1
+  Al  Al1  1  0.42508495  0.82211357  0.23826297  1
+  Al  Al2  1  0.57491495  0.82211358  0.73826298  1
+  Al  Al3  1  -0.02190375  0.45856562  0.04670182  1
+  Cd  Cd4  1  0.79614722  0.03549931  0.47626516  1
+  Cd  Cd5  1  0.20385298  0.03549966  -0.02373480  1
+  F  F6  1  0.85332166  0.46310089  0.18811862  1
+  F  F7  1  0.14667797  0.46310076  0.68811881  1
+  F  F8  1  0.73721877  0.35855394  0.55772851  1
+  F  F9  1  0.26278125  0.35855407  0.05772861  1
+  F  F10  1  0.99725314  0.72061424  0.46377986  1
+  F  F11  1  0.00274707  0.72061439  0.96377983  1
+  F  F12  1  0.48492423  0.83745892  0.58222833  1
+  F  F13  1  0.51507579  0.83745917  0.08222852  1
+  F  F14  1  0.12360319  0.25146218  0.46686186  1
+  F  F15  1  0.87639695  0.25146227  0.96686164  1
+  F  F16  1  0.15081036  0.93140441  0.20143760  1
+  F  F17  1  0.84918976  0.93140465  0.70143763  1
+  F  F18  1  0.41921847  0.58121294  0.33409781  1
+  F  F19  1  0.58078141  0.58121309  0.83409803  1
+  F  F20  1  0.59425224  0.00861423  0.30351914  1
+  F  F21  1  0.40574766  0.00861461  0.80351913  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiInCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43658418
+_cell_length_b   4.98872750
+_cell_length_c   5.17219179
+_cell_angle_alpha   58.73142031
+_cell_angle_beta   48.38269474
+_cell_angle_gamma   69.82325309
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiInCo2
+_chemical_formula_sum   'Ti1 In1 Co2'
+_cell_volume   56.66241545
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.83324241  0.85591272  0.56696914  1
+  In  In1  1  0.33299384  0.37431114  0.30811641  1
+  Co  Co2  1  0.33266210  0.40996137  0.79047152  1
+  Co  Co3  1  -0.16741834  -0.11757524  0.05283294  1

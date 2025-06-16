@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb2ZrCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28604795
+_cell_length_b   7.20122675
+_cell_length_c   6.29074134
+_cell_angle_alpha   86.12175267
+_cell_angle_beta   81.84372935
+_cell_angle_gamma   61.48147929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2ZrCl6
+_chemical_formula_sum   'Rb2 Zr1 Cl6'
+_cell_volume   287.08284760
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.67497406  0.67192638  0.75587241  1
+  Rb  Rb1  1  0.30546798  0.35660618  0.24159368  1
+  Zr  Zr2  1  -0.00648164  0.01276970  -0.00001675  1
+  Cl  Cl3  1  0.17252910  0.68878887  0.77389190  1
+  Cl  Cl4  1  0.30549674  0.86979728  0.19715369  1
+  Cl  Cl5  1  0.68198391  0.15713942  0.80246397  1
+  Cl  Cl6  1  0.81535860  0.33604793  0.22674988  1
+  Cl  Cl7  1  0.83423774  0.83475025  0.25459590  1
+  Cl  Cl8  1  0.15509351  0.18821399  0.74437534  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_VZnOsRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26565387
+_cell_length_b   4.26588961
+_cell_length_c   4.26148519
+_cell_angle_alpha   60.03674008
+_cell_angle_beta   60.04097226
+_cell_angle_gamma   59.92787120
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VZnOsRu
+_chemical_formula_sum   'V1 Zn1 Os1 Ru1'
+_cell_volume   54.83507607
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.28465082  0.51205732  0.42235928  1
+  Zn  Zn1  1  0.78442816  0.01293639  0.92280123  1
+  Os  Os2  1  0.53439084  0.76315864  0.67293031  1
+  Ru  Ru3  1  0.03428487  0.26308949  0.17308468  1

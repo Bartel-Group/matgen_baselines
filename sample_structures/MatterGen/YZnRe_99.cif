@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YZnRe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.17674740
+_cell_length_b   3.17671651
+_cell_length_c   11.46462889
+_cell_angle_alpha   90.00700284
+_cell_angle_beta   90.00270028
+_cell_angle_gamma   90.00075787
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YZnRe
+_chemical_formula_sum   'Y2 Zn2 Re2'
+_cell_volume   115.69674517
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.89092356  0.79655680  0.54136273  1
+  Y  Y1  1  0.89047074  0.79660826  0.92059733  1
+  Zn  Zn2  1  0.39092879  0.29643493  0.72499478  1
+  Zn  Zn3  1  0.39069522  0.29659849  0.36355140  1
+  Re  Re4  1  0.89044807  0.79663266  0.22321351  1
+  Re  Re5  1  0.39041335  0.29671130  0.10635749  1

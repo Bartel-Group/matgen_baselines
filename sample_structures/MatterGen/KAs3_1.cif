@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KAs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12556629
+_cell_length_b   4.14103164
+_cell_length_c   12.96807918
+_cell_angle_alpha   89.97838317
+_cell_angle_beta   89.94666039
+_cell_angle_gamma   90.01100262
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAs3
+_chemical_formula_sum   'K2 As6'
+_cell_volume   221.54785288
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.09476105  0.56001731  0.01576209  1
+  K  K1  1  0.59149159  0.06072365  0.51481571  1
+  As  As2  1  0.09083890  0.56136266  0.38431388  1
+  As  As3  1  0.59185042  0.55851550  0.76434533  1
+  As  As4  1  0.59307380  0.06069511  0.14982791  1
+  As  As5  1  0.59587331  0.05877150  0.88145064  1
+  As  As6  1  0.59067696  0.56057309  0.26678347  1
+  As  As7  1  0.09184640  0.55995323  0.64674441  1

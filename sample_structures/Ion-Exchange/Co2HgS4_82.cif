@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Co2HgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63134590
+_cell_length_b   5.63134557
+_cell_length_c   6.16870695
+_cell_angle_alpha   117.15732499
+_cell_angle_beta   117.15830413
+_cell_angle_gamma   90.00098082
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2HgS4
+_chemical_formula_sum   'Co2 Hg1 S4'
+_cell_volume   149.40639173
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.25000537  0.75000905  0.50000231  1
+  Co  Co1  1  0.50000469  0.50000839  0.00000561  1
+  Hg  Hg2  1  0.00000138  0.00000517  0.00000114  1
+  S  S3  1  0.86977993  0.81746454  0.26788690  1
+  S  S4  1  0.39810479  0.45041669  0.26789219  1
+  S  S5  1  0.18252930  0.60189435  0.73211140  1
+  S  S6  1  0.54957455  0.13020181  0.73210045  1

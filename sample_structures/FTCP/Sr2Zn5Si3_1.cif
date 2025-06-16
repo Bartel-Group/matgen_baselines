@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2Zn5Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14914714
+_cell_length_b   4.25612557
+_cell_length_c   9.12631794
+_cell_angle_alpha   62.18010008
+_cell_angle_beta   81.19852277
+_cell_angle_gamma   69.70591858
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Zn5Si3
+_chemical_formula_sum   'Sr2 Zn5 Si3'
+_cell_volume   198.11903161
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  -0.10480470  0.02514257  0.97754525  1
+  Sr  Sr1  1  0.57821132  0.68069503  0.47989047  1
+  Zn  Zn2  1  0.17883244  0.53972536  0.31995214  1
+  Zn  Zn3  1  0.53464438  -0.13701531  0.82049949  1
+  Zn  Zn4  1  0.29870976  0.16996989  0.12965828  1
+  Zn  Zn5  1  0.17017608  0.24009186  0.62510398  1
+  Zn  Zn6  1  0.55757712  0.51761171  0.15259422  1
+  Si  Si7  1  -0.08267704  -0.15773109  0.65010252  1
+  Si  Si8  1  -0.06575163  0.16397826  0.31856038  1
+  Si  Si9  1  0.28058227  0.48702172  0.82279327  1

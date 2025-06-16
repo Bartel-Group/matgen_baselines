@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdAg2AuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73483254
+_cell_length_b   4.80246335
+_cell_length_c   5.84915811
+_cell_angle_alpha   87.02602572
+_cell_angle_beta   70.57389815
+_cell_angle_gamma   88.30718918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdAg2AuO8
+_chemical_formula_sum   'Cd1 Ag2 Au1 O8'
+_cell_volume   151.70517992
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.64995830  0.43117475  0.53126000  1
+  Ag  Ag1  1  0.15006242  0.93099815  0.53142751  1
+  Ag  Ag2  1  0.15011207  0.43104349  0.03144504  1
+  Au  Au3  1  0.65011012  0.93103452  0.03134090  1
+  O  O4  1  0.79102406  0.79668016  0.68899013  1
+  O  O5  1  0.50917032  0.06523211  0.37376511  1
+  O  O6  1  0.82155187  0.63378130  0.16786623  1
+  O  O7  1  0.47870767  0.22835742  0.89479933  1
+  O  O8  1  0.28169990  0.62127576  0.69858864  1
+  O  O9  1  0.97535227  0.14408840  0.86819330  1
+  O  O10  1  0.32487452  0.71806618  0.19456253  1
+  O  O11  1  0.01819737  0.24075272  0.36417723  1

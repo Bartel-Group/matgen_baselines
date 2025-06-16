@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MgZrB5Os3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46841165
+_cell_length_b   5.80849675
+_cell_length_c   5.80923472
+_cell_angle_alpha   106.23372885
+_cell_angle_beta   90.00070122
+_cell_angle_gamma   89.99942240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZrB5Os3
+_chemical_formula_sum   'Mg1 Zr1 B5 Os3'
+_cell_volume   112.36809730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87178523  0.36761540  0.15316861  1
+  Zr  Zr1  1  0.87171093  0.82704469  0.69373701  1
+  B  B2  1  0.37171457  0.71484308  0.33624108  1
+  B  B3  1  0.37170811  0.51498397  0.52311082  1
+  B  B4  1  0.37171455  0.18456243  0.80593501  1
+  B  B5  1  0.37170753  -0.00230473  0.00576601  1
+  B  B6  1  0.37171514  0.05253678  0.46828782  1
+  Os  Os7  1  0.37173188  0.58932613  0.93140673  1
+  Os  Os8  1  0.87171323  0.92432968  0.22179734  1
+  Os  Os9  1  0.87171342  0.29898694  0.59644580  1

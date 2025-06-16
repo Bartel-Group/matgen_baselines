@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ti2VRe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43491215
+_cell_length_b   4.44174994
+_cell_length_c   4.43460693
+_cell_angle_alpha   60.16805398
+_cell_angle_beta   60.12550867
+_cell_angle_gamma   59.99627006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2VRe
+_chemical_formula_sum   'Ti2 V1 Re1'
+_cell_volume   61.90515485
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.92692322  0.73353699  0.63267322  1
+  Ti  Ti1  1  0.42683343  0.23391955  0.13319771  1
+  V  V2  1  0.67705036  0.48333702  0.38339044  1
+  Re  Re3  1  0.17685087  0.98382569  0.88280456  1

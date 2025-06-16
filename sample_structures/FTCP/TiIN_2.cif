@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70210664
+_cell_length_b   5.03049929
+_cell_length_c   3.14983036
+_cell_angle_alpha   89.86034304
+_cell_angle_beta   73.50993402
+_cell_angle_gamma   66.50995543
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiIn
+_chemical_formula_sum   'Ti2 In2'
+_cell_volume   78.82335019
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.02233806  0.41963355  0.39260209  1
+  Ti  Ti1  1  0.55817082  0.55419579  0.13295799  1
+  In  In2  1  0.04939126  -0.08954430  -0.11599551  1
+  In  In3  1  0.53126986  0.06349496  0.64025544  1

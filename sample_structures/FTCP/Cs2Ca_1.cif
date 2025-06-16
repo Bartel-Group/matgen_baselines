@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Cs2Ca
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.40566344
+_cell_length_b   8.54305251
+_cell_length_c   8.50190844
+_cell_angle_alpha   132.32509322
+_cell_angle_beta   147.77513535
+_cell_angle_gamma   58.88098757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Ca
+_chemical_formula_sum   'Cs2 Ca1'
+_cell_volume   238.52777199
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.72222959  0.64290624  -0.00663196  1
+  Cs  Cs1  1  0.41177661  0.33074889  0.00737155  1
+  Ca  Ca2  1  0.06675380  -0.00982513  -0.00073959  1

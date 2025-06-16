@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Cr2SbI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33911452
+_cell_length_b   6.60499615
+_cell_length_c   7.96545431
+_cell_angle_alpha   81.68229880
+_cell_angle_beta   89.99570110
+_cell_angle_gamma   90.00493569
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2SbI
+_chemical_formula_sum   'Cr4 Sb2 I2'
+_cell_volume   225.88726714
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.50011576  0.23419052  0.76200620  1
+  Cr  Cr1  1  0.00003617  0.70858912  0.06336100  1
+  Cr  Cr2  1  0.00009732  0.29080987  -0.06353607  1
+  Cr  Cr3  1  0.49990158  0.76493959  0.23794306  1
+  Sb  Sb4  1  0.49980094  0.50028350  -0.00051900  1
+  Sb  Sb5  1  0.50002197  0.50152544  0.50126078  1
+  I  I6  1  0.00016291  -0.02473512  0.74611576  1
+  I  I7  1  -0.00013663  0.02439709  0.25336827  1

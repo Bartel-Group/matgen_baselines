@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn2SiH2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22779064
+_cell_length_b   5.07568540
+_cell_length_c   5.40525963
+_cell_angle_alpha   65.75836461
+_cell_angle_beta   73.38152855
+_cell_angle_gamma   68.91766167
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2SiH2O5
+_chemical_formula_sum   'Zn2 Si1 H2 O5'
+_cell_volume   120.40251375
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.75744863  0.46641548  0.55195563  1
+  Zn  Zn1  1  0.38342669  0.38493574  0.16456974  1
+  Si  Si2  1  0.39443797  0.01987223  0.79217011  1
+  H  H3  1  0.97994155  0.94035068  0.91326927  1
+  H  H4  1  0.05443993  0.80500192  0.30526621  1
+  O  O5  1  0.00761382  0.66769122  0.25126415  1
+  O  O6  1  0.55153292  0.66478924  0.82203602  1
+  O  O7  1  0.53107021  0.25217280  0.51213231  1
+  O  O8  1  0.38322523  0.05899993  0.07621615  1
+  O  O9  1  0.06245746  0.08638056  0.74725003  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_TlGaSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40643142
+_cell_length_b   7.82076518
+_cell_length_c   8.20078430
+_cell_angle_alpha   111.07870778
+_cell_angle_beta   105.13290743
+_cell_angle_gamma   103.69995872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlGaSi3O8
+_chemical_formula_sum   'Tl2 Ga2 Si6 O16'
+_cell_volume   397.98070769
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.14778602  0.30170065  0.27225892  1
+  Tl  Tl1  1  0.85221400  0.69829935  0.72774111  1
+  Ga  Ga2  1  0.21273595  0.82183794  0.20753219  1
+  Ga  Ga3  1  0.78726407  0.17816205  0.79246784  1
+  Si  Si4  1  0.33266140  0.60496525  0.84793830  1
+  Si  Si5  1  0.35269813  0.83471771  0.60565192  1
+  Si  Si6  1  0.66733859  0.39503476  0.15206170  1
+  Si  Si7  1  0.64730187  0.16528230  0.39434809  1
+  Si  Si8  1  0.24137046  0.19884016  0.82391100  1
+  Si  Si9  1  0.75862953  0.80115984  0.17608896  1
+  O  O10  1  0.20220571  0.65991703  0.97454414  1
+  O  O11  1  0.25284101  0.00085764  0.67502053  1
+  O  O12  1  0.79779431  0.34008293  0.02545589  1
+  O  O13  1  0.74715900  -0.00085760  0.32497939  1
+  O  O14  1  0.25640121  0.71687395  0.37543505  1
+  O  O15  1  0.27257672  0.36439181  0.74424411  1
+  O  O16  1  0.74359884  0.28312602  0.62456496  1
+  O  O17  1  0.72742324  0.63560819  0.25575585  1
+  O  O18  1  0.96864556  0.85645248  0.14638248  1
+  O  O19  1  0.03135445  0.14354747  0.85361750  1
+  O  O20  1  0.27802523  0.66467948  0.67393632  1
+  O  O21  1  0.72197469  0.33532057  0.32606372  1
+  O  O22  1  0.40378931  0.07014941  0.30403813  1
+  O  O23  1  0.42328998  0.28823323  0.03220573  1
+  O  O24  1  0.59621069  0.92985058  0.69596194  1
+  O  O25  1  0.57671002  0.71176677  0.96779423  1

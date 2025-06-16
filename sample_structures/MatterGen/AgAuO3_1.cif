@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_AgAuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88341548
+_cell_length_b   3.25403112
+_cell_length_c   6.47086823
+_cell_angle_alpha   106.36915287
+_cell_angle_beta   100.13233065
+_cell_angle_gamma   110.63313099
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgAuO3
+_chemical_formula_sum   'Ag1 Au1 O3'
+_cell_volume   69.88941128
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.86403595  0.82488437  0.46023006  1
+  Au  Au1  1  0.37778847  0.83327728  0.95573874  1
+  O  O2  1  0.53634801  0.09110210  0.29369815  1
+  O  O3  1  0.20254288  0.55640024  0.61556998  1
+  O  O4  1  0.90834190  0.96784807  0.93344085  1

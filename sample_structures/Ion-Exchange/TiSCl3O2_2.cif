@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TiSCl3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59695633
+_cell_length_b   8.12555761
+_cell_length_c   8.33708214
+_cell_angle_alpha   93.49764610
+_cell_angle_beta   105.91644270
+_cell_angle_gamma   108.45133816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiSCl3O2
+_chemical_formula_sum   'Ti2 S2 Cl6 O4'
+_cell_volume   402.28770675
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.69876001  0.19736028  0.85085843  1
+  Ti  Ti1  1  0.30124169  0.80264380  0.14914398  1
+  S  S2  1  0.39675828  0.76196610  0.77112708  1
+  S  S3  1  0.60321104  0.23799924  0.22888666  1
+  Cl  Cl4  1  0.93124133  0.72557194  0.09588063  1
+  Cl  Cl5  1  0.08391464  0.79344620  0.63174822  1
+  Cl  Cl6  1  0.06874760  0.27440973  0.90410739  1
+  Cl  Cl7  1  0.45989322  0.67557644  0.35140727  1
+  Cl  Cl8  1  0.91611535  0.20658268  0.36823299  1
+  Cl  Cl9  1  0.54010298  0.32442386  0.64860319  1
+  O  O10  1  0.56813433  0.94437360  0.78327353  1
+  O  O11  1  0.63573483  0.25864188  0.05569889  1
+  O  O12  1  0.36424932  0.74135541  0.94428575  1
+  O  O13  1  0.43189539  0.05564885  0.21674602  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_BaLiMgF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45758193
+_cell_length_b   5.43239794
+_cell_length_c   6.29792898
+_cell_angle_alpha   115.09259073
+_cell_angle_beta   106.01929400
+_cell_angle_gamma   89.90814809
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiMgF5
+_chemical_formula_sum   'Ba1 Li1 Mg1 F5'
+_cell_volume   102.06032133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.17998045  0.23495529  0.84489676  1
+  Li  Li1  1  0.00327321  0.55547284  0.48631514  1
+  Mg  Mg2  1  0.37402153  0.92746338  0.23174523  1
+  F  F3  1  0.84439201  0.64474010  0.17251690  1
+  F  F4  1  0.19033766  0.74343323  0.86475694  1
+  F  F5  1  0.52251727  0.31309598  0.53141861  1
+  F  F6  1  0.52459611  0.84966461  0.53359632  1
+  F  F7  1  0.84319723  0.13884508  0.17148249  1

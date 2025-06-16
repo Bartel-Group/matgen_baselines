@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti4CuO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98996618
+_cell_length_b   3.16150966
+_cell_length_c   11.71564450
+_cell_angle_alpha   97.38426258
+_cell_angle_beta   98.51745391
+_cell_angle_gamma   90.04070525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4CuO7
+_chemical_formula_sum   'Ti4 Cu1 O7'
+_cell_volume   144.91338432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.55711139  0.24453069  0.12799801  1
+  Ti  Ti1  1  0.11864351  0.71609039  0.27025933  1
+  Ti  Ti2  1  -0.00346257  0.58453488  0.98866596  1
+  Ti  Ti3  1  0.80996034  -0.01539798  0.71295483  1
+  Cu  Cu4  1  0.47110441  0.37243468  0.50157852  1
+  O  O5  1  -0.05125900  0.07221365  0.88588593  1
+  O  O6  1  0.50558564  0.66912885  0.00942202  1
+  O  O7  1  0.05709604  0.15666244  0.12805240  1
+  O  O8  1  0.38082845  -0.01113755  0.72199740  1
+  O  O9  1  0.15938447  0.29480223  0.36836944  1
+  O  O10  1  0.60932385  0.78025732  0.24856460  1
+  O  O11  1  0.82947377  0.44150056  0.62243628  1

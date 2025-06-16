@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr4InI5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14621967
+_cell_length_b   4.15209015
+_cell_length_c   26.13827868
+_cell_angle_alpha   99.07069799
+_cell_angle_beta   84.18658073
+_cell_angle_gamma   90.10815726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4InI5
+_chemical_formula_sum   'Sr4 In1 I5'
+_cell_volume   442.02499742
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  -0.08236183  0.63067470  0.80292435  1
+  Sr  Sr1  1  0.08211026  0.37372016  0.01345433  1
+  Sr  Sr2  1  0.53921090  -0.04238952  0.49870786  1
+  Sr  Sr3  1  -0.03722346  0.52938787  0.17251630  1
+  In  In4  1  0.53673207  -0.05842971  0.08073609  1
+  I  I5  1  0.35775984  0.20898714  0.88159861  1
+  I  I6  1  0.00457879  0.52146161  0.57364939  1
+  I  I7  1  0.41445213  0.09843205  0.24120144  1
+  I  I8  1  0.07027249  0.39010121  0.42484231  1
+  I  I9  1  0.45965947  0.05968390  0.73348727  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ti4AlCuSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53329610
+_cell_length_b   7.53293619
+_cell_length_c   7.53271824
+_cell_angle_alpha   59.99907192
+_cell_angle_beta   60.00063119
+_cell_angle_gamma   60.00160883
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4AlCuSe8
+_chemical_formula_sum   'Ti4 Al1 Cu1 Se8'
+_cell_volume   302.26673683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.66377566  0.11207616  0.11207168  1
+  Ti  Ti1  1  0.11207698  0.66378906  0.11206458  1
+  Ti  Ti2  1  0.11207220  0.11206440  0.66379882  1
+  Ti  Ti3  1  0.11207760  0.11206973  0.11206500  1
+  Al  Al4  1  0.50000008  0.49999931  0.49999986  1
+  Cu  Cu5  1  0.74999585  0.74999933  0.74999957  1
+  Se  Se6  1  0.37028008  0.87657661  0.87657060  1
+  Se  Se7  1  0.87658049  0.37028773  0.87656475  1
+  Se  Se8  1  0.87657772  0.87656795  0.37029026  1
+  Se  Se9  1  0.87657944  0.87656982  0.87656377  1
+  Se  Se10  1  0.89869296  0.36710045  0.36710627  1
+  Se  Se11  1  0.36709645  0.89868897  0.36711032  1
+  Se  Se12  1  0.36709948  0.36710752  0.89868568  1
+  Se  Se13  1  0.36709699  0.36710492  0.36711081  1

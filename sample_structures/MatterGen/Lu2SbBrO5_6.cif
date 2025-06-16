@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2SbBrO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66195300
+_cell_length_b   5.40632234
+_cell_length_c   7.48834663
+_cell_angle_alpha   95.67052041
+_cell_angle_beta   90.00357601
+_cell_angle_gamma   89.99360285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2SbBrO5
+_chemical_formula_sum   'Lu2 Sb1 Br1 O5'
+_cell_volume   147.52656102
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.30140857  0.60183874  0.03705177  1
+  Lu  Lu1  1  0.80141449  0.09357818  0.77544999  1
+  Sb  Sb2  1  0.30166169  0.60190751  0.55259277  1
+  Br  Br3  1  0.80142797  -0.00849796  0.14945365  1
+  O  O4  1  0.30150995  0.27963215  0.64769210  1
+  O  O5  1  0.80136465  0.75247957  0.55169463  1
+  O  O6  1  0.30151041  0.51443312  0.30277945  1
+  O  O7  1  0.80150010  0.43780498  0.93412508  1
+  O  O8  1  0.30155031  0.83613058  0.78824284  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnFe2Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36619655
+_cell_length_b   4.79182894
+_cell_length_c   4.37808739
+_cell_angle_alpha   55.72306809
+_cell_angle_beta   66.90520808
+_cell_angle_gamma   46.52349836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnFe2Si
+_chemical_formula_sum   'Mn1 Fe2 Si1'
+_cell_volume   42.34417942
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.11115234  0.00257645  0.08934628  1
+  Fe  Fe1  1  0.62348553  0.74832497  0.58861600  1
+  Fe  Fe2  1  0.11040919  0.50127145  0.09107458  1
+  Si  Si3  1  0.61843294  0.25002713  0.58882314  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cr2CdS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68997221
+_cell_length_b   5.68991628
+_cell_length_c   6.47867240
+_cell_angle_alpha   116.05328218
+_cell_angle_beta   116.06208739
+_cell_angle_gamma   89.99347846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2CdS4
+_chemical_formula_sum   'Cr2 Cd1 S4'
+_cell_volume   164.37196522
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.25004456  0.75001655  0.49990389  1
+  Cr  Cr1  1  0.99995865  -0.00000997  0.00005985  1
+  Cd  Cd2  1  0.49998477  0.49998277  0.00000225  1
+  S  S3  1  0.91897804  0.89410774  0.26612205  1
+  S  S4  1  0.34717923  0.37208499  0.26612962  1
+  S  S5  1  0.10594176  0.65275847  0.73393031  1
+  S  S6  1  0.62791399  0.08105844  0.73385002  1

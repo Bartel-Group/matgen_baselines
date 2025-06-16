@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_SiICl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20847119
+_cell_length_b   6.21531587
+_cell_length_c   6.20910524
+_cell_angle_alpha   90.87766435
+_cell_angle_beta   88.84217259
+_cell_angle_gamma   89.70508274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiICl3
+_chemical_formula_sum   'Si1 I1 Cl3'
+_cell_volume   239.51393778
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.77148082  0.84157709  0.07354103  1
+  I  I1  1  0.00101012  0.61324351  0.84391491  1
+  Cl  Cl2  1  0.95543196  0.03436573  0.26457533  1
+  Cl  Cl3  1  0.58169023  0.03139414  0.88940822  1
+  Cl  Cl4  1  0.57891568  0.65636448  0.26482549  1

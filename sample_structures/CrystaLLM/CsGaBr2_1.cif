@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CsGaBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05504690
+_cell_length_b   5.01531875
+_cell_length_c   6.78243238
+_cell_angle_alpha   89.96325393
+_cell_angle_beta   101.23273614
+_cell_angle_gamma   90.04640011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGaBr2
+_chemical_formula_sum   'Cs1 Ga1 Br2'
+_cell_volume   168.65878001
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  -0.08468313  0.50004150  0.56623253  1
+  Ga  Ga1  1  0.52829832  0.00072068  0.09396600  1
+  Br  Br2  1  0.44313696  0.00019351  0.68659124  1
+  Br  Br3  1  0.22128118  0.49904432  0.11091023  1

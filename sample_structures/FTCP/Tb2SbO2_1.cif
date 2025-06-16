@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tb2SbO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22913228
+_cell_length_b   7.05602474
+_cell_length_c   6.62616518
+_cell_angle_alpha   141.44815754
+_cell_angle_beta   146.83536368
+_cell_angle_gamma   51.98140011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2SbO2
+_chemical_formula_sum   'Tb2 Sb1 O2'
+_cell_volume   98.64981862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.35964893  0.23617049  -0.00076303  1
+  Tb  Tb1  1  0.60388972  0.60012378  -0.03317507  1
+  Sb  Sb2  1  -0.03722113  0.01630890  -0.00134795  1
+  O  O3  1  0.83618775  0.54089722  0.43069919  1
+  O  O4  1  0.25045474  0.68311961  0.47165685  1

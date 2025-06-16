@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Li2BeC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92816904
+_cell_length_b   3.92689876
+_cell_length_c   3.26793795
+_cell_angle_alpha   90.03042368
+_cell_angle_beta   89.98464884
+_cell_angle_gamma   120.09946393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2BeC
+_chemical_formula_sum   'Li2 Be1 C1'
+_cell_volume   43.61220995
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66660325  0.33334982  -0.02216393  1
+  Li  Li1  1  0.33333864  0.66664516  0.02218182  1
+  Be  Be2  1  0.00001720  0.00000162  0.50000411  1
+  C  C3  1  0.00004091  0.00000341  -0.00002201  1

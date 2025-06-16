@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_MgBeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.12083026
+_cell_length_b   5.00716952
+_cell_length_c   8.41124073
+_cell_angle_alpha   35.34609422
+_cell_angle_beta   90.00312630
+_cell_angle_gamma   90.00125612
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgBeO2
+_chemical_formula_sum   'Mg2 Be2 O4'
+_cell_volume   76.03899898
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.49989351  -0.00022158  0.50007934  1
+  Mg  Mg1  1  0.00028071  0.49971500  0.50012097  1
+  Be  Be2  1  0.50079998  0.50015432  0.00013004  1
+  Be  Be3  1  -0.00127622  0.00011723  0.00018960  1
+  O  O4  1  -0.00016802  0.49196304  0.25867343  1
+  O  O5  1  -0.00012111  0.50812715  0.74108638  1
+  O  O6  1  0.50027314  -0.00820315  0.25908221  1
+  O  O7  1  0.50031800  0.00834799  0.74063803  1

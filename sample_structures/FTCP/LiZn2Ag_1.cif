@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiZn2Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10873315
+_cell_length_b   3.93656205
+_cell_length_c   4.80094717
+_cell_angle_alpha   36.35541194
+_cell_angle_beta   49.59074587
+_cell_angle_gamma   57.46000169
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZn2Ag
+_chemical_formula_sum   'Li1 Zn2 Ag1'
+_cell_volume   60.60436069
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  -0.00815426  0.11299323  -0.01877215  1
+  Zn  Zn1  1  0.23602616  0.11948378  0.23038814  1
+  Zn  Zn2  1  0.74702103  0.12366846  0.71710521  1
+  Ag  Ag3  1  0.49130708  0.12404453  0.47170881  1

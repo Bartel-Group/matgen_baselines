@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaDy4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28286463
+_cell_length_b   5.78338567
+_cell_length_c   6.27992947
+_cell_angle_alpha   117.29971165
+_cell_angle_beta   77.74987643
+_cell_angle_gamma   117.33373091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaDy4O7
+_chemical_formula_sum   'Ba1 Dy4 O7'
+_cell_volume   180.13258512
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.21928034  0.73802446  0.50583095  1
+  Dy  Dy1  1  0.51054718  0.23807139  0.21379861  1
+  Dy  Dy2  1  0.51121351  0.53102874  0.79880561  1
+  Dy  Dy3  1  0.92520245  0.94528727  0.21453874  1
+  Dy  Dy4  1  0.92621901  0.23890440  0.79992197  1
+  O  O5  1  0.71940882  0.23983157  0.50685349  1
+  O  O6  1  0.21829651  0.23882185  0.00730997  1
+  O  O7  1  0.71691133  0.73833854  0.50644080  1
+  O  O8  1  0.21819803  0.23698536  0.50663206  1
+  O  O9  1  0.21783586  0.73764885  0.00577671  1
+  O  O10  1  0.71851155  0.48879500  0.00697444  1
+  O  O11  1  0.71760223  0.98739441  0.00656725  1

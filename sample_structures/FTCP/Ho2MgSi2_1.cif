@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ho2MgSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.83891077
+_cell_length_b   7.00657747
+_cell_length_c   3.90276746
+_cell_angle_alpha   89.57427987
+_cell_angle_beta   78.72959823
+_cell_angle_gamma   87.25258020
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2MgSi2
+_chemical_formula_sum   'Ho4 Mg2 Si4'
+_cell_volume   236.76645136
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.72198391  0.22448845  0.55347936  1
+  Ho  Ho1  1  0.38426203  0.96545597  0.73134730  1
+  Ho  Ho2  1  0.14790386  0.29068073  0.34048158  1
+  Ho  Ho3  1  0.82311489  0.70331067  0.48685920  1
+  Mg  Mg4  1  -0.02680398  0.01178972  -0.07783574  1
+  Mg  Mg5  1  0.42358138  0.49723513  -0.29827772  1
+  Si  Si6  1  0.10660571  0.63413514  -0.13953675  1
+  Si  Si7  1  0.90533259  0.41406467  -0.04276926  1
+  Si  Si8  1  0.15193498  0.84167829  0.33911292  1
+  Si  Si9  1  0.47925463  0.23271123  0.17700910  1

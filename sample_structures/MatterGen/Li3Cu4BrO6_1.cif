@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li3Cu4BrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51600899
+_cell_length_b   5.90764112
+_cell_length_c   5.97058924
+_cell_angle_alpha   114.70725901
+_cell_angle_beta   98.72114166
+_cell_angle_gamma   98.16074507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Cu4BrO6
+_chemical_formula_sum   'Li3 Cu4 Br1 O6'
+_cell_volume   170.07786339
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.45682744  0.18009285  0.83982512  1
+  Li  Li1  1  0.94329852  0.13476113  0.79610487  1
+  Li  Li2  1  0.69869497  0.65820233  0.31850922  1
+  Cu  Cu3  1  0.94832925  0.75197719  0.94291646  1
+  Cu  Cu4  1  0.94632219  0.28649096  0.41750645  1
+  Cu  Cu5  1  0.45137734  0.02968810  0.21965476  1
+  Cu  Cu6  1  0.44985123  0.56367421  0.69378798  1
+  Br  Br7  1  0.19868455  0.65806378  0.31802836  1
+  O  O8  1  0.19669986  0.31660119  0.66998721  1
+  O  O9  1  0.67968303  0.27506827  0.18389159  1
+  O  O10  1  0.67840446  0.52649961  0.93842260  1
+  O  O11  1  0.71944056  0.78974472  0.69875239  1
+  O  O12  1  0.71776594  0.04148965  0.45390117  1
+  O  O13  1  0.20162918  0.99856496  0.96624456  1

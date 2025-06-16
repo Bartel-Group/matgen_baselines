@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Pm2CoRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74542056
+_cell_length_b   8.19894420
+_cell_length_c   6.64687282
+_cell_angle_alpha   52.10462281
+_cell_angle_beta   69.54017234
+_cell_angle_gamma   30.28368047
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pm2CoRu
+_chemical_formula_sum   'Pm2 Co1 Ru1'
+_cell_volume   91.67180783
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pm  Pm0  1  0.30656186  0.42903081  0.23932380  1
+  Pm  Pm1  1  0.80185515  0.60030849  0.73430303  1
+  Co  Co2  1  0.55945059  0.50894445  0.49236101  1
+  Ru  Ru3  1  0.05988240  0.00895625  -0.00757784  1

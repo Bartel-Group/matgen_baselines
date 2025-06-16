@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CsMgZn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34671520
+_cell_length_b   6.38753790
+_cell_length_c   6.25065496
+_cell_angle_alpha   43.39326882
+_cell_angle_beta   45.48368155
+_cell_angle_gamma   45.34747594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMgZn2
+_chemical_formula_sum   'Cs1 Mg1 Zn2'
+_cell_volume   114.05581009
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00091316  0.00958965  0.00149013  1
+  Mg  Mg1  1  0.49405084  0.51415085  0.50532384  1
+  Zn  Zn2  1  0.17106151  0.20768582  0.20276654  1
+  Zn  Zn3  1  0.81409450  0.82027367  0.80733949  1

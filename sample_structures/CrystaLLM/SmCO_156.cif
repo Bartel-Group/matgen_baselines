@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_SmCO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83214969
+_cell_length_b   3.83220740
+_cell_length_c   4.07189532
+_cell_angle_alpha   90.00052862
+_cell_angle_beta   89.99768370
+_cell_angle_gamma   120.00757154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCO
+_chemical_formula_sum   'Sm1 C1 O1'
+_cell_volume   51.78280431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.33329202  0.66668941  0.36864285  1
+  C  C1  1  0.00000194  0.00000306  -0.07486015  1
+  O  O2  1  0.66670604  0.33330752  0.44161730  1

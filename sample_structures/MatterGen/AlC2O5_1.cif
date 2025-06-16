@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_AlC2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57849274
+_cell_length_b   5.10028605
+_cell_length_c   4.91530976
+_cell_angle_alpha   87.12459914
+_cell_angle_beta   65.79743755
+_cell_angle_gamma   75.79033799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlC2O5
+_chemical_formula_sum   'Al1 C2 O5'
+_cell_volume   123.45302694
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.59159073  0.08090718  0.70685255  1
+  C  C1  1  0.86094751  0.51790370  0.51726511  1
+  C  C2  1  0.47375677  0.07857639  0.20620608  1
+  O  O3  1  0.39408009  0.07667007  0.49110051  1
+  O  O4  1  0.30949700  0.07618506  0.07674750  1
+  O  O5  1  0.71822256  0.08176802  0.01965118  1
+  O  O6  1  0.85855094  0.76133760  0.52883458  1
+  O  O7  1  0.66582612  0.40994269  0.58355791  1

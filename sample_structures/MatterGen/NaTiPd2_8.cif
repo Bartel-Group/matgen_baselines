@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaTiPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53711686
+_cell_length_b   4.53788921
+_cell_length_c   4.54530636
+_cell_angle_alpha   59.90690085
+_cell_angle_beta   59.82228486
+_cell_angle_gamma   59.92441666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTiPd2
+_chemical_formula_sum   'Na1 Ti1 Pd2'
+_cell_volume   65.99970115
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.42694547  0.16277537  0.96402818  1
+  Ti  Ti1  1  0.92701122  0.66235001  0.46344437  1
+  Pd  Pd2  1  0.67678017  0.41258969  0.21397006  1
+  Pd  Pd3  1  0.17738431  0.91279570  0.71324394  1

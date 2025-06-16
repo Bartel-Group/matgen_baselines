@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TbFeSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52977846
+_cell_length_b   3.85072217
+_cell_length_c   6.48408171
+_cell_angle_alpha   89.98452859
+_cell_angle_beta   90.01663127
+_cell_angle_gamma   69.86764547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbFeSi2
+_chemical_formula_sum   'Tb2 Fe2 Si4'
+_cell_volume   129.63363576
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.37916426  0.58109696  0.78821535  1
+  Tb  Tb1  1  0.62516659  0.45196282  0.28808380  1
+  Fe  Fe2  1  0.07412747  0.73139219  0.28840305  1
+  Fe  Fe3  1  -0.06996834  0.30149945  0.78848075  1
+  Si  Si4  1  0.17073796  0.18373388  0.09579884  1
+  Si  Si5  1  0.83285819  -0.15036224  -0.01932977  1
+  Si  Si6  1  0.17136298  0.18303574  0.48090463  1
+  Si  Si7  1  0.83308089  0.84950120  0.59595335  1

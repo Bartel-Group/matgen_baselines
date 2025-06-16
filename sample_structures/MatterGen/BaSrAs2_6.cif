@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_BaSrAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63146786
+_cell_length_b   4.64479583
+_cell_length_c   6.53287277
+_cell_angle_alpha   89.95096093
+_cell_angle_beta   90.08146452
+_cell_angle_gamma   89.99383719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrAs2
+_chemical_formula_sum   'Ba1 Sr1 As2'
+_cell_volume   140.53641885
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.22894474  0.02793412  0.88218432  1
+  Sr  Sr1  1  0.72874257  0.52602830  0.38288160  1
+  As  As2  1  0.22835255  0.02469846  0.38120771  1
+  As  As3  1  0.72911085  0.52877348  0.88436772  1

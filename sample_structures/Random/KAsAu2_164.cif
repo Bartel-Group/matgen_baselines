@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_KAsAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75834024
+_cell_length_b   4.75834430
+_cell_length_c   6.41828410
+_cell_angle_alpha   89.99996339
+_cell_angle_beta   89.99978655
+_cell_angle_gamma   120.00015898
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAsAu2
+_chemical_formula_sum   'K1 As1 Au2'
+_cell_volume   125.85203092
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  -0.00000014  -0.00000010  0.49999996  1
+  As  As1  1  0.00000033  0.00000014  -0.00000007  1
+  Au  Au2  1  0.33333328  0.66666645  0.02771399  1
+  Au  Au3  1  0.66666653  0.33333351  0.97228613  1

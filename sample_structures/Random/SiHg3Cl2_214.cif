@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SiHg3Cl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.35871334
+_cell_length_b   11.35870724
+_cell_length_c   11.35871149
+_cell_angle_alpha   109.47219728
+_cell_angle_beta   109.47234345
+_cell_angle_gamma   109.47219906
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiHg3Cl2
+_chemical_formula_sum   'Si4 Hg12 Cl8'
+_cell_volume   1128.10292591
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.24994361  0.24993547  0.24993503  1
+  Si  Si1  1  0.00001187  0.25002356  0.49999812  1
+  Si  Si2  1  0.24985720  0.49999965  0.00000269  1
+  Si  Si3  1  0.50000840  0.00000450  0.25004543  1
+  Hg  Hg4  1  0.50148398  0.74998034  0.25144245  1
+  Hg  Hg5  1  0.25004212  0.50148797  0.25151494  1
+  Hg  Hg6  1  0.74999736  -0.00147612  0.24851933  1
+  Hg  Hg7  1  0.50147195  0.25147391  0.24999964  1
+  Hg  Hg8  1  -0.00147705  0.24848525  0.74997717  1
+  Hg  Hg9  1  0.25148138  0.25000448  0.50147227  1
+  Hg  Hg10  1  0.25150084  0.50146557  0.75002297  1
+  Hg  Hg11  1  0.25005217  0.24856701  -0.00145682  1
+  Hg  Hg12  1  0.24852698  -0.00147611  0.25000779  1
+  Hg  Hg13  1  0.75000848  0.25148537  0.50148222  1
+  Hg  Hg14  1  -0.00146999  0.25001579  0.24853081  1
+  Hg  Hg15  1  0.24854770  0.75002065  -0.00149359  1
+  Cl  Cl16  1  0.50000315  -0.00000073  0.02652472  1
+  Cl  Cl17  1  0.47347759  0.49999277  -0.00000800  1
+  Cl  Cl18  1  0.02652709  0.02652719  0.02653257  1
+  Cl  Cl19  1  -0.00001504  0.47346126  0.49998516  1
+  Cl  Cl20  1  0.49999207  -0.00000224  0.47346561  1
+  Cl  Cl21  1  0.02654205  0.50000752  0.00000521  1
+  Cl  Cl22  1  0.00000679  0.02653264  0.50001476  1
+  Cl  Cl23  1  0.47347930  0.47348429  0.47347953  1

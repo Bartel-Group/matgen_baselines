@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DySnGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00089071
+_cell_length_b   4.20401787
+_cell_length_c   6.27624792
+_cell_angle_alpha   90.09555871
+_cell_angle_beta   75.25047307
+_cell_angle_gamma   110.47701997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DySnGe
+_chemical_formula_sum   'Dy2 Sn2 Ge2'
+_cell_volume   142.77453159
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.65519889  0.11408608  0.60960202  1
+  Dy  Dy1  1  0.17266089  0.87320099  0.21402275  1
+  Sn  Sn2  1  0.04586947  0.80828938  0.73758537  1
+  Sn  Sn3  1  0.78075924  0.17523709  0.08607632  1
+  Ge  Ge4  1  0.41268842  0.49307411  0.91148899  1
+  Ge  Ge5  1  0.41511309  0.49383235  0.41139453  1

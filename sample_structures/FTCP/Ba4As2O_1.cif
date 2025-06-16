@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba4As2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61462474
+_cell_length_b   6.64213465
+_cell_length_c   9.34806027
+_cell_angle_alpha   110.20385790
+_cell_angle_beta   112.28581394
+_cell_angle_gamma   91.47528866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4As2O
+_chemical_formula_sum   'Ba4 As2 O1'
+_cell_volume   244.72587480
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.91799194  0.79456086  0.36161198  1
+  Ba  Ba1  1  0.71954582  0.37813048  0.52698326  1
+  Ba  Ba2  1  -0.06909560  0.41492080  -0.02737131  1
+  Ba  Ba3  1  0.37969505  -0.06849798  -0.04661773  1
+  As  As4  1  0.66377412  0.92146296  0.65819937  1
+  As  As5  1  0.03831271  0.22760208  0.25737918  1
+  O  O6  1  0.48574595  0.61004079  0.03004525  1

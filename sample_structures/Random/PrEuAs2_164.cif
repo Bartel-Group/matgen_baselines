@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PrEuAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22091877
+_cell_length_b   4.22091663
+_cell_length_c   7.59028000
+_cell_angle_alpha   89.99997455
+_cell_angle_beta   89.99995797
+_cell_angle_gamma   119.99999505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrEuAs2
+_chemical_formula_sum   'Pr1 Eu1 As2'
+_cell_volume   117.11222157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000007  0.00000006  0.00000001  1
+  Eu  Eu1  1  -0.00000029  -0.00000026  0.50000004  1
+  As  As2  1  0.66666677  0.33333360  0.75247614  1
+  As  As3  1  0.33333345  0.66666660  0.24752381  1

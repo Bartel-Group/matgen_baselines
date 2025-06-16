@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_As4H5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08604520
+_cell_length_b   5.11652142
+_cell_length_c   11.02957519
+_cell_angle_alpha   64.11164564
+_cell_angle_beta   60.78390082
+_cell_angle_gamma   39.03365571
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   As4H5
+_chemical_formula_sum   'As4 H5'
+_cell_volume   187.74816518
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.41178423  0.48745474  0.83743328  1
+  As  As1  1  -0.09013575  0.60373812  0.02792373  1
+  As  As2  1  0.22237490  0.75538324  0.60119895  1
+  As  As3  1  0.79985977  0.25773771  0.42783001  1
+  H  H4  1  0.28101862  0.03203729  0.55476951  1
+  H  H5  1  0.73354221  0.99210435  0.46419800  1
+  H  H6  1  0.79590438  0.57374777  0.94028022  1
+  H  H7  1  0.15992329  0.13062581  0.07699447  1
+  H  H8  1  0.22628835  -0.07788903  -0.15621818  1

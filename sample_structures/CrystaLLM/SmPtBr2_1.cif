@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SmPtBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61694498
+_cell_length_b   6.19816471
+_cell_length_c   7.05257310
+_cell_angle_alpha   94.35819204
+_cell_angle_beta   142.46887377
+_cell_angle_gamma   84.34255844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmPtBr2
+_chemical_formula_sum   'Sm1 Pt1 Br2'
+_cell_volume   148.84762109
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.28352482  0.39887734  -0.12503193  1
+  Pt  Pt1  1  -0.03176996  0.59422353  0.37352294  1
+  Br  Br2  1  0.33982737  -0.05140041  0.87380137  1
+  Br  Br3  1  0.43241777  0.55829954  0.37540762  1

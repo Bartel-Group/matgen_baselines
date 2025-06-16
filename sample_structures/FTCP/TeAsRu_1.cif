@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TeAsRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33760835
+_cell_length_b   4.76852995
+_cell_length_c   8.06270162
+_cell_angle_alpha   106.17934755
+_cell_angle_beta   85.54101749
+_cell_angle_gamma   94.23905365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeAsRu
+_chemical_formula_sum   'Te4 As4 Ru4'
+_cell_volume   269.71490053
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.07393263  0.81154521  0.06161117  1
+  Te  Te1  1  0.61737134  0.10485123  0.32248678  1
+  Te  Te2  1  0.89241893  0.22097603  0.86871906  1
+  Te  Te3  1  0.30536477  0.91298227  0.62714306  1
+  As  As4  1  0.90692256  0.72517406  0.43351218  1
+  As  As5  1  0.41605926  0.35637571  0.14901286  1
+  As  As6  1  0.07640332  0.24261506  0.47963379  1
+  As  As7  1  0.63093585  0.67527812  0.86231915  1
+  Ru  Ru8  1  0.73519865  0.56797219  0.16353952  1
+  Ru  Ru9  1  0.09501317  0.38200156  0.20913718  1
+  Ru  Ru10  1  0.53493768  0.16864874  0.86096474  1
+  Ru  Ru11  1  0.96528185  0.65605981  0.72163051  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce2Cd2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40277062
+_cell_length_b   4.40750720
+_cell_length_c   15.24530246
+_cell_angle_alpha   81.90860816
+_cell_angle_beta   90.03870002
+_cell_angle_gamma   59.93047726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Cd2S5
+_chemical_formula_sum   'Ce2 Cd2 S5'
+_cell_volume   252.59877641
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.08319087  0.05999929  0.00989285  1
+  Ce  Ce1  1  0.49905934  0.22976907  0.29023430  1
+  Cd  Cd2  1  -0.07927342  0.37075782  0.55233233  1
+  Cd  Cd3  1  0.33571961  0.54927864  0.76761951  1
+  S  S4  1  0.73780054  0.75127038  -0.02842583  1
+  S  S5  1  0.86073700  0.50607305  0.37737996  1
+  S  S6  1  0.01737639  0.18745296  0.81233598  1
+  S  S7  1  0.26783810  0.67686476  0.59386105  1
+  S  S8  1  0.13523346  -0.04295674  0.19667926  1

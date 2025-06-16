@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrAl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34360390
+_cell_length_b   6.45484006
+_cell_length_c   6.49403751
+_cell_angle_alpha   73.83110801
+_cell_angle_beta   70.46099124
+_cell_angle_gamma   70.37886606
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAl2
+_chemical_formula_sum   'Sr2 Al4'
+_cell_volume   158.76970105
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.44272151  0.30400828  0.76838989  1
+  Sr  Sr1  1  0.57991403  0.62409432  0.17431140  1
+  Al  Al2  1  0.21791508  0.14126129  0.38175437  1
+  Al  Al3  1  0.80355516  0.78822039  0.56119984  1
+  Al  Al4  1  0.87187684  0.05834578  0.15605848  1
+  Al  Al5  1  0.14925738  0.87121994  0.78731603  1

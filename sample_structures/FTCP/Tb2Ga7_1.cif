@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2Ga7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06132480
+_cell_length_b   5.92934600
+_cell_length_c   5.66883162
+_cell_angle_alpha   90.27408290
+_cell_angle_beta   90.31765876
+_cell_angle_gamma   120.38294627
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Ga7
+_chemical_formula_sum   'Tb2 Ga7'
+_cell_volume   175.74631698
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.30056791  0.68004752  0.84435121  1
+  Tb  Tb1  1  0.64199119  0.35556779  0.13338022  1
+  Ga  Ga2  1  0.15518031  0.38202425  0.32804983  1
+  Ga  Ga3  1  0.61190262  0.83959617  0.31708392  1
+  Ga  Ga4  1  0.15805462  0.83991368  0.32172503  1
+  Ga  Ga5  1  0.78768409  0.65415916  0.65008333  1
+  Ga  Ga6  1  0.33208028  0.19680090  0.66003012  1
+  Ga  Ga7  1  0.78414540  0.19526499  0.65634842  1
+  Ga  Ga8  1  -0.02753642  0.01866553  -0.01125208  1

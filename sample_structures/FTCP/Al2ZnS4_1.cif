@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Al2ZnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19933052
+_cell_length_b   7.39014047
+_cell_length_c   6.15865239
+_cell_angle_alpha   127.60302157
+_cell_angle_beta   122.10936527
+_cell_angle_gamma   88.62289090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2ZnS4
+_chemical_formula_sum   'Al2 Zn1 S4'
+_cell_volume   169.32698262
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.44951058  0.28794412  -0.03015146  1
+  Al  Al1  1  0.17131564  0.73038652  0.41327485  1
+  Zn  Zn2  1  -0.02205624  0.00826873  -0.03931848  1
+  S  S3  1  0.04281462  0.00881525  0.37433778  1
+  S  S4  1  0.51553953  0.68466859  0.36892406  1
+  S  S5  1  0.37904636  0.00963637  0.00947690  1
+  S  S6  1  0.84014952  0.33345042  0.01770634  1

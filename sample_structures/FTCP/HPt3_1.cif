@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39306595
+_cell_length_b   4.57808649
+_cell_length_c   2.76669025
+_cell_angle_alpha   97.77139211
+_cell_angle_beta   79.93151804
+_cell_angle_gamma   108.82515880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HPt3
+_chemical_formula_sum   'H1 Pt3'
+_cell_volume   51.66989466
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  -0.01954055  0.00241332  0.01253348  1
+  Pt  Pt1  1  0.03506534  0.37819277  0.35667232  1
+  Pt  Pt2  1  0.66402034  0.66033048  0.00541931  1
+  Pt  Pt3  1  0.38059487  0.03180343  0.66655490  1

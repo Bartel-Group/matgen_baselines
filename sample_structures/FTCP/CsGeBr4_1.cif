@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CsGeBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81750008
+_cell_length_b   8.23090241
+_cell_length_c   6.02005272
+_cell_angle_alpha   94.49708091
+_cell_angle_beta   84.77826645
+_cell_angle_gamma   68.87409608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGeBr4
+_chemical_formula_sum   'Cs1 Ge1 Br4'
+_cell_volume   265.84432343
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  -0.07205402  -0.08722677  0.47749395  1
+  Ge  Ge1  1  0.75772082  0.49190382  -0.01168718  1
+  Br  Br2  1  0.62768755  0.59021585  0.40029738  1
+  Br  Br3  1  0.57778485  0.15770178  0.02207170  1
+  Br  Br4  1  0.08176993  0.62746796  -0.06398267  1
+  Br  Br5  1  0.08004088  0.16510736  0.01263682  1

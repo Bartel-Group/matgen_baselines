@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Te2MoPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88009419
+_cell_length_b   6.88052976
+_cell_length_c   6.01021813
+_cell_angle_alpha   70.44017029
+_cell_angle_beta   70.45256274
+_cell_angle_gamma   73.15838623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te2MoPb
+_chemical_formula_sum   'Te4 Mo2 Pb2'
+_cell_volume   247.53423945
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.02630836  0.32022371  0.31347392  1
+  Te  Te1  1  0.67983843  -0.02624265  0.18648094  1
+  Te  Te2  1  -0.02630783  0.67978227  0.68653332  1
+  Te  Te3  1  0.32015796  0.02624253  0.81351136  1
+  Mo  Mo4  1  0.04058483  0.95945656  0.24998532  1
+  Mo  Mo5  1  0.95940949  0.04054625  0.75001520  1
+  Pb  Pb6  1  0.41256691  0.58734606  0.25001832  1
+  Pb  Pb7  1  0.58744185  0.41264528  0.74998164  1

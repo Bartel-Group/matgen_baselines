@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_ErSi3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32483931
+_cell_length_b   5.80802529
+_cell_length_c   4.25956762
+_cell_angle_alpha   136.15503755
+_cell_angle_beta   142.03868550
+_cell_angle_gamma   44.28185235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErSi3Rh
+_chemical_formula_sum   'Er1 Si3 Rh1'
+_cell_volume   82.34870725
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  -0.01736755  0.03621748  0.24492037  1
+  Si  Si1  1  0.22872281  0.42630431  -0.45601591  1
+  Si  Si2  1  0.49660337  0.77998986  0.15199363  1
+  Si  Si3  1  0.73972931  0.65531980  0.90757550  1
+  Rh  Rh4  1  0.48780205  0.27108855  -0.70469359  1

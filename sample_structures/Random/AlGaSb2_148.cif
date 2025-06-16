@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_AlGaSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.04770775
+_cell_length_b   9.04767667
+_cell_length_c   9.04772841
+_cell_angle_alpha   106.53279457
+_cell_angle_beta   106.53266726
+_cell_angle_gamma   106.53257781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlGaSb2
+_chemical_formula_sum   'Al6 Ga6 Sb12'
+_cell_volume   624.51991601
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.45202207  0.11919518  0.37605836  1
+  Al  Al1  1  0.11919580  0.37605847  0.45202205  1
+  Al  Al2  1  0.37605872  0.45202199  0.11919591  1
+  Al  Al3  1  0.54797795  0.88080486  0.62394164  1
+  Al  Al4  1  0.88080418  0.62394154  0.54797801  1
+  Al  Al5  1  0.62394129  0.54797804  0.88080408  1
+  Ga  Ga6  1  0.22438725  0.07479509  0.69079084  1
+  Ga  Ga7  1  0.77561275  0.92520488  0.30920921  1
+  Ga  Ga8  1  0.92520491  0.30920997  0.77561300  1
+  Ga  Ga9  1  0.30920921  0.77561273  0.92520492  1
+  Ga  Ga10  1  0.07479510  0.69079003  0.22438700  1
+  Ga  Ga11  1  0.69079082  0.22438726  0.07479499  1
+  Sb  Sb12  1  0.72758035  0.57291323  0.20808768  1
+  Sb  Sb13  1  0.20808718  0.72757989  0.57291315  1
+  Sb  Sb14  1  0.42708679  0.79191290  0.27241987  1
+  Sb  Sb15  1  0.57291318  0.20808712  0.72758008  1
+  Sb  Sb16  1  0.27241965  0.42708675  0.79191233  1
+  Sb  Sb17  1  0.79191276  0.27242006  0.42708679  1
+  Sb  Sb18  1  0.65097088  0.87805296  0.94554256  1
+  Sb  Sb19  1  0.94554223  0.65097109  0.87805316  1
+  Sb  Sb20  1  0.87805311  0.94554209  0.65097093  1
+  Sb  Sb21  1  0.34902916  0.12194705  0.05445748  1
+  Sb  Sb22  1  0.05445780  0.34902892  0.12194688  1
+  Sb  Sb23  1  0.12194686  0.05445793  0.34902908  1

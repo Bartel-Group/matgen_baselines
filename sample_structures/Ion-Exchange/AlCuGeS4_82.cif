@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_AlCuGeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29702643
+_cell_length_b   5.29703034
+_cell_length_c   6.34915456
+_cell_angle_alpha   65.34553005
+_cell_angle_beta   65.34560305
+_cell_angle_gamma   90.00042306
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCuGeS4
+_chemical_formula_sum   'Al1 Cu1 Ge1 S4'
+_cell_volume   143.84578359
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.25000069  0.74999919  0.49999938  1
+  Cu  Cu1  1  -0.00000050  -0.00000205  0.00000000  1
+  Ge  Ge2  1  0.50000035  0.50000342  -0.00000076  1
+  S  S3  1  0.38987343  0.87991029  0.74120684  1
+  S  S4  1  0.86891667  0.37888146  0.74121139  1
+  S  S5  1  0.12009140  0.13107894  0.25879262  1
+  S  S6  1  0.62111796  0.61012874  0.25879053  1

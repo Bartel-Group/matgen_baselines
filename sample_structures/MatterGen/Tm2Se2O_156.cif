@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tm2Se2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84576571
+_cell_length_b   3.84591561
+_cell_length_c   8.51417575
+_cell_angle_alpha   90.01864896
+_cell_angle_beta   89.96702678
+_cell_angle_gamma   119.98739056
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm2Se2O
+_chemical_formula_sum   'Tm2 Se2 O1'
+_cell_volume   109.07140611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.92174195  0.32323445  0.73119680  1
+  Tm  Tm1  1  0.58834008  0.65659750  0.26603407  1
+  Se  Se2  1  0.25453157  0.98975382  0.47236704  1
+  Se  Se3  1  0.92216997  0.32345350  0.07835726  1
+  O  O4  1  0.58811652  0.65641486  0.76026468  1

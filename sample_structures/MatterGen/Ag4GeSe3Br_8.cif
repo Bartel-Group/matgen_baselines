@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ag4GeSe3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58784772
+_cell_length_b   7.37205273
+_cell_length_c   7.60064067
+_cell_angle_alpha   100.30082325
+_cell_angle_beta   107.55792628
+_cell_angle_gamma   90.01094836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag4GeSe3Br
+_chemical_formula_sum   'Ag4 Ge1 Se3 Br1'
+_cell_volume   240.73945110
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.58116391  0.91683528  0.59435648  1
+  Ag  Ag1  1  0.41728699  0.63131003  0.26464290  1
+  Ag  Ag2  1  0.78396267  0.58883700  -0.00167470  1
+  Ag  Ag3  1  0.33437161  0.16128490  0.09960387  1
+  Ge  Ge4  1  0.06249874  0.37716145  0.55531800  1
+  Se  Se5  1  0.23780920  0.42902088  0.90513376  1
+  Se  Se6  1  0.01655111  0.68660739  0.46201231  1
+  Se  Se7  1  0.51767410  0.22939542  0.46583270  1
+  Br  Br8  1  0.77086216  0.95763523  0.97270197  1

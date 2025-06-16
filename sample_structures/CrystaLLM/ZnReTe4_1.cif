@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ZnReTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19234206
+_cell_length_b   5.60319675
+_cell_length_c   6.72308667
+_cell_angle_alpha   89.84386760
+_cell_angle_beta   90.02375435
+_cell_angle_gamma   90.03846344
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnReTe4
+_chemical_formula_sum   'Zn1 Re1 Te4'
+_cell_volume   157.92814909
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.98640438  0.33438121  -0.03442865  1
+  Re  Re1  1  0.48364186  0.83551033  0.46555738  1
+  Te  Te2  1  -0.01541808  0.10831892  0.57973216  1
+  Te  Te3  1  0.48514810  0.63698576  0.82596609  1
+  Te  Te4  1  0.48575329  0.03355065  0.10458966  1
+  Te  Te5  1  -0.01602954  0.56315313  0.35108336  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_KAcTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31805676
+_cell_length_b   4.69150629
+_cell_length_c   6.30009628
+_cell_angle_alpha   68.27094377
+_cell_angle_beta   78.34039893
+_cell_angle_gamma   68.15627940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAcTe2
+_chemical_formula_sum   'K1 Ac1 Te2'
+_cell_volume   160.56941993
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.76494021  0.72451421  0.71074767  1
+  Ac  Ac1  1  0.26639547  0.22960443  0.20613888  1
+  Te  Te2  1  0.34604539  0.48935222  0.60836408  1
+  Te  Te3  1  -0.13659108  -0.03104086  0.12941936  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mn6PtRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23796446
+_cell_length_b   4.50834966
+_cell_length_c   5.33277325
+_cell_angle_alpha   90.14936984
+_cell_angle_beta   90.00067699
+_cell_angle_gamma   89.94188490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn6PtRh
+_chemical_formula_sum   'Mn6 Pt1 Rh1'
+_cell_volume   101.88877042
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.46709290  0.51737463  0.03680133  1
+  Mn  Mn1  1  0.46691481  0.51924670  0.51911614  1
+  Mn  Mn2  1  0.46685723  0.02549170  0.28396954  1
+  Mn  Mn3  1  0.46658565  0.01749832  0.77697621  1
+  Mn  Mn4  1  -0.03238414  0.36182713  0.28133015  1
+  Mn  Mn5  1  -0.03384060  0.37784220  0.77186006  1
+  Pt  Pt6  1  -0.03317308  -0.12929678  0.03127876  1
+  Rh  Rh7  1  -0.03312277  -0.12800390  0.52436781  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AlSb2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.31713650
+_cell_length_b   7.59072220
+_cell_length_c   6.76866507
+_cell_angle_alpha   76.34469488
+_cell_angle_beta   67.33065712
+_cell_angle_gamma   52.27776044
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSb2Ru
+_chemical_formula_sum   'Al4 Sb8 Ru4'
+_cell_volume   349.39673666
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.36826578  0.61622036  0.25516380  1
+  Al  Al1  1  0.63173328  0.38378956  0.74484470  1
+  Al  Al2  1  -0.01507284  0.38328865  0.75457507  1
+  Al  Al3  1  0.01507683  0.61670924  0.24542500  1
+  Sb  Sb4  1  -0.01732075  0.03413170  0.24946041  1
+  Sb  Sb5  1  0.27848193  0.44349400  0.75042714  1
+  Sb  Sb6  1  0.01731813  -0.03413600  0.75050475  1
+  Sb  Sb7  1  0.72152351  0.55650432  0.24958466  1
+  Sb  Sb8  1  0.27133458  0.12723207  0.38352319  1
+  Sb  Sb9  1  0.60166732  0.12777009  0.11520979  1
+  Sb  Sb10  1  0.72866368  0.87276529  0.61648262  1
+  Sb  Sb11  1  0.39833293  0.87222807  0.88479102  1
+  Ru  Ru12  1  0.39106616  0.72118112  0.57417133  1
+  Ru  Ru13  1  0.88810656  0.72064642  0.92580691  1
+  Ru  Ru14  1  0.60893012  0.27882393  0.42583365  1
+  Ru  Ru15  1  0.11189277  0.27935117  0.07419595  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na9La2Bi4Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08941519
+_cell_length_b   8.20506975
+_cell_length_c   13.88144394
+_cell_angle_alpha   117.26837694
+_cell_angle_beta   89.98978702
+_cell_angle_gamma   90.37452147
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na9La2Bi4Cl
+_chemical_formula_sum   'Na9 La2 Bi4 Cl1'
+_cell_volume   515.24253565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.62913272  0.21364641  0.06173293  1
+  Na  Na1  1  0.63015241  0.49195711  0.64275525  1
+  Na  Na2  1  0.63054634  0.43915902  0.90720187  1
+  Na  Na3  1  0.63202470  0.69371695  0.47823960  1
+  Na  Na4  1  0.61943100  0.68794822  0.19107490  1
+  Na  Na5  1  0.13393242  0.83121795  0.03851971  1
+  Na  Na6  1  0.62014023  0.23971218  0.35132300  1
+  Na  Na7  1  0.12230785  0.49271761  0.27629753  1
+  Na  Na8  1  0.13061659  0.48474021  0.78158297  1
+  La  La9  1  0.13079097  0.98945832  0.79783506  1
+  La  La10  1  0.13732854  0.06694729  0.49634829  1
+  Bi  Bi11  1  0.63404976  0.10556859  0.66055235  1
+  Bi  Bi12  1  0.63116650  0.81271888  0.87982274  1
+  Bi  Bi13  1  0.13040638  0.39988251  0.02023392  1
+  Bi  Bi14  1  0.12707084  0.47498733  0.51355105  1
+  Cl  Cl15  1  0.20907939  0.96411610  0.26560406  1

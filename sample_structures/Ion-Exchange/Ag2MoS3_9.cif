@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ag2MoS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95251751
+_cell_length_b   6.95249639
+_cell_length_c   8.09827937
+_cell_angle_alpha   106.31530049
+_cell_angle_beta   106.31509420
+_cell_angle_gamma   121.51682325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2MoS3
+_chemical_formula_sum   'Ag4 Mo2 S6'
+_cell_volume   273.00409847
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.47814573  0.13188924  0.90319693  1
+  Ag  Ag1  1  0.80424882  0.75130322  0.89619568  1
+  Ag  Ag2  1  0.13189279  0.47815388  0.40317319  1
+  Ag  Ag3  1  0.75132706  0.80426023  0.39619736  1
+  Mo  Mo4  1  0.12521697  0.46846642  0.93455610  1
+  Mo  Mo5  1  0.46847452  0.12522931  0.43456342  1
+  S  S6  1  0.88512246  0.18773730  0.02349415  1
+  S  S7  1  0.18776103  0.88513967  0.52350892  1
+  S  S8  1  0.88900934  0.25435044  0.58101365  1
+  S  S9  1  0.25435163  0.88901888  0.08102998  1
+  S  S10  1  0.52519361  0.49686298  0.52053623  1
+  S  S11  1  0.49685603  0.52518841  0.02053638  1

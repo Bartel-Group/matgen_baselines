@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Re4Si2H
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44396429
+_cell_length_b   6.50738202
+_cell_length_c   4.26413400
+_cell_angle_alpha   122.36578078
+_cell_angle_beta   80.56407136
+_cell_angle_gamma   130.70145147
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re4Si2H
+_chemical_formula_sum   'Re4 Si2 H1'
+_cell_volume   92.59911945
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.03322897  0.71926541  0.64394418  1
+  Re  Re1  1  0.26514994  0.57848836  0.01882739  1
+  Re  Re2  1  -0.07453164  0.14418591  0.24581721  1
+  Re  Re3  1  0.35824133  0.13570819  -0.60378589  1
+  Si  Si4  1  0.58737883  0.68908265  0.52436781  1
+  Si  Si5  1  0.66127970  0.21059049  0.88668277  1
+  H  H6  1  0.47252287  0.43511900  -0.08948346  1

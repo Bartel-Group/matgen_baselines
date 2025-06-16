@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_In2Cu3Te2SI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20102188
+_cell_length_b   7.60377906
+_cell_length_c   12.88258814
+_cell_angle_alpha   83.86278060
+_cell_angle_beta   89.97270477
+_cell_angle_gamma   105.99496305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Cu3Te2SI4
+_chemical_formula_sum   'In2 Cu3 Te2 S1 I4'
+_cell_volume   393.12510874
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.57412174  0.53620460  0.75206791  1
+  In  In1  1  0.41373537  0.22013596  0.35082738  1
+  Cu  Cu2  1  0.68834665  0.76623205  0.21200247  1
+  Cu  Cu3  1  0.12020673  0.62862452  0.50786612  1
+  Cu  Cu4  1  0.98696527  0.36367760  0.06072867  1
+  Te  Te5  1  0.86520057  0.12223576  0.22130941  1
+  Te  Te6  1  0.60089722  0.59015059  0.39386266  1
+  S  S7  1  0.02761225  0.44291044  0.66121646  1
+  I  I8  1  0.29928421  0.98683518  0.53868175  1
+  I  I9  1  0.74385313  0.87551184  0.81736976  1
+  I  I10  1  0.15662066  0.70333721  0.10158640  1
+  I  I11  1  0.44979458  0.28934059  0.94781647  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La4GaAs7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25637253
+_cell_length_b   6.51571485
+_cell_length_c   10.83147123
+_cell_angle_alpha   91.28268627
+_cell_angle_beta   89.98716677
+_cell_angle_gamma   89.91783747
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4GaAs7
+_chemical_formula_sum   'La4 Ga1 As7'
+_cell_volume   300.31695508
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.46274896  0.42914291  0.04460121  1
+  La  La1  1  0.96150159  0.06425124  0.81110517  1
+  La  La2  1  0.96140851  0.53812854  0.54598002  1
+  La  La3  1  0.46239266  0.93987539  0.30097693  1
+  Ga  Ga4  1  0.46155839  0.89877801  0.61690174  1
+  As  As5  1  0.46186573  0.90475372  0.00759563  1
+  As  As6  1  0.96293972  0.59056700  0.24825420  1
+  As  As7  1  0.46060205  0.43111788  0.33415637  1
+  As  As8  1  0.96323215  0.58100499  0.84120874  1
+  As  As9  1  0.96142418  0.04763058  0.50929483  1
+  As  As10  1  0.46072405  0.39024414  0.74437960  1
+  As  As11  1  0.96288736  0.08958018  0.10163969  1

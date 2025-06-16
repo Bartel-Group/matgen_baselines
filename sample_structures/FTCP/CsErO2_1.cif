@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CsErO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52099438
+_cell_length_b   3.48042417
+_cell_length_c   14.08586686
+_cell_angle_alpha   95.37059743
+_cell_angle_beta   96.90500527
+_cell_angle_gamma   119.87431435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsErO2
+_chemical_formula_sum   'Cs2 Er2 O4'
+_cell_volume   146.21231827
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49389310  -0.08494370  0.74866576  1
+  Cs  Cs1  1  0.34830611  0.12970050  0.25080891  1
+  Er  Er2  1  0.04989823  -0.20911355  -0.00370365  1
+  Er  Er3  1  -0.07416563  0.02408464  0.49787809  1
+  O  O4  1  0.18319307  0.62096275  0.41514680  1
+  O  O5  1  0.78947856  0.19552395  0.07675654  1
+  O  O6  1  0.66346511  0.42428283  0.57788872  1
+  O  O7  1  0.31098144  0.39234259  0.91353883  1

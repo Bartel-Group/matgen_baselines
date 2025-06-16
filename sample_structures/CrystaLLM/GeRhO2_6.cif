@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_GeRhO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64527707
+_cell_length_b   2.81033939
+_cell_length_c   4.33313203
+_cell_angle_alpha   89.99999900
+_cell_angle_beta   85.76681091
+_cell_angle_gamma   89.99999969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeRhO2
+_chemical_formula_sum   'Ge1 Rh1 O2'
+_cell_volume   56.41386980
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  -0.01380931  0.50000000  -0.13159487  1
+  Rh  Rh1  1  0.66434334  0.00000000  0.55941837  1
+  O  O2  1  -0.03199439  -0.00000000  0.16455606  1
+  O  O3  1  0.37296036  0.50000000  0.75172044  1

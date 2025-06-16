@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiAl2Zn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93615992
+_cell_length_b   2.87285968
+_cell_length_c   4.84955052
+_cell_angle_alpha   90.05325889
+_cell_angle_beta   111.59345827
+_cell_angle_gamma   90.07326920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAl2Zn
+_chemical_formula_sum   'Ti1 Al2 Zn1'
+_cell_volume   63.94439222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.02772623  0.02530785  0.01366647  1
+  Al  Al1  1  0.02765862  0.52374744  0.51327130  1
+  Al  Al2  1  0.52723720  0.02647670  0.51389224  1
+  Zn  Zn3  1  0.52776796  0.52446800  0.01407999  1

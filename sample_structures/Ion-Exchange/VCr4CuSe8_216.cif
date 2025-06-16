@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_VCr4CuSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44314041
+_cell_length_b   7.44312667
+_cell_length_c   7.44312927
+_cell_angle_alpha   59.99956261
+_cell_angle_beta   59.99962423
+_cell_angle_gamma   59.99957188
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VCr4CuSe8
+_chemical_formula_sum   'V1 Cr4 Cu1 Se8'
+_cell_volume   291.57354116
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.49999980  0.49999988  0.50000009  1
+  Cr  Cr1  1  0.63388350  0.12203899  0.12203879  1
+  Cr  Cr2  1  0.12203889  0.63388351  0.12203883  1
+  Cr  Cr3  1  0.12203889  0.12203899  0.63388344  1
+  Cr  Cr4  1  0.12203925  0.12203921  0.12203923  1
+  Cu  Cu5  1  0.75000000  0.74999950  0.75000005  1
+  Se  Se6  1  0.35009335  0.88330263  0.88330255  1
+  Se  Se7  1  0.88330281  0.35009334  0.88330247  1
+  Se  Se8  1  0.88330257  0.88330250  0.35009333  1
+  Se  Se9  1  0.88330265  0.88330251  0.88330276  1
+  Se  Se10  1  0.90146062  0.36618001  0.36618000  1
+  Se  Se11  1  0.36617984  0.90146093  0.36617987  1
+  Se  Se12  1  0.36617996  0.36618000  0.90146070  1
+  Se  Se13  1  0.36617984  0.36617997  0.36617986  1

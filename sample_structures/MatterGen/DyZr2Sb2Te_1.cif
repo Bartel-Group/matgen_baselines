@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyZr2Sb2Te
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80757475
+_cell_length_b   3.80638581
+_cell_length_c   13.25345490
+_cell_angle_alpha   90.02904505
+_cell_angle_beta   90.04191506
+_cell_angle_gamma   119.93557491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyZr2Sb2Te
+_chemical_formula_sum   'Dy1 Zr2 Sb2 Te1'
+_cell_volume   166.45705942
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.03924738  0.40487034  0.86325119  1
+  Zr  Zr1  1  0.37334279  0.07422491  0.16082540  1
+  Zr  Zr2  1  0.03917557  0.40770564  0.33904595  1
+  Sb  Sb3  1  0.70651267  0.73977989  0.02035701  1
+  Sb  Sb4  1  0.37139681  0.07035874  0.69011925  1
+  Te  Te5  1  0.70595475  0.74148733  0.47831203  1

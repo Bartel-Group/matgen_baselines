@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Cs3PbI4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91002081
+_cell_length_b   8.94471657
+_cell_length_c   9.06118079
+_cell_angle_alpha   83.14298625
+_cell_angle_beta   112.60887628
+_cell_angle_gamma   91.24721034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3PbI4
+_chemical_formula_sum   'Cs3 Pb1 I4'
+_cell_volume   438.87899837
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.05239035  0.09770887  0.83650211  1
+  Cs  Cs1  1  0.76792900  0.83363614  0.30213873  1
+  Cs  Cs2  1  0.34011663  0.35929102  0.37078133  1
+  Pb  Pb3  1  0.55236784  0.59694943  0.83725609  1
+  I  I4  1  0.67958582  0.25979908  0.07985301  1
+  I  I5  1  0.00214570  0.49177667  0.62119944  1
+  I  I6  1  0.10440239  0.70072104  0.04839619  1
+  I  I7  1  0.42692437  0.93339447  0.59361805  1

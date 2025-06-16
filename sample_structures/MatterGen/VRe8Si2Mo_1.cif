@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_VRe8Si2Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.80863130
+_cell_length_b   5.26750197
+_cell_length_c   12.44974604
+_cell_angle_alpha   92.12699580
+_cell_angle_beta   86.17253385
+_cell_angle_gamma   106.45519484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VRe8Si2Mo
+_chemical_formula_sum   'V1 Re8 Si2 Mo1'
+_cell_volume   176.21748171
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.83503558  0.72844293  0.30003393  1
+  Re  Re1  1  -0.01490929  0.21703688  0.97615904  1
+  Re  Re2  1  0.80565759  0.21873097  0.27446550  1
+  Re  Re3  1  0.28174501  0.90881422  0.11818239  1
+  Re  Re4  1  0.20562122  0.45532620  0.78453725  1
+  Re  Re5  1  0.74939483  0.69221532  0.94496573  1
+  Re  Re6  1  0.27407574  0.42684186  0.44658784  1
+  Re  Re7  1  0.52986554  0.96236725  0.46820361  1
+  Re  Re8  1  0.82226647  0.65732718  0.61523674  1
+  Si  Si9  1  0.07481083  0.16811252  0.61993780  1
+  Si  Si10  1  0.52176909  0.45942254  0.12617014  1
+  Mo  Mo11  1  0.38038342  0.97901304  0.79193703  1

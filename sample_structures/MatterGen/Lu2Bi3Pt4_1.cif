@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2Bi3Pt4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68142435
+_cell_length_b   4.68451673
+_cell_length_c   11.56527573
+_cell_angle_alpha   101.64123289
+_cell_angle_beta   90.10393578
+_cell_angle_gamma   119.86522020
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Bi3Pt4
+_chemical_formula_sum   'Lu2 Bi3 Pt4'
+_cell_volume   213.85450834
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.66355536  0.72187168  0.75204550  1
+  Lu  Lu1  1  0.54979976  0.49954661  0.41453100  1
+  Bi  Bi2  1  0.09072851  0.56631502  0.01343952  1
+  Bi  Bi3  1  0.82679441  0.05520373  0.24779551  1
+  Bi  Bi4  1  0.27774158  0.95269477  0.59600262  1
+  Pt  Pt5  1  0.74859424  0.88269456  -0.01307080  1
+  Pt  Pt6  1  0.17526425  0.74984885  0.29041082  1
+  Pt  Pt7  1  0.36198989  0.12005137  0.84922564  1
+  Pt  Pt8  1  0.92499920  0.24927663  0.53964682  1

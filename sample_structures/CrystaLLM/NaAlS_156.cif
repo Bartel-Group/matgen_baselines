@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_NaAlS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57924904
+_cell_length_b   3.57924973
+_cell_length_c   6.29292427
+_cell_angle_alpha   90.00001033
+_cell_angle_beta   89.99996313
+_cell_angle_gamma   120.00009539
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAlS
+_chemical_formula_sum   'Na1 Al1 S1'
+_cell_volume   69.81787675
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000021  0.00000002  0.51604567  1
+  Al  Al1  1  0.00000006  -0.00000012  -0.01390449  1
+  S  S2  1  0.33333306  0.66666677  0.19715882  1

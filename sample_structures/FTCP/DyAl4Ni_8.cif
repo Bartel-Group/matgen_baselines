@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyAl4Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99296778
+_cell_length_b   8.23615825
+_cell_length_c   6.49065198
+_cell_angle_alpha   85.71864916
+_cell_angle_beta   90.31458133
+_cell_angle_gamma   75.82995453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyAl4Ni
+_chemical_formula_sum   'Dy2 Al8 Ni2'
+_cell_volume   206.32160020
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.95559516  0.23628082  0.67326354  1
+  Dy  Dy1  1  0.18295045  0.78117724  0.19335199  1
+  Al  Al2  1  0.56966136  0.00698669  -0.06925197  1
+  Al  Al3  1  0.38065954  0.38760752  -0.00974050  1
+  Al  Al4  1  -0.01174821  0.17090424  0.18365787  1
+  Al  Al5  1  0.75878934  0.63008956  0.87671227  1
+  Al  Al6  1  0.56927535  0.00877970  0.43362707  1
+  Al  Al7  1  0.15096311  0.84592298  0.68134006  1
+  Al  Al8  1  0.31007594  0.52691299  0.59087665  1
+  Al  Al9  1  0.82837629  0.49004893  0.27604796  1
+  Ni  Ni10  1  0.41762386  0.31211267  0.34881335  1
+  Ni  Ni11  1  0.72025781  0.70501666  0.51781170  1

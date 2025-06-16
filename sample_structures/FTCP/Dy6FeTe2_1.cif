@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Dy6FeTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.33576909
+_cell_length_b   7.27341814
+_cell_length_c   3.82486752
+_cell_angle_alpha   75.44336575
+_cell_angle_beta   69.91938863
+_cell_angle_gamma   109.01199733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6FeTe2
+_chemical_formula_sum   'Dy6 Fe1 Te2'
+_cell_volume   255.53831635
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.64212048  0.13435062  0.54649451  1
+  Dy  Dy1  1  0.25183174  0.41624481  0.29831722  1
+  Dy  Dy2  1  -0.07514257  0.58096400  0.54005950  1
+  Dy  Dy3  1  -0.04001837  0.11666774  0.24197581  1
+  Dy  Dy4  1  0.70030882  0.74718121  0.18145872  1
+  Dy  Dy5  1  0.25194477  -0.00594121  0.00418315  1
+  Fe  Fe6  1  0.03155524  -0.08138113  0.76530170  1
+  Te  Te7  1  0.41616177  0.79525201  -0.55601046  1
+  Te  Te8  1  0.52385812  0.36178196  0.05001984  1

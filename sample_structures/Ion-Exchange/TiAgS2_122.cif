@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TiAgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80038481
+_cell_length_b   5.80038444
+_cell_length_c   6.77555898
+_cell_angle_alpha   115.34323923
+_cell_angle_beta   115.34323522
+_cell_angle_gamma   89.99990707
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAgS2
+_chemical_formula_sum   'Ti2 Ag2 S4'
+_cell_volume   181.44876000
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.49999859  0.49999788  0.00000147  1
+  Ti  Ti1  1  0.74999791  0.24999860  0.50000143  1
+  Ag  Ag2  1  0.24999973  0.75000002  0.50000035  1
+  Ag  Ag3  1  0.00000004  -0.00000024  0.00000038  1
+  S  S4  1  0.84448762  0.87499546  0.24999516  1
+  S  S5  1  0.62500005  0.15551412  0.75000302  1
+  S  S6  1  0.40551067  0.37500313  0.24999616  1
+  S  S7  1  0.12500540  0.59449103  0.75000204  1

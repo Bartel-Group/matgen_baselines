@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MgBe2Pt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13317884
+_cell_length_b   4.21782439
+_cell_length_c   5.20767777
+_cell_angle_alpha   89.97640006
+_cell_angle_beta   91.46593748
+_cell_angle_gamma   120.70361579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgBe2Pt3
+_chemical_formula_sum   'Mg1 Be2 Pt3'
+_cell_volume   78.02524819
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.42645418  0.66798184  0.75110560  1
+  Be  Be1  1  0.75861096  0.33331405  0.41751681  1
+  Be  Be2  1  0.09415156  0.00182102  0.08440458  1
+  Pt  Pt3  1  0.09825197  0.00380763  0.55344902  1
+  Pt  Pt4  1  0.75470876  0.33218471  0.94888975  1
+  Pt  Pt5  1  0.42655089  0.66801705  0.25111974  1

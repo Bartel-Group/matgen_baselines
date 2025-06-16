@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiAl2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09559100
+_cell_length_b   3.92778654
+_cell_length_c   5.09539320
+_cell_angle_alpha   64.58041759
+_cell_angle_beta   45.92989008
+_cell_angle_gamma   64.97260554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl2Ge
+_chemical_formula_sum   'Li1 Al2 Ge1'
+_cell_volume   64.94950594
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.52567040  0.54851762  0.51840781  1
+  Al  Al1  1  0.77713701  0.79923387  0.76863424  1
+  Al  Al2  1  0.27385797  0.29977692  0.26547564  1
+  Ge  Ge3  1  0.02662462  0.04799159  0.01692230  1

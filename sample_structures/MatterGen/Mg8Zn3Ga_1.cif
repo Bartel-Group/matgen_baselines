@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mg8Zn3Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.24545645
+_cell_length_b   5.67859928
+_cell_length_c   13.78397300
+_cell_angle_alpha   92.81951860
+_cell_angle_beta   96.69634823
+_cell_angle_gamma   106.48325822
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg8Zn3Ga
+_chemical_formula_sum   'Mg8 Zn3 Ga1'
+_cell_volume   241.02735674
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.85164436  0.52752578  0.02941799  1
+  Mg  Mg1  1  0.42817986  0.83016311  0.88016892  1
+  Mg  Mg2  1  0.02056904  0.37432207  0.51864297  1
+  Mg  Mg3  1  0.42100673  0.04238672  0.65517175  1
+  Mg  Mg4  1  0.03535804  0.60226370  0.32685656  1
+  Mg  Mg5  1  0.13181855  0.28218397  0.83896256  1
+  Mg  Mg6  1  0.62352497  0.91919907  0.18184651  1
+  Mg  Mg7  1  0.71941492  0.59257778  0.69970136  1
+  Zn  Zn8  1  0.32126437  0.13725119  0.35352035  1
+  Zn  Zn9  1  0.34821831  0.36602941  0.18390891  1
+  Zn  Zn10  1  0.12188694  0.07527935  0.02412124  1
+  Ga  Ga11  1  0.73175676  0.83585006  0.48857855  1

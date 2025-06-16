@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SiOsCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.29830331
+_cell_length_b   9.29818084
+_cell_length_c   5.04713521
+_cell_angle_alpha   85.91628566
+_cell_angle_beta   85.92914182
+_cell_angle_gamma   129.71399251
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiOsCl2
+_chemical_formula_sum   'Si4 Os4 Cl8'
+_cell_volume   330.93487361
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.51793956  0.48208050  0.74995992  1
+  Si  Si1  1  0.62987693  0.37012856  0.24983747  1
+  Si  Si2  1  0.37012376  0.62987096  0.75017188  1
+  Si  Si3  1  0.48205815  0.51792204  0.25003577  1
+  Os  Os4  1  0.35083084  0.64916399  0.24988339  1
+  Os  Os5  1  0.93478343  0.06521183  0.24999166  1
+  Os  Os6  1  0.06521388  0.93479141  0.75000835  1
+  Os  Os7  1  0.64917410  0.35083075  0.75010890  1
+  Cl  Cl8  1  0.12101838  0.21916685  0.83220507  1
+  Cl  Cl9  1  -0.02169194  0.63695380  0.67506876  1
+  Cl  Cl10  1  0.21917288  0.12103241  0.33221812  1
+  Cl  Cl11  1  0.36305048  0.02169737  0.82491487  1
+  Cl  Cl12  1  0.63694961  -0.02169656  0.17508834  1
+  Cl  Cl13  1  0.78082781  0.87896771  0.66777980  1
+  Cl  Cl14  1  0.02169094  0.36304555  0.32493181  1
+  Cl  Cl15  1  0.87898120  0.78083283  0.16779591  1

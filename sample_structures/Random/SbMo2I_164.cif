@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SbMo2I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27334028
+_cell_length_b   3.27334029
+_cell_length_c   8.51448975
+_cell_angle_alpha   89.99999965
+_cell_angle_beta   90.00000112
+_cell_angle_gamma   120.00000214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbMo2I
+_chemical_formula_sum   'Sb1 Mo2 I1'
+_cell_volume   79.00808947
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.00000001  -0.00000001  -0.00000102  1
+  Mo  Mo1  1  0.33333331  0.66666676  0.24395506  1
+  Mo  Mo2  1  0.66666669  0.33333324  0.75604553  1
+  I  I3  1  -0.00000001  0.00000002  0.50000043  1

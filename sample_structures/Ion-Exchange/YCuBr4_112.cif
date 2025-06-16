@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YCuBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21201074
+_cell_length_b   6.21821971
+_cell_length_c   11.27816651
+_cell_angle_alpha   89.98792020
+_cell_angle_beta   90.00527236
+_cell_angle_gamma   89.95338737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCuBr4
+_chemical_formula_sum   'Y2 Cu2 Br8'
+_cell_volume   435.64888640
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00006495  0.49996285  0.74998295  1
+  Y  Y1  1  0.50001136  -0.00000947  0.25001808  1
+  Cu  Cu2  1  0.49998011  0.49977503  -0.00017676  1
+  Cu  Cu3  1  0.50031399  0.49997028  0.50008652  1
+  Br  Br4  1  0.26103960  0.74083226  0.88430797  1
+  Br  Br5  1  0.73872481  0.25906055  0.88413726  1
+  Br  Br6  1  0.26179719  0.25961626  0.61566601  1
+  Br  Br7  1  0.73812963  0.74067870  0.61587694  1
+  Br  Br8  1  0.74021457  0.73826785  0.11563437  1
+  Br  Br9  1  0.25930019  0.26182012  0.11582977  1
+  Br  Br10  1  0.25953884  0.73879833  0.38444123  1
+  Br  Br11  1  0.74088477  0.26122723  0.38419568  1

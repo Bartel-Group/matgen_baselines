@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaLuZnTe3ClO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79885896
+_cell_length_b   3.79450101
+_cell_length_c   19.70454742
+_cell_angle_alpha   90.40952982
+_cell_angle_beta   90.42414542
+_cell_angle_gamma   61.11357280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLuZnTe3ClO5
+_chemical_formula_sum   'Ba1 Lu1 Zn1 Te3 Cl1 O5'
+_cell_volume   248.68759593
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.69660596  0.20240832  0.03270504  1
+  Lu  Lu1  1  0.01831486  0.52962283  0.76293805  1
+  Zn  Zn2  1  0.35335365  0.86445527  0.88308451  1
+  Te  Te3  1  0.03198814  0.53914000  0.19121452  1
+  Te  Te4  1  0.63057396  0.14745841  0.38904817  1
+  Te  Te5  1  0.01564583  0.53080092  0.49115874  1
+  Cl  Cl6  1  0.68577037  0.19630187  0.67563645  1
+  O  O7  1  0.36021085  0.86688447  0.08385102  1
+  O  O8  1  0.01920616  0.53069609  0.88363457  1
+  O  O9  1  0.35421334  0.86506801  0.78228789  1
+  O  O10  1  0.36736743  0.88173302  0.34338653  1
+  O  O11  1  0.69781203  0.20497047  0.20408222  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YCu4O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57734731
+_cell_length_b   5.49508275
+_cell_length_c   5.50349961
+_cell_angle_alpha   55.20416108
+_cell_angle_beta   90.06184292
+_cell_angle_gamma   89.85313556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCu4O5
+_chemical_formula_sum   'Y1 Cu4 O5'
+_cell_volume   138.51007289
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.95913353  0.51431122  0.13289501  1
+  Cu  Cu1  1  0.45918489  0.01447230  0.13253766  1
+  Cu  Cu2  1  0.45901706  0.51438138  0.63258384  1
+  Cu  Cu3  1  0.96128061  0.82481620  0.44388694  1
+  Cu  Cu4  1  0.95652115  0.20455378  0.82136398  1
+  O  O5  1  0.22507171  0.69187122  0.30798898  1
+  O  O6  1  0.69295864  0.33750219  0.95732442  1
+  O  O7  1  0.95858227  0.01537807  0.63179018  1
+  O  O8  1  0.22328750  0.33830935  0.95349544  1
+  O  O9  1  0.69491471  0.69051149  0.31175950  1

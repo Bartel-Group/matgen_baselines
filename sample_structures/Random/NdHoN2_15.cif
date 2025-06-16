@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NdHoN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12951323
+_cell_length_b   6.12951911
+_cell_length_c   6.10090035
+_cell_angle_alpha   79.57022401
+_cell_angle_beta   79.57011214
+_cell_angle_gamma   33.73816608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdHoN2
+_chemical_formula_sum   'Nd2 Ho2 N4'
+_cell_volume   125.00799485
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.24880710  0.75119301  0.25000007  1
+  Nd  Nd1  1  0.75119304  0.24880687  0.74999997  1
+  Ho  Ho2  1  0.00000015  0.49999986  0.00000001  1
+  Ho  Ho3  1  0.50000012  -0.00000011  0.50000001  1
+  N  N4  1  0.11706148  0.62036040  0.62800515  1
+  N  N5  1  0.62035900  0.11706287  0.12800506  1
+  N  N6  1  0.37964080  0.88293733  0.87199491  1
+  N  N7  1  0.88293831  0.37963977  0.37199483  1

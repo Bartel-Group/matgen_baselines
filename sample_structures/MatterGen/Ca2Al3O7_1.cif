@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2Al3O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32845128
+_cell_length_b   5.86922883
+_cell_length_c   6.13020849
+_cell_angle_alpha   95.02561748
+_cell_angle_beta   93.85090164
+_cell_angle_gamma   109.21807394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Al3O7
+_chemical_formula_sum   'Ca2 Al3 O7'
+_cell_volume   179.39422046
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.29184980  0.55366326  0.56357895  1
+  Ca  Ca1  1  0.79059811  0.63431629  0.13535229  1
+  Al  Al2  1  0.97735228  0.99698725  0.66222759  1
+  Al  Al3  1  0.57312443  0.09127321  0.47450472  1
+  Al  Al4  1  0.23140914  0.25452934  0.07462593  1
+  O  O5  1  -0.00286858  0.97136964  0.94956132  1
+  O  O6  1  0.69419960  0.82854156  0.46099197  1
+  O  O7  1  0.42175593  0.43886150  0.88752917  1
+  O  O8  1  0.26207895  0.94551077  0.57432226  1
+  O  O9  1  0.88895727  0.26666259  0.62737085  1
+  O  O10  1  0.09183172  0.45641533  0.20591082  1
+  O  O11  1  0.48669352  0.25568489  0.27668276  1

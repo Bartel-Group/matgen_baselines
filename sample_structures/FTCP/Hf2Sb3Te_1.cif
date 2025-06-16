@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Hf2Sb3Te
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20732227
+_cell_length_b   4.08917956
+_cell_length_c   9.79256987
+_cell_angle_alpha   89.91300852
+_cell_angle_beta   64.62539197
+_cell_angle_gamma   90.01469135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Sb3Te
+_chemical_formula_sum   'Hf2 Sb3 Te1'
+_cell_volume   152.22228486
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.64151202  0.20212208  0.79242915  1
+  Hf  Hf1  1  -0.21842371  0.20228635  0.14314614  1
+  Sb  Sb2  1  0.87409942  0.70274550  0.55477390  1
+  Sb  Sb3  1  0.40656079  0.20237990  0.52292161  1
+  Sb  Sb4  1  0.20132793  0.70109263  0.22427780  1
+  Te  Te5  1  0.03208356  -0.29718646  0.89984139  1

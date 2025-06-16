@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Co2RuSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93505191
+_cell_length_b   7.93517112
+_cell_length_c   7.93531644
+_cell_angle_alpha   109.47220777
+_cell_angle_beta   109.47161067
+_cell_angle_gamma   109.47086119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2RuSe3
+_chemical_formula_sum   'Co8 Ru4 Se12'
+_cell_volume   384.62983892
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50000112  -0.00000051  0.94255119  1
+  Co  Co1  1  0.55744967  0.49999691  -0.00000287  1
+  Co  Co2  1  0.94253911  0.94253729  0.94253681  1
+  Co  Co3  1  0.00000241  0.55746513  0.49999803  1
+  Co  Co4  1  0.50000166  -0.00000061  0.55745654  1
+  Co  Co5  1  0.94252066  0.49999897  0.00000054  1
+  Co  Co6  1  0.00000360  0.94254562  0.50000222  1
+  Co  Co7  1  0.55746540  0.55746566  0.55746508  1
+  Ru  Ru8  1  0.24999868  0.24999385  0.24999554  1
+  Ru  Ru9  1  -0.00000105  0.25000285  0.49999870  1
+  Ru  Ru10  1  0.24999604  0.50000227  0.00000069  1
+  Ru  Ru11  1  0.50000224  -0.00000067  0.25000219  1
+  Se  Se12  1  0.61764672  0.75000535  0.36764546  1
+  Se  Se13  1  0.25000161  0.61764327  0.36764115  1
+  Se  Se14  1  0.74999798  0.88235784  0.13235712  1
+  Se  Se15  1  0.61764521  0.36763933  0.25000088  1
+  Se  Se16  1  0.88235830  0.13235801  0.74999871  1
+  Se  Se17  1  0.36764194  0.24999559  0.61764103  1
+  Se  Se18  1  0.36764354  0.61764353  0.74999757  1
+  Se  Se19  1  0.25000276  0.13235472  0.88235607  1
+  Se  Se20  1  0.13236200  0.88235639  0.25000017  1
+  Se  Se21  1  0.75000013  0.36763878  0.61764010  1
+  Se  Se22  1  0.88235809  0.25000035  0.13235837  1
+  Se  Se23  1  0.13236219  0.75000009  0.88235872  1

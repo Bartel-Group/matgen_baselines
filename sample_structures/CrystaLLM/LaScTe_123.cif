@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_LaScTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49883523
+_cell_length_b   4.44585489
+_cell_length_c   4.44214929
+_cell_angle_alpha   90.00055248
+_cell_angle_beta   89.96567397
+_cell_angle_gamma   89.97486261
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaScTe
+_chemical_formula_sum   'La1 Sc1 Te1'
+_cell_volume   108.59729816
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.00000031  0.00000048  0.00000017  1
+  Sc  Sc1  1  0.50000015  0.49999903  0.49999966  1
+  Te  Te2  1  0.00000016  0.50000049  0.50000017  1

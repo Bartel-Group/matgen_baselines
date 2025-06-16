@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ta2BTe2Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26192372
+_cell_length_b   3.26468378
+_cell_length_c   13.34877725
+_cell_angle_alpha   90.22862913
+_cell_angle_beta   89.70438988
+_cell_angle_gamma   120.15032734
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2BTe2Mo
+_chemical_formula_sum   'Ta2 B1 Te2 Mo1'
+_cell_volume   122.91951217
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.15523230  0.26903286  0.94543679  1
+  Ta  Ta1  1  0.49424504  0.93273840  0.30728413  1
+  B  B2  1  0.15883842  0.26842613  0.19902899  1
+  Te  Te3  1  0.49144494  0.93378991  0.78388442  1
+  Te  Te4  1  0.15883299  0.26614009  0.47076525  1
+  Mo  Mo5  1  0.48893531  0.93663943  0.09819879  1

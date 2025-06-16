@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_P2IrC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.89288314
+_cell_length_b   2.89290141
+_cell_length_c   6.42411276
+_cell_angle_alpha   89.99996873
+_cell_angle_beta   90.00005479
+_cell_angle_gamma   120.00108060
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   P2IrC
+_chemical_formula_sum   'P2 Ir1 C1'
+_cell_volume   46.55899338
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.33333245  0.66666589  0.29915073  1
+  P  P1  1  0.66666737  0.33333417  0.70084970  1
+  Ir  Ir2  1  -0.00000025  -0.00000017  -0.00000003  1
+  C  C3  1  0.00000042  0.00000010  0.49999961  1

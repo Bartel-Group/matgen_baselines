@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Lu2SeS4Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04304938
+_cell_length_b   3.93247933
+_cell_length_c   16.16708814
+_cell_angle_alpha   87.81069958
+_cell_angle_beta   92.81876572
+_cell_angle_gamma   120.53451508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2SeS4Cl
+_chemical_formula_sum   'Lu2 Se1 S4 Cl1'
+_cell_volume   221.10391952
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.92799926  0.67622679  0.24214347  1
+  Lu  Lu1  1  0.35899344  0.56326634  0.83913859  1
+  Se  Se2  1  0.19789314  0.11363572  0.54512000  1
+  S  S3  1  0.69001418  0.26250485  0.74034668  1
+  S  S4  1  0.60151791  0.99580225  0.31713803  1
+  S  S5  1  0.02780649  0.87284640  0.91445066  1
+  S  S6  1  0.49262734  0.91497893  0.62563827  1
+  Cl  Cl7  1  0.24216395  0.34669237  0.14398815  1

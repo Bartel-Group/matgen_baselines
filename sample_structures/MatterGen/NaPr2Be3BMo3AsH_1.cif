@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaPr2Be3BMo3AsH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50473299
+_cell_length_b   6.01369757
+_cell_length_c   9.25376999
+_cell_angle_alpha   91.37352228
+_cell_angle_beta   89.93141808
+_cell_angle_gamma   89.86416896
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPr2Be3BMo3AsH
+_chemical_formula_sum   'Na1 Pr2 Be3 B1 Mo3 As1 H1'
+_cell_volume   194.97945709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50700777  0.95418006  0.11032044  1
+  Pr  Pr1  1  0.50748506  0.49470607  0.76764614  1
+  Pr  Pr2  1  0.00633072  0.24495778  0.40327442  1
+  Be  Be3  1  0.00897881  0.63906598  0.01221446  1
+  Be  Be4  1  0.01058528  0.27142642  -0.01174091  1
+  Be  Be5  1  0.00627700  0.75083551  0.57978139  1
+  B  B6  1  0.00780412  0.64024681  0.24389255  1
+  Mo  Mo7  1  0.50863049  0.45179282  0.14793737  1
+  Mo  Mo8  1  0.50692159  0.71465625  0.39352529  1
+  Mo  Mo9  1  0.00421643  0.95273274  0.82557214  1
+  As  As10  1  0.50495373  0.98373151  0.62752850  1
+  H  H11  1  0.00889740  0.25421931  0.82424024  1

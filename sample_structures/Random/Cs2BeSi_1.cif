@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2BeSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18971990
+_cell_length_b   4.89786925
+_cell_length_c   15.45758785
+_cell_angle_alpha   89.60811404
+_cell_angle_beta   89.98660541
+_cell_angle_gamma   89.99941887
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2BeSi
+_chemical_formula_sum   'Cs6 Be3 Si3'
+_cell_volume   468.60804161
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49998732  0.23670261  0.11064094  1
+  Cs  Cs1  1  0.49997498  0.24779673  0.60697288  1
+  Cs  Cs2  1  0.50016228  0.76267243  0.88928901  1
+  Cs  Cs3  1  0.49999616  0.75283396  0.39314474  1
+  Cs  Cs4  1  0.00014867  0.25131374  0.77427256  1
+  Cs  Cs5  1  -0.00004716  0.74809219  0.22567626  1
+  Be  Be6  1  0.00047712  0.25178942  0.38842685  1
+  Be  Be7  1  -0.00085874  0.74807549  0.61186192  1
+  Be  Be8  1  0.00017246  0.00000690  -0.00016620  1
+  Si  Si9  1  -0.00004154  0.50062542  0.49986389  1
+  Si  Si10  1  0.00006131  0.50004481  -0.00005343  1
+  Si  Si11  1  -0.00003287  0.00004630  0.50007058  1

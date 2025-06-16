@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Tb5Ni2P12Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76000432
+_cell_length_b   6.38956806
+_cell_length_c   12.03712233
+_cell_angle_alpha   114.13174184
+_cell_angle_beta   105.29242508
+_cell_angle_gamma   93.34989804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5Ni2P12Au
+_chemical_formula_sum   'Tb5 Ni2 P12 Au1'
+_cell_volume   382.96341495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.57184816  0.23447119  0.23933938  1
+  Tb  Tb1  1  0.58926952  0.70517992  0.94304320  1
+  Tb  Tb2  1  0.00362466  0.37336678  0.07598434  1
+  Tb  Tb3  1  0.87140371  0.84848595  0.57023722  1
+  Tb  Tb4  1  0.29123682  0.07266893  0.44948737  1
+  Ni  Ni5  1  0.18709689  0.11996838  0.83623309  1
+  Ni  Ni6  1  0.83197987  0.86479323  0.25401633  1
+  P  P7  1  0.80257323  0.48548065  0.64411198  1
+  P  P8  1  0.98572983  0.61905157  0.33922260  1
+  P  P9  1  0.25954129  0.75941557  0.74117036  1
+  P  P10  1  0.49950617  0.32177393  0.01481743  1
+  P  P11  1  0.38186180  0.60915587  0.41482929  1
+  P  P12  1  0.17304268  0.77154297  0.03586034  1
+  P  P13  1  0.40735138  0.55430058  0.58810612  1
+  P  P14  1  0.06533612  0.05296380  0.18749542  1
+  P  P15  1  0.31526314  0.24299055  0.71437163  1
+  P  P16  1  0.78283895  0.16804023  0.45814320  1
+  P  P17  1  0.83500983  0.97170345  0.84428928  1
+  P  P18  1  0.46052016  0.66308697  0.16546664  1
+  Au  Au19  1  0.76149538  0.26289308  0.76374249  1

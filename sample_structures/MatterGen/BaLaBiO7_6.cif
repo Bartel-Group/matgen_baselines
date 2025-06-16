@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaLaBiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62134202
+_cell_length_b   4.25985936
+_cell_length_c   8.67476489
+_cell_angle_alpha   104.16321471
+_cell_angle_beta   89.98275811
+_cell_angle_gamma   89.83026461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLaBiO7
+_chemical_formula_sum   'Ba1 La1 Bi1 O7'
+_cell_volume   165.58184888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.77568817  0.98912228  0.22891098  1
+  La  La1  1  0.27649678  0.32415580  0.89897054  1
+  Bi  Bi2  1  0.27493805  0.61448216  0.47986022  1
+  O  O3  1  0.77630702  0.36626350  0.98342567  1
+  O  O4  1  0.27511202  0.09405652  0.43875879  1
+  O  O5  1  0.77666561  0.28429172  0.81699710  1
+  O  O6  1  0.27636641  0.88700513  0.02603764  1
+  O  O7  1  0.27556636  0.48706320  0.22451236  1
+  O  O8  1  0.27562153  0.73790577  0.72647785  1
+  O  O9  1  0.77519354  0.59407659  0.43890396  1

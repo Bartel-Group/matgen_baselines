@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TlAsO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82821047
+_cell_length_b   3.17079841
+_cell_length_c   5.47697787
+_cell_angle_alpha   90.00000046
+_cell_angle_beta   95.76795144
+_cell_angle_gamma   89.99999664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlAsO2
+_chemical_formula_sum   'Tl1 As1 O2'
+_cell_volume   83.42408037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  -0.00742905  0.00000003  -0.00996831  1
+  As  As1  1  0.46118906  0.49999998  0.49362930  1
+  O  O2  1  0.25695162  -0.00000000  0.58092130  1
+  O  O3  1  0.36498837  0.49999999  0.18211771  1

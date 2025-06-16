@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb5Mg4Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54141770
+_cell_length_b   6.08452786
+_cell_length_c   12.91157608
+_cell_angle_alpha   86.99526258
+_cell_angle_beta   90.00651289
+_cell_angle_gamma   106.91294466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5Mg4Ni
+_chemical_formula_sum   'Tb5 Mg4 Ni1'
+_cell_volume   265.78399525
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.51717741  0.13944930  0.18178695  1
+  Tb  Tb1  1  0.98267540  0.06785492  0.95072915  1
+  Tb  Tb2  1  0.67939816  0.46275688  0.60025947  1
+  Tb  Tb3  1  0.25146358  0.60541915  0.07076642  1
+  Tb  Tb4  1  0.41186030  0.92346098  0.72344566  1
+  Mg  Mg5  1  0.79584029  0.69864678  0.28803922  1
+  Mg  Mg6  1  0.39636691  0.90038290  0.46503718  1
+  Mg  Mg7  1  0.10288584  0.31300451  0.38458288  1
+  Mg  Mg8  1  0.70881721  0.51911366  0.85623931  1
+  Ni  Ni9  1  0.09379367  0.28953951  0.74885901  1

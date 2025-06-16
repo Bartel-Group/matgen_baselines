@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Nd3Ni2Sn2HPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36045440
+_cell_length_b   4.47216637
+_cell_length_c   13.13170307
+_cell_angle_alpha   110.04621593
+_cell_angle_beta   101.30754925
+_cell_angle_gamma   89.89673703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3Ni2Sn2HPb2
+_chemical_formula_sum   'Nd3 Ni2 Sn2 H1 Pb2'
+_cell_volume   235.29803626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.04975648  0.29227124  0.25182010  1
+  Nd  Nd1  1  0.84748473  0.47104263  0.93095792  1
+  Nd  Nd2  1  0.75553031  0.59645160  0.56400067  1
+  Ni  Ni3  1  0.49396802  0.05559395  0.03009400  1
+  Ni  Ni4  1  0.17506110  0.89002814  0.47209970  1
+  Sn  Sn5  1  0.25713509  0.86702724  0.82712025  1
+  Sn  Sn6  1  0.47598876  0.65207949  0.12606107  1
+  H  H7  1  0.19105774  0.53204933  0.46394183  1
+  Pb  Pb8  1  0.35168793  0.21889806  0.68072873  1
+  Pb  Pb9  1  0.61512887  -0.07531019  0.36594613  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaHo4O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54882238
+_cell_length_b   5.73733865
+_cell_length_c   9.02084251
+_cell_angle_alpha   106.77505060
+_cell_angle_beta   90.02983800
+_cell_angle_gamma   90.03737514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaHo4O6
+_chemical_formula_sum   'Ca1 Ho4 O6'
+_cell_volume   175.85535345
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.96873941  0.60644258  0.26945724  1
+  Ho  Ho1  1  0.46948612  0.95292334  0.07714644  1
+  Ho  Ho2  1  0.46858942  0.24512747  0.46322105  1
+  Ho  Ho3  1  0.46981659  0.83725513  0.64408219  1
+  Ho  Ho4  1  0.96987720  0.37609297  0.82791317  1
+  O  O5  1  0.46986293  0.53601421  0.74247939  1
+  O  O6  1  0.46933606  0.87749703  0.31723043  1
+  O  O7  1  0.47023728  0.12316971  0.87456080  1
+  O  O8  1  0.96962726  0.08394507  0.59792779  1
+  O  O9  1  0.96942360  0.72173514  0.03365951  1
+  O  O10  1  0.46762655  0.31631304  0.23855827  1

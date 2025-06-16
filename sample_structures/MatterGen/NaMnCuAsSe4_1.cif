@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NaMnCuAsSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01263762
+_cell_length_b   6.51152050
+_cell_length_c   8.10270060
+_cell_angle_alpha   84.18756001
+_cell_angle_beta   90.56488017
+_cell_angle_gamma   90.07701368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnCuAsSe4
+_chemical_formula_sum   'Na1 Mn1 Cu1 As1 Se4'
+_cell_volume   210.61167047
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.62594224  0.58613984  0.63169740  1
+  Mn  Mn1  1  0.13091391  0.57900462  0.16212279  1
+  Cu  Cu2  1  0.63059539  0.07355426  0.30356659  1
+  As  As3  1  0.13142297  0.06089265  0.81030699  1
+  Se  Se4  1  0.63427263  0.70601361  0.28990232  1
+  Se  Se5  1  0.12866341  0.20799732  0.17739955  1
+  Se  Se6  1  0.13038628  0.69073695  0.85907840  1
+  Se  Se7  1  0.63048307  0.12988519  0.60722858  1

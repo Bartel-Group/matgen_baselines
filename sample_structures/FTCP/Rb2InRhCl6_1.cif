@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2InRhCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.13178410
+_cell_length_b   7.10431436
+_cell_length_c   5.58133736
+_cell_angle_alpha   89.88374105
+_cell_angle_beta   90.08123882
+_cell_angle_gamma   113.51613742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2InRhCl6
+_chemical_formula_sum   'Rb2 In1 Rh1 Cl6'
+_cell_volume   332.01650184
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.25379757  0.64003382  0.24074342  1
+  Rb  Rb1  1  0.50221913  0.26013826  0.75353078  1
+  In  In2  1  -0.11722648  -0.04473875  -0.09048195  1
+  Rh  Rh3  1  0.05068868  0.03674632  0.51772367  1
+  Cl  Cl4  1  0.91315761  0.19578625  0.27849576  1
+  Cl  Cl5  1  0.16690022  0.84789032  0.73164232  1
+  Cl  Cl6  1  0.90697133  0.73967679  0.27832808  1
+  Cl  Cl7  1  0.17558889  0.34310767  0.73098688  1
+  Cl  Cl8  1  0.30785312  0.16427059  0.25390831  1
+  Cl  Cl9  1  0.58339993  0.81189872  0.87684272  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ag2IBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98370922
+_cell_length_b   6.01004073
+_cell_length_c   6.01638013
+_cell_angle_alpha   90.07573287
+_cell_angle_beta   89.90184293
+_cell_angle_gamma   90.04886101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2IBr
+_chemical_formula_sum   'Ag4 I2 Br2'
+_cell_volume   216.36249943
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.28150756  0.47473940  0.36792733  1
+  Ag  Ag1  1  0.28464535  0.97428764  0.86513272  1
+  Ag  Ag2  1  0.78159711  0.97400765  0.36629855  1
+  Ag  Ag3  1  0.78723321  0.47553159  0.86107453  1
+  I  I4  1  0.78304421  0.47572426  0.36398255  1
+  I  I5  1  0.78410745  0.97572036  0.86554486  1
+  Br  Br6  1  0.28330276  0.97587616  0.36595090  1
+  Br  Br7  1  0.28506204  0.47611332  0.86622008  1

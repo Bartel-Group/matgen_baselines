@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdMoH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82316269
+_cell_length_b   5.60008339
+_cell_length_c   5.79809272
+_cell_angle_alpha   90.00005641
+_cell_angle_beta   90.00008978
+_cell_angle_gamma   119.00653341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdMoH4
+_chemical_formula_sum   'Cd2 Mo2 H8'
+_cell_volume   165.35996733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  -0.00000037  0.74999953  0.52120543  1
+  Cd  Cd1  1  0.00000028  0.25000046  0.47879115  1
+  Mo  Mo2  1  0.50000234  0.25000271  0.54256254  1
+  Mo  Mo3  1  0.49999794  0.74999693  0.45757430  1
+  H  H4  1  0.51939036  -0.02193648  0.70027607  1
+  H  H5  1  0.48060972  0.52193637  0.70027557  1
+  H  H6  1  0.48061287  0.02193975  0.29969712  1
+  H  H7  1  0.51938704  0.47806074  0.29969772  1
+  H  H8  1  0.31055151  0.64864055  0.21877427  1
+  H  H9  1  0.68944952  0.85136033  0.21877292  1
+  H  H10  1  0.68941875  0.35134392  0.78118570  1
+  H  H11  1  0.31058004  0.14865518  0.78118720  1

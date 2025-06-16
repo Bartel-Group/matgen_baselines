@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiCoTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96065386
+_cell_length_b   3.96065470
+_cell_length_c   5.98272482
+_cell_angle_alpha   89.99986478
+_cell_angle_beta   90.00009188
+_cell_angle_gamma   120.00012568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCoTe2
+_chemical_formula_sum   'Li1 Co1 Te2'
+_cell_volume   81.27612318
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000005  0.00000009  0.00000002  1
+  Co  Co1  1  -0.00000007  -0.00000003  0.49999999  1
+  Te  Te2  1  0.33333256  0.66666703  0.70938654  1
+  Te  Te3  1  0.66666746  0.33333292  0.29061345  1

@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_TlFeSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34867773
+_cell_length_b   4.34869066
+_cell_length_c   4.34870316
+_cell_angle_alpha   59.99674111
+_cell_angle_beta   59.99661313
+_cell_angle_gamma   59.99697771
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlFeSi
+_chemical_formula_sum   'Tl1 Fe1 Si1'
+_cell_volume   58.14719543
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  -0.00000005  -0.00000006  -0.00000001  1
+  Fe  Fe1  1  0.49999910  0.49999908  0.49999923  1
+  Si  Si2  1  0.75000095  0.75000098  0.75000078  1

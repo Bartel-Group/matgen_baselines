@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HfMnC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94222399
+_cell_length_b   3.93529210
+_cell_length_c   7.01669952
+_cell_angle_alpha   63.48774991
+_cell_angle_beta   63.53405214
+_cell_angle_gamma   76.48953635
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMnC2
+_chemical_formula_sum   'Hf2 Mn2 C4'
+_cell_volume   87.11809498
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  -0.00000705  0.00000477  0.00000231  1
+  Hf  Hf1  1  -0.00000442  0.00000733  0.49999727  1
+  Mn  Mn2  1  0.49797231  0.50205051  0.74999354  1
+  Mn  Mn3  1  0.50207687  0.49789992  0.25000631  1
+  C  C4  1  0.35043069  0.34984788  0.57512208  1
+  C  C5  1  0.64954934  0.65016972  0.42487856  1
+  C  C6  1  0.34985644  0.35043583  0.07511319  1
+  C  C7  1  0.65012584  0.64958405  0.92488573  1

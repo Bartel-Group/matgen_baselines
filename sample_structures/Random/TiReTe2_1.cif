@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TiReTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53703292
+_cell_length_b   6.52452210
+_cell_length_c   6.92193511
+_cell_angle_alpha   62.88733079
+_cell_angle_beta   62.86017025
+_cell_angle_gamma   66.78883214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiReTe2
+_chemical_formula_sum   'Ti2 Re2 Te4'
+_cell_volume   227.29697677
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.38249761  0.61777841  0.75190150  1
+  Ti  Ti1  1  0.61652337  0.38316275  0.24811001  1
+  Re  Re2  1  0.50039565  -0.00029960  0.50000644  1
+  Re  Re3  1  0.00031915  0.49964264  -0.00004312  1
+  Te  Te4  1  0.37548675  0.18949596  0.12536001  1
+  Te  Te5  1  0.80825677  0.62157160  0.37707781  1
+  Te  Te6  1  0.19165259  0.37809379  0.62280804  1
+  Te  Te7  1  0.62486811  0.81055446  0.87477932  1

@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_BeZnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86836801
+_cell_length_b   3.87322911
+_cell_length_c   3.87125511
+_cell_angle_alpha   59.82027000
+_cell_angle_beta   59.84033834
+_cell_angle_gamma   59.82769699
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeZnPt
+_chemical_formula_sum   'Be1 Zn1 Pt1'
+_cell_volume   40.85575182
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.12970890  0.21101849  0.13254984  1
+  Zn  Zn1  1  0.88062784  0.96095756  0.88286688  1
+  Pt  Pt2  1  0.37969468  0.46098874  0.38269880  1

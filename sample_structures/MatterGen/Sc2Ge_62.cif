@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05322117
+_cell_length_b   7.16702192
+_cell_length_c   8.64100374
+_cell_angle_alpha   90.00920806
+_cell_angle_beta   90.00019686
+_cell_angle_gamma   90.00071409
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Ge
+_chemical_formula_sum   'Sc8 Ge4'
+_cell_volume   251.01705042
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.63830178  0.45101478  0.09932993  1
+  Sc  Sc1  1  0.13829850  0.77698231  0.99388031  1
+  Sc  Sc2  1  0.63831988  0.95126004  0.72844990  1
+  Sc  Sc3  1  0.13831958  0.68353099  0.59935170  1
+  Sc  Sc4  1  0.63834219  0.35756678  0.49394471  1
+  Sc  Sc5  1  0.63829324  0.85749973  0.33389472  1
+  Sc  Sc6  1  0.13831365  0.27723249  0.83383967  1
+  Sc  Sc7  1  0.13830224  0.18346970  0.22848118  1
+  Ge  Ge8  1  0.13831051  0.07317410  0.53176921  1
+  Ge  Ge9  1  0.13828854  0.57316125  0.29600610  1
+  Ge  Ge10  1  0.63827909  0.06129593  0.03184116  1
+  Ge  Ge11  1  0.63830886  0.56158530  0.79607026  1

@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_HoSbW
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.56648917
+_cell_length_b   4.56652956
+_cell_length_c   5.36094942
+_cell_angle_alpha   89.99999898
+_cell_angle_beta   90.00000259
+_cell_angle_gamma   119.99969809
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoSbW
+_chemical_formula_sum   'Ho1 Sb1 W1'
+_cell_volume   96.81493710
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  -0.00000007  -0.00000029  0.49999998  1
+  Sb  Sb1  1  0.33333321  0.66666645  0.00000002  1
+  W  W2  1  0.00000020  0.00000050  -0.00000000  1

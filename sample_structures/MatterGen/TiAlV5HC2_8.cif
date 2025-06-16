@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TiAlV5HC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.87238142
+_cell_length_b   2.95420574
+_cell_length_c   15.87336218
+_cell_angle_alpha   90.00295976
+_cell_angle_beta   82.72201299
+_cell_angle_gamma   120.94551631
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlV5HC2
+_chemical_formula_sum   'Ti1 Al1 V5 H1 C2'
+_cell_volume   114.25550268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.46542142  0.70911410  0.23894710  1
+  Al  Al1  1  0.45085244  0.70072685  0.52609357  1
+  V  V2  1  0.58694681  0.26882918  0.09374946  1
+  V  V3  1  0.05187585  0.00104467  0.94947132  1
+  V  V4  1  0.26616865  0.10872307  0.38893663  1
+  V  V5  1  0.00613316  -0.02144970  0.66412344  1
+  V  V6  1  0.20102092  0.57605933  0.80802285  1
+  H  H7  1  0.98237790  0.46670235  0.34447552  1
+  C  C8  1  0.60516281  0.27814011  0.73542005  1
+  C  C9  1  0.32041206  0.63543380  0.02216193  1

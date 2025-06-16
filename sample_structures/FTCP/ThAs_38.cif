@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_ThAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61516463
+_cell_length_b   5.36253617
+_cell_length_c   3.74619034
+_cell_angle_alpha   45.62539146
+_cell_angle_beta   52.05940898
+_cell_angle_gamma   64.55342480
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThAs
+_chemical_formula_sum   'Th1 As1'
+_cell_volume   52.26426060
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.41582924  0.49659757  0.58270927  1
+  As  As1  1  -0.00176924  -0.00396757  -0.08210927  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Gd3CuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76679856
+_cell_length_b   4.22095796
+_cell_length_c   10.23828437
+_cell_angle_alpha   77.58566465
+_cell_angle_beta   89.99180812
+_cell_angle_gamma   90.00114384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3CuO6
+_chemical_formula_sum   'Gd3 Cu1 O6'
+_cell_volume   158.97746280
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.41223547  0.67303557  0.77740059  1
+  Gd  Gd1  1  0.91215079  0.02599675  0.04091564  1
+  Gd  Gd2  1  0.41215550  0.40349370  0.26886916  1
+  Cu  Cu3  1  0.91242802  0.00520053  0.53984368  1
+  O  O4  1  0.41219583  0.10356530  0.88657131  1
+  O  O5  1  0.41210696  0.94790774  0.18500786  1
+  O  O6  1  0.41222310  0.05192709  0.57329144  1
+  O  O7  1  0.91218426  0.32080182  0.38995260  1
+  O  O8  1  0.91223531  0.64064956  0.68044307  1
+  O  O9  1  0.91215099  0.49450793  0.10095167  1

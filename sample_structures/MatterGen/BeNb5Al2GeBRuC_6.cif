@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BeNb5Al2GeBRuC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20466387
+_cell_length_b   5.84529103
+_cell_length_c   10.32769867
+_cell_angle_alpha   114.39310972
+_cell_angle_beta   90.00930290
+_cell_angle_gamma   89.99990654
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeNb5Al2GeBRuC
+_chemical_formula_sum   'Be1 Nb5 Al2 Ge1 B1 Ru1 C1'
+_cell_volume   176.19087245
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.04584494  0.92008255  0.08731252  1
+  Nb  Nb1  1  0.54603297  0.50464974  0.92771972  1
+  Nb  Nb2  1  0.54566795  0.32526400  0.15986322  1
+  Nb  Nb3  1  0.54579564  0.72107433  0.47886219  1
+  Nb  Nb4  1  0.54583663  0.87241360  0.26522599  1
+  Nb  Nb5  1  0.04584468  0.29776687  0.38580264  1
+  Al  Al6  1  0.54717144  -0.02850659  0.89814332  1
+  Al  Al7  1  0.04619438  0.10212845  0.71813878  1
+  Ge  Ge8  1  0.04625497  0.61369653  0.70498427  1
+  B  B9  1  0.04584211  0.59587259  0.11678400  1
+  Ru  Ru10  1  0.54602851  0.25395955  0.57864399  1
+  C  C11  1  0.04575110  0.60141426  0.28789561  1

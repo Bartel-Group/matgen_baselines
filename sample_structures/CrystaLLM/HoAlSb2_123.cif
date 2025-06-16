@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HoAlSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23209831
+_cell_length_b   4.23209849
+_cell_length_c   6.19179734
+_cell_angle_alpha   90.00001251
+_cell_angle_beta   90.00001461
+_cell_angle_gamma   90.00000244
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAlSb2
+_chemical_formula_sum   'Ho1 Al1 Sb2'
+_cell_volume   110.89915755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.49999992  0.50000010  0.00000011  1
+  Al  Al1  1  0.00000002  -0.00000005  0.49999996  1
+  Sb  Sb2  1  0.00000004  -0.00000001  -0.00000004  1
+  Sb  Sb3  1  0.50000002  0.49999996  0.49999997  1

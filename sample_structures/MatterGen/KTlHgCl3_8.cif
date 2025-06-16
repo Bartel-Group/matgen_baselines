@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_KTlHgCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60321995
+_cell_length_b   4.59984211
+_cell_length_c   10.37866553
+_cell_angle_alpha   90.11375922
+_cell_angle_beta   89.94244426
+_cell_angle_gamma   59.99233192
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTlHgCl3
+_chemical_formula_sum   'K1 Tl1 Hg1 Cl3'
+_cell_volume   190.30106798
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.98509120  0.22378850  0.84320773  1
+  Tl  Tl1  1  0.65304803  0.88866678  0.49088183  1
+  Hg  Hg2  1  0.32015009  0.55521303  0.16496516  1
+  Cl  Cl3  1  0.98680999  0.22152211  0.31288362  1
+  Cl  Cl4  1  0.31914021  0.55634109  0.67136027  1
+  Cl  Cl5  1  0.65105678  0.89084507  0.01288688  1

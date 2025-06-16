@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ga5CuS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20598121
+_cell_length_b   7.20598135
+_cell_length_c   7.20598102
+_cell_angle_alpha   59.99975253
+_cell_angle_beta   59.99975314
+_cell_angle_gamma   59.99974947
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga5CuS8
+_chemical_formula_sum   'Ga5 Cu1 S8'
+_cell_volume   264.58299656
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.02077884  0.49307413  0.49307414  1
+  Ga  Ga1  1  0.49307415  0.49307415  0.02077881  1
+  Ga  Ga2  1  0.49307413  0.02077883  0.49307416  1
+  Ga  Ga3  1  0.49307389  0.49307391  0.49307390  1
+  Ga  Ga4  1  0.87499996  0.87499996  0.87499994  1
+  Cu  Cu5  1  0.12499924  0.12499921  0.12499923  1
+  S  S6  1  0.25555742  0.25555742  0.25555741  1
+  S  S7  1  0.25555729  0.73332942  0.25555732  1
+  S  S8  1  0.25555731  0.25555731  0.73332945  1
+  S  S9  1  0.73332943  0.25555734  0.25555731  1
+  S  S10  1  0.27470792  0.74176417  0.74176419  1
+  S  S11  1  0.74176417  0.74176417  0.27470791  1
+  S  S12  1  0.74176418  0.27470790  0.74176418  1
+  S  S13  1  0.74176410  0.74176411  0.74176407  1

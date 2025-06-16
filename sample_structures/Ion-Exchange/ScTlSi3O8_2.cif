@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_ScTlSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63026632
+_cell_length_b   7.81949757
+_cell_length_c   8.45791752
+_cell_angle_alpha   111.39975120
+_cell_angle_beta   104.67863106
+_cell_angle_gamma   104.92640059
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTlSi3O8
+_chemical_formula_sum   'Sc2 Tl2 Si6 O16'
+_cell_volume   418.78497025
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.19713077  0.80677571  0.19883463  1
+  Sc  Sc1  1  0.80286922  0.19322428  0.80116537  1
+  Tl  Tl2  1  0.14845158  0.29591909  0.27462487  1
+  Tl  Tl3  1  0.85154843  0.70408091  0.72537513  1
+  Si  Si4  1  0.33063811  0.58997981  0.84091690  1
+  Si  Si5  1  0.35518768  0.82143298  0.60971913  1
+  Si  Si6  1  0.66936189  0.41002019  0.15908310  1
+  Si  Si7  1  0.64481231  0.17856703  0.39028086  1
+  Si  Si8  1  0.25519433  0.18869437  0.83027031  1
+  Si  Si9  1  0.74480568  0.81130563  0.16972968  1
+  O  O10  1  0.19489745  0.63667192  0.95692155  1
+  O  O11  1  0.25713411  0.98359256  0.68649822  1
+  O  O12  1  0.80510254  0.36332807  0.04307845  1
+  O  O13  1  0.74286590  0.01640744  0.31350178  1
+  O  O14  1  0.26083327  0.71371332  0.38624755  1
+  O  O15  1  0.28891258  0.35044951  0.74794589  1
+  O  O16  1  0.73916673  0.28628668  0.61375246  1
+  O  O17  1  0.71108742  0.64955050  0.25205410  1
+  O  O18  1  0.95196879  0.85882891  0.14310537  1
+  O  O19  1  0.04803120  0.14117109  0.85689462  1
+  O  O20  1  0.28108254  0.64308439  0.66845241  1
+  O  O21  1  0.71891744  0.35691560  0.33154759  1
+  O  O22  1  0.40665460  0.07098705  0.30069326  1
+  O  O23  1  0.43337802  0.28341292  0.03240374  1
+  O  O24  1  0.59334540  0.92901293  0.69930674  1
+  O  O25  1  0.56662198  0.71658710  0.96759627  1

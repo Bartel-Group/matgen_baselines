@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr5CaDyTaCuO11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94219756
+_cell_length_b   6.36303114
+_cell_length_c   12.74098959
+_cell_angle_alpha   90.84593871
+_cell_angle_beta   89.90196518
+_cell_angle_gamma   89.95641277
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5CaDyTaCuO11
+_chemical_formula_sum   'Sr5 Ca1 Dy1 Ta1 Cu1 O11'
+_cell_volume   319.56373445
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.85420971  0.31273267  0.91878832  1
+  Sr  Sr1  1  0.85144114  0.76718593  0.62106873  1
+  Sr  Sr2  1  0.35447664  0.82478910  0.90463433  1
+  Sr  Sr3  1  0.35385625  0.14939795  0.14249211  1
+  Sr  Sr4  1  0.85381327  0.31368248  0.43359984  1
+  Ca  Ca5  1  0.85551816  0.67684973  0.12980816  1
+  Dy  Dy6  1  0.35228126  0.31526278  0.67592655  1
+  Ta  Ta7  1  0.35389167  0.89085547  0.39900455  1
+  Cu  Cu8  1  0.35492480  0.48441428  0.28253639  1
+  O  O9  1  0.35265217  0.02417293  0.54172868  1
+  O  O10  1  0.85385404  0.90053031  0.40250716  1
+  O  O11  1  0.85218260  0.38260278  0.61905255  1
+  O  O12  1  0.85484679  0.40156794  0.23189595  1
+  O  O13  1  0.35445823  0.50629250  0.02311525  1
+  O  O14  1  0.35464574  0.78242454  0.24005277  1
+  O  O15  1  0.35510854  0.16477973  0.82502112  1
+  O  O16  1  0.85484655  0.98281663  0.02302592  1
+  O  O17  1  0.35394562  0.60254444  0.44994845  1
+  O  O18  1  0.35441097  0.18337374  0.33479188  1
+  O  O19  1  0.35009120  0.64784473  0.73669652  1

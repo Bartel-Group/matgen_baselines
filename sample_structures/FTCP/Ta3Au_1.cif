@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ta3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37549510
+_cell_length_b   5.18003771
+_cell_length_c   5.01345239
+_cell_angle_alpha   118.98708008
+_cell_angle_beta   70.42040505
+_cell_angle_gamma   89.98280191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Au
+_chemical_formula_sum   'Ta6 Au2'
+_cell_volume   154.75140351
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.33540844  0.45123936  0.17233418  1
+  Ta  Ta1  1  0.10507969  0.64704976  -0.08786858  1
+  Ta  Ta2  1  0.68536335  -0.02238963  0.58187989  1
+  Ta  Ta3  1  0.73022741  0.52189436  0.01307806  1
+  Ta  Ta4  1  -0.03890363  0.33206511  0.32806997  1
+  Ta  Ta5  1  0.38367316  -0.00231427  0.24464256  1
+  Au  Au6  1  0.03527538  -0.01015790  -0.33861866  1
+  Au  Au7  1  0.53347620  0.48959321  0.59163257  1

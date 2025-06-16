@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SiNiGePt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51568284
+_cell_length_b   2.71537150
+_cell_length_c   6.88552827
+_cell_angle_alpha   89.24297539
+_cell_angle_beta   90.18146214
+_cell_angle_gamma   89.99730810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiNiGePt
+_chemical_formula_sum   'Si1 Ni1 Ge1 Pt1'
+_cell_volume   65.72583640
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.93663669  0.06564411  0.71441244  1
+  Ni  Ni1  1  0.43626358  0.56744338  0.60866483  1
+  Ge  Ge2  1  0.44883310  0.55399068  0.26249080  1
+  Pt  Pt3  1  0.94651119  0.05978821  0.05967116  1

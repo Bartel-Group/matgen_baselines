@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NdBi2BrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66367686
+_cell_length_b   3.96469896
+_cell_length_c   12.44105695
+_cell_angle_alpha   100.92110968
+_cell_angle_beta   88.43365895
+_cell_angle_gamma   116.32365033
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdBi2BrO4
+_chemical_formula_sum   'Nd1 Bi2 Br1 O4'
+_cell_volume   158.70828037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  -0.47633317  -0.01220082  0.03570447  1
+  Bi  Bi1  1  0.79059147  0.47728234  0.77991891  1
+  Bi  Bi2  1  0.17230090  0.32700737  0.36756056  1
+  Br  Br3  1  0.06200933  -0.01715259  0.58414374  1
+  O  O4  1  0.07575416  0.10198832  0.18244300  1
+  O  O5  1  0.20917904  0.39657520  0.11230671  1
+  O  O6  1  -0.17162723  0.57834215  0.95961341  1
+  O  O7  1  0.47205548  -0.14107197  0.82443921  1

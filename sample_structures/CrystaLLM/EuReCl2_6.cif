@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_EuReCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91428385
+_cell_length_b   3.36065748
+_cell_length_c   7.68259465
+_cell_angle_alpha   90.00172276
+_cell_angle_beta   105.90718415
+_cell_angle_gamma   89.99609336
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuReCl2
+_chemical_formula_sum   'Eu1 Re1 Cl2'
+_cell_volume   122.02116384
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  -0.06870055  0.49999156  0.03803204  1
+  Re  Re1  1  0.41068486  0.00000077  -0.03220619  1
+  Cl  Cl2  1  0.37143301  0.00001247  0.26976212  1
+  Cl  Cl3  1  0.38758268  0.49999520  0.74211203  1

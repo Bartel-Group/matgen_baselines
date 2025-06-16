@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_RbAsCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36297146
+_cell_length_b   5.18025696
+_cell_length_c   3.51236543
+_cell_angle_alpha   89.99772497
+_cell_angle_beta   89.99991097
+_cell_angle_gamma   89.99973807
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAsCl
+_chemical_formula_sum   'Rb1 As1 Cl1'
+_cell_volume   97.57902684
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.49999975  0.49999949  0.57047307  1
+  As  As1  1  0.00000075  0.00000092  0.07309715  1
+  Cl  Cl2  1  -0.00000050  0.49999960  0.07572977  1

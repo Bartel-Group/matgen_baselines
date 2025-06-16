@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_HgPCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.08871900
+_cell_length_b   5.96128544
+_cell_length_c   6.74456353
+_cell_angle_alpha   124.70550236
+_cell_angle_beta   75.93319228
+_cell_angle_gamma   115.94163409
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgPCl
+_chemical_formula_sum   'Hg1 P1 Cl1'
+_cell_volume   91.80207581
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.50629193  0.42544743  -0.25841799  1
+  P  P1  1  0.00132168  -0.09000864  0.71745513  1
+  Cl  Cl2  1  -0.00761361  0.66456121  0.34426286  1

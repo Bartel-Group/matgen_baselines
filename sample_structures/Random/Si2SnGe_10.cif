@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Si2SnGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97814502
+_cell_length_b   6.26817404
+_cell_length_c   7.29735785
+_cell_angle_alpha   98.97849298
+_cell_angle_beta   89.99982581
+_cell_angle_gamma   89.99976934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2SnGe
+_chemical_formula_sum   'Si4 Sn2 Ge2'
+_cell_volume   179.73514928
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  -0.00000102  0.33035990  0.39584202  1
+  Si  Si1  1  0.49999972  0.22534049  0.87440629  1
+  Si  Si2  1  0.50000099  0.77465953  0.12559406  1
+  Si  Si3  1  0.00000004  0.66964080  0.60415834  1
+  Sn  Sn4  1  0.00000047  -0.00000076  -0.00000084  1
+  Sn  Sn5  1  0.50000053  0.00000026  0.49999997  1
+  Ge  Ge6  1  0.49999991  0.59101022  0.79063554  1
+  Ge  Ge7  1  0.49999936  0.40898956  0.20936463  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoTc2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46066099
+_cell_length_b   6.41171446
+_cell_length_c   9.32731718
+_cell_angle_alpha   60.28694672
+_cell_angle_beta   89.64170762
+_cell_angle_gamma   117.67427675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTc2
+_chemical_formula_sum   'Ho4 Tc8'
+_cell_volume   239.02097897
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.64567738  0.34387037  0.52889551  1
+  Ho  Ho1  1  0.30755701  0.67651214  0.29573455  1
+  Ho  Ho2  1  0.33617204  0.69944885  -0.08146966  1
+  Ho  Ho3  1  0.63609492  0.33024773  0.92835221  1
+  Tc  Tc4  1  0.26299076  0.17664362  0.28600150  1
+  Tc  Tc5  1  -0.03120127  0.03378210  0.10197921  1
+  Tc  Tc6  1  0.08919765  0.23725297  0.79924081  1
+  Tc  Tc7  1  0.14523693  0.78064825  0.57958631  1
+  Tc  Tc8  1  0.54822245  0.71066550  0.60703305  1
+  Tc  Tc9  1  0.76918272  0.59032169  0.12720543  1
+  Tc  Tc10  1  0.80210788  0.16934077  0.30040636  1
+  Tc  Tc11  1  -0.02288849  0.02073602  0.63663474  1

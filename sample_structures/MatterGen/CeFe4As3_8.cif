@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CeFe4As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87958799
+_cell_length_b   5.72490830
+_cell_length_c   5.64001158
+_cell_angle_alpha   96.14252930
+_cell_angle_beta   89.99720966
+_cell_angle_gamma   109.79059608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeFe4As3
+_chemical_formula_sum   'Ce1 Fe4 As3'
+_cell_volume   117.10321162
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.69953963  0.88583345  0.47070089  1
+  Fe  Fe1  1  0.38320116  0.25281434  0.29229265  1
+  Fe  Fe2  1  0.01663731  0.51948247  0.64752237  1
+  Fe  Fe3  1  0.83641931  0.15942912  0.94738999  1
+  Fe  Fe4  1  0.56345138  0.61319909  0.99243910  1
+  As  As5  1  0.00318429  0.49280365  0.24064334  1
+  As  As6  1  0.39662834  0.27958114  0.69925103  1
+  As  As7  1  0.19990621  0.88628359  0.97042795  1

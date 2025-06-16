@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnCuBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83847705
+_cell_length_b   5.83852044
+_cell_length_c   10.74299238
+_cell_angle_alpha   90.00000347
+_cell_angle_beta   89.99999980
+_cell_angle_gamma   90.00000491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCuBr4
+_chemical_formula_sum   'Mn2 Cu2 Br8'
+_cell_volume   366.20785042
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.49999999  0.75000021  1
+  Mn  Mn1  1  0.50000000  -0.00000001  0.24999980  1
+  Cu  Cu2  1  0.50000000  0.49999998  -0.00000036  1
+  Cu  Cu3  1  0.49999997  0.50000004  0.50000034  1
+  Br  Br4  1  0.24317412  0.74151454  0.87907668  1
+  Br  Br5  1  0.75682589  0.25848545  0.87907667  1
+  Br  Br6  1  0.24317411  0.25848535  0.62092315  1
+  Br  Br7  1  0.75682590  0.74151465  0.62092318  1
+  Br  Br8  1  0.74151518  0.75682494  0.12092214  1
+  Br  Br9  1  0.25848485  0.24317507  0.12092214  1
+  Br  Br10  1  0.25848464  0.75682491  0.37907801  1
+  Br  Br11  1  0.74151534  0.24317509  0.37907802  1

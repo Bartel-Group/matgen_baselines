@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb3Sn7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97791277
+_cell_length_b   5.99412918
+_cell_length_c   8.87392877
+_cell_angle_alpha   98.97254468
+_cell_angle_beta   109.89715676
+_cell_angle_gamma   62.67659922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Sn7
+_chemical_formula_sum   'Tb3 Sn7'
+_cell_volume   265.63388743
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  -0.05309208  0.50656661  -0.04234059  1
+  Tb  Tb1  1  0.25900857  0.01159010  0.58697389  1
+  Tb  Tb2  1  0.62947850  0.01048312  0.32548492  1
+  Sn  Sn3  1  0.45073672  0.01071598  -0.04399418  1
+  Sn  Sn4  1  0.34372438  0.51820435  0.77319768  1
+  Sn  Sn5  1  0.53738687  0.51155195  0.14128832  1
+  Sn  Sn6  1  0.05479903  0.00919525  0.17496295  1
+  Sn  Sn7  1  0.82828777  0.02235472  0.73652601  1
+  Sn  Sn8  1  0.16572374  0.50928244  0.39904686  1
+  Sn  Sn9  1  0.72288652  0.51158547  0.51516413  1

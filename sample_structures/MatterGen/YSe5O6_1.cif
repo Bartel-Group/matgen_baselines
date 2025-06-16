@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YSe5O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44885833
+_cell_length_b   6.41734565
+_cell_length_c   9.69069053
+_cell_angle_alpha   109.84397690
+_cell_angle_beta   111.28671229
+_cell_angle_gamma   90.20298154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSe5O6
+_chemical_formula_sum   'Y1 Se5 O6'
+_cell_volume   239.93448953
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  -0.00738559  0.02622652  0.21998240  1
+  Se  Se1  1  0.30421222  0.13338007  0.67201450  1
+  Se  Se2  1  0.57794066  0.67160349  0.34481818  1
+  Se  Se3  1  0.70786901  0.38614323  0.44710069  1
+  Se  Se4  1  0.10447864  0.67993392  0.71487333  1
+  Se  Se5  1  0.14859141  0.45057142  0.07132034  1
+  O  O6  1  0.17230877  0.05052990  0.46843940  1
+  O  O7  1  0.50850379  0.09892798  0.24191666  1
+  O  O8  1  0.93815273  0.67261948  0.05954456  1
+  O  O9  1  0.90008237  0.28117403  0.09999048  1
+  O  O10  1  0.39684319  0.84659600  0.69259126  1
+  O  O11  1  -0.03613271  0.16182071  0.70747192  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_La2Sn3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78404938
+_cell_length_b   5.78425485
+_cell_length_c   5.78461701
+_cell_angle_alpha   64.77981064
+_cell_angle_beta   64.78284013
+_cell_angle_gamma   64.78399458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Sn3Rh
+_chemical_formula_sum   'La2 Sn3 Rh1'
+_cell_volume   151.16630774
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.89532449  0.72046397  0.71437941  1
+  La  La1  1  0.64759939  0.47272019  0.46672027  1
+  Sn  Sn2  1  0.27169550  0.09627844  0.59016200  1
+  Sn  Sn3  1  0.77222718  0.09646998  0.09042806  1
+  Sn  Sn4  1  0.27165784  0.59617006  0.09053675  1
+  Rh  Rh5  1  0.27344175  0.09541002  0.08974638  1
