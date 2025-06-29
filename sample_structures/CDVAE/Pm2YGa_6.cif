@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Pm2YGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76052294
+_cell_length_b   4.90074626
+_cell_length_c   4.75141494
+_cell_angle_alpha   89.94905251
+_cell_angle_beta   89.94644837
+_cell_angle_gamma   89.93001854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pm2YGa
+_chemical_formula_sum   'Pm2 Y1 Ga1'
+_cell_volume   110.85088223
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pm  Pm0  1  0.28509152  0.89529272  0.57859676  1
+  Pm  Pm1  1  0.78560892  0.89327857  0.07796035  1
+  Y  Y2  1  0.28606835  0.39428992  0.07957422  1
+  Ga  Ga3  1  0.78550580  0.39494328  0.57728137  1

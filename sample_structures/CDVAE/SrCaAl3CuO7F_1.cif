@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrCaAl3CuO7F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55085151
+_cell_length_b   5.80704934
+_cell_length_c   6.55189186
+_cell_angle_alpha   79.72168559
+_cell_angle_beta   65.14497350
+_cell_angle_gamma   66.65238995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaAl3CuO7F
+_chemical_formula_sum   'Sr1 Ca1 Al3 Cu1 O7 F1'
+_cell_volume   175.92296611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.52259538  0.76325305  0.19466983  1
+  Ca  Ca1  1  0.72939517  0.06806538  0.54434198  1
+  Al  Al2  1  0.24401512  0.35870506  0.24183421  1
+  Al  Al3  1  0.16178952  0.62101857  0.79300180  1
+  Al  Al4  1  0.95942739  0.13455961  0.01298429  1
+  Cu  Cu5  1  0.70991685  0.52513925  0.70960486  1
+  O  O6  1  0.00785905  0.60334158  0.44573185  1
+  O  O7  1  0.48568834  0.52627883  0.55613143  1
+  O  O8  1  0.92108619  0.45078822  0.89803166  1
+  O  O9  1  0.08504972  0.14589967  0.23650394  1
+  O  O10  1  0.33251518  0.54338185  -0.00854846  1
+  O  O11  1  0.59126221  0.15977781  0.23812496  1
+  O  O12  1  0.92750810  0.93825525  0.83882965  1
+  F  F13  1  0.35825855  0.01063219  0.83076558  1

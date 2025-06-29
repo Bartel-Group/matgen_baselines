@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2BaAu3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52135363
+_cell_length_b   6.97824750
+_cell_length_c   6.57262705
+_cell_angle_alpha   86.92793902
+_cell_angle_beta   91.81369843
+_cell_angle_gamma   109.30503748
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BaAu3O4
+_chemical_formula_sum   'K2 Ba1 Au3 O4'
+_cell_volume   238.63048939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.26830471  0.44972805  0.02219785  1
+  K  K1  1  0.58914851  0.09249473  0.03076369  1
+  Ba  Ba2  1  0.80052910  0.51358728  0.58499070  1
+  Au  Au3  1  0.47960951  0.84031153  0.61766021  1
+  Au  Au4  1  -0.04593952  0.09011771  0.41062369  1
+  Au  Au5  1  -0.05463760  0.76962759  0.07592914  1
+  O  O6  1  0.28789104  0.55051891  0.61029342  1
+  O  O7  1  0.77698118  0.49286403  -0.01504183  1
+  O  O8  1  0.72857874  0.12563206  0.62948987  1
+  O  O9  1  0.12959064  0.05231229  0.16449896  1

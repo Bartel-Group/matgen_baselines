@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2Mn2Br5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88157746
+_cell_length_b   7.00463922
+_cell_length_c   7.65206060
+_cell_angle_alpha   73.35504801
+_cell_angle_beta   88.28812156
+_cell_angle_gamma   101.12421883
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Mn2Br5
+_chemical_formula_sum   'Cs2 Mn2 Br5'
+_cell_volume   345.33161755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.21013578  0.04074987  0.81107527  1
+  Cs  Cs1  1  0.88458462  0.66194338  0.49135238  1
+  Mn  Mn2  1  0.48774207  0.51889109  0.05070283  1
+  Mn  Mn3  1  0.60641773  0.18376112  0.25186539  1
+  Br  Br4  1  0.54636230  0.85081025  0.15217786  1
+  Br  Br5  1  0.36662600  0.57467923  0.73659846  1
+  Br  Br6  1  0.24544549  0.22186801  0.27829056  1
+  Br  Br7  1  0.84868347  0.48092623  0.02431047  1
+  Br  Br8  1  0.72799123  0.12799149  0.56575324  1

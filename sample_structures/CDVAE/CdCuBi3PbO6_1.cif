@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdCuBi3PbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68889888
+_cell_length_b   6.50439686
+_cell_length_c   8.99035080
+_cell_angle_alpha   86.60039352
+_cell_angle_beta   90.07845705
+_cell_angle_gamma   89.99372239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdCuBi3PbO6
+_chemical_formula_sum   'Cd1 Cu1 Bi3 Pb1 O6'
+_cell_volume   215.33522352
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.36971338  0.07729063  0.62491618  1
+  Cu  Cu1  1  0.87024468  0.26425736  0.97405473  1
+  Bi  Bi2  1  0.87000644  0.52245733  0.62637265  1
+  Bi  Bi3  1  0.37056182  0.77170620  0.94446187  1
+  Bi  Bi4  1  0.87288487  0.85192355  0.29380550  1
+  Pb  Pb5  1  0.37189134  0.30636579  0.24410152  1
+  O  O6  1  0.37045599  0.75048218  0.68013593  1
+  O  O7  1  0.87032745  0.98625117  0.05804914  1
+  O  O8  1  0.37149406  0.68084408  0.20199880  1
+  O  O9  1  0.36984663  0.37749977  0.49371476  1
+  O  O10  1  0.87016524  0.55309006  0.91381205  1
+  O  O11  1  0.87034731  0.20713074  0.73976060  1

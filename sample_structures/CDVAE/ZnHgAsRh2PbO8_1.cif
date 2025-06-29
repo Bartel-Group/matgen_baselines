@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZnHgAsRh2PbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57358833
+_cell_length_b   6.07127219
+_cell_length_c   6.79983822
+_cell_angle_alpha   79.09118185
+_cell_angle_beta   102.63525328
+_cell_angle_gamma   106.43530909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnHgAsRh2PbO8
+_chemical_formula_sum   'Zn1 Hg1 As1 Rh2 Pb1 O8'
+_cell_volume   213.34840202
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.74341046  0.59943680  0.78155520  1
+  Hg  Hg1  1  0.55642882  -0.07050764  0.08053463  1
+  As  As2  1  0.83238788  0.12944613  0.66474800  1
+  Rh  Rh3  1  0.51470330  0.43678235  0.29022794  1
+  Rh  Rh4  1  0.94373682  0.28841214  0.13162203  1
+  Pb  Pb5  1  0.19361812  0.77693714  0.44743622  1
+  O  O6  1  0.25224201  0.15910312  0.23092711  1
+  O  O7  1  0.85492033  0.29836697  0.42272398  1
+  O  O8  1  0.67119655  0.45595639  0.05035806  1
+  O  O9  1  0.51745305  0.56947940  0.52576767  1
+  O  O10  1  0.24487582  0.59898555  0.15884760  1
+  O  O11  1  -0.01103837  0.91266035  0.73131302  1
+  O  O12  1  0.96613078  0.34970828  0.82331237  1
+  O  O13  1  0.51830813  0.00823386  0.67469049  1

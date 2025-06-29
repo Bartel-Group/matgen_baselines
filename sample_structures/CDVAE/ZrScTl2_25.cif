@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ZrScTl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25852300
+_cell_length_b   4.65738698
+_cell_length_c   4.65876776
+_cell_angle_alpha   90.16661786
+_cell_angle_beta   89.96278451
+_cell_angle_gamma   89.98014382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrScTl2
+_chemical_formula_sum   'Zr1 Sc1 Tl2'
+_cell_volume   92.39967191
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.47428609  0.42709969  0.84030593  1
+  Sc  Sc1  1  0.47440708  0.92740843  0.34002839  1
+  Tl  Tl2  1  0.97489030  0.42818464  0.34013317  1
+  Tl  Tl3  1  0.97486906  0.92800348  0.84016536  1

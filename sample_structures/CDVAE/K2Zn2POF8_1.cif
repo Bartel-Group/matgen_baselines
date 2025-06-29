@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K2Zn2POF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95171639
+_cell_length_b   5.53372489
+_cell_length_c   7.83074698
+_cell_angle_alpha   74.41290090
+_cell_angle_beta   85.64518045
+_cell_angle_gamma   71.06241083
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Zn2POF8
+_chemical_formula_sum   'K2 Zn2 P1 O1 F8'
+_cell_volume   234.95749279
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.92590088  0.63723265  0.04171225  1
+  K  K1  1  0.05648571  0.24021120  0.61919203  1
+  Zn  Zn2  1  0.18341961  0.96791298  0.22355710  1
+  Zn  Zn3  1  0.51675115  0.37708881  0.34478086  1
+  P  P4  1  0.46651776  0.57602625  0.71520660  1
+  O  O5  1  0.54309732  0.37849372  0.60253979  1
+  F  F6  1  0.15815060  0.66071840  0.71851735  1
+  F  F7  1  0.71971909  0.65069311  0.73265502  1
+  F  F8  1  0.48637879  0.40123404  0.91700076  1
+  F  F9  1  0.06750589  0.09986114  -0.01735005  1
+  F  F10  1  0.14423601  0.61891004  0.34059199  1
+  F  F11  1  0.86804777  0.20263042  0.31742962  1
+  F  F12  1  0.37468044  0.09485566  0.35829382  1
+  F  F13  1  0.51125172  0.70717049  0.16844631  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaInAgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24008762
+_cell_length_b   4.31117270
+_cell_length_c   7.01375209
+_cell_angle_alpha   89.58666295
+_cell_angle_beta   103.72510706
+_cell_angle_gamma   66.14933281
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaInAgS2
+_chemical_formula_sum   'Ba1 In1 Ag1 S2'
+_cell_volume   139.82609274
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.90856417  0.10759433  0.81538320  1
+  In  In1  1  0.66074906  0.73362677  0.27151328  1
+  Ag  Ag2  1  0.24662708  0.43970484  0.39823791  1
+  S  S3  1  0.37202625  0.37492444  0.04887636  1
+  S  S4  1  0.43037920  0.84684604  0.59849424  1

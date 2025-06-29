@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Dy2HoLu4Sn2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06857496
+_cell_length_b   6.30511997
+_cell_length_c   7.09279970
+_cell_angle_alpha   86.92352552
+_cell_angle_beta   77.47578002
+_cell_angle_gamma   79.64467469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2HoLu4Sn2C
+_chemical_formula_sum   'Dy2 Ho1 Lu4 Sn2 C1'
+_cell_volume   260.58875250
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.53758855  0.75320317  0.43913196  1
+  Dy  Dy1  1  0.85549770  0.34222677  0.06987645  1
+  Ho  Ho2  1  0.58313003  0.92460861  0.95914743  1
+  Lu  Lu3  1  0.02013008  0.62430451  0.66350449  1
+  Lu  Lu4  1  0.05092152  0.81367898  0.16583872  1
+  Lu  Lu5  1  0.75884374  0.18201520  0.52580260  1
+  Lu  Lu6  1  0.31877164  0.27540486  0.30560215  1
+  Sn  Sn7  1  0.43259333  0.46452136  0.87289022  1
+  Sn  Sn8  1  0.17242631  0.07871598  0.72921227  1
+  C  C9  1  0.68662975  0.04755868  0.24831969  1

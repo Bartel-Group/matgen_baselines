@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_RbBaNaCaS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38882277
+_cell_length_b   7.43770701
+_cell_length_c   7.70207341
+_cell_angle_alpha   109.84273651
+_cell_angle_beta   89.90715079
+_cell_angle_gamma   90.16813473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaNaCaS4
+_chemical_formula_sum   'Rb1 Ba1 Na1 Ca1 S4'
+_cell_volume   236.48882793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.11536121  0.03241037  0.91158284  1
+  Ba  Ba1  1  0.61603604  0.03115021  0.41091053  1
+  Na  Na2  1  0.61717737  0.53167663  0.91058291  1
+  Ca  Ca3  1  0.11569218  0.53249712  0.41218977  1
+  S  S4  1  0.61517754  0.74009318  0.62327651  1
+  S  S5  1  0.11554972  0.31126072  0.64927460  1
+  S  S6  1  0.61598071  0.32452640  0.19989409  1
+  S  S7  1  0.11593951  0.75105434  0.17247755  1

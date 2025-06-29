@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbHoTa2Cu3O9F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84045118
+_cell_length_b   6.82839080
+_cell_length_c   9.87917197
+_cell_angle_alpha   110.16591066
+_cell_angle_beta   90.16954054
+_cell_angle_gamma   89.98708434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbHoTa2Cu3O9F2
+_chemical_formula_sum   'Rb1 Ho1 Ta2 Cu3 O9 F2'
+_cell_volume   243.18967724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.37192197  0.63295693  0.29448828  1
+  Ho  Ho1  1  0.37137195  0.53989609  0.70090466  1
+  Ta  Ta2  1  0.87191441  0.96584221  0.04996596  1
+  Ta  Ta3  1  0.87109210  0.22068399  0.44290659  1
+  Cu  Cu4  1  0.87171972  0.85371818  0.61019257  1
+  Cu  Cu5  1  0.37160005  0.12268803  0.82043173  1
+  Cu  Cu6  1  0.87263816  0.44164430  0.96855634  1
+  O  O7  1  0.87137703  0.94877627  0.44381335  1
+  O  O8  1  0.87204955  0.12977393  0.90107474  1
+  O  O9  1  0.87235822  0.72540553  0.09975787  1
+  O  O10  1  0.37232194  0.42417783  0.90506113  1
+  O  O11  1  0.37165927  0.85531735  0.66910733  1
+  O  O12  1  0.37179924  0.97526178  0.02475336  1
+  O  O13  1  0.37122709  0.26185164  0.48436653  1
+  O  O14  1  0.87139921  0.53558777  0.54340405  1
+  O  O15  1  0.87175723  0.18351189  0.24019658  1
+  F  F16  1  0.87170137  0.71500545  0.83364744  1
+  F  F17  1  0.87189123  0.29938791  0.68087450  1

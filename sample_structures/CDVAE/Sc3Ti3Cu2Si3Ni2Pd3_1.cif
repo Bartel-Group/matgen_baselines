@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sc3Ti3Cu2Si3Ni2Pd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18656154
+_cell_length_b   7.20870714
+_cell_length_c   7.11159295
+_cell_angle_alpha   112.83643289
+_cell_angle_beta   89.39252860
+_cell_angle_gamma   90.79238409
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3Ti3Cu2Si3Ni2Pd3
+_chemical_formula_sum   'Sc3 Ti3 Cu2 Si3 Ni2 Pd3'
+_cell_volume   245.02225618
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.78011186  0.54806609  0.89038056  1
+  Sc  Sc1  1  0.27511349  0.51382981  0.13443669  1
+  Sc  Sc2  1  0.77777193  0.15912763  0.51331419  1
+  Ti  Ti3  1  0.27776912  0.93259199  0.55183655  1
+  Ti  Ti4  1  0.28237217  0.20258480  0.28433353  1
+  Ti  Ti5  1  0.27127419  0.78411599  0.84398106  1
+  Cu  Cu6  1  0.73616166  0.73326071  0.32475815  1
+  Cu  Cu7  1  0.69525098  0.96559404  0.08848830  1
+  Si  Si8  1  0.74077849  0.85289684  0.70136310  1
+  Si  Si9  1  0.07020571  0.86706644  0.19757473  1
+  Si  Si10  1  0.74263687  0.34731591  0.20402227  1
+  Ni  Ni11  1  0.50414418  0.15326041  0.89738675  1
+  Ni  Ni12  1  0.50469293  0.55062269  0.50750605  1
+  Pd  Pd13  1  0.30300219  0.35326137  0.70398732  1
+  Pd  Pd14  1  0.00733473  0.16015616  0.89301696  1
+  Pd  Pd15  1  0.00895872  0.53646195  0.51609277  1

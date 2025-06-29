@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiMn2Ge6As8Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75904846
+_cell_length_b   7.71799753
+_cell_length_c   7.81649539
+_cell_angle_alpha   90.09545668
+_cell_angle_beta   90.62601352
+_cell_angle_gamma   89.64646964
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMn2Ge6As8Pd
+_chemical_formula_sum   'Li1 Mn2 Ge6 As8 Pd1'
+_cell_volume   347.40230764
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.61565192  0.74039287  0.45469811  1
+  Mn  Mn1  1  0.62040747  0.23674297  0.91375886  1
+  Mn  Mn2  1  0.87649075  0.73389432  0.13539948  1
+  Ge  Ge3  1  0.15358316  0.48522162  0.63789373  1
+  Ge  Ge4  1  0.66009140  0.23964282  0.40253321  1
+  Ge  Ge5  1  0.12217028  0.01806185  0.14011266  1
+  Ge  Ge6  1  0.15252963  0.98937510  0.64033832  1
+  Ge  Ge7  1  0.13350064  0.45612323  0.14245161  1
+  Ge  Ge8  1  0.62339830  0.73885256  0.85666949  1
+  As  As9  1  0.10435578  0.23539444  0.39961083  1
+  As  As10  1  0.06647217  0.23681546  0.89433933  1
+  As  As11  1  0.59316364  0.45645178  0.68318105  1
+  As  As12  1  0.10428711  0.73707462  0.41545749  1
+  As  As13  1  0.59301076  0.01797212  0.68198587  1
+  As  As14  1  0.63290731  0.46197549  0.14906226  1
+  As  As15  1  0.09859914  0.73462036  0.86942349  1
+  As  As16  1  0.63872875  0.01332302  0.14938559  1
+  Pd  Pd17  1  0.38449626  0.74240178  0.14664346  1

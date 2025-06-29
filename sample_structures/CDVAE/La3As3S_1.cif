@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_La3As3S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52216653
+_cell_length_b   5.36187619
+_cell_length_c   9.06732384
+_cell_angle_alpha   73.60478804
+_cell_angle_beta   80.43972112
+_cell_angle_gamma   71.16298509
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3As3S
+_chemical_formula_sum   'La3 As3 S1'
+_cell_volume   198.94025717
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.32091038  0.32335197  0.84180376  1
+  La  La1  1  0.51135937  0.59932417  0.16351451  1
+  La  La2  1  0.70578492  0.87809080  0.47847530  1
+  As  As3  1  0.90398244  0.00942073  0.07662378  1
+  As  As4  1  0.12418860  0.18390280  0.25192146  1
+  As  As5  1  0.67247238  0.74345027  0.81462789  1
+  S  S6  1  0.37057016  0.46680533  0.50780449  1

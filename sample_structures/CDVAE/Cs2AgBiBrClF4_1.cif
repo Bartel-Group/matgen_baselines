@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs2AgBiBrClF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34966627
+_cell_length_b   5.19199350
+_cell_length_c   10.85097037
+_cell_angle_alpha   85.02283261
+_cell_angle_beta   88.16954857
+_cell_angle_gamma   90.01456807
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2AgBiBrClF4
+_chemical_formula_sum   'Cs2 Ag1 Bi1 Br1 Cl1 F4'
+_cell_volume   300.09935990
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.28476928  0.19617520  0.94995301  1
+  Cs  Cs1  1  0.36763221  0.12349921  0.41063075  1
+  Ag  Ag2  1  0.80302257  0.67215875  0.15994270  1
+  Bi  Bi3  1  0.87897038  0.74168436  0.69170614  1
+  Br  Br4  1  0.29597334  0.66378856  0.19991413  1
+  Cl  Cl5  1  0.78180624  0.17644929  0.13814906  1
+  F  F6  1  0.26588699  0.72376323  0.64685845  1
+  F  F7  1  0.85925699  0.89641338  0.49975476  1
+  F  F8  1  0.02131903  0.70764074  0.87785214  1
+  F  F9  1  0.86290499  0.14218714  0.72117499  1

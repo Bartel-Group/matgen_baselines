@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_BaNdAg2PtClO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32457559
+_cell_length_b   4.82721058
+_cell_length_c   9.78999097
+_cell_angle_alpha   107.04590178
+_cell_angle_beta   90.25908870
+_cell_angle_gamma   90.02020550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNdAg2PtClO5
+_chemical_formula_sum   'Ba1 Nd1 Ag2 Pt1 Cl1 O5'
+_cell_volume   195.39196932
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.79936030  0.12907146  0.15283538  1
+  Nd  Nd1  1  0.80139138  0.90870346  0.60849550  1
+  Ag  Ag2  1  0.30111331  0.38885077  0.56482647  1
+  Ag  Ag3  1  0.30102711  0.86965460  0.85083328  1
+  Pt  Pt4  1  0.29973715  0.73438173  0.30598447  1
+  Cl  Cl5  1  0.29845555  0.55510274  0.05470508  1
+  O  O6  1  0.80035273  0.95785512  0.85115814  1
+  O  O7  1  0.79961669  0.69438188  0.32397654  1
+  O  O8  1  0.80127394  0.38731488  0.58496924  1
+  O  O9  1  0.30053976  0.86146634  0.51882445  1
+  O  O10  1  0.30081007  0.16180743  0.30225948  1

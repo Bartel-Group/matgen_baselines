@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbAg3Ge2Cl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56188129
+_cell_length_b   7.14596836
+_cell_length_c   11.96764079
+_cell_angle_alpha   95.05317560
+_cell_angle_beta   92.20684784
+_cell_angle_gamma   113.98436153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAg3Ge2Cl9
+_chemical_formula_sum   'Rb1 Ag3 Ge2 Cl9'
+_cell_volume   431.45003658
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.62989534  0.39327360  0.52728297  1
+  Ag  Ag1  1  0.78377242  0.76070992  0.97421993  1
+  Ag  Ag2  1  0.34957894  0.84211257  0.77547832  1
+  Ag  Ag3  1  0.19002816  0.57157721  0.18863152  1
+  Ge  Ge4  1  0.05536743  0.28094842  0.86517971  1
+  Ge  Ge5  1  0.89102291  0.01304350  0.28274840  1
+  Cl  Cl6  1  0.17475182  0.45192310  0.68926451  1
+  Cl  Cl7  1  0.73615605  0.64490561  0.17943626  1
+  Cl  Cl8  1  0.00149513  0.14683286  0.08321355  1
+  Cl  Cl9  1  0.11087120  0.37950280  0.36548500  1
+  Cl  Cl10  1  0.87190783  0.86111047  0.77181789  1
+  Cl  Cl11  1  0.46834346  0.00218905  0.27673673  1
+  Cl  Cl12  1  0.90400844  0.90382135  0.46007179  1
+  Cl  Cl13  1  0.22405715  0.64436600  0.97237051  1
+  Cl  Cl14  1  0.60847572  0.24144497  0.83273815  1

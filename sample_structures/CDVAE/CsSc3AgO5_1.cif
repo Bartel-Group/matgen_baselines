@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsSc3AgO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65824626
+_cell_length_b   5.65750476
+_cell_length_c   10.15348273
+_cell_angle_alpha   66.55665732
+_cell_angle_beta   66.57240392
+_cell_angle_gamma   40.77655121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSc3AgO5
+_chemical_formula_sum   'Cs1 Sc3 Ag1 O5'
+_cell_volume   192.22425340
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.32961082  0.85399745  0.52339502  1
+  Sc  Sc1  1  0.14789686  0.67588754  0.16652306  1
+  Sc  Sc2  1  0.88326699  0.41192884  0.13852932  1
+  Sc  Sc3  1  0.59422378  0.12491117  0.90683983  1
+  Ag  Ag4  1  -0.05772856  0.46170812  0.77089275  1
+  O  O5  1  0.94648516  0.47417854  0.29028457  1
+  O  O6  1  0.10118114  0.63109951  0.98660704  1
+  O  O7  1  0.38422031  0.91322412  0.07131148  1
+  O  O8  1  0.58872596  0.12138473  0.72519240  1
+  O  O9  1  0.67664528  0.20419615  0.20634938  1

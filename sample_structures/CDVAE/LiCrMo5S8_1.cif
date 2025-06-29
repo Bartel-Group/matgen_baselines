@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LiCrMo5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88714794
+_cell_length_b   6.07996979
+_cell_length_c   9.63160153
+_cell_angle_alpha   78.51973132
+_cell_angle_beta   78.19030288
+_cell_angle_gamma   91.34283177
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCrMo5S8
+_chemical_formula_sum   'Li1 Cr1 Mo5 S8'
+_cell_volume   273.91330656
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.71547109  0.72130881  0.38005370  1
+  Cr  Cr1  1  0.16826113  0.50401503  0.66710514  1
+  Mo  Mo2  1  0.90918581  0.15347148  0.89198669  1
+  Mo  Mo3  1  0.16974748  0.37149152  0.40260954  1
+  Mo  Mo4  1  0.41562907  0.41963213  0.90031092  1
+  Mo  Mo5  1  0.65091913  0.25560075  0.65835617  1
+  Mo  Mo6  1  0.90394136  0.32459435  0.14959068  1
+  S  S7  1  0.61008597  0.63306655  0.66810760  1
+  S  S8  1  0.92505519  0.53246179  0.90185234  1
+  S  S9  1  0.20116069  0.72726311  0.44372487  1
+  S  S10  1  0.43319394  0.04177825  0.89096126  1
+  S  S11  1  0.38892715  0.43865593  0.15284058  1
+  S  S12  1  0.68213285  0.26228857  0.40013484  1
+  S  S13  1  0.85260612  0.95917790  0.13562567  1
+  S  S14  1  0.15331889  0.14958470  0.64387543  1

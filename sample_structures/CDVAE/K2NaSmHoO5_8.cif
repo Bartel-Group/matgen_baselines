@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2NaSmHoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79614599
+_cell_length_b   6.55429240
+_cell_length_c   6.25498991
+_cell_angle_alpha   74.24511822
+_cell_angle_beta   67.44050766
+_cell_angle_gamma   68.55030396
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaSmHoO5
+_chemical_formula_sum   'K2 Na1 Sm1 Ho1 O5'
+_cell_volume   167.02412588
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.19385356  0.11356171  0.07678179  1
+  K  K1  1  0.78456007  0.29418381  0.71388831  1
+  Na  Na2  1  0.98483237  0.71251266  0.89570439  1
+  Sm  Sm3  1  0.37978650  0.53813067  0.27995490  1
+  Ho  Ho4  1  0.59488748  0.87538200  0.51323713  1
+  O  O5  1  0.49140239  0.70594666  0.88900071  1
+  O  O6  1  0.12597005  0.82940847  0.49653930  1
+  O  O7  1  0.37740863  0.22972243  0.59364863  1
+  O  O8  1  0.60446625  0.16564408  0.20363288  1
+  O  O9  1  0.84101279  0.59488457  0.30068450  1

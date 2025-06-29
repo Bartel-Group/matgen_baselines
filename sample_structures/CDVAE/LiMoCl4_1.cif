@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiMoCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75778066
+_cell_length_b   6.34173359
+_cell_length_c   6.59630178
+_cell_angle_alpha   77.81259404
+_cell_angle_beta   73.03519539
+_cell_angle_gamma   90.47145168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMoCl4
+_chemical_formula_sum   'Li1 Mo1 Cl4'
+_cell_volume   146.55582408
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.85614100  0.54897091  0.83205771  1
+  Mo  Mo1  1  0.14819119  -0.01338062  0.21825151  1
+  Cl  Cl2  1  0.76103372  0.88038777  -0.00242980  1
+  Cl  Cl3  1  0.54762853  0.10275045  0.41840385  1
+  Cl  Cl4  1  0.28438173  0.34638121  0.96395855  1
+  Cl  Cl5  1  0.02249629  0.63523228  0.45233678  1

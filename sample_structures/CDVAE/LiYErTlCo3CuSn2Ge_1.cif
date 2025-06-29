@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiYErTlCo3CuSn2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18225972
+_cell_length_b   6.39384830
+_cell_length_c   8.22045166
+_cell_angle_alpha   110.36438450
+_cell_angle_beta   104.77368034
+_cell_angle_gamma   89.97739624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiYErTlCo3CuSn2Ge
+_chemical_formula_sum   'Li1 Y1 Er1 Tl1 Co3 Cu1 Sn2 Ge1'
+_cell_volume   198.32030838
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.32948404  0.34368839  0.67758736  1
+  Y  Y1  1  0.67340403  0.03338422  0.36301877  1
+  Er  Er2  1  0.53566154  0.34527546  0.09006299  1
+  Tl  Tl3  1  0.87455647  0.10822319  0.76986467  1
+  Co  Co4  1  0.27991018  0.82296621  0.57893020  1
+  Co  Co5  1  0.96127652  0.56366611  0.94463847  1
+  Co  Co6  1  0.16745607  0.38085961  0.35300612  1
+  Cu  Cu7  1  0.04451491  0.00623959  0.10720353  1
+  Sn  Sn8  1  0.76962123  0.56499619  0.55812924  1
+  Sn  Sn9  1  0.44407142  0.78516730  0.90769853  1
+  Ge  Ge10  1  0.12108943  0.68816827  0.25939202  1

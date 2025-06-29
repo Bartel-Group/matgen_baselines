@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ca2SbAsAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50763400
+_cell_length_b   4.23301724
+_cell_length_c   7.86348951
+_cell_angle_alpha   89.71692546
+_cell_angle_beta   90.01784407
+_cell_angle_gamma   90.00622172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2SbAsAu2
+_chemical_formula_sum   'Ca2 Sb1 As1 Au2'
+_cell_volume   150.04055805
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.06177085  0.27744049  0.13159949  1
+  Ca  Ca1  1  0.56127414  0.26877224  0.60521984  1
+  Sb  Sb2  1  0.56167811  0.79481742  0.94973781  1
+  As  As3  1  0.06167448  0.77634460  0.44744273  1
+  Au  Au4  1  0.06151676  0.74342664  0.76896108  1
+  Au  Au5  1  0.56158954  0.75201016  0.29213717  1

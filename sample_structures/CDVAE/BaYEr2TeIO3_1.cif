@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaYEr2TeIO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25340068
+_cell_length_b   6.03891383
+_cell_length_c   8.23115170
+_cell_angle_alpha   64.89427287
+_cell_angle_beta   68.15771749
+_cell_angle_gamma   62.41789499
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaYEr2TeIO3
+_chemical_formula_sum   'Ba1 Y1 Er2 Te1 I1 O3'
+_cell_volume   243.43899028
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.20090783  0.16679467  0.77501992  1
+  Y  Y1  1  0.68256827  0.37091805  0.25163091  1
+  Er  Er2  1  0.27142630  0.07201577  0.28461521  1
+  Er  Er3  1  -0.03838351  0.67822256  0.31942323  1
+  Te  Te4  1  0.88914600  0.90886529  0.62428234  1
+  I  I5  1  0.50811445  0.43584212  0.91192665  1
+  O  O6  1  0.61046739  0.73666441  0.28869631  1
+  O  O7  1  0.31328942  0.33638608  0.38776198  1
+  O  O8  1  0.04275228  0.03031578  0.15195851  1

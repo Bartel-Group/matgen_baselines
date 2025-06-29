@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Er2Tm3Ga5CuSiNi5Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03505759
+_cell_length_b   7.24384981
+_cell_length_c   7.69949892
+_cell_angle_alpha   100.30660023
+_cell_angle_beta   100.18392396
+_cell_angle_gamma   103.61766205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Tm3Ga5CuSiNi5Pt
+_chemical_formula_sum   'Er2 Tm3 Ga5 Cu1 Si1 Ni5 Pt1'
+_cell_volume   313.30863698
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.13056257  0.41448891  0.58154094  1
+  Er  Er1  1  0.69238562  0.19354928  0.13509917  1
+  Tm  Tm2  1  0.66489322  0.67237017  0.42901286  1
+  Tm  Tm3  1  0.86294857  0.66897914  0.03597046  1
+  Tm  Tm4  1  0.29884237  0.02184737  0.67984493  1
+  Ga  Ga5  1  0.64989121  0.39829800  0.67733766  1
+  Ga  Ga6  1  0.77717047  0.94901771  0.79059675  1
+  Ga  Ga7  1  0.19183407  0.43808108  0.19106034  1
+  Ga  Ga8  1  0.38216613  0.75816787  0.93177582  1
+  Ga  Ga9  1  0.38099451  0.90955168  0.27928394  1
+  Cu  Cu10  1  0.14347199  0.07075861  0.04954094  1
+  Si  Si11  1  0.00558346  0.01310432  0.33988496  1
+  Ni  Ni12  1  0.94121728  0.29663907  0.86677723  1
+  Ni  Ni13  1  0.39114277  0.25157632  0.37845370  1
+  Ni  Ni14  1  0.99478417  0.71114446  0.73852724  1
+  Ni  Ni15  1  0.73546738  0.09164902  0.51492996  1
+  Ni  Ni16  1  0.09291574  0.69863562  0.38408588  1
+  Pt  Pt17  1  0.40909830  0.39511581  0.93980703  1

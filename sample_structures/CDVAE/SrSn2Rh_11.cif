@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SrSn2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40939141
+_cell_length_b   6.22431217
+_cell_length_c   7.76492107
+_cell_angle_alpha   90.04765921
+_cell_angle_beta   89.99176503
+_cell_angle_gamma   110.72391653
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSn2Rh
+_chemical_formula_sum   'Sr2 Sn4 Rh2'
+_cell_volume   199.32242880
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.77784771  0.65118138  0.09365575  1
+  Sr  Sr1  1  0.89621527  0.88722772  0.59349276  1
+  Sn  Sn2  1  0.18063709  0.45744336  0.39451674  1
+  Sn  Sn3  1  0.49412980  0.08215260  0.29323482  1
+  Sn  Sn4  1  0.49361282  0.08089824  0.89443916  1
+  Sn  Sn5  1  0.17998051  0.45653671  0.79334035  1
+  Rh  Rh6  1  0.05350367  0.19967689  0.09392809  1
+  Rh  Rh7  1  0.62046666  0.33864156  0.59413854  1

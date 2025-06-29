@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_BaNaIn2Ga3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30908606
+_cell_length_b   6.21694629
+_cell_length_c   7.05172580
+_cell_angle_alpha   82.77246889
+_cell_angle_beta   67.49024286
+_cell_angle_gamma   64.87752978
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaIn2Ga3
+_chemical_formula_sum   'Ba1 Na1 In2 Ga3'
+_cell_volume   194.49102108
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.73790504  0.15863168  0.39558762  1
+  Na  Na1  1  0.20855527  0.54838347  0.06274613  1
+  In  In2  1  0.34999464  0.75341874  0.57291596  1
+  In  In3  1  0.87741343  0.52622036  0.74406287  1
+  Ga  Ga4  1  0.79244497  0.06195222  0.88522077  1
+  Ga  Ga5  1  0.52129083  0.82529135  0.16011238  1
+  Ga  Ga6  1  0.29528693  0.05568727  0.88370717  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NaCdSiNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86666928
+_cell_length_b   4.69144921
+_cell_length_c   5.99415585
+_cell_angle_alpha   67.68343659
+_cell_angle_beta   72.56045437
+_cell_angle_gamma   81.51732716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCdSiNO2
+_chemical_formula_sum   'Na1 Cd1 Si1 N1 O2'
+_cell_volume   95.89754728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.78598864  0.56844359  0.82038227  1
+  Cd  Cd1  1  0.24695364  0.00105366  0.14106046  1
+  Si  Si2  1  0.49740944  0.28799710  0.51233699  1
+  N  N3  1  0.58799814  0.07766080  0.77815171  1
+  O  O4  1  0.69433277  0.23026778  0.25092675  1
+  O  O5  1  0.22823531  0.58887387  0.47101246  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiHfAlV2Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97938921
+_cell_length_b   4.42323314
+_cell_length_c   5.32103955
+_cell_angle_alpha   65.67463801
+_cell_angle_beta   58.47985357
+_cell_angle_gamma   64.33877758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHfAlV2Fe
+_chemical_formula_sum   'Li1 Hf1 Al1 V2 Fe1'
+_cell_volume   87.38667534
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.76208946  0.37125562  0.17378356  1
+  Hf  Hf1  1  0.24300351  0.72509439  0.98975264  1
+  Al  Al2  1  0.20712128  0.42218759  0.63163274  1
+  V  V3  1  0.30806706  0.02369391  0.32634646  1
+  V  V4  1  0.73860822  0.08974856  0.76766852  1
+  Fe  Fe5  1  0.72667374  0.72673654  0.49449820  1

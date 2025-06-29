@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2Na3EuZn2AsSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15665930
+_cell_length_b   5.09476847
+_cell_length_c   11.50520561
+_cell_angle_alpha   91.24180829
+_cell_angle_beta   86.13447823
+_cell_angle_gamma   84.42723155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Na3EuZn2AsSe3
+_chemical_formula_sum   'K2 Na3 Eu1 Zn2 As1 Se3'
+_cell_volume   358.21346852
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.37109954  0.88725883  0.42898480  1
+  K  K1  1  0.85230315  0.37398002  0.30256823  1
+  Na  Na2  1  0.21164199  0.47717007  0.88335916  1
+  Na  Na3  1  0.48760670  0.93115589  0.71980267  1
+  Na  Na4  1  0.24337374  0.84502788  0.09709407  1
+  Eu  Eu5  1  0.88657985  0.37590281  0.63898671  1
+  Zn  Zn6  1  0.62607464  0.29236055  0.01839519  1
+  Zn  Zn7  1  0.68331880  0.72622079  -0.05456171  1
+  As  As8  1  0.92487690  0.04379022  0.89044322  1
+  Se  Se9  1  0.86469496  0.88279554  0.49594085  1
+  Se  Se10  1  0.37026581  0.31587986  0.19213628  1
+  Se  Se11  1  0.37600981  0.43404174  0.64536317  1

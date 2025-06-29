@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_KMg2TlTeI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49280684
+_cell_length_b   6.28906500
+_cell_length_c   10.37951253
+_cell_angle_alpha   75.72940299
+_cell_angle_beta   77.76597244
+_cell_angle_gamma   69.94036200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMg2TlTeI2
+_chemical_formula_sum   'K1 Mg2 Tl1 Te1 I2'
+_cell_volume   264.36100546
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.52529928  0.26176113  0.11597300  1
+  Mg  Mg1  1  0.11770726  0.62796487  0.55687280  1
+  Mg  Mg2  1  0.40539525  0.77270355  0.84306662  1
+  Tl  Tl3  1  0.79395221  0.46109209  0.37331947  1
+  Te  Te4  1  0.03863102  0.49622599  0.84190871  1
+  I  I5  1  0.23366047  0.83817320  0.11350685  1
+  I  I6  1  0.42367973  0.00893676  0.57075601  1

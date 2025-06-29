@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaRhO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.26434981
+_cell_length_b   3.29408060
+_cell_length_c   4.55598840
+_cell_angle_alpha   89.53532821
+_cell_angle_beta   89.68973690
+_cell_angle_gamma   89.78757330
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaRhO2
+_chemical_formula_sum   'Ca1 Rh1 O2'
+_cell_volume   48.98802805
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.23111830  0.75136030  0.58806706  1
+  Rh  Rh1  1  0.72753097  0.23905779  0.08803208  1
+  O  O2  1  0.73171187  0.25367035  0.58768644  1
+  O  O3  1  0.23764065  0.77906610  0.08787783  1

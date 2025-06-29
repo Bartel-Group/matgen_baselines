@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pr2HoLuCu3SnP3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17848459
+_cell_length_b   7.18345491
+_cell_length_c   8.56664021
+_cell_angle_alpha   114.76557135
+_cell_angle_beta   104.08178506
+_cell_angle_gamma   90.02260944
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2HoLuCu3SnP3
+_chemical_formula_sum   'Pr2 Ho1 Lu1 Cu3 Sn1 P3'
+_cell_volume   224.93712197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.94785456  0.68741383  0.91539648  1
+  Pr  Pr1  1  0.44563619  0.14997971  0.91106880  1
+  Ho  Ho2  1  0.69082202  0.38053506  0.40232258  1
+  Lu  Lu3  1  0.19631323  0.95008833  0.41222431  1
+  Cu  Cu4  1  0.07620222  0.44585887  0.17188254  1
+  Cu  Cu5  1  0.32563513  0.38022366  0.67079770  1
+  Cu  Cu6  1  0.78726608  0.83660281  0.59469980  1
+  Sn  Sn7  1  0.58496365  0.65412081  0.19026941  1
+  P  P8  1  0.31370479  0.69708918  0.64680309  1
+  P  P9  1  0.07722973  0.12999781  0.17476626  1
+  P  P10  1  0.81569879  0.20137166  0.65083495  1

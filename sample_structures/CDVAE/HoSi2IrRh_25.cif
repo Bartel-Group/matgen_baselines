@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_HoSi2IrRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07530770
+_cell_length_b   4.07224292
+_cell_length_c   4.98429451
+_cell_angle_alpha   90.00197608
+_cell_angle_beta   90.00336933
+_cell_angle_gamma   90.02300873
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoSi2IrRh
+_chemical_formula_sum   'Ho1 Si2 Ir1 Rh1'
+_cell_volume   82.71756515
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.34627333  0.18853681  0.44935654  1
+  Si  Si1  1  0.84477854  0.68832899  0.68298329  1
+  Si  Si2  1  0.84500273  0.68825050  0.21463513  1
+  Ir  Ir3  1  0.84561432  0.18827183  0.94860113  1
+  Rh  Rh4  1  0.34526885  0.68836764  0.94864674  1

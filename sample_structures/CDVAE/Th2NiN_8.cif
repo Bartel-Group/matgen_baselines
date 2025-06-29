@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Th2NiN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55972388
+_cell_length_b   3.54443138
+_cell_length_c   6.71984603
+_cell_angle_alpha   104.15814001
+_cell_angle_beta   105.50637949
+_cell_angle_gamma   89.95044527
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2NiN
+_chemical_formula_sum   'Th2 Ni1 N1'
+_cell_volume   79.02865734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  -0.01831138  0.59500563  0.33100799  1
+  Th  Th1  1  0.70003291  0.30606059  0.76783222  1
+  Ni  Ni2  1  0.33645028  -0.04489787  0.04187113  1
+  N  N3  1  0.49812975  0.10859998  0.36336464  1

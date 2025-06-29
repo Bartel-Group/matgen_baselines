@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_RbLiP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57733100
+_cell_length_b   3.58130033
+_cell_length_c   5.81349507
+_cell_angle_alpha   84.71950896
+_cell_angle_beta   86.33945905
+_cell_angle_gamma   87.08286441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiP
+_chemical_formula_sum   'Rb1 Li1 P1'
+_cell_volume   73.93620254
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.12357256  0.30449095  0.34923701  1
+  Li  Li1  1  0.11860475  0.30904752  0.84927264  1
+  P  P2  1  0.61880178  0.80859510  0.84731636  1

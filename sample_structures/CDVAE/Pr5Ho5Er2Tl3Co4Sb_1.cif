@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Pr5Ho5Er2Tl3Co4Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.30845207
+_cell_length_b   8.33686341
+_cell_length_c   7.62784135
+_cell_angle_alpha   89.92996539
+_cell_angle_beta   90.10986932
+_cell_angle_gamma   87.08549247
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr5Ho5Er2Tl3Co4Sb
+_chemical_formula_sum   'Pr5 Ho5 Er2 Tl3 Co4 Sb1'
+_cell_volume   527.66849121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.40617063  0.32878415  0.41893539  1
+  Pr  Pr1  1  0.26312654  0.76608723  0.92247563  1
+  Pr  Pr2  1  0.38891241  0.32439892  0.91880293  1
+  Pr  Pr3  1  0.95789625  0.45552874  0.42259714  1
+  Pr  Pr4  1  0.82920324  0.90430843  0.41853659  1
+  Ho  Ho5  1  0.10613409  0.11441610  0.16448211  1
+  Ho  Ho6  1  0.62383718  0.60969619  0.16546777  1
+  Ho  Ho7  1  0.11708737  0.09927921  0.67118785  1
+  Ho  Ho8  1  0.61007119  0.61989692  0.67163566  1
+  Ho  Ho9  1  0.82008914  0.89278560  0.91904532  1
+  Er  Er10  1  0.25760137  0.75572568  0.41730120  1
+  Er  Er11  1  0.96723171  0.47372908  0.91724159  1
+  Tl  Tl12  1  0.48463939  0.98354448  0.18054943  1
+  Tl  Tl13  1  0.73897372  0.23634712  0.14292291  1
+  Tl  Tl14  1  0.74776050  0.24265188  0.70383477  1
+  Co  Co15  1  0.99601755  0.71378157  0.16276134  1
+  Co  Co16  1  0.21698153  0.51628063  0.66445312  1
+  Co  Co17  1  0.20741229  0.50791918  0.17429054  1
+  Co  Co18  1  1.00508143  0.72341796  0.67569870  1
+  Sb  Sb19  1  0.48798100  0.98510349  0.65667770  1

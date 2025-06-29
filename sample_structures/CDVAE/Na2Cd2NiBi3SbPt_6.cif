@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2Cd2NiBi3SbPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75309985
+_cell_length_b   6.33686771
+_cell_length_c   8.48391542
+_cell_angle_alpha   89.73276339
+_cell_angle_beta   89.99783283
+_cell_angle_gamma   89.99279662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Cd2NiBi3SbPt
+_chemical_formula_sum   'Na2 Cd2 Ni1 Bi3 Sb1 Pt1'
+_cell_volume   255.53075682
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.01073444  0.87871681  0.23921012  1
+  Na  Na1  1  0.51072359  0.36005594  0.63612575  1
+  Cd  Cd2  1  0.01082320  0.01985013  0.77790604  1
+  Cd  Cd3  1  0.51053928  0.50862153  0.06630152  1
+  Ni  Ni4  1  0.01106892  0.68329331  0.58010179  1
+  Bi  Bi5  1  0.51091882  -0.00429353  0.00299854  1
+  Bi  Bi6  1  0.01066527  0.39363082  0.35725063  1
+  Bi  Bi7  1  0.51090405  0.86402910  0.52192838  1
+  Sb  Sb8  1  0.01068944  0.50486586  0.84471408  1
+  Pt  Pt9  1  0.51074511  0.18225172  0.29653552  1

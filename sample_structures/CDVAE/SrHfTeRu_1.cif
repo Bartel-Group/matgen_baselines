@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SrHfTeRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.53302148
+_cell_length_b   3.53352573
+_cell_length_c   7.71410674
+_cell_angle_alpha   89.96710770
+_cell_angle_beta   90.07126979
+_cell_angle_gamma   89.98330644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHfTeRu
+_chemical_formula_sum   'Sr1 Hf1 Te1 Ru1'
+_cell_volume   96.30298620
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  -0.01020314  0.34946096  0.69927582  1
+  Hf  Hf1  1  0.98076392  0.35166835  0.14565523  1
+  Te  Te2  1  0.48238474  0.85120033  0.37669689  1
+  Ru  Ru3  1  0.48146365  0.85142640  0.98966594  1

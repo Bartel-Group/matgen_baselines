@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La3Mg2SiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68020869
+_cell_length_b   5.98645673
+_cell_length_c   8.83750398
+_cell_angle_alpha   102.66423846
+_cell_angle_beta   102.00478902
+_cell_angle_gamma   97.83946364
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Mg2SiO8
+_chemical_formula_sum   'La3 Mg2 Si1 O8'
+_cell_volume   182.40116854
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.32638330  0.59334033  0.59902262  1
+  La  La1  1  0.05718136  0.03692865  0.26295369  1
+  La  La2  1  0.91946343  0.35773956  0.92991976  1
+  Mg  Mg3  1  0.44835162  0.86730521  0.93762624  1
+  Mg  Mg4  1  0.77847062  0.08575180  0.58854800  1
+  Si  Si5  1  0.62794975  0.50136171  0.26484624  1
+  O  O6  1  0.97108298  0.65568049  0.81824692  1
+  O  O7  1  0.76374005  0.76315308  0.42390974  1
+  O  O8  1  0.26916512  0.29226336  0.70738597  1
+  O  O9  1  0.61796710  0.97410329  0.76242084  1
+  O  O10  1  0.12497625  0.46838484  0.26463470  1
+  O  O11  1  0.58386900  0.64970799  0.11039339  1
+  O  O12  1  0.48828075  0.18788964  0.10322657  1
+  O  O13  1  0.67363491  0.30100356  0.41794191  1

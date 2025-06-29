@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SrAcYZnGe3PdAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47068924
+_cell_length_b   5.94695564
+_cell_length_c   8.87526275
+_cell_angle_alpha   104.95391204
+_cell_angle_beta   89.97072146
+_cell_angle_gamma   112.05538420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAcYZnGe3PdAu
+_chemical_formula_sum   'Sr1 Ac1 Y1 Zn1 Ge3 Pd1 Au1'
+_cell_volume   210.06466620
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.42380999  0.69152511  0.27288437  1
+  Ac  Ac1  1  0.06552849  0.97320987  0.96866649  1
+  Y  Y2  1  0.73812518  0.31752319  0.61525892  1
+  Zn  Zn3  1  0.44245104  0.72663712  0.64770015  1
+  Ge  Ge4  1  0.70542452  0.25214190  0.23339994  1
+  Ge  Ge5  1  0.32242817  0.48633431  0.85832155  1
+  Ge  Ge6  1  0.04184280  -0.07556658  0.59339592  1
+  Pd  Pd7  1  0.78917694  0.42018738  0.98830948  1
+  Au  Au8  1  0.16711797  0.17539273  0.37312164  1

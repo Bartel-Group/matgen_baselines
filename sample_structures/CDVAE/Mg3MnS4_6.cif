@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mg3MnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30811637
+_cell_length_b   5.32098160
+_cell_length_c   7.42567942
+_cell_angle_alpha   90.02149533
+_cell_angle_beta   90.16948439
+_cell_angle_gamma   89.98687295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3MnS4
+_chemical_formula_sum   'Mg3 Mn1 S4'
+_cell_volume   170.22111701
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.65392552  0.50150121  0.33476071  1
+  Mg  Mg1  1  0.65307913  0.00066831  0.66878265  1
+  Mg  Mg2  1  0.15404005  0.50006534  0.83712918  1
+  Mn  Mn3  1  0.15284470  0.00087765  0.16840288  1
+  S  S4  1  0.65390176  0.00118115  0.33189708  1
+  S  S5  1  0.65287079  0.50091628  0.66891605  1
+  S  S6  1  0.15278136  0.50085201  0.17000286  1
+  S  S7  1  0.15426398  0.00069192  0.83853121  1

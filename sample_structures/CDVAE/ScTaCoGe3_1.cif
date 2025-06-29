@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ScTaCoGe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76347693
+_cell_length_b   5.21983907
+_cell_length_c   5.56932555
+_cell_angle_alpha   103.54508796
+_cell_angle_beta   89.96041929
+_cell_angle_gamma   111.09413630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTaCoGe3
+_chemical_formula_sum   'Sc1 Ta1 Co1 Ge3'
+_cell_volume   98.81499456
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.01307050  0.90730181  0.57316517  1
+  Ta  Ta1  1  0.77186421  0.42290237  0.92626736  1
+  Co  Co2  1  0.67675696  0.23013074  0.37164880  1
+  Ge  Ge3  1  0.30181243  0.48169534  0.60003625  1
+  Ge  Ge4  1  0.09537757  0.06751794  0.07720883  1
+  Ge  Ge5  1  0.41623355  0.71290466  0.21835747  1

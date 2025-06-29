@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Er2AlAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09376889
+_cell_length_b   5.09809957
+_cell_length_c   5.10982594
+_cell_angle_alpha   59.93708106
+_cell_angle_beta   60.05705471
+_cell_angle_gamma   60.25680858
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2AlAg
+_chemical_formula_sum   'Er2 Al1 Ag1'
+_cell_volume   94.00570239
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.28855276  0.13281549  0.31402812  1
+  Er  Er1  1  0.78850264  0.63303715  0.81430834  1
+  Al  Al2  1  0.53791169  0.38173099  0.56570014  1
+  Ag  Ag3  1  0.04069610  0.88654821  0.05883286  1

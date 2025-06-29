@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_YInBOs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.48390667
+_cell_length_b   4.36688697
+_cell_length_c   5.65297083
+_cell_angle_alpha   90.01286114
+_cell_angle_beta   83.82483393
+_cell_angle_gamma   90.01881294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YInBOs2
+_chemical_formula_sum   'Y1 In1 B1 Os2'
+_cell_volume   85.50429325
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.27344337  0.63836272  0.28034403  1
+  In  In1  1  0.75253838  0.63830817  0.77955096  1
+  B  B2  1  0.84153871  0.13830561  0.44852404  1
+  Os  Os3  1  0.25927503  0.13828487  0.68168762  1
+  Os  Os4  1  0.81039378  0.13826963  0.08749778  1

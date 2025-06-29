@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb4TlIn3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38211170
+_cell_length_b   7.92901077
+_cell_length_c   7.44383032
+_cell_angle_alpha   81.70354923
+_cell_angle_beta   62.70451756
+_cell_angle_gamma   76.69905240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4TlIn3Au
+_chemical_formula_sum   'Rb4 Tl1 In3 Au1'
+_cell_volume   376.42817755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  -0.04112628  -0.00567911  0.01508098  1
+  Rb  Rb1  1  0.06043461  0.69591739  0.46750138  1
+  Rb  Rb2  1  0.67437561  0.58272116  0.12783884  1
+  Rb  Rb3  1  0.86867798  0.23445829  0.53723774  1
+  Tl  Tl4  1  0.42082870  0.23249704  0.10368015  1
+  In  In5  1  0.41755274  0.99850681  0.48145497  1
+  In  In6  1  0.45280851  0.64504889  0.73839061  1
+  In  In7  1  0.28616846  0.32836717  0.74345688  1
+  Au  Au8  1  0.48829953  0.95827393  0.84220235  1

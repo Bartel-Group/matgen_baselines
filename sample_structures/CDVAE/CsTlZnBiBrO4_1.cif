@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CsTlZnBiBrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15854523
+_cell_length_b   6.01199928
+_cell_length_c   7.18565561
+_cell_angle_alpha   68.82935219
+_cell_angle_beta   71.70414066
+_cell_angle_gamma   62.66129208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTlZnBiBrO4
+_chemical_formula_sum   'Cs1 Tl1 Zn1 Bi1 Br1 O4'
+_cell_volume   216.83444913
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.04326655  0.50421761  0.42950539  1
+  Tl  Tl1  1  0.59742241  0.10270769  0.72149105  1
+  Zn  Zn2  1  0.17180702  0.73357755  0.87639007  1
+  Bi  Bi3  1  0.77564950  0.33597971  0.06017983  1
+  Br  Br4  1  0.38978137  0.78675980  0.52169892  1
+  O  O5  1  0.40763790  0.45809653  0.04351143  1
+  O  O6  1  0.81780401  0.15675874  0.35149993  1
+  O  O7  1  0.87268350  0.65513602  0.93018325  1
+  O  O8  1  -0.01758091  0.10779470  0.85670927  1

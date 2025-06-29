@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiDy8AlPd4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75146534
+_cell_length_b   8.42347580
+_cell_length_c   8.76547445
+_cell_angle_alpha   75.44624602
+_cell_angle_beta   67.21461546
+_cell_angle_gamma   60.79285939
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiDy8AlPd4
+_chemical_formula_sum   'Li1 Dy8 Al1 Pd4'
+_cell_volume   340.72018012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.48293036  0.89033172  0.35117429  1
+  Dy  Dy1  1  0.01379116  0.29754578  0.84795099  1
+  Dy  Dy2  1  0.50927982  0.16618234  0.02789265  1
+  Dy  Dy3  1  -0.00442538  0.65663576  0.49133122  1
+  Dy  Dy4  1  0.53956209  0.76377910  0.94762760  1
+  Dy  Dy5  1  0.88313595  0.50943127  0.22125748  1
+  Dy  Dy6  1  0.89639557  0.08686075  0.27907066  1
+  Dy  Dy7  1  0.59899411  0.36397867  0.60947874  1
+  Dy  Dy8  1  0.10630654  0.89907062  0.70820179  1
+  Al  Al9  1  0.23778940  0.24510356  0.45162300  1
+  Pd  Pd10  1  0.56556150  0.01309929  0.63919078  1
+  Pd  Pd11  1  0.95435686  0.83869250  0.08859005  1
+  Pd  Pd12  1  0.46275951  0.44291699  0.18871116  1
+  Pd  Pd13  1  0.24791739  0.53939792  0.89158983  1

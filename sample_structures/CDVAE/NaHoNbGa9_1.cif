@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaHoNbGa9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88489086
+_cell_length_b   5.88532163
+_cell_length_c   7.31087417
+_cell_angle_alpha   89.99847644
+_cell_angle_beta   89.96946224
+_cell_angle_gamma   119.97025075
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHoNbGa9
+_chemical_formula_sum   'Na1 Ho1 Nb1 Ga9'
+_cell_volume   219.35047604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25764440  0.77270894  0.47111758  1
+  Ho  Ho1  1  0.59219185  0.44079642  0.77105978  1
+  Nb  Nb2  1  0.92550590  0.10677135  0.13343122  1
+  Ga  Ga3  1  0.42418435  0.10450441  0.12329718  1
+  Ga  Ga4  1  0.09040772  0.94243421  0.80142900  1
+  Ga  Ga5  1  0.92800074  0.60813074  0.12315400  1
+  Ga  Ga6  1  0.25685580  0.27248288  0.44143788  1
+  Ga  Ga7  1  0.42461396  0.60787952  0.12363095  1
+  Ga  Ga8  1  0.75862060  0.27249447  0.44099716  1
+  Ga  Ga9  1  0.59501173  0.94222669  0.80162464  1
+  Ga  Ga10  1  0.75919644  0.77594067  0.44141951  1
+  Ga  Ga11  1  0.09081813  0.43814721  0.80235723  1

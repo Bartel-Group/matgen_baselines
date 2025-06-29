@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb3AsBrCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87113438
+_cell_length_b   5.40952955
+_cell_length_c   12.50638698
+_cell_angle_alpha   89.34548897
+_cell_angle_beta   89.59156481
+_cell_angle_gamma   117.52578929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3AsBrCl5
+_chemical_formula_sum   'Rb3 As1 Br1 Cl5'
+_cell_volume   352.18400880
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.52032029  -0.01646496  0.61493754  1
+  Rb  Rb1  1  0.26964359  0.34319114  0.00796644  1
+  Rb  Rb2  1  0.89543218  0.65948707  0.81142644  1
+  As  As3  1  0.89570986  0.61865800  0.29678442  1
+  Br  Br4  1  0.88509951  0.67263376  0.50903160  1
+  Cl  Cl5  1  0.91177096  0.66542737  0.09779669  1
+  Cl  Cl6  1  0.58266314  0.18260335  0.29638950  1
+  Cl  Cl7  1  0.56521705  -0.00850771  0.89877471  1
+  Cl  Cl8  1  0.20884511  0.49707697  0.30226926  1
+  Cl  Cl9  1  0.22431355  0.32687780  0.72368528  1

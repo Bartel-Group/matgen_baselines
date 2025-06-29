@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tl2VCo6S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63433235
+_cell_length_b   6.74305454
+_cell_length_c   8.66176081
+_cell_angle_alpha   111.33484769
+_cell_angle_beta   112.23626791
+_cell_angle_gamma   85.89537400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2VCo6S7
+_chemical_formula_sum   'Tl2 V1 Co6 S7'
+_cell_volume   282.89950884
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  -0.05581155  0.35384477  0.41914977  1
+  Tl  Tl1  1  0.98794035  0.80996405  0.20115973  1
+  V  V2  1  0.46445146  0.08116484  0.81002863  1
+  Co  Co3  1  0.32418455  0.72855971  0.82812550  1
+  Co  Co4  1  0.94540331  0.19425220  0.72152957  1
+  Co  Co5  1  0.98402915  0.96844304  0.89957746  1
+  Co  Co6  1  0.60496159  0.43396495  0.79237478  1
+  Co  Co7  1  0.27632052  0.33555368  0.06014835  1
+  Co  Co8  1  0.65343559  0.82684277  0.56072551  1
+  S  S9  1  0.86024268  0.29842563  -0.01129578  1
+  S  S10  1  0.52676423  0.13975523  0.55638747  1
+  S  S11  1  0.46403830  0.58062499  0.31097034  1
+  S  S12  1  0.06919156  0.86436751  0.63175044  1
+  S  S13  1  0.40313561  0.02269835  0.06415415  1
+  S  S14  1  0.67016843  0.73258030  0.77727365  1
+  S  S15  1  0.25941637  0.43004886  0.84364082  1

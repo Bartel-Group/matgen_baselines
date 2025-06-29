@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Al6Ni5Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05374431
+_cell_length_b   5.06394626
+_cell_length_c   6.50537204
+_cell_angle_alpha   75.84360250
+_cell_angle_beta   75.88342452
+_cell_angle_gamma   69.57598160
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al6Ni5Ir
+_chemical_formula_sum   'Al6 Ni5 Ir1'
+_cell_volume   148.96016862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.65765604  0.39983920  0.79683582  1
+  Al  Al1  1  0.83053466  0.55927404  0.13721587  1
+  Al  Al2  1  0.31697121  0.07208363  0.13696966  1
+  Al  Al3  1  0.48461007  0.23995101  0.45682726  1
+  Al  Al4  1  0.99798549  0.72701303  0.45667042  1
+  Al  Al5  1  0.15728318  0.90008993  0.79678865  1
+  Ni  Ni6  1  0.82226441  0.06467031  0.12944890  1
+  Ni  Ni7  1  0.33207974  0.57347652  0.12632833  1
+  Ni  Ni8  1  0.15770625  0.39938454  0.79705976  1
+  Ni  Ni9  1  0.49259573  0.73444155  0.46461295  1
+  Ni  Ni10  1  0.98276546  0.22543544  0.46761086  1
+  Ir  Ir11  1  0.65750177  0.89964594  0.79690781  1

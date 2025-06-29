@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2MgCdSe4I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89876054
+_cell_length_b   8.09477210
+_cell_length_c   9.26259527
+_cell_angle_alpha   85.23337038
+_cell_angle_beta   86.42038815
+_cell_angle_gamma   97.35464641
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2MgCdSe4I
+_chemical_formula_sum   'Cs2 Mg1 Cd1 Se4 I1'
+_cell_volume   362.02688394
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.18653111  0.73414174  0.80627591  1
+  Cs  Cs1  1  0.23817594  0.15509617  0.21655256  1
+  Mg  Mg2  1  0.72387691  0.15638013  0.66245762  1
+  Cd  Cd3  1  0.69148333  0.66839537  0.44295508  1
+  Se  Se4  1  0.65899230  0.98141488  0.45866516  1
+  Se  Se5  1  0.64223328  0.45923907  0.67491128  1
+  Se  Se6  1  0.75490577  0.04784382  -0.06554239  1
+  Se  Se7  1  0.16999636  0.22334456  0.82109578  1
+  I  I8  1  0.18024366  0.62031934  0.25077821  1

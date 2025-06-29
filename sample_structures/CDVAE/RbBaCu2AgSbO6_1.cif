@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbBaCu2AgSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18509647
+_cell_length_b   6.37035779
+_cell_length_c   7.30514222
+_cell_angle_alpha   80.39615279
+_cell_angle_beta   89.94020313
+_cell_angle_gamma   89.74257946
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaCu2AgSbO6
+_chemical_formula_sum   'Rb1 Ba1 Cu2 Ag1 Sb1 O6'
+_cell_volume   192.02766752
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.61839604  0.29640068  0.19213420  1
+  Ba  Ba1  1  0.61783191  0.83510663  0.87810812  1
+  Cu  Cu2  1  0.11719372  0.20817249  0.51278267  1
+  Cu  Cu3  1  0.61898007  0.53070536  0.54523662  1
+  Ag  Ag4  1  0.11930132  0.34418362  0.85195751  1
+  Sb  Sb5  1  0.11770342  0.78194861  0.29107400  1
+  O  O6  1  0.11402820  0.92090734  0.52510623  1
+  O  O7  1  0.11886254  0.03777227  0.10127836  1
+  O  O8  1  0.61768560  0.73240991  0.31617539  1
+  O  O9  1  0.11786153  0.62095303  0.07970790  1
+  O  O10  1  0.61862645  0.41163490  0.79602304  1
+  O  O11  1  0.12003987  0.50360402  0.49459492  1

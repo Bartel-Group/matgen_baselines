@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PuBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08961064
+_cell_length_b   4.37152009
+_cell_length_c   6.77376921
+_cell_angle_alpha   90.20388141
+_cell_angle_beta   72.65673932
+_cell_angle_gamma   90.09495094
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuBi
+_chemical_formula_sum   'Pu2 Bi2'
+_cell_volume   115.59373924
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.25712942  0.89640911  0.10060735  1
+  Pu  Pu1  1  0.42882196  0.89548877  0.75870260  1
+  Bi  Bi2  1  0.84751552  0.39563113  0.92160964  1
+  Bi  Bi3  1  0.82015760  0.39718240  0.42197612  1

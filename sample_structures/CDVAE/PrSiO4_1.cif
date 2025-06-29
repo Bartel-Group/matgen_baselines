@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PrSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03874289
+_cell_length_b   4.78593598
+_cell_length_c   4.72032299
+_cell_angle_alpha   65.95035980
+_cell_angle_beta   59.32259966
+_cell_angle_gamma   59.58438928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSiO4
+_chemical_formula_sum   'Pr1 Si1 O4'
+_cell_volume   82.70077057
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  -0.01438543  0.51106597  0.45731653  1
+  Si  Si1  1  0.48581416  0.00983729  0.95870005  1
+  O  O2  1  0.14920822  0.97909603  0.28767657  1
+  O  O3  1  0.45018501  0.04505760  0.61738848  1
+  O  O4  1  0.51978452  0.34774659  0.92100688  1
+  O  O5  1  0.81669184  0.68257774  -0.00857051  1

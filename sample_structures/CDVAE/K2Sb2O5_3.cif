@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2Sb2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16158378
+_cell_length_b   4.15970381
+_cell_length_c   8.44500997
+_cell_angle_alpha   89.86768224
+_cell_angle_beta   89.99725300
+_cell_angle_gamma   89.94849912
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Sb2O5
+_chemical_formula_sum   'K2 Sb2 O5'
+_cell_volume   146.19074598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.03963641  0.14603386  0.78871593  1
+  K  K1  1  0.04133416  0.14645783  0.28873592  1
+  Sb  Sb2  1  0.54097025  0.64792322  0.05178416  1
+  Sb  Sb3  1  0.54076777  0.64539852  0.52585104  1
+  O  O4  1  0.53977382  0.14473885  0.55475232  1
+  O  O5  1  0.54021069  0.64686315  0.28882829  1
+  O  O6  1  0.04105068  0.64845561  0.02332272  1
+  O  O7  1  0.53932348  0.14802213  0.02290900  1
+  O  O8  1  0.04092161  0.64403054  0.55419370  1

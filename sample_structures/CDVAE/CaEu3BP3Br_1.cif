@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CaEu3BP3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22003314
+_cell_length_b   5.23621002
+_cell_length_c   7.53085963
+_cell_angle_alpha   87.65309933
+_cell_angle_beta   88.68003523
+_cell_angle_gamma   92.12492938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEu3BP3Br
+_chemical_formula_sum   'Ca1 Eu3 B1 P3 Br1'
+_cell_volume   205.46617407
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.01053622  0.03931059  0.73861159  1
+  Eu  Eu1  1  0.50086168  0.54231460  0.22203181  1
+  Eu  Eu2  1  0.49772894  0.54920740  0.73241170  1
+  Eu  Eu3  1  0.00696676  0.03688743  0.22360489  1
+  B  B4  1  0.74844708  0.28014195  0.48033019  1
+  P  P5  1  0.00129612  0.54238000  0.97091769  1
+  P  P6  1  0.49643997  0.03082465  0.47429785  1
+  P  P7  1  -0.00146158  0.52391440  0.47423134  1
+  Br  Br8  1  0.50863359  0.04451587  0.97223914  1

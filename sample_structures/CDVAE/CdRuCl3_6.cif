@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CdRuCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51625459
+_cell_length_b   4.94094053
+_cell_length_c   6.71255672
+_cell_angle_alpha   90.00077935
+_cell_angle_beta   108.38251898
+_cell_angle_gamma   90.13627556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdRuCl3
+_chemical_formula_sum   'Cd1 Ru1 Cl3'
+_cell_volume   110.67003864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.24537709  0.70558469  0.68928453  1
+  Ru  Ru1  1  0.25003142  0.20529894  0.18482585  1
+  Cl  Cl2  1  0.24569542  0.70528917  0.17556545  1
+  Cl  Cl3  1  0.89923660  0.20551102  0.43363874  1
+  Cl  Cl4  1  0.59941626  0.20527253  0.93543343  1

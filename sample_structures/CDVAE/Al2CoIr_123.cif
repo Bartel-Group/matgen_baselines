@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Al2CoIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16380482
+_cell_length_b   4.16125535
+_cell_length_c   2.95664801
+_cell_angle_alpha   90.02845254
+_cell_angle_beta   90.01992140
+_cell_angle_gamma   89.98854159
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2CoIr
+_chemical_formula_sum   'Al2 Co1 Ir1'
+_cell_volume   51.22880979
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.26836330  0.73726637  0.21989551  1
+  Al  Al1  1  0.76860327  0.23640553  0.21938776  1
+  Co  Co2  1  0.76833804  0.73670450  0.72031372  1
+  Ir  Ir3  1  0.26856408  0.23733996  0.71960825  1

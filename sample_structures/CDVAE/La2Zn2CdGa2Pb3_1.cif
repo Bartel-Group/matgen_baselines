@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2Zn2CdGa2Pb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65691971
+_cell_length_b   6.12063204
+_cell_length_c   6.23164824
+_cell_angle_alpha   91.40366240
+_cell_angle_beta   89.85265712
+_cell_angle_gamma   89.68651328
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Zn2CdGa2Pb3
+_chemical_formula_sum   'La2 Zn2 Cd1 Ga2 Pb3'
+_cell_volume   253.82482184
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.60853356  0.84182419  0.11206355  1
+  La  La1  1  0.09776519  0.58010643  0.72932498  1
+  Zn  Zn2  1  0.00913705  0.10185614  0.94298139  1
+  Zn  Zn3  1  0.60260146  0.64809756  0.59477672  1
+  Cd  Cd4  1  0.82658855  0.35715388  0.30175744  1
+  Ga  Ga5  1  0.82019531  0.01554213  0.59259246  1
+  Ga  Ga6  1  0.67237872  0.35503369  0.87282482  1
+  Pb  Pb7  1  0.10662996  0.78670793  0.24700146  1
+  Pb  Pb8  1  0.35848293  0.07221848  0.65551918  1
+  Pb  Pb9  1  0.33882396  0.33015339  0.20408209  1

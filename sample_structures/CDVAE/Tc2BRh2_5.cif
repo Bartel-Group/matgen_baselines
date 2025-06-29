@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tc2BRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44938457
+_cell_length_b   4.57949153
+_cell_length_c   4.35405764
+_cell_angle_alpha   58.28264418
+_cell_angle_beta   74.46564563
+_cell_angle_gamma   59.14888298
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc2BRh2
+_chemical_formula_sum   'Tc2 B1 Rh2'
+_cell_volume   64.78935248
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.96613940  0.16786208  0.92881005  1
+  Tc  Tc1  1  0.96684732  0.83104486  0.60142604  1
+  B  B2  1  0.46667344  0.24957489  0.76488277  1
+  Rh  Rh3  1  0.62909162  0.66814261  0.26414435  1
+  Rh  Rh4  1  0.30392355  0.32909554  0.26634293  1

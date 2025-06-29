@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Rb3Al5SiO10F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97903269
+_cell_length_b   6.18537805
+_cell_length_c   11.60838458
+_cell_angle_alpha   87.77103845
+_cell_angle_beta   90.49922132
+_cell_angle_gamma   88.02365533
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3Al5SiO10F
+_chemical_formula_sum   'Rb3 Al5 Si1 O10 F1'
+_cell_volume   357.00464591
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  -0.01745368  0.80567381  0.98067961  1
+  Rb  Rb1  1  0.01069517  0.31168503  0.43109245  1
+  Rb  Rb2  1  0.25948518  0.76291245  0.64186074  1
+  Al  Al3  1  0.59452298  0.33428898  0.96762546  1
+  Al  Al4  1  0.98499845  0.83081122  0.28444670  1
+  Al  Al5  1  0.66501022  0.23303368  0.70517866  1
+  Al  Al6  1  0.46698941  0.55665668  0.19190471  1
+  Al  Al7  1  0.08007149  0.28437013  0.80562874  1
+  Si  Si8  1  0.47287838  0.07765360  0.18873936  1
+  O  O9  1  0.93467954  0.34831595  0.93526650  1
+  O  O10  1  0.49248669  0.56170308  0.04338630  1
+  O  O11  1  0.90923560  0.43703457  0.68546923  1
+  O  O12  1  0.43412188  0.30491129  0.82103921  1
+  O  O13  1  0.64043595  0.83419482  0.23203211  1
+  O  O14  1  0.91828201  0.04117978  0.75915057  1
+  O  O15  1  0.58569880  0.29265708  0.25150583  1
+  O  O16  1  0.15353412  0.59463953  0.25451022  1
+  O  O17  1  0.51116872  0.09687808  0.05013880  1
+  O  O18  1  0.16280002  0.04675460  0.22874986  1
+  F  F19  1  0.95542292  0.85128894  0.43301463  1

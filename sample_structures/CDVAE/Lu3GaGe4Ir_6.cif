@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu3GaGe4Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14093653
+_cell_length_b   6.60385197
+_cell_length_c   6.81575363
+_cell_angle_alpha   106.00804901
+_cell_angle_beta   90.00542101
+_cell_angle_gamma   90.00400799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3GaGe4Ir
+_chemical_formula_sum   'Lu3 Ga1 Ge4 Ir1'
+_cell_volume   179.15705760
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.61966895  0.67459160  0.25672277  1
+  Lu  Lu1  1  0.61952044  0.84825163  0.80870771  1
+  Lu  Lu2  1  0.61901849  0.29667496  0.60661076  1
+  Ga  Ga3  1  0.11960603  0.20121057  0.92452612  1
+  Ge  Ge4  1  0.11956579  0.58375694  0.91476159  1
+  Ge  Ge5  1  0.11939158  0.96406029  0.53193426  1
+  Ge  Ge6  1  0.11918295  0.57328323  0.53093973  1
+  Ge  Ge7  1  0.61947170  0.19137624  0.17818980  1
+  Ir  Ir8  1  0.11944212  0.94890839  0.15633113  1

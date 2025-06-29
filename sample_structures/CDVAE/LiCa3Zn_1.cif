@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LiCa3Zn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02322562
+_cell_length_b   5.13237517
+_cell_length_c   6.33306970
+_cell_angle_alpha   89.27615132
+_cell_angle_beta   92.77547262
+_cell_angle_gamma   90.80618432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa3Zn
+_chemical_formula_sum   'Li1 Ca3 Zn1'
+_cell_volume   163.05401996
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.14718901  0.03012783  0.55278048  1
+  Ca  Ca1  1  0.63721084  0.53429721  0.72581588  1
+  Ca  Ca2  1  0.62160977  0.03679848  0.20742255  1
+  Ca  Ca3  1  0.12637019  0.53786960  0.20648281  1
+  Zn  Zn4  1  0.09811787  0.04380262  0.94164066  1

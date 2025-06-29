@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce2ZrCr3P4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90980432
+_cell_length_b   5.75143975
+_cell_length_c   8.03518032
+_cell_angle_alpha   86.47161740
+_cell_angle_beta   104.04371129
+_cell_angle_gamma   90.01640380
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2ZrCr3P4
+_chemical_formula_sum   'Ce2 Zr1 Cr3 P4'
+_cell_volume   174.93426508
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.14112994  0.03121003  0.35013984  1
+  Ce  Ce1  1  0.75412305  0.49764613  0.57765549  1
+  Zr  Zr2  1  0.94750725  0.76402910  0.96394941  1
+  Cr  Cr3  1  0.94748163  0.26385338  0.96366912  1
+  Cr  Cr4  1  0.34912103  0.08748873  0.76688764  1
+  Cr  Cr5  1  0.54592264  0.44071752  0.16071220  1
+  P  P6  1  0.39228382  0.47387024  0.85309464  1
+  P  P7  1  0.11434427  0.53395177  0.29799468  1
+  P  P8  1  0.78066667  -0.00491320  0.62968930  1
+  P  P9  1  0.50278041  0.05416226  0.07450519  1

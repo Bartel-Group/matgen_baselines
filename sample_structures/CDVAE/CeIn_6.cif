@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_CeIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20889609
+_cell_length_b   4.19493236
+_cell_length_c   4.16917046
+_cell_angle_alpha   89.83690614
+_cell_angle_beta   89.89940820
+_cell_angle_gamma   89.91819194
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeIn
+_chemical_formula_sum   'Ce1 In1'
+_cell_volume   56.12125842
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.99494357  0.97635729  0.75582953  1
+  In  In1  1  0.49253537  0.47528987  0.25489605  1

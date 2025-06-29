@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaZn3AgSb2PbSeS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99110301
+_cell_length_b   5.91552217
+_cell_length_c   11.16992616
+_cell_angle_alpha   87.15296582
+_cell_angle_beta   93.54440555
+_cell_angle_gamma   87.87498952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZn3AgSb2PbSeS7
+_chemical_formula_sum   'Na1 Zn3 Ag1 Sb2 Pb1 Se1 S7'
+_cell_volume   394.30267057
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75316618  0.65205244  0.48737255  1
+  Zn  Zn1  1  0.18033414  0.24719600  0.49607002  1
+  Zn  Zn2  1  0.70474082  0.26958134  0.27510213  1
+  Zn  Zn3  1  0.68374421  0.55005921  0.95434297  1
+  Ag  Ag4  1  0.18489068  0.53183937  0.74773425  1
+  Sb  Sb5  1  0.73438394  0.10274945  0.72993064  1
+  Sb  Sb6  1  0.22510180  0.61146714  0.22608064  1
+  Pb  Pb7  1  0.26604117  0.11462893  0.97147461  1
+  Se  Se8  1  0.31513432  0.16346336  0.23955616  1
+  S  S9  1  0.31179288  0.13018183  0.69405208  1
+  S  S10  1  0.82885865  0.12658152  0.45693740  1
+  S  S11  1  0.25776508  0.61530018  0.45305199  1
+  S  S12  1  0.75123429  0.15127750  0.95434461  1
+  S  S13  1  0.77593866  0.68009248  0.75323533  1
+  S  S14  1  0.30675029  0.63613923  0.96300739  1
+  S  S15  1  0.80784027  0.59333688  0.17453541  1

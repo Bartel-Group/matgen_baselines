@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaTlGa2F10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06257600
+_cell_length_b   5.54060320
+_cell_length_c   8.02822514
+_cell_angle_alpha   93.39096242
+_cell_angle_beta   107.14511088
+_cell_angle_gamma   92.68611128
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTlGa2F10
+_chemical_formula_sum   'Na1 Tl1 Ga2 F10'
+_cell_volume   214.31701279
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.03214418  0.89338893  0.62248556  1
+  Tl  Tl1  1  0.20636499  0.40261301  0.01719705  1
+  Ga  Ga2  1  0.57424821  0.39219900  0.73764737  1
+  Ga  Ga3  1  0.90122992  0.37217417  0.38540028  1
+  F  F4  1  0.84520618  0.60580197  -0.07012934  1
+  F  F5  1  0.02741801  0.22653551  0.19645377  1
+  F  F6  1  0.32544591  0.61247091  0.80154796  1
+  F  F7  1  0.45891490  0.18148882  0.90002916  1
+  F  F8  1  0.87520803  0.17791375  0.78708672  1
+  F  F9  1  0.73317085  0.53936063  0.57849688  1
+  F  F10  1  0.72586549  0.09527762  0.41230707  1
+  F  F11  1  0.26352084  0.24051077  0.56064528  1
+  F  F12  1  0.58417195  0.50945957  0.21961219  1
+  F  F13  1  0.10894258  0.65225426  0.40800432  1

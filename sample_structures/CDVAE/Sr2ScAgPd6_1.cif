@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2ScAgPd6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96124635
+_cell_length_b   6.00180417
+_cell_length_c   5.97716602
+_cell_angle_alpha   89.97253653
+_cell_angle_beta   87.03026060
+_cell_angle_gamma   89.99777798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2ScAgPd6
+_chemical_formula_sum   'Sr2 Sc1 Ag1 Pd6'
+_cell_volume   213.56521911
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.81263344  0.80178850  0.53061229  1
+  Sr  Sr1  1  0.33466295  0.80185008  0.05270944  1
+  Sc  Sc2  1  0.07352768  0.30194517  0.79180421  1
+  Ag  Ag3  1  0.57201506  0.30179711  0.29020553  1
+  Pd  Pd4  1  0.30871603  0.02033582  0.55506511  1
+  Pd  Pd5  1  0.57418886  0.30054622  0.79058918  1
+  Pd  Pd6  1  0.83677009  0.58293270  0.02665202  1
+  Pd  Pd7  1  0.83792222  0.02098969  0.02817955  1
+  Pd  Pd8  1  0.31000812  0.58306147  0.55572194  1
+  Pd  Pd9  1  0.07174363  0.30301050  0.29266961  1

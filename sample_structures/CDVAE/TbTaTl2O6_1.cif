@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbTaTl2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47020033
+_cell_length_b   5.92199701
+_cell_length_c   6.02002145
+_cell_angle_alpha   89.46086750
+_cell_angle_beta   86.94561236
+_cell_angle_gamma   89.70475518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbTaTl2O6
+_chemical_formula_sum   'Tb1 Ta1 Tl2 O6'
+_cell_volume   159.12993114
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.45913113  0.63932640  0.75558866  1
+  Ta  Ta1  1  0.43401716  0.13570910  0.25125014  1
+  Tl  Tl2  1  0.78498675  0.63051698  0.20830469  1
+  Tl  Tl3  1  0.94969861  0.13746155  0.76709485  1
+  O  O4  1  0.54082200  0.89072046  0.46927408  1
+  O  O5  1  0.02359710  0.14228552  0.26259655  1
+  O  O6  1  0.97487393  0.64108216  0.86641989  1
+  O  O7  1  0.54165214  0.39993263  0.45733308  1
+  O  O8  1  0.50306022  0.90543433  0.02194958  1
+  O  O9  1  0.51045586  0.35750930  0.00969528  1

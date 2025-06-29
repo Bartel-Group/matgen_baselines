@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LuMg3Ga2Ag2Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30700261
+_cell_length_b   7.23971989
+_cell_length_c   6.90758656
+_cell_angle_alpha   83.39433298
+_cell_angle_beta   71.72884421
+_cell_angle_gamma   72.67535055
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMg3Ga2Ag2Bi
+_chemical_formula_sum   'Lu1 Mg3 Ga2 Ag2 Bi1'
+_cell_volume   195.19492280
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.72598797  0.47969267  0.49989790  1
+  Mg  Mg1  1  0.36577799  0.83709430  0.86314045  1
+  Mg  Mg2  1  0.00715866  0.50743751  0.90919304  1
+  Mg  Mg3  1  0.02909625  0.85969922  0.51328155  1
+  Ga  Ga4  1  0.40456897  0.18439973  0.44135006  1
+  Ga  Ga5  1  0.33221822  0.56822014  0.19661887  1
+  Ag  Ag6  1  0.05067483  0.14994676  0.18241391  1
+  Ag  Ag7  1  0.68943650  0.83744639  0.21430045  1
+  Bi  Bi8  1  0.70497919  0.16024944  0.86134900  1

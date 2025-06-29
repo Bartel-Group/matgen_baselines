@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbGe2MoSe7Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25741417
+_cell_length_b   6.40343414
+_cell_length_c   13.37444742
+_cell_angle_alpha   95.39584836
+_cell_angle_beta   90.26660777
+_cell_angle_gamma   90.53751180
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbGe2MoSe7Br
+_chemical_formula_sum   'Tb1 Ge2 Mo1 Se7 Br1'
+_cell_volume   362.97786403
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.17556314  0.68224255  -0.00101511  1
+  Ge  Ge1  1  0.12577385  0.12757653  0.44468844  1
+  Ge  Ge2  1  0.67800944  0.07279869  0.16813215  1
+  Mo  Mo3  1  0.00550449  0.88602375  0.65724929  1
+  Se  Se4  1  0.18007393  0.15546643  0.07697542  1
+  Se  Se5  1  0.12855898  0.76231601  0.48038358  1
+  Se  Se6  1  -0.04498982  0.23611919  0.62493251  1
+  Se  Se7  1  0.67756380  0.69975110  0.15128674  1
+  Se  Se8  1  0.65539917  0.24302363  0.33697721  1
+  Se  Se9  1  0.53584249  0.70114548  0.68054294  1
+  Se  Se10  1  0.16582119  0.93008769  0.83627299  1
+  Br  Br11  1  0.67374494  0.44379596  0.90041453  1

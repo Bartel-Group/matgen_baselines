@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2LiGaCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74472877
+_cell_length_b   5.74533823
+_cell_length_c   9.07007656
+_cell_angle_alpha   90.00743256
+_cell_angle_beta   89.98602955
+_cell_angle_gamma   88.54788748
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2LiGaCl6
+_chemical_formula_sum   'Rb2 Li1 Ga1 Cl6'
+_cell_volume   299.26544332
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.43135239  0.58330852  0.05498907  1
+  Rb  Rb1  1  0.43160521  0.58343380  0.48782413  1
+  Li  Li2  1  0.86958659  0.02083299  0.27146015  1
+  Ga  Ga3  1  0.86646703  0.01953129  0.77142357  1
+  Cl  Cl4  1  0.47446450  0.09776150  0.27140561  1
+  Cl  Cl5  1  -0.00153261  0.15033349  -0.01657192  1
+  Cl  Cl6  1  0.48754854  0.08375379  0.77142566  1
+  Cl  Cl7  1  0.94575250  0.62715522  0.27154230  1
+  Cl  Cl8  1  0.92894204  0.64029240  0.77148281  1
+  Cl  Cl9  1  -0.00146071  0.15009951  0.55942335  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ba2SiSnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92685956
+_cell_length_b   3.91686012
+_cell_length_c   8.65030977
+_cell_angle_alpha   89.96837623
+_cell_angle_beta   90.12183515
+_cell_angle_gamma   90.00049102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SiSnO4
+_chemical_formula_sum   'Ba2 Si1 Sn1 O4'
+_cell_volume   133.04974419
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.52315177  0.60663807  0.66144311  1
+  Ba  Ba1  1  0.52597711  0.60591395  0.10073698  1
+  Si  Si2  1  0.02444836  0.10584319  0.88114797  1
+  Sn  Sn3  1  0.02448679  0.10636395  0.38073870  1
+  O  O4  1  0.02318251  0.10683636  0.67661154  1
+  O  O5  1  0.52483786  0.10629631  0.88121618  1
+  O  O6  1  0.02630741  0.10602446  0.08589625  1
+  O  O7  1  0.02461864  0.60668881  0.88122425  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CoSi2BC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51434211
+_cell_length_b   3.96523319
+_cell_length_c   3.90463459
+_cell_angle_alpha   84.37585612
+_cell_angle_beta   80.37475939
+_cell_angle_gamma   56.04229240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSi2BC
+_chemical_formula_sum   'Co1 Si2 B1 C1'
+_cell_volume   57.15704211
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.13187249  0.72478695  0.63524641  1
+  Si  Si1  1  0.97501092  0.51938595  0.15301728  1
+  Si  Si2  1  0.51289388  0.03100716  0.65994989  1
+  B  B3  1  0.18976629  0.87784651  0.09512745  1
+  C  C4  1  0.48224706  0.79085313  0.29567784  1

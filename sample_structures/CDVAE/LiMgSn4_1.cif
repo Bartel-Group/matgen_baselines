@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiMgSn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60136878
+_cell_length_b   4.58882385
+_cell_length_c   7.10595475
+_cell_angle_alpha   91.11372033
+_cell_angle_beta   89.80834709
+_cell_angle_gamma   90.09641672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMgSn4
+_chemical_formula_sum   'Li1 Mg1 Sn4'
+_cell_volume   150.01193569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.19190087  0.75763349  0.39566233  1
+  Mg  Mg1  1  0.68537107  0.25263361  0.39468506  1
+  Sn  Sn2  1  0.18498914  0.24929268  0.10495294  1
+  Sn  Sn3  1  0.69018784  0.74386856  0.10458337  1
+  Sn  Sn4  1  0.18550636  0.26347853  0.68469877  1
+  Sn  Sn5  1  0.68978770  0.76135237  0.68429652  1

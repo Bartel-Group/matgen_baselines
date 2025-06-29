@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na3CeBiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81987452
+_cell_length_b   6.05277700
+_cell_length_c   5.95618600
+_cell_angle_alpha   82.38654365
+_cell_angle_beta   66.39117692
+_cell_angle_gamma   66.25812880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CeBiO5
+_chemical_formula_sum   'Na3 Ce1 Bi1 O5'
+_cell_volume   145.65905844
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.88865312  0.31557489  0.63560602  1
+  Na  Na1  1  0.10303949  0.51386150  0.00892440  1
+  Na  Na2  1  0.49445716  0.91438060  0.82391489  1
+  Ce  Ce3  1  0.69959857  0.11723326  0.21440773  1
+  Bi  Bi4  1  0.29159552  0.70694768  0.43063152  1
+  O  O5  1  0.58512833  0.49394905  0.06568808  1
+  O  O6  1  0.20043981  0.09720675  0.23026015  1
+  O  O7  1  0.96311709  -0.06340440  0.86259140  1
+  O  O8  1  0.81124065  0.74709592  0.41293063  1
+  O  O9  1  0.41237313  0.31873004  0.57952611  1

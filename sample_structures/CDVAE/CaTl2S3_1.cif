@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaTl2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16987885
+_cell_length_b   4.17425145
+_cell_length_c   11.52434919
+_cell_angle_alpha   89.86702031
+_cell_angle_beta   100.75983900
+_cell_angle_gamma   120.00052268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTl2S3
+_chemical_formula_sum   'Ca1 Tl2 S3'
+_cell_volume   169.68492190
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.64261517  0.50046138  0.94491701  1
+  Tl  Tl1  1  0.54019985  -0.04799321  0.29223741  1
+  Tl  Tl2  1  0.09790413  0.72787103  0.64855187  1
+  S  S3  1  0.27704565  0.31991269  0.39498963  1
+  S  S4  1  0.39827116  0.87802333  0.07392470  1
+  S  S5  1  0.87792250  0.11911293  0.80689998  1

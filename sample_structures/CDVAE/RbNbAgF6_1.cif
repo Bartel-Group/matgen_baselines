@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_RbNbAgF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64546031
+_cell_length_b   6.34036593
+_cell_length_c   5.63838670
+_cell_angle_alpha   88.08430621
+_cell_angle_beta   85.19405988
+_cell_angle_gamma   65.77998928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNbAgF6
+_chemical_formula_sum   'Rb1 Nb1 Ag1 F6'
+_cell_volume   183.40980530
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.49901548  0.90363945  0.65840021  1
+  Nb  Nb1  1  0.17855563  0.54910855  0.15722376  1
+  Ag  Ag2  1  0.85303428  0.17007935  0.16092757  1
+  F  F3  1  -0.05995585  0.80548794  0.95004503  1
+  F  F4  1  0.88198079  0.54078356  0.35820077  1
+  F  F5  1  0.48534818  0.53996686  0.95891324  1
+  F  F6  1  0.43407561  0.29583543  0.36165799  1
+  F  F7  1  0.16510828  0.82051547  0.35055362  1
+  F  F8  1  0.17705513  0.27974111  0.96564771  1

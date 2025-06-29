@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2CaSiAgO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84741651
+_cell_length_b   5.32653716
+_cell_length_c   5.99308929
+_cell_angle_alpha   66.66426697
+_cell_angle_beta   67.90737148
+_cell_angle_gamma   73.00361996
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CaSiAgO5
+_chemical_formula_sum   'Rb2 Ca1 Si1 Ag1 O5'
+_cell_volume   183.31118961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.89338824  0.00850149  0.43716446  1
+  Rb  Rb1  1  0.13169110  0.61342005  0.99765633  1
+  Ca  Ca2  1  0.70727620  0.38289788  0.87151697  1
+  Si  Si3  1  0.55106459  0.76699081  0.27401388  1
+  Ag  Ag4  1  0.28824628  0.23369814  0.55277187  1
+  O  O5  1  0.67232120  0.75434185  0.98293699  1
+  O  O6  1  0.30822193  0.68026313  0.39629188  1
+  O  O7  1  0.69951972  0.57576168  0.46424162  1
+  O  O8  1  0.51482630  0.10479334  0.24512469  1
+  O  O9  1  0.04143590  0.20143823  0.87226152  1

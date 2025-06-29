@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2MnAlTlTe2SeS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25458228
+_cell_length_b   8.26166345
+_cell_length_c   9.28318659
+_cell_angle_alpha   73.66142074
+_cell_angle_beta   76.83788605
+_cell_angle_gamma   75.36345906
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MnAlTlTe2SeS
+_chemical_formula_sum   'K2 Mn1 Al1 Tl1 Te2 Se1 S1'
+_cell_volume   298.62276943
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.20892542  0.69697322  0.42513624  1
+  K  K1  1  0.85342180  0.09520900  0.75680101  1
+  Mn  Mn2  1  0.54800977  0.66898382  0.78609174  1
+  Al  Al3  1  0.94807806  0.57656440  0.07292830  1
+  Tl  Tl4  1  0.58377606  0.12645053  0.24558240  1
+  Te  Te5  1  0.91154573  0.37845455  0.34191843  1
+  Te  Te6  1  0.13711085  0.43736171  0.83583967  1
+  Se  Se7  1  0.52779394  0.91690556  0.57516323  1
+  S  S8  1  0.38937908  0.73913239  0.03603960  1

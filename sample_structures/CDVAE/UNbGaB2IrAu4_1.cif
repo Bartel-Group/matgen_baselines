@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_UNbGaB2IrAu4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.47028865
+_cell_length_b   5.05092582
+_cell_length_c   10.35706977
+_cell_angle_alpha   70.07088489
+_cell_angle_beta   80.30024141
+_cell_angle_gamma   70.01926443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UNbGaB2IrAu4
+_chemical_formula_sum   'U1 Nb1 Ga1 B2 Ir1 Au4'
+_cell_volume   160.11778404
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.45279811  0.81540547  0.58792656  1
+  Nb  Nb1  1  0.84710769  0.75388690  0.86286675  1
+  Ga  Ga2  1  0.65603360  0.77532890  0.22174953  1
+  B  B3  1  0.76190055  0.13659282  0.65018233  1
+  B  B4  1  0.51747726  0.43820921  0.83708150  1
+  Ir  Ir5  1  0.14061923  0.29713102  0.73256044  1
+  Au  Au6  1  0.19456205  0.47826334  0.43445469  1
+  Au  Au7  1  0.93793363  0.11240158  0.31868032  1
+  Au  Au8  1  0.36485163  0.48085768  0.10148968  1
+  Au  Au9  1  0.10442501  0.09402392  0.01240811  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_DyCuAgSnO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05750354
+_cell_length_b   4.04148604
+_cell_length_c   4.47989495
+_cell_angle_alpha   89.92151680
+_cell_angle_beta   88.78084383
+_cell_angle_gamma   89.87079588
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCuAgSnO
+_chemical_formula_sum   'Dy1 Cu1 Ag1 Sn1 O1'
+_cell_volume   91.54724941
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.32533192  0.84773896  0.64053908  1
+  Cu  Cu1  1  0.32321928  0.34996488  0.13865031  1
+  Ag  Ag2  1  0.82522450  0.83786627  0.14426647  1
+  Sn  Sn3  1  0.82559772  0.34452849  0.64386530  1
+  O  O4  1  0.32563600  0.85171268  0.14090028  1

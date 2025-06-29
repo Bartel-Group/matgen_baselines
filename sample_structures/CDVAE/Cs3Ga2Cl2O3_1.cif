@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs3Ga2Cl2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95604397
+_cell_length_b   5.97321100
+_cell_length_c   9.52823371
+_cell_angle_alpha   71.53625347
+_cell_angle_beta   71.23997601
+_cell_angle_gamma   60.29586408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Ga2Cl2O3
+_chemical_formula_sum   'Cs3 Ga2 Cl2 O3'
+_cell_volume   273.64750333
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.21145054  0.93722510  0.94391750  1
+  Cs  Cs1  1  0.36253514  0.09142447  0.49118627  1
+  Cs  Cs2  1  0.78913705  0.51552169  0.21762994  1
+  Ga  Ga3  1  0.60665890  0.33547082  0.75288255  1
+  Ga  Ga4  1  0.96448841  0.69261309  0.68242288  1
+  Cl  Cl5  1  0.49989749  0.22588367  0.08721177  1
+  Cl  Cl6  1  0.08024047  0.80450193  0.34699624  1
+  O  O7  1  0.89435843  0.01413950  0.71828503  1
+  O  O8  1  0.28303811  0.40355275  0.72044361  1
+  O  O9  1  0.67464435  0.62544454  0.71436491  1

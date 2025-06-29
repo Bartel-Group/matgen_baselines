@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaAsO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49600475
+_cell_length_b   4.49347443
+_cell_length_c   10.46411726
+_cell_angle_alpha   97.81431010
+_cell_angle_beta   101.39919639
+_cell_angle_gamma   102.95180570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAsO3
+_chemical_formula_sum   'Ba2 As2 O6'
+_cell_volume   198.33301190
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.64923271  0.47896557  0.60062249  1
+  Ba  Ba1  1  0.12034066  0.44989574  0.10085082  1
+  As  As2  1  0.79135131  -0.02757589  0.34099734  1
+  As  As3  1  0.40398443  0.88040456  0.86049152  1
+  O  O4  1  0.60630025  0.58213177  0.33735833  1
+  O  O5  1  0.01739887  0.69770667  0.86374631  1
+  O  O6  1  0.52038824  0.21819425  0.98029543  1
+  O  O7  1  0.01053097  0.97026809  0.22181981  1
+  O  O8  1  0.40971140  0.94728621  0.70103894  1
+  O  O9  1  0.01591588  0.13742133  0.50069619  1

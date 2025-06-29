@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_AlTlIn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34303337
+_cell_length_b   5.30589332
+_cell_length_c   5.24865305
+_cell_angle_alpha   61.24232430
+_cell_angle_beta   59.40274067
+_cell_angle_gamma   59.61121711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlTlIn2
+_chemical_formula_sum   'Al1 Tl1 In2'
+_cell_volume   105.35332924
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.74571587  0.75104857  0.60421361  1
+  Tl  Tl1  1  0.99654230  0.00260430  0.84866691  1
+  In  In2  1  0.49760788  0.50613062  0.34717805  1
+  In  In3  1  0.24637638  0.25484083  0.09715928  1

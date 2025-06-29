@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiRe2Si3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.66144800
+_cell_length_b   4.96410668
+_cell_length_c   13.04460811
+_cell_angle_alpha   114.88881627
+_cell_angle_beta   95.85633302
+_cell_angle_gamma   90.00507366
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiRe2Si3O10
+_chemical_formula_sum   'Li1 Re2 Si3 O10'
+_cell_volume   155.34272800
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.44565745  0.25244707  0.13044887  1
+  Re  Re1  1  0.77953589  0.79726455  0.79812564  1
+  Re  Re2  1  0.17626683  0.06793132  0.59176738  1
+  Si  Si3  1  0.98215074  0.78803196  0.20354319  1
+  Si  Si4  1  0.37189177  0.50365848  0.98293733  1
+  Si  Si5  1  0.58603076  0.36759020  0.41070390  1
+  O  O6  1  0.32674057  0.13535163  0.89244238  1
+  O  O7  1  0.23524352  0.47537932  0.70975526  1
+  O  O8  1  0.84451138  0.62989369  0.92838745  1
+  O  O9  1  0.11162505  0.61866464  0.46198299  1
+  O  O10  1  0.03655875  0.16871380  0.31191451  1
+  O  O11  1  0.71987429  0.94071279  0.67891663  1
+  O  O12  1  0.62700325  0.19001629  0.49321256  1
+  O  O13  1  0.50884309  0.66235607  0.25647769  1
+  O  O14  1  0.91488066  0.43483039  0.06896561  1
+  O  O15  1  0.44277219  0.87800968  0.12462035  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SnBi3Rh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02153648
+_cell_length_b   6.11945169
+_cell_length_c   6.23680954
+_cell_angle_alpha   90.00582822
+_cell_angle_beta   90.04215313
+_cell_angle_gamma   90.00603778
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnBi3Rh2
+_chemical_formula_sum   'Sn1 Bi3 Rh2'
+_cell_volume   153.48533362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.99690395  0.76126530  0.79895387  1
+  Bi  Bi1  1  0.49709032  0.52427075  0.41039411  1
+  Bi  Bi2  1  0.49672793  0.23832277  0.89906982  1
+  Bi  Bi3  1  -0.00271084  0.03354913  0.30481280  1
+  Rh  Rh4  1  0.99681814  0.46478693  0.11641477  1
+  Rh  Rh5  1  0.49721150  0.81281609  0.07874280  1

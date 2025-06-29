@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CsBaInCuPb3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29948148
+_cell_length_b   7.63975572
+_cell_length_c   10.19306542
+_cell_angle_alpha   89.10703819
+_cell_angle_beta   89.03231796
+_cell_angle_gamma   116.74844108
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBaInCuPb3S8
+_chemical_formula_sum   'Cs1 Ba1 In1 Cu1 Pb3 S8'
+_cell_volume   437.85250930
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.58933203  0.01379769  0.51266637  1
+  Ba  Ba1  1  0.03206311  0.88916147  0.26361077  1
+  In  In2  1  0.41170860  0.79346090  0.93588529  1
+  Cu  Cu3  1  0.28697082  0.55739937  0.23544278  1
+  Pb  Pb4  1  0.86110338  0.60643240  0.69959662  1
+  Pb  Pb5  1  0.15045502  0.16775352  0.82837827  1
+  Pb  Pb6  1  0.75232908  0.31979583  0.08167960  1
+  S  S7  1  0.39560387  0.57590074  0.75358229  1
+  S  S8  1  0.70123547  0.45614081  0.34980249  1
+  S  S9  1  0.64934138  0.13678875  0.83827896  1
+  S  S10  1  0.52973500  0.86889061  0.17235932  1
+  S  S11  1  0.17488574  0.29522854  0.11719528  1
+  S  S12  1  0.06092915  0.96817427  0.59414208  1
+  S  S13  1  -0.02247659  0.71901227  0.96382189  1
+  S  S14  1  0.03877276  0.51360610  0.41214368  1

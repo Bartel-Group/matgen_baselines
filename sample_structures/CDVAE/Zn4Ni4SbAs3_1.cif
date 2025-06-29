@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zn4Ni4SbAs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68173026
+_cell_length_b   5.80511896
+_cell_length_c   5.71572327
+_cell_angle_alpha   91.30072775
+_cell_angle_beta   90.96976358
+_cell_angle_gamma   88.57062316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn4Ni4SbAs3
+_chemical_formula_sum   'Zn4 Ni4 Sb1 As3'
+_cell_volume   188.38992096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.54944360  0.10563510  0.26504580  1
+  Zn  Zn1  1  0.07026024  0.02918790  0.74082158  1
+  Zn  Zn2  1  0.12464059  0.57439152  0.32314755  1
+  Zn  Zn3  1  0.57071289  0.57113019  0.75963110  1
+  Ni  Ni4  1  0.84236504  0.32822700  0.51676754  1
+  Ni  Ni5  1  0.84256780  0.80766795  0.03892821  1
+  Ni  Ni6  1  0.32515622  0.80848062  0.03267826  1
+  Ni  Ni7  1  0.84537360  0.32993535  0.03651675  1
+  Sb  Sb8  1  0.56295929  0.07115061  0.75676939  1
+  As  As9  1  0.09642184  0.54432268  0.78931945  1
+  As  As10  1  0.59428535  0.58965305  0.28740807  1
+  As  As11  1  0.08640061  0.06911894  0.27777211  1

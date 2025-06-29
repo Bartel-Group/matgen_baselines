@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_DyScMnBiS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93929655
+_cell_length_b   7.13939897
+_cell_length_c   8.02371736
+_cell_angle_alpha   85.24824797
+_cell_angle_beta   89.95438597
+_cell_angle_gamma   89.99821226
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyScMnBiS6
+_chemical_formula_sum   'Dy1 Sc1 Mn1 Bi1 S6'
+_cell_volume   224.88503618
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.46101587  0.23928725  0.10842256  1
+  Sc  Sc1  1  0.96161565  0.71245074  0.00815703  1
+  Mn  Mn2  1  0.46049381  0.86207565  0.45365240  1
+  Bi  Bi3  1  0.96119582  0.34268215  0.63328919  1
+  S  S4  1  0.96140270  0.09476633  0.89891198  1
+  S  S5  1  0.96031957  0.78046400  0.53316757  1
+  S  S6  1  0.46161448  0.85205957  0.18332347  1
+  S  S7  1  0.46121728  0.16093423  0.48007725  1
+  S  S8  1  0.96091613  0.44477041  0.22754851  1
+  S  S9  1  0.46135527  0.55068531  0.86374773  1

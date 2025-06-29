@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11130727
+_cell_length_b   5.43424801
+_cell_length_c   4.87391684
+_cell_angle_alpha   55.86287439
+_cell_angle_beta   67.00954378
+_cell_angle_gamma   57.98154308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTe
+_chemical_formula_sum   'Li2 Te2'
+_cell_volume   94.16786614
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.69275301  0.03477722  0.72548746  1
+  Li  Li1  1  0.18757863  0.53511299  0.22824054  1
+  Te  Te2  1  0.93977467  0.28519651  0.97615596  1
+  Te  Te3  1  0.44042432  0.78466122  0.47686019  1

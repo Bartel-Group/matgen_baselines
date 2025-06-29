@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K3OsPtS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06417173
+_cell_length_b   6.60254768
+_cell_length_c   6.43980875
+_cell_angle_alpha   89.61820999
+_cell_angle_beta   76.51108470
+_cell_angle_gamma   113.21061641
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3OsPtS5
+_chemical_formula_sum   'K3 Os1 Pt1 S5'
+_cell_volume   304.56639575
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00272245  0.12676889  0.10775321  1
+  K  K1  1  0.46749322  0.85176359  0.93573506  1
+  K  K2  1  0.40713108  0.32426817  0.48428109  1
+  Os  Os3  1  0.05153703  0.64728696  0.46695403  1
+  Pt  Pt4  1  0.73367842  0.48493702  0.77331966  1
+  S  S5  1  0.90843488  0.29656898  0.62183162  1
+  S  S6  1  0.34531384  0.79430960  0.47959506  1
+  S  S7  1  0.89897852  0.84604125  0.62772750  1
+  S  S8  1  0.02451228  0.63751504  0.13869967  1
+  S  S9  1  0.43542588  0.33405818  -0.01229446  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Li2PrSiNiSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06174266
+_cell_length_b   4.08050192
+_cell_length_c   8.10581407
+_cell_angle_alpha   104.49197346
+_cell_angle_beta   90.44425024
+_cell_angle_gamma   119.45592957
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2PrSiNiSn
+_chemical_formula_sum   'Li2 Pr1 Si1 Ni1 Sn1'
+_cell_volume   111.88535005
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.04240529  0.26107105  0.44005091  1
+  Li  Li1  1  0.74883117  0.67006898  0.55105943  1
+  Pr  Pr2  1  0.89438237  0.97108797  1.01193777  1
+  Si  Si3  1  0.64290170  0.46597170  0.24998399  1
+  Ni  Ni4  1  0.33442718  0.84883074  0.32348449  1
+  Sn  Sn5  1  0.46442982  0.10365533  0.69679291  1

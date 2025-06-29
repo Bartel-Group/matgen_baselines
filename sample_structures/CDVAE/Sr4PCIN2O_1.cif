@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr4PCIN2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26347119
+_cell_length_b   4.27086679
+_cell_length_c   14.41723550
+_cell_angle_alpha   91.22469219
+_cell_angle_beta   89.02574035
+_cell_angle_gamma   113.18848900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4PCIN2O
+_chemical_formula_sum   'Sr4 P1 C1 I1 N2 O1'
+_cell_volume   241.24594430
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.28598205  -0.00488730  0.94053013  1
+  Sr  Sr1  1  0.56814557  0.70261520  0.69449735  1
+  Sr  Sr2  1  0.93066469  0.33555981  0.51099687  1
+  Sr  Sr3  1  0.63962625  0.64577862  0.16074997  1
+  P  P4  1  0.92475522  0.34310063  0.81432261  1
+  C  C5  1  0.08039705  0.43390334  0.05646645  1
+  I  I6  1  0.27585101  0.01469118  0.30898008  1
+  N  N7  1  0.92655129  0.34534306  0.69859697  1
+  N  N8  1  0.81678419  0.17392047  0.05755925  1
+  O  O9  1  0.58734673  0.68013945  0.53010974  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TlCu2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73617028
+_cell_length_b   4.33583278
+_cell_length_c   6.89526402
+_cell_angle_alpha   96.46448908
+_cell_angle_beta   107.97516375
+_cell_angle_gamma   89.39997109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCu2F7
+_chemical_formula_sum   'Tl1 Cu2 F7'
+_cell_volume   133.78418615
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.24177193  0.89943208  0.45626340  1
+  Cu  Cu1  1  -0.00406359  0.62324997  0.82681322  1
+  Cu  Cu2  1  0.61929940  0.20349928  0.08407611  1
+  F  F3  1  0.74973180  0.32488414  0.87338881  1
+  F  F4  1  0.92075715  0.89422464  0.14050840  1
+  F  F5  1  0.32321529  0.50253995  0.03861030  1
+  F  F6  1  0.11085037  0.40796058  0.47411106  1
+  F  F7  1  0.53717066  0.11716064  0.31928458  1
+  F  F8  1  0.24807399  0.93408403  0.78273676  1
+  F  F9  1  0.69560933  0.73693989  0.59872831  1

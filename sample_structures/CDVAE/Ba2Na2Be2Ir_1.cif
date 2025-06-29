@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba2Na2Be2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63592558
+_cell_length_b   5.98740806
+_cell_length_c   6.84659274
+_cell_angle_alpha   69.52104850
+_cell_angle_beta   99.94281810
+_cell_angle_gamma   66.02631204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Na2Be2Ir
+_chemical_formula_sum   'Ba2 Na2 Be2 Ir1'
+_cell_volume   183.90163459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.45296854  0.11165695  0.36905270  1
+  Ba  Ba1  1  0.79322678  0.34202675  0.87970808  1
+  Na  Na2  1  0.78151328  0.48541769  0.34645962  1
+  Na  Na3  1  0.46662891  0.96616616  0.90340682  1
+  Be  Be4  1  0.11206036  0.73762905  0.79107508  1
+  Be  Be5  1  0.13055363  0.72622133  0.44958783  1
+  Ir  Ir6  1  0.12225745  0.72656142  0.12220339  1

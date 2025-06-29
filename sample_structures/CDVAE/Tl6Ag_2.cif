@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Tl6Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56953132
+_cell_length_b   5.56945258
+_cell_length_c   6.27601179
+_cell_angle_alpha   90.02278453
+_cell_angle_beta   84.88902353
+_cell_angle_gamma   64.90701223
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl6Ag
+_chemical_formula_sum   'Tl6 Ag1'
+_cell_volume   206.94620375
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.88114432  0.36753480  0.17705074  1
+  Tl  Tl1  1  0.63247373  0.48854844  0.70175690  1
+  Tl  Tl2  1  0.49294215  0.06102603  0.05621017  1
+  Tl  Tl3  1  0.02086078  0.79436632  0.82227769  1
+  Tl  Tl4  1  0.25316590  0.17863788  0.60238967  1
+  Tl  Tl5  1  0.26074752  0.67690117  0.27694494  1
+  Ag  Ag6  1  0.75710973  0.92808027  0.43929379  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiFeGePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70230742
+_cell_length_b   4.22817313
+_cell_length_c   3.17487008
+_cell_angle_alpha   90.00346951
+_cell_angle_beta   70.33816343
+_cell_angle_gamma   106.39456463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiFeGePd
+_chemical_formula_sum   'Ti1 Fe1 Ge1 Pd1'
+_cell_volume   56.71042962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.10931984  0.91901654  0.44251225  1
+  Fe  Fe1  1  0.13736566  0.48219933  0.92978623  1
+  Ge  Ge2  1  0.58597306  0.58650035  0.20556628  1
+  Pd  Pd3  1  0.61066989  0.10615568  0.69209393  1

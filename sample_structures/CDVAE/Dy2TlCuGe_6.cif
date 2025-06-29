@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Dy2TlCuGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97909486
+_cell_length_b   4.05816796
+_cell_length_c   7.57490182
+_cell_angle_alpha   91.08936945
+_cell_angle_beta   89.98360797
+_cell_angle_gamma   90.00420514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2TlCuGe
+_chemical_formula_sum   'Dy2 Tl1 Cu1 Ge1'
+_cell_volume   122.29615349
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.18797021  0.72312495  0.04044570  1
+  Dy  Dy1  1  0.18809301  0.23721513  0.45947641  1
+  Tl  Tl2  1  0.68802031  0.74303852  0.70340740  1
+  Cu  Cu3  1  0.68784023  0.73427666  0.33910234  1
+  Ge  Ge4  1  0.68788679  0.22801219  0.15938138  1

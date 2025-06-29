@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Zn3CuPd3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73722060
+_cell_length_b   5.40532520
+_cell_length_c   5.40957298
+_cell_angle_alpha   64.12222114
+_cell_angle_beta   57.14798011
+_cell_angle_gamma   58.00836539
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3CuPd3Au
+_chemical_formula_sum   'Zn3 Cu1 Pd3 Au1'
+_cell_volume   116.88167337
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.61336851  0.70243411  0.92678188  1
+  Zn  Zn1  1  0.10908740  0.70304594  0.92548348  1
+  Zn  Zn2  1  0.61427459  0.20103712  0.42903824  1
+  Cu  Cu3  1  0.10880014  0.19844883  0.43077232  1
+  Pd  Pd4  1  0.61106960  0.70200942  0.42874377  1
+  Pd  Pd5  1  0.11254016  0.20026563  0.92712537  1
+  Pd  Pd6  1  0.11408143  0.69797021  0.42470160  1
+  Au  Au7  1  0.60758344  0.20429731  -0.06814946  1

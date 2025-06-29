@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CsBiCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64546437
+_cell_length_b   5.65159233
+_cell_length_c   5.81190655
+_cell_angle_alpha   88.98695739
+_cell_angle_beta   89.84513830
+_cell_angle_gamma   89.52847935
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBiCl3
+_chemical_formula_sum   'Cs1 Bi1 Cl3'
+_cell_volume   185.39802624
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.66246986  0.72863769  0.89215727  1
+  Bi  Bi1  1  0.15663120  0.20602318  0.36126652  1
+  Cl  Cl2  1  0.15654818  0.20423987  0.85975251  1
+  Cl  Cl3  1  0.65686810  0.20013869  0.36018317  1
+  Cl  Cl4  1  0.15411543  0.70614456  0.34977347  1

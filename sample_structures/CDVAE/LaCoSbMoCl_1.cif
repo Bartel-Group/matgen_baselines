@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LaCoSbMoCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25550105
+_cell_length_b   5.11729158
+_cell_length_c   5.93999124
+_cell_angle_alpha   56.71248794
+_cell_angle_beta   58.32816839
+_cell_angle_gamma   56.10616961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCoSbMoCl
+_chemical_formula_sum   'La1 Co1 Sb1 Mo1 Cl1'
+_cell_volume   105.18193945
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.88195049  0.94561105  0.03563012  1
+  Co  Co1  1  0.00662016  0.49228209  0.86076394  1
+  Sb  Sb2  1  0.11513031  0.12007664  0.34480876  1
+  Mo  Mo3  1  0.41249217  0.36842897  0.47449480  1
+  Cl  Cl4  1  0.58037900  0.75955835  0.73242146  1

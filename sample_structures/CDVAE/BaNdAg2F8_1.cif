@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaNdAg2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91539866
+_cell_length_b   6.94051778
+_cell_length_c   6.06513188
+_cell_angle_alpha   115.18224281
+_cell_angle_beta   90.48137016
+_cell_angle_gamma   112.52890272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNdAg2F8
+_chemical_formula_sum   'Ba1 Nd1 Ag2 F8'
+_cell_volume   203.72233969
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.88090133  0.35844133  0.20322483  1
+  Nd  Nd1  1  0.37931765  0.35819163  0.71008723  1
+  Ag  Ag2  1  0.13063781  0.85944209  0.95926390  1
+  Ag  Ag3  1  0.62832381  0.85758208  0.45928701  1
+  F  F4  1  0.10526467  0.12968602  0.30779511  1
+  F  F5  1  0.57059865  0.13690889  0.42747025  1
+  F  F6  1  -0.01926478  0.12507652  0.75897331  1
+  F  F7  1  0.77802220  0.59240890  0.98911941  1
+  F  F8  1  0.44136923  0.12463227  0.88027222  1
+  F  F9  1  0.19286937  0.58443876  0.64724734  1
+  F  F10  1  0.31985899  0.59152509  0.11112932  1
+  F  F11  1  0.65226219  0.58217469  0.52918698  1

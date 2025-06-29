@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ga4NiPd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32777028
+_cell_length_b   5.33932261
+_cell_length_c   5.33585394
+_cell_angle_alpha   70.36082859
+_cell_angle_beta   89.72483609
+_cell_angle_gamma   89.69548152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga4NiPd3
+_chemical_formula_sum   'Ga4 Ni1 Pd3'
+_cell_volume   116.12279560
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.23321078  0.36948863  0.63565998  1
+  Ga  Ga1  1  0.23298740  0.86749414  0.13336380  1
+  Ga  Ga2  1  0.73480870  0.63440333  0.86757881  1
+  Ga  Ga3  1  0.73366905  0.09874359  0.40293661  1
+  Ni  Ni4  1  0.23581587  0.86946526  0.63489902  1
+  Pd  Pd5  1  0.73195493  0.60957348  0.37741077  1
+  Pd  Pd6  1  0.23238398  0.36593883  0.13666446  1
+  Pd  Pd7  1  0.73345604  0.12438944  0.89169118  1

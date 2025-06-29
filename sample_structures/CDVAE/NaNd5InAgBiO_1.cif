@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaNd5InAgBiO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35492419
+_cell_length_b   7.16523661
+_cell_length_c   7.38687456
+_cell_angle_alpha   60.85553862
+_cell_angle_beta   66.92166720
+_cell_angle_gamma   60.72578989
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNd5InAgBiO
+_chemical_formula_sum   'Na1 Nd5 In1 Ag1 Bi1 O1'
+_cell_volume   290.46927813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.52579998  0.81965089  0.56748393  1
+  Nd  Nd1  1  0.03953638  0.34392723  0.50817680  1
+  Nd  Nd2  1  0.45842954  0.84695152  0.08180502  1
+  Nd  Nd3  1  0.03756899  0.84539645  0.50600122  1
+  Nd  Nd4  1  0.46067106  0.34574839  0.08371101  1
+  Nd  Nd5  1  -0.01848203  0.36230293  0.03216925  1
+  In  In6  1  0.02324630  0.81815447  0.07743611  1
+  Ag  Ag7  1  0.76034078  0.08386517  0.80615074  1
+  Bi  Bi8  1  0.47971679  0.36853500  0.51702608  1
+  O  O9  1  0.25687649  0.08754869  0.30378266  1

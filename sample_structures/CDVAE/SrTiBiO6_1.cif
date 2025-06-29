@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SrTiBiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97339669
+_cell_length_b   5.43705996
+_cell_length_c   7.57527181
+_cell_angle_alpha   110.84252196
+_cell_angle_beta   119.23111071
+_cell_angle_gamma   91.68204301
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTiBiO6
+_chemical_formula_sum   'Sr1 Ti1 Bi1 O6'
+_cell_volume   129.26260043
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.03294678  0.40663194  0.12594008  1
+  Ti  Ti1  1  0.69506679  -0.02514143  0.29113794  1
+  Bi  Bi2  1  0.14433317  0.72430933  0.73722215  1
+  O  O3  1  0.17420069  -0.03403293  0.26463531  1
+  O  O4  1  -0.05370450  0.29316892  0.53850535  1
+  O  O5  1  0.40709506  0.59776802  -0.00468817  1
+  O  O6  1  0.65512926  0.86248386  0.74390823  1
+  O  O7  1  0.45558601  0.10119904  0.05076955  1
+  O  O8  1  0.81233342  0.70120303  0.40388634  1

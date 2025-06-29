@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LaGeRhN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46576681
+_cell_length_b   3.46371313
+_cell_length_c   6.22427476
+_cell_angle_alpha   106.16128474
+_cell_angle_beta   106.13883169
+_cell_angle_gamma   90.01025256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGeRhN
+_chemical_formula_sum   'La1 Ge1 Rh1 N1'
+_cell_volume   68.69390769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.33959863  0.77278254  0.93038623  1
+  Ge  Ge1  1  0.62802674  0.06008844  0.50469696  1
+  Rh  Rh2  1  0.05755399  0.48828542  0.36264441  1
+  N  N3  1  0.79396256  0.22774422  0.83996799  1

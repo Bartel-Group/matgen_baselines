@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Hf2ScAl4CuAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42142608
+_cell_length_b   5.40878694
+_cell_length_c   5.44634666
+_cell_angle_alpha   89.82299979
+_cell_angle_beta   90.59352298
+_cell_angle_gamma   89.86009793
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2ScAl4CuAg
+_chemical_formula_sum   'Hf2 Sc1 Al4 Cu1 Ag1'
+_cell_volume   159.69524767
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.19130175  0.68439718  0.47087352  1
+  Hf  Hf1  1  0.53753671  0.37110723  0.79851917  1
+  Sc  Sc2  1  0.86841701  0.04088390  0.14351777  1
+  Al  Al3  1  0.03084455  0.53716703  0.96743264  1
+  Al  Al4  1  0.02870587  0.18378602  0.64207992  1
+  Al  Al5  1  0.37163061  0.18950013  0.31102144  1
+  Al  Al6  1  0.69306838  0.54640385  0.30762611  1
+  Cu  Cu7  1  0.70237290  0.86774548  0.62762418  1
+  Ag  Ag8  1  0.36908719  0.86950698  -0.03347958  1

@@ -32,7 +32,7 @@ We also provide results from two template-based methods (described [here](https:
 |--------|:---------------------------:|:--------------:|:------------:|:--------------------:|:------------------------------:|
 | [MatterGen](https://github.com/microsoft/mattergen) | 188 | 3.0% | 91.8% | 7.2% | 0% |
 | [FTCP](https://github.com/PV-Lab/FTCP) | 205 | 2.0% | 38.2% | 1.8% | 0% |
-| [CDVAE](https://github.com/txie-93/cdvae) | 216 | 0.8% | 96.0% | **8.2%** | 0% |
+| [CDVAE](https://github.com/txie-93/cdvae) | 207 | 1.8% | 96.0% | **8.2%** | 0% |
 | [CrystaLLM](https://github.com/lantunes/CrystaLLM) | 442 | 2.4% | 98.2% | 1.0% | 0% |
 
 ### Template-based methods

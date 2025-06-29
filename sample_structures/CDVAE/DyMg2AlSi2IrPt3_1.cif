@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_DyMg2AlSi2IrPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24888568
+_cell_length_b   5.19975505
+_cell_length_c   6.86443880
+_cell_angle_alpha   85.12480016
+_cell_angle_beta   84.45587222
+_cell_angle_gamma   115.14875884
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMg2AlSi2IrPt3
+_chemical_formula_sum   'Dy1 Mg2 Al1 Si2 Ir1 Pt3'
+_cell_volume   167.13787475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.59303160  0.22100647  0.76698941  1
+  Mg  Mg1  1  0.47601697  0.71117286  0.11286614  1
+  Mg  Mg2  1  0.05768140  0.11547503  0.12783866  1
+  Al  Al3  1  0.61264676  0.77608315  0.49964146  1
+  Si  Si4  1  -0.08551835  0.56213886  0.07151009  1
+  Si  Si5  1  0.15177250  0.23469598  0.51956713  1
+  Ir  Ir6  1  0.89357345  0.86514169  0.79079130  1
+  Pt  Pt7  1  0.54027280  0.19992707  0.30962713  1
+  Pt  Pt8  1  0.05256780  0.65457067  0.40430383  1
+  Pt  Pt9  1  0.22572722  0.52266539  0.79809869  1

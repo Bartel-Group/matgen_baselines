@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_USiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56077312
+_cell_length_b   5.60482377
+_cell_length_c   5.61665726
+_cell_angle_alpha   82.84757163
+_cell_angle_beta   83.27725701
+_cell_angle_gamma   83.37844089
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   USiPt
+_chemical_formula_sum   'U3 Si3 Pt3'
+_cell_volume   171.59501927
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.36686424  0.94572909  0.81441325  1
+  U  U1  1  0.70041331  0.27799527  0.14787254  1
+  U  U2  1  0.03136830  0.61257131  0.48267913  1
+  Si  Si3  1  0.86643748  0.77808489  0.98151259  1
+  Si  Si4  1  0.19895445  0.11181565  0.31428152  1
+  Si  Si5  1  0.53126595  0.44435271  0.64632894  1
+  Pt  Pt6  1  0.86686647  0.11286610  0.64936439  1
+  Pt  Pt7  1  0.20165402  0.44698902  0.98293877  1
+  Pt  Pt8  1  0.53186908  0.77806573  0.31343077  1

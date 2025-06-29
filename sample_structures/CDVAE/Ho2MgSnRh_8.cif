@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ho2MgSnRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90291043
+_cell_length_b   4.48141619
+_cell_length_c   6.07643398
+_cell_angle_alpha   68.36984895
+_cell_angle_beta   84.10754792
+_cell_angle_gamma   89.94201129
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2MgSnRh
+_chemical_formula_sum   'Ho2 Mg1 Sn1 Rh1'
+_cell_volume   123.35606460
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.03215439  0.29984440  0.73454389  1
+  Ho  Ho1  1  0.46348788  0.04609334  0.24043041  1
+  Mg  Mg2  1  0.97240792  0.58014748  0.17230803  1
+  Sn  Sn3  1  0.52427743  0.75454391  0.82496195  1
+  Rh  Rh4  1  0.93435043  0.94781048  0.43716696  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KAl2HAuSe3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29928024
+_cell_length_b   4.84249707
+_cell_length_c   10.55415899
+_cell_angle_alpha   91.97848310
+_cell_angle_beta   89.02091105
+_cell_angle_gamma   77.11129422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAl2HAuSe3O2
+_chemical_formula_sum   'K1 Al2 H1 Au1 Se3 O2'
+_cell_volume   213.99665180
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.93045039  0.35418764  0.70708997  1
+  Al  Al1  1  0.49588387  0.20449265  0.29563427  1
+  Al  Al2  1  0.59412821  0.05446465  0.92906826  1
+  H  H3  1  0.09703280  0.67770274  0.88246084  1
+  Au  Au4  1  0.11572935  0.66588809  0.38453980  1
+  Se  Se5  1  0.90968243  0.41444658  0.20057463  1
+  Se  Se6  1  0.41606232  0.88491111  0.12480878  1
+  Se  Se7  1  0.50959232  0.93229316  0.48385623  1
+  O  O8  1  0.93752316  0.84988162  0.85662136  1
+  O  O9  1  0.41060867  0.35647591  0.86308386  1

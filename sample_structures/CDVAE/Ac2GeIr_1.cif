@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ac2GeIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31925845
+_cell_length_b   5.47672101
+_cell_length_c   5.36506651
+_cell_angle_alpha   59.19627788
+_cell_angle_beta   61.94395618
+_cell_angle_gamma   58.98406308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2GeIr
+_chemical_formula_sum   'Ac2 Ge1 Ir1'
+_cell_volume   110.43443906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.94513390  0.10199617  0.57146795  1
+  Ac  Ac1  1  0.44182827  0.60005939  0.07647391  1
+  Ge  Ge2  1  0.19323705  0.35121269  0.82457342  1
+  Ir  Ir3  1  0.68603388  0.85837029  0.32177848  1

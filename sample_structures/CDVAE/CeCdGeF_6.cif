@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CeCdGeF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20101361
+_cell_length_b   4.22119235
+_cell_length_c   8.93949895
+_cell_angle_alpha   89.99545694
+_cell_angle_beta   89.97979574
+_cell_angle_gamma   89.96557153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCdGeF
+_chemical_formula_sum   'Ce2 Cd2 Ge2 F2'
+_cell_volume   158.52665715
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.62597065  0.50744166  0.01879811  1
+  Ce  Ce1  1  0.12462797  0.00668659  0.67729277  1
+  Cd  Cd2  1  0.12515443  0.50735704  0.34885552  1
+  Cd  Cd3  1  0.62524523  0.00733244  0.34856661  1
+  Ge  Ge4  1  0.62445808  0.50680858  0.55768749  1
+  Ge  Ge5  1  0.12572951  0.00742901  0.14122326  1
+  F  F6  1  0.12574187  0.50771590  0.85088828  1
+  F  F7  1  0.62711049  0.00727051  0.84977345  1

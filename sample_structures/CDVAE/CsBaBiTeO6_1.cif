@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsBaBiTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47825779
+_cell_length_b   4.46582050
+_cell_length_c   8.59313174
+_cell_angle_alpha   90.52662864
+_cell_angle_beta   90.54208787
+_cell_angle_gamma   89.75150823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBaBiTeO6
+_chemical_formula_sum   'Cs1 Ba1 Bi1 Te1 O6'
+_cell_volume   171.83835865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.60972663  0.05426615  0.38852887  1
+  Ba  Ba1  1  0.61563187  0.05884553  0.89180688  1
+  Bi  Bi2  1  0.10694389  0.55073717  0.13852737  1
+  Te  Te3  1  0.13368256  0.57657432  0.64182459  1
+  O  O4  1  0.60404510  0.54978672  0.10911849  1
+  O  O5  1  0.07535392  0.52277786  0.87085088  1
+  O  O6  1  0.55676132  0.54133748  0.66264639  1
+  O  O7  1  0.10203479  0.54412630  0.40899887  1
+  O  O8  1  0.09643258  0.00246388  0.66057578  1
+  O  O9  1  0.10664288  0.04774121  0.10973316  1

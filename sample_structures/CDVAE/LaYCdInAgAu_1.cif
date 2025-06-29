@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaYCdInAgAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91163799
+_cell_length_b   4.90669044
+_cell_length_c   6.92015669
+_cell_angle_alpha   86.58761504
+_cell_angle_beta   88.17982800
+_cell_angle_gamma   90.74042078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaYCdInAgAu
+_chemical_formula_sum   'La1 Y1 Cd1 In1 Ag1 Au1'
+_cell_volume   166.37696194
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.67826912  0.38171027  0.47402568  1
+  Y  Y1  1  0.17909051  0.88195123  0.95447197  1
+  Cd  Cd2  1  0.18650799  0.86704966  0.45772176  1
+  In  In3  1  0.69231977  0.35803775  0.97406054  1
+  Ag  Ag4  1  0.18677891  0.36959176  0.19842008  1
+  Au  Au5  1  0.68532270  0.86651445  0.72829019  1

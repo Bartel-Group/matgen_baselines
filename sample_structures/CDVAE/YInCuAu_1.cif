@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_YInCuAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58692852
+_cell_length_b   4.60852210
+_cell_length_c   5.37499010
+_cell_angle_alpha   64.84076336
+_cell_angle_beta   64.73734402
+_cell_angle_gamma   60.35773015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YInCuAu
+_chemical_formula_sum   'Y1 In1 Cu1 Au1'
+_cell_volume   85.93172967
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.45789033  0.38065529  0.97852084  1
+  In  In1  1  0.67208496  0.59875878  0.33381750  1
+  Cu  Cu2  1  0.88921001  0.81148336  0.68590630  1
+  Au  Au3  1  0.24374006  0.16777975  0.62115089  1

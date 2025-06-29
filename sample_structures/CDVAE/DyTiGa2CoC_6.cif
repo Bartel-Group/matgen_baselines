@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyTiGa2CoC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07540020
+_cell_length_b   3.98342175
+_cell_length_c   5.69063810
+_cell_angle_alpha   90.09436877
+_cell_angle_beta   89.98719163
+_cell_angle_gamma   89.97889065
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTiGa2CoC
+_chemical_formula_sum   'Dy1 Ti1 Ga2 Co1 C1'
+_cell_volume   92.38190019
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.94965011  0.33987623  0.36934046  1
+  Ti  Ti1  1  0.44810124  0.34017422  0.87070815  1
+  Ga  Ga2  1  0.45054232  0.84050741  0.15522552  1
+  Ga  Ga3  1  0.44981711  0.83952376  0.58676712  1
+  Co  Co4  1  0.94886643  0.84103547  0.87144879  1
+  C  C5  1  0.94806093  0.34092127  0.87421393  1

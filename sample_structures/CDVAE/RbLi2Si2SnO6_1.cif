@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbLi2Si2SnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81916361
+_cell_length_b   5.97307547
+_cell_length_c   7.00704759
+_cell_angle_alpha   89.00133900
+_cell_angle_beta   89.01917958
+_cell_angle_gamma   88.83170830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLi2Si2SnO6
+_chemical_formula_sum   'Rb1 Li2 Si2 Sn1 O6'
+_cell_volume   201.59855323
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.64204566  0.93477511  0.94785108  1
+  Li  Li1  1  0.19154377  0.41912863  0.68894956  1
+  Li  Li2  1  0.70866567  0.57545929  0.61026249  1
+  Si  Si3  1  0.26567527  0.92636133  0.51590027  1
+  Si  Si4  1  0.67227654  0.14712306  0.44448913  1
+  Sn  Sn5  1  0.06767743  0.45655709  0.10082348  1
+  O  O6  1  0.93033623  0.97760360  0.51468099  1
+  O  O7  1  0.42397521  0.14861077  0.62275868  1
+  O  O8  1  0.34058385  0.69507003  0.61820075  1
+  O  O9  1  0.46322487  0.98275948  0.31883995  1
+  O  O10  1  0.76794459  0.38896963  0.37682717  1
+  O  O11  1  0.86719435  0.45871942  0.84623508  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LaYCu2NiSn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34046350
+_cell_length_b   5.74256968
+_cell_length_c   6.01790512
+_cell_angle_alpha   77.68229778
+_cell_angle_beta   114.38570345
+_cell_angle_gamma   117.54800676
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaYCu2NiSn3
+_chemical_formula_sum   'La1 Y1 Cu2 Ni1 Sn3'
+_cell_volume   176.87308639
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.68154363  0.92708473  0.93341040  1
+  Y  Y1  1  0.48797919  0.44190439  0.45364810  1
+  Cu  Cu2  1  0.45610926  0.96253612  0.30411675  1
+  Cu  Cu3  1  0.92026412  0.14550662  0.46266895  1
+  Ni  Ni4  1  0.73192258  0.40930246  0.13249996  1
+  Sn  Sn5  1  0.08151304  0.60008827  0.96459820  1
+  Sn  Sn6  1  0.26501063  0.23094298  0.89805395  1
+  Sn  Sn7  1  0.07933143  0.76599849  0.46186498  1

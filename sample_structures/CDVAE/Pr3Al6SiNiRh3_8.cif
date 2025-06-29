@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Pr3Al6SiNiRh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10513605
+_cell_length_b   6.08683898
+_cell_length_c   11.67206435
+_cell_angle_alpha   101.63862292
+_cell_angle_beta   90.03813749
+_cell_angle_gamma   109.76809146
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3Al6SiNiRh3
+_chemical_formula_sum   'Pr3 Al6 Si1 Ni1 Rh3'
+_cell_volume   268.07085231
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.29117472  0.44901384  0.78804630  1
+  Pr  Pr1  1  0.76067972  0.38663870  0.28117002  1
+  Pr  Pr2  1  0.95520781  0.77688974  0.59882927  1
+  Al  Al3  1  0.86624030  0.59844882  0.00967255  1
+  Al  Al4  1  0.22419625  0.31440891  0.04614647  1
+  Al  Al5  1  0.65770818  0.18208138  0.55324658  1
+  Al  Al6  1  0.06545898  -0.00388549  0.35597663  1
+  Al  Al7  1  0.55977281  0.98576069  0.01686519  1
+  Al  Al8  1  0.45393721  0.77328822  0.19682148  1
+  Si  Si9  1  0.58121843  0.02903668  0.79460030  1
+  Ni  Ni10  1  0.05784677  0.98095907  0.14253039  1
+  Rh  Rh11  1  0.45863172  0.78375904  0.40843652  1
+  Rh  Rh12  1  0.02750641  0.92240644  0.88651358  1
+  Rh  Rh13  1  0.25852925  0.38327620  0.50973763  1

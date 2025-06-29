@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2TlSnF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13794355
+_cell_length_b   6.56847028
+_cell_length_c   6.47199560
+_cell_angle_alpha   61.54819172
+_cell_angle_beta   97.03388339
+_cell_angle_gamma   123.42545800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2TlSnF5
+_chemical_formula_sum   'K2 Tl1 Sn1 F5'
+_cell_volume   187.95449725
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.22913020  0.29814280  0.35259219  1
+  K  K1  1  0.77038389  0.34778236  0.81320610  1
+  Tl  Tl2  1  0.97039498  0.80836127  0.08180273  1
+  Sn  Sn3  1  0.52368509  0.82037045  0.61581605  1
+  F  F4  1  0.20186053  0.67566440  0.44533725  1
+  F  F5  1  0.65445090  0.66799371  0.43884622  1
+  F  F6  1  0.22834730  0.36745483  0.91487077  1
+  F  F7  1  0.29524717  0.93688342  0.73025639  1
+  F  F8  1  0.69524856  0.22848840  0.26600004  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3MgCd3S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57540197
+_cell_length_b   7.57499423
+_cell_length_c   9.27374855
+_cell_angle_alpha   79.90787821
+_cell_angle_beta   88.85060610
+_cell_angle_gamma   114.58295020
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3MgCd3S7
+_chemical_formula_sum   'Ba3 Mg1 Cd3 S7'
+_cell_volume   411.31053273
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.40849501  0.11950364  0.51793487  1
+  Ba  Ba1  1  0.79533625  0.87180986  0.84640839  1
+  Ba  Ba2  1  0.18034451  0.62516004  0.18433718  1
+  Mg  Mg3  1  0.79600405  0.03448211  0.22270791  1
+  Cd  Cd4  1  0.18318083  0.53091975  0.75854711  1
+  Cd  Cd5  1  0.79757465  0.70764906  0.47516956  1
+  Cd  Cd6  1  0.40063643  0.20160506  0.95239361  1
+  S  S7  1  0.14913547  0.65529023  0.50266827  1
+  S  S8  1  0.88840085  0.07198721  0.48312089  1
+  S  S9  1  0.29386118  0.87057692  0.84972216  1
+  S  S10  1  0.45781924  0.08268056  0.20317934  1
+  S  S11  1  0.03466719  0.25789934  0.99010467  1
+  S  S12  1  0.54997277  0.47628974  0.71940305  1
+  S  S13  1  0.71032013  0.68967796  0.20174591  1

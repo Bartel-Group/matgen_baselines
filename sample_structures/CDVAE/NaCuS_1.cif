@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NaCuS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74804473
+_cell_length_b   5.27275425
+_cell_length_c   5.75775083
+_cell_angle_alpha   90.30620731
+_cell_angle_beta   57.26295511
+_cell_angle_gamma   90.29866197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCuS
+_chemical_formula_sum   'Na2 Cu2 S2'
+_cell_volume   146.78509820
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.32930087  0.60989655  0.83065159  1
+  Na  Na1  1  0.90912501  0.11211554  0.40660892  1
+  Cu  Cu2  1  0.61980648  0.86144933  0.11823815  1
+  Cu  Cu3  1  0.61914773  0.36210834  0.11882382  1
+  S  S4  1  0.78688059  0.61302272  0.28855141  1
+  S  S5  1  0.45201161  0.11042569  0.94891864  1

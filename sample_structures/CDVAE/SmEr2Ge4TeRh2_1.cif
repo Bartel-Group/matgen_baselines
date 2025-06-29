@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SmEr2Ge4TeRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82842095
+_cell_length_b   6.07302602
+_cell_length_c   6.12259516
+_cell_angle_alpha   91.25438792
+_cell_angle_beta   89.64845390
+_cell_angle_gamma   104.31629751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmEr2Ge4TeRh2
+_chemical_formula_sum   'Sm1 Er2 Ge4 Te1 Rh2'
+_cell_volume   209.93589768
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.17287874  0.12098412  0.24581034  1
+  Er  Er1  1  0.57547253  0.73423337  0.50341247  1
+  Er  Er2  1  0.75007952  0.48736103  0.97077370  1
+  Ge  Ge3  1  0.13138536  0.60387831  0.26143283  1
+  Ge  Ge4  1  0.74656456  0.31254128  0.44860878  1
+  Ge  Ge5  1  0.10338973  0.78640456  0.65839715  1
+  Ge  Ge6  1  0.22361881  0.44190278  0.82302578  1
+  Te  Te7  1  0.61216265  0.94609819  0.04826557  1
+  Rh  Rh8  1  0.91278436  0.09554402  0.73088847  1
+  Rh  Rh9  1  0.42247085  0.14943428  0.70573121  1

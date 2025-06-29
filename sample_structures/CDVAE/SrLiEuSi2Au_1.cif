@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrLiEuSi2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58148187
+_cell_length_b   5.62202005
+_cell_length_c   5.77887853
+_cell_angle_alpha   59.17117722
+_cell_angle_beta   59.38784459
+_cell_angle_gamma   59.18221446
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLiEuSi2Au
+_chemical_formula_sum   'Sr1 Li1 Eu1 Si2 Au1'
+_cell_volume   126.02418729
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50086822  0.46681261  0.12789980  1
+  Li  Li1  1  0.87198978  0.34411392  0.50317991  1
+  Eu  Eu2  1  0.24162432  0.19776125  0.89234183  1
+  Si  Si3  1  0.87604666  0.83968337  0.52075267  1
+  Si  Si4  1  0.87667259  0.83902821  -0.01118589  1
+  Au  Au5  1  0.38316069  0.84053340  0.50106811  1

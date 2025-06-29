@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_InCu2Ag5Se6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31152055
+_cell_length_b   7.45118423
+_cell_length_c   10.54791440
+_cell_angle_alpha   95.61493529
+_cell_angle_beta   98.51157010
+_cell_angle_gamma   88.57921121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InCu2Ag5Se6
+_chemical_formula_sum   'In1 Cu2 Ag5 Se6'
+_cell_volume   333.50309224
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.51289018  0.29758465  0.48324954  1
+  Cu  Cu1  1  -0.06666475  0.76090648  0.00231278  1
+  Cu  Cu2  1  0.61792109  0.66356909  0.76959711  1
+  Ag  Ag3  1  0.31976671  0.49868911  0.10916775  1
+  Ag  Ag4  1  0.69258724  0.34422328  0.90872686  1
+  Ag  Ag5  1  0.00214909  0.80687789  0.45815793  1
+  Ag  Ag6  1  0.02715393  0.00847590  0.22737562  1
+  Ag  Ag7  1  0.22452630  0.10683937  0.98486188  1
+  Se  Se8  1  0.50389988  0.21277918  0.23000105  1
+  Se  Se9  1  0.16110062  0.54395523  0.84815879  1
+  Se  Se10  1  0.69149728  -0.02053011  0.86505859  1
+  Se  Se11  1  0.05312233  0.14000107  0.57221615  1
+  Se  Se12  1  0.53772772  0.64736267  0.54433085  1
+  Se  Se13  1  0.85974360  0.67691583  0.20816702  1

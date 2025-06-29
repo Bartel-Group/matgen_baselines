@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Al2HgO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.01280383
+_cell_length_b   3.00926890
+_cell_length_c   10.57132913
+_cell_angle_alpha   94.40216521
+_cell_angle_beta   96.07001336
+_cell_angle_gamma   109.34252032
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2HgO3F
+_chemical_formula_sum   'Al2 Hg1 O3 F1'
+_cell_volume   89.28592374
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.49371942  0.59724524  0.21206874  1
+  Al  Al1  1  0.81174222  0.49469275  0.93045209  1
+  Hg  Hg2  1  0.67098064  0.26096398  0.53434401  1
+  O  O3  1  0.94123280  0.54430931  0.11671163  1
+  O  O4  1  0.53206407  0.13512609  0.30723603  1
+  O  O5  1  0.44568732  0.86240743  0.93500033  1
+  F  F6  1  0.78088485  0.36090953  0.75958852  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Dy2Cu5Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20829588
+_cell_length_b   6.17391866
+_cell_length_c   6.17090737
+_cell_angle_alpha   112.34578598
+_cell_angle_beta   90.01509513
+_cell_angle_gamma   89.97842190
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Cu5Bi
+_chemical_formula_sum   'Dy2 Cu5 Bi1'
+_cell_volume   148.29067809
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.81110559  0.67453861  0.43185783  1
+  Dy  Dy1  1  0.81203713  0.30264728  0.80395241  1
+  Cu  Cu2  1  0.31275424  0.92348538  0.78500528  1
+  Cu  Cu3  1  0.31218495  0.32099788  0.18369763  1
+  Cu  Cu4  1  0.31084077  0.48949644  0.61858650  1
+  Cu  Cu5  1  0.31279833  0.65513995  0.05323894  1
+  Cu  Cu6  1  0.31266977  0.05547268  0.45128525  1
+  Bi  Bi7  1  0.81273002  0.98771906  0.11740598  1

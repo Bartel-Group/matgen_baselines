@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na5AlGaS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49613159
+_cell_length_b   8.62045738
+_cell_length_c   7.88279376
+_cell_angle_alpha   94.83904258
+_cell_angle_beta   65.91480150
+_cell_angle_gamma   84.43781334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5AlGaS7
+_chemical_formula_sum   'Na5 Al1 Ga1 S7'
+_cell_volume   336.18915360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.39668896  0.60935807  0.92460333  1
+  Na  Na1  1  0.03433151  0.72008832  0.48260414  1
+  Na  Na2  1  0.61383168  0.03975164  0.47435018  1
+  Na  Na3  1  0.09302554  0.37082505  0.65744740  1
+  Na  Na4  1  0.72096886  0.52080429  0.24027772  1
+  Al  Al5  1  0.10322843  0.87887720  0.80200596  1
+  Ga  Ga6  1  0.42251907  0.23538074  0.01555336  1
+  S  S7  1  0.49027095  0.74561335  0.57598442  1
+  S  S8  1  0.22262887  0.43223119  0.25777815  1
+  S  S9  1  0.74037614  0.18749479  0.15414107  1
+  S  S10  1  0.86792730  0.69250611  0.92952116  1
+  S  S11  1  0.03395112  0.03583508  0.60968785  1
+  S  S12  1  0.11888975  0.03761013  0.05911490  1
+  S  S13  1  0.56754056  0.30426887  0.72836289  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ta2InRe2Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.23488615
+_cell_length_b   6.67691393
+_cell_length_c   7.30085560
+_cell_angle_alpha   113.84889456
+_cell_angle_beta   102.98324359
+_cell_angle_gamma   90.25682311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2InRe2Ge3
+_chemical_formula_sum   'Ta2 In1 Re2 Ge3'
+_cell_volume   139.73390323
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.95068023  0.19744577  0.02109695  1
+  Ta  Ta1  1  0.65030337  0.28782752  0.41511956  1
+  In  In2  1  0.26262132  0.71642090  0.61281317  1
+  Re  Re3  1  0.10846400  0.94691021  0.33664202  1
+  Re  Re4  1  0.89739507  0.54531121  0.91221412  1
+  Ge  Ge5  1  0.29600126  0.21827941  0.71478102  1
+  Ge  Ge6  1  0.55124129  0.57173505  0.21470422  1
+  Ge  Ge7  1  0.46026636  0.89006085  0.04235025  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ba2BrF2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33114231
+_cell_length_b   4.60552840
+_cell_length_c   7.91577163
+_cell_angle_alpha   76.65510315
+_cell_angle_beta   74.73590427
+_cell_angle_gamma   62.02468012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2BrF2
+_chemical_formula_sum   'Ba2 Br1 F2'
+_cell_volume   133.45634489
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.69583590  0.05150940  0.94193063  1
+  Ba  Ba1  1  0.50115526  0.83156550  0.54272766  1
+  Br  Br2  1  0.27577732  0.58599279  0.24331267  1
+  F  F3  1  0.04265005  0.53477015  0.76160739  1
+  F  F4  1  0.80183059  0.18499793  0.58915534  1

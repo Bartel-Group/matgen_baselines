@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbAgSb2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90143172
+_cell_length_b   4.91248135
+_cell_length_c   11.55520262
+_cell_angle_alpha   89.84681504
+_cell_angle_beta   89.99985275
+_cell_angle_gamma   89.52817439
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAgSb2Au
+_chemical_formula_sum   'Rb2 Ag2 Sb4 Au2'
+_cell_volume   278.21795822
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.68240688  0.25524719  0.88811982  1
+  Rb  Rb1  1  0.18083419  0.75511253  0.37575671  1
+  Ag  Ag2  1  0.17829125  0.25384788  0.13411692  1
+  Ag  Ag3  1  0.18207205  0.75576281  0.76389718  1
+  Sb  Sb4  1  0.67927187  0.25558749  0.26189797  1
+  Sb  Sb5  1  0.18200563  0.25553810  0.62875736  1
+  Sb  Sb6  1  0.18397106  0.75423108  0.00723051  1
+  Sb  Sb7  1  0.68093201  0.75575242  0.62897452  1
+  Au  Au8  1  0.68514285  0.75616574  0.13354478  1
+  Au  Au9  1  0.68060693  0.25503576  0.50156857  1

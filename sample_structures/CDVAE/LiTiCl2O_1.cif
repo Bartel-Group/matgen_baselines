@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiTiCl2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80029607
+_cell_length_b   5.31195022
+_cell_length_c   8.54574260
+_cell_angle_alpha   91.50430043
+_cell_angle_beta   102.03020812
+_cell_angle_gamma   90.04536742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTiCl2O
+_chemical_formula_sum   'Li2 Ti2 Cl4 O2'
+_cell_volume   213.04378791
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.21845088  0.79317521  0.22362850  1
+  Li  Li1  1  0.63383301  0.78192327  0.98278484  1
+  Ti  Ti2  1  0.13343783  0.28249433  0.99554631  1
+  Ti  Ti3  1  0.71917163  0.29136433  0.20932065  1
+  Cl  Cl4  1  0.55769645  0.55712795  0.39068578  1
+  Cl  Cl5  1  0.83538096  0.02661425  0.81100665  1
+  Cl  Cl6  1  0.01808052  0.05399553  0.39496769  1
+  Cl  Cl7  1  0.29762804  0.53055491  0.81392102  1
+  O  O8  1  0.42596662  0.06708572  0.10269384  1
+  O  O9  1  0.92667581  0.51337987  0.10248874  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Y2Ho2TaNbSi5Ni7Sn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35758914
+_cell_length_b   5.34486541
+_cell_length_c   12.33861640
+_cell_angle_alpha   101.21632123
+_cell_angle_beta   99.46279553
+_cell_angle_gamma   104.21973100
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Ho2TaNbSi5Ni7Sn2
+_chemical_formula_sum   'Y2 Ho2 Ta1 Nb1 Si5 Ni7 Sn2'
+_cell_volume   327.48430446
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.10432092  0.96077243  0.74167196  1
+  Y  Y1  1  0.34424418  0.41956748  0.42300499  1
+  Ho  Ho2  1  0.51444015  0.95928707  0.04225903  1
+  Ho  Ho3  1  0.93798091  0.55988588  0.05114149  1
+  Ta  Ta4  1  0.78292795  0.04895197  0.48005677  1
+  Nb  Nb5  1  0.67671354  0.34854811  0.66036714  1
+  Si  Si6  1  0.37690366  0.38028367  0.94985765  1
+  Si  Si7  1  0.18712543  0.43510460  0.65017895  1
+  Si  Si8  1  0.67412868  0.12660725  0.83623446  1
+  Si  Si9  1  0.10500630  0.14249847  0.15326344  1
+  Si  Si10  1  0.26434728  0.97381895  0.52014134  1
+  Ni  Ni11  1  0.99032128  0.02080210  0.95822583  1
+  Ni  Ni12  1  0.46058878  0.48785437  0.14657001  1
+  Ni  Ni13  1  0.56667668  0.64435953  0.82935798  1
+  Ni  Ni14  1  0.91366818  0.60775958  0.52112662  1
+  Ni  Ni15  1  0.05821959  0.50224619  0.83887000  1
+  Ni  Ni16  1  0.53949920  0.80154671  0.63858662  1
+  Ni  Ni17  1  0.87666320  0.92615903  0.26649870  1
+  Sn  Sn18  1  0.80294142  0.41560244  0.29646089  1
+  Sn  Sn19  1  0.36299792  0.85658739  0.27973729  1

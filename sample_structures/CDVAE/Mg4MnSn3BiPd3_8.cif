@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mg4MnSn3BiPd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35077712
+_cell_length_b   6.35976389
+_cell_length_c   6.36784187
+_cell_angle_alpha   88.69080142
+_cell_angle_beta   91.30218639
+_cell_angle_gamma   88.58722870
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg4MnSn3BiPd3
+_chemical_formula_sum   'Mg4 Mn1 Sn3 Bi1 Pd3'
+_cell_volume   256.97848955
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.67493238  0.74482536  0.59873172  1
+  Mg  Mg1  1  0.69898687  0.20510453  0.13817944  1
+  Mg  Mg2  1  0.15956183  0.22931720  0.59941687  1
+  Mg  Mg3  1  0.15726517  0.74631206  0.11589117  1
+  Mn  Mn4  1  0.42656503  0.47738290  0.86917445  1
+  Sn  Sn5  1  0.68032838  0.72497846  0.12174351  1
+  Sn  Sn6  1  0.68043735  0.22333574  0.61947716  1
+  Sn  Sn7  1  0.17909827  0.22314490  0.12198872  1
+  Bi  Bi8  1  0.15977020  0.74419316  0.60087664  1
+  Pd  Pd9  1  0.91953607  0.47531962  0.86936674  1
+  Pd  Pd10  1  0.42859339  0.98446783  0.86907200  1
+  Pd  Pd11  1  0.42826100  0.47551018  0.35920974  1

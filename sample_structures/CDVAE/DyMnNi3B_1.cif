@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyMnNi3B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93885180
+_cell_length_b   4.14028153
+_cell_length_c   5.08582886
+_cell_angle_alpha   89.82448449
+_cell_angle_beta   89.81091921
+_cell_angle_gamma   78.49239664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMnNi3B
+_chemical_formula_sum   'Dy1 Mn1 Ni3 B1'
+_cell_volume   81.27155330
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.44458776  0.53260355  0.71360991  1
+  Mn  Mn1  1  0.48547952  0.92677094  0.21309607  1
+  Ni  Ni2  1  0.09840564  0.52573823  0.21398166  1
+  Ni  Ni3  1  0.94797951  0.06038484  0.47142091  1
+  Ni  Ni4  1  0.94940619  0.06227622  0.95544060  1
+  B  B5  1  0.63982866  0.38826870  0.21366513  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiZrTiCuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74519656
+_cell_length_b   5.85718009
+_cell_length_c   6.39385905
+_cell_angle_alpha   78.67722057
+_cell_angle_beta   72.75444874
+_cell_angle_gamma   68.45153840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZrTiCuF6
+_chemical_formula_sum   'Li1 Zr1 Ti1 Cu1 F6'
+_cell_volume   157.08947695
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.12976183  0.74478116  0.19970653  1
+  Zr  Zr1  1  0.83836876  0.39829134  0.87298353  1
+  Ti  Ti2  1  0.10851578  0.94537094  0.71819469  1
+  Cu  Cu3  1  0.26043465  0.30349519  0.48682454  1
+  F  F4  1  0.53981345  0.69693116  0.72769101  1
+  F  F5  1  0.08115492  0.05256305  0.02712905  1
+  F  F6  1  -0.00309567  0.64095212  0.96685911  1
+  F  F7  1  0.64582287  0.14556425  0.83537016  1
+  F  F8  1  0.08481430  0.81985786  0.47142094  1
+  F  F9  1  0.48777856  0.45023681  0.18054366  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbTl2CuAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65851321
+_cell_length_b   5.75703381
+_cell_length_c   5.39001563
+_cell_angle_alpha   114.92868178
+_cell_angle_beta   89.99757001
+_cell_angle_gamma   89.99074422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbTl2CuAu2
+_chemical_formula_sum   'Tb1 Tl2 Cu1 Au2'
+_cell_volume   131.08817167
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.12821330  0.33924479  0.50191682  1
+  Tl  Tl1  1  0.62840655  0.37202002  -0.07246772  1
+  Tl  Tl2  1  0.62949302  0.76046513  0.57835998  1
+  Cu  Cu3  1  0.13014133  0.99428187  0.88636546  1
+  Au  Au4  1  0.62932988  0.02257240  0.19531044  1
+  Au  Au5  1  0.12932191  0.71179951  0.19015098  1

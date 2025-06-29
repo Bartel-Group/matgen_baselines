@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Y2ScS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55537846
+_cell_length_b   5.31769714
+_cell_length_c   8.01086681
+_cell_angle_alpha   89.99711069
+_cell_angle_beta   90.08004538
+_cell_angle_gamma   89.93196445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2ScS4
+_chemical_formula_sum   'Y2 Sc1 S4'
+_cell_volume   194.05589638
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.73032278  0.40427868  0.64789886  1
+  Y  Y1  1  0.73103087  0.90417934  0.28036555  1
+  Sc  Sc2  1  0.22994798  0.40428714  0.12403132  1
+  S  S3  1  0.73046991  0.40419205  0.28607617  1
+  S  S4  1  0.23029274  0.90472914  0.11754011  1
+  S  S5  1  0.73267503  0.90417504  0.60251855  1
+  S  S6  1  0.23029339  0.40604564  0.81489327  1

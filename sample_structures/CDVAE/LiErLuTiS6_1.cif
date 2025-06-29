@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiErLuTiS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57593135
+_cell_length_b   6.91233313
+_cell_length_c   6.54924767
+_cell_angle_alpha   61.87054857
+_cell_angle_beta   60.03518360
+_cell_angle_gamma   61.75638968
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiErLuTiS6
+_chemical_formula_sum   'Li1 Er1 Lu1 Ti1 S6'
+_cell_volume   216.14955411
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.18393539  0.86852979  0.57786815  1
+  Er  Er1  1  0.38219648  0.26720982  0.78215171  1
+  Lu  Lu2  1  0.88967438  0.75131115  0.28926179  1
+  Ti  Ti3  1  0.69823350  0.32920201  0.09049631  1
+  S  S4  1  0.94132674  0.55726410  0.99086883  1
+  S  S5  1  0.47877902  0.06587007  0.20046975  1
+  S  S6  1  0.58913033  0.55807530  0.72491913  1
+  S  S7  1  0.32737484  0.55648983  0.34101368  1
+  S  S8  1  0.80182905  0.06731041  0.47108866  1
+  S  S9  1  0.07265460  0.06515163  0.87505325  1

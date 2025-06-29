@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_SmLuCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50902599
+_cell_length_b   4.51606567
+_cell_length_c   4.53861028
+_cell_angle_alpha   65.23260138
+_cell_angle_beta   65.06536777
+_cell_angle_gamma   65.03036779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmLuCo
+_chemical_formula_sum   'Sm1 Lu1 Co1'
+_cell_volume   72.63485333
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.63465580  0.91694774  0.78884004  1
+  Lu  Lu1  1  0.13623571  0.41977147  0.29138931  1
+  Co  Co2  1  0.88686686  0.16780050  0.04095116  1
